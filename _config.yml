@@ -13,14 +13,32 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Chester's Blog
+title: chester's blog
 email: cd@pobox.com
-description: >- # this means to ignore newlines until "baseurl:"
+author: Chester (Carlos Duarte do Nascimento)
+simple_search: //google.com/search
+subscribe_rss: http://feeds.feedburner.com/chesterbr
+#description: >- # this means to ignore newlines until "baseurl:"
+#  technology, travel, comics, books, math, web, software and random thoughts
+subtitle: >- # this means to ignore newlines until "baseurl:"
   technology, travel, comics, books, math, web, software and random thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chester.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chesterbr
 github_username:  chesterbr
+
+# Default date format is "ordinal" (resulting in "July 22nd 2007")
+# You can customize the format as defined in
+# http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
+# Additionally, %o will give you the ordinal representation of the day
+date_format: "ordinal"
+
+paginate: 10          # Posts per page on the blog index
+pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
+recent_posts: 5       # Posts in the sidebar Recent Posts section
+excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+
+titlecase: true       # Converts page and post titles to titlecase
 
 # Build settings
 markdown: kramdown
