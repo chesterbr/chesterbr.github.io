@@ -33,15 +33,9 @@ github_username:  chesterbr
 # Additionally, %o will give you the ordinal representation of the day
 date_format: "ordinal"
 
-pagination:
-  enabled: true
-  per_page: 10
-  sort_field: 'date'
-  sort_reverse: true
+paginate: 10          # Posts per page on the blog index
 recent_posts: 5       # Posts in the sidebar Recent Posts section
-
-# paginate: 10          # Posts per page on the blog index
-# pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
+paginate_path: /page:num/  # Directory base for pagination URLs eg. /blog/page/2/
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
 excerpt_separator: <!--more-->
@@ -54,7 +48,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-paginate-v2
+  - jekyll-paginate
 permalink: /archives/:year/:month/:title/
 
 
