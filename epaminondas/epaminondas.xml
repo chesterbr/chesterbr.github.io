@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<machine id="ibm5160a" class="pcjs" border="1" pos="center" width="660px" style="background-color:#9a988a">
+    <name>A Busca de Epaminondas Jr.</name>
+    <video id="videoCGA" screenwidth="640" screenheight="400" scale="true" charset="ibm-mda-cga.json"
+           pos="center" width="640px" padbottom="10px" padtop="10px" border="1" />
+    <computer id="xt-cga-256k" name="IBM PC XT" resume="1">
+        <control type="button" class="input" binding="reset" pos="right">Reset</control>
+    </computer>
+    <cpu id="cpu8088" model="8088"/>
+    <ram id="ramLow" addr="0x00000" test="false"/>
+    <rom id="romBIOS" addr="0xfe000" size="0x2000" file="1982-11-08.json"/>
+    <keyboard id="keyboard" model="us83"/>
+    <chipset id="chipset" model="5160" sw1="01001001"/>
+    <fdc id="fdcNEC" automount='{A: {name: "Epaminondas", path: "epaminondas.json"}}'></fdc>
+</machine>

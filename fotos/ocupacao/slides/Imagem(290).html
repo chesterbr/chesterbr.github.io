@@ -1,0 +1,150 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<!-- saved from url=(0013)about:internet -->
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta name="Keywords" content="photo,album,gallery,Visita à Ocupação da Reitoria da USP - 04/Jun/2007,Imagem(290)">
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)">
+<meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)">
+<TITLE>Visita à Ocupação da Reitoria da USP - 04/Jun/2007/Imagem(290)</TITLE>
+<script language="JavaScript" src="../res/embedmovie.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+function keypress(e) {
+	if(!e) var e=window.event;
+	if(e.keyCode) keyCode=e.keyCode; 
+	else if(e.which) keyCode=e.which;
+	switch(keyCode) {
+		case 8: window.location="../index.html"; return false; break;
+		case 63235: case 39: window.location="Imagem(292).html"; return false; break;
+		case 63234: case 37: window.location="Imagem(289).html"; return false; break;
+		case 63273: case 36: window.location="Imagem(262).html"; return false; break;
+		case 63275: case 35: window.location="Video(28).html"; return false; break;
+		case 32: show_down(); setTimeout('show_out()', 200); return false; break;
+	}
+	return true;
+}
+function keypresslistener() {
+  if(document.all) { document.onkeydown = keypress; }
+  else if(document.layers || document.getElementById) { document.onkeypress = keypress; }
+}
+idx0 = new Image(31,31); idx0.src = "../res/idx.gif";
+idx1 = new Image(31,31); idx1.src = "../res/idx1.gif";
+next0 = new Image(31,31);next0.src = "../res/next.gif";
+next1 = new Image(31,31);next1.src = "../res/next1.gif";
+prev0 = new Image(31,31);prev0.src = "../res/prev.gif";
+prev1 = new Image(31,31);prev1.src = "../res/prev1.gif";
+
+show0 = new Image(31,31);show0.src = "../res/show.gif";
+show1 = new Image(31,31);show1.src = "../res/show1.gif";
+stop0 = new Image(31,31);stop0.src = "../res/stop.gif";
+stop1 = new Image(31,31);stop1.src = "../res/stop1.gif";
+
+var show_param = -1; // stopped
+if (window.location.search.length > 1) {
+	var parms = window.location.search.substring(1,location.search.length).split("&");
+	for (var i = 0; i < parms.length; i++) {		
+		if(parms[i].substring(0, parms[i].indexOf("=")) == "show_param") 
+			delay = show_param = parms[i].substring(parms[i].indexOf("=") + 1, parms[i].length);
+	}
+}
+var show_delay = show_param;
+function show_timer() {
+	if (show_delay >= 0) {
+		show_delay--;
+		if (show_delay < 0 && show_param > 0) {
+			window.location="Imagem(292).html?show_param=" + show_param;
+		}
+		else if(show_param > 0) 
+			window.status='Time left: '+(show_delay + 1)+' s';
+	}
+	setTimeout('show_timer()', 1000);	
+}
+function show_over() { 
+	document.show.src = (show_param >= 0)? stop1.src : show1.src;
+	window.status = 'Iniciar/Parar SlideShow - Duplo Clique para mudar a velocidade';
+}
+function show_out() {
+	document.show.src = (show_param >= 0)? stop0.src : show0.src;
+}
+function show_down() {
+	if (show_param >= 0) { 
+		show_param = -1; 
+		document.show.src = stop1.src; 
+		window.status=''; 
+	} 
+	else { 
+		show_param = 3; 
+		document.show.src = show1.src; 
+	} 
+	show_delay = show_param; 
+}
+function change_delay() { 
+	delay = prompt('tempo', (show_param < 0)? 3 : show_param);
+	show_param = show_delay = delay; 
+	document.show.src = show1.src;
+}
+
+
+</script>
+
+
+
+<link href="../res/styles.css" rel="stylesheet">
+<link href="../res/substyle.css" rel="stylesheet">
+<style type="text/css">
+body { background-image: url(../res/bg.gif); background-repeat: repeat-x; }
+</style>
+</HEAD>
+
+<BODY ID="body" onload="show_timer(); show_out(); keypresslistener();">
+<CENTER>
+<TABLE style="height:54px;" cellspacing="0" cellpadding="0" border="0">
+<TR><TD valign="middle">
+<!-- Header of slide pages -->
+<TABLE style="width:722px;" cellspacing="0" cellpadding="0" border="0">
+<TR>
+<TD style="width:31px;"><a href="../index.html" onmouseover="document.idx.src=idx1.src" onmouseout="document.idx.src=idx0.src"><img src="../res/idx.gif" width="31" height="31" border="0" title="Índice" name="idx" alt=""></a></TD>
+<TD style="width:20px;"><IMG SRC="../res/hdr_left.gif" width="20" height="31" border="0" alt=""></TD>
+<TD align="left" valign="middle" style="background:url(../res/hdr_mid.gif);" class="title" nowrap="nowrap"><a href="../index.html">Visita à Ocupação da Reitoria da USP - 04/Jun/2007</a></TD>
+<TD style="width:20px;"><IMG SRC="../res/hdr_right.gif" width="20" height="31" border="0" alt=""></TD>
+<TD style="width:31px;">
+<a href="Imagem(289).html" onmouseover="document.prev.src=prev1.src" onmouseout="document.prev.src=prev0.src"><img src="../res/prev.gif" width="31" height="31" border="0" title="Imagem anterior" name="prev" alt=""></a></TD>
+<TD style="width:31px;">
+<a href="Imagem(292).html" onmouseover="document.next.src=next1.src" onmouseout="document.next.src=next0.src"><img src="../res/next.gif" width="31" height="31" border="0" title="Imagem seguinte" name="next" alt=""></a></TD>
+<TD style="width:31px;"><a href="javascript:void(0)" onmouseover="show_over();" onmouseout="show_out();" onmousedown="show_down();" ondblclick="change_delay();"><img src="../res/show.gif" width="31" height="31" border="0" title="Iniciar/Parar SlideShow - Duplo Clique para mudar a velocidade" name="show" alt=""></a></TD>
+</TR></TABLE>
+</TD></TR></TABLE><BR>
+
+
+
+<map name="imagemap" style="text-decoration:none"><area coords="0,0,213,480" href="Imagem(289).html" title="Imagem anterior" alt=""><area coords="426,0,640,480" href="Imagem(292).html" title="Imagem seguinte" alt=""><area coords="213,0,426,480" href="../index.html" title="Índice" alt=""></map>
+<TABLE border="0" cellspacing="0" cellpadding="0"><TR>
+<TD valign="top"><TABLE style="width:64px;"><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="Imagem(283).html"><IMG src="../thumbs/Imagem(283).jpg" title="Outro mural listava ''atividades fora da ocupação'', como o pleito em destaque" width="48" height="36" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="Imagem(286).html"><IMG src="../thumbs/Imagem(286).jpg" title="Eu espero que este tenha sido outra tentativa frustrada de humor (estava bem longe do mural que tinha este propósito)..." width="48" height="36" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="Imagem(287).html"><IMG src="../thumbs/Imagem(287).jpg" title="As próximas fotos mostram vários cartuns que ocupavam um dos saguões principais. Nem todos estão legíveis, mas mostram bastante atividade neste sentido" width="48" height="36" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="Imagem(288).html"><IMG src="../thumbs/Imagem(288).jpg" title="Imagem(288).jpg" width="48" height="36" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="Imagem(289).html"><IMG src="../thumbs/Imagem(289).jpg" title="O cartaz infeliz aparece novamente (faço questão de salientar, ele é *muito* infeliz)" width="48" height="36" alt="" class="mthumb"></A></TD></TR></TABLE></TD><TD style="width:12px">&nbsp;</TD>
+<TD style="width:722px;" align="center" valign="middle">
+<IMG SRC="Imagem(290).jpg" class="slideImage" width="640" height="480" TITLE="Imagem Reduzida [Imagem(290).jpg - 30kB]" usemap="#imagemap" alt=""></TD>
+<TD style="width:12px">&nbsp;</TD><TD valign="bottom"><TABLE style="width:64px;"><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="Imagem(292).html"><IMG src="../thumbs/Imagem(292).jpg" title="Imagem(292).jpg" width="48" height="36" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="Imagem(293).html"><IMG src="../thumbs/Imagem(293).jpg" title="Imagem(293).jpg" width="48" height="36" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="Imagem(297).html"><IMG src="../thumbs/Imagem(297).jpg" title="Os livros estão ''presos'' dentro do vidro destinado à sua exposição. Novamente, humor Fozzy. :-/" width="48" height="36" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="Imagem(298).html"><IMG src="../thumbs/Imagem(298).jpg" title="Pode ser cisma minha, mas permitir fumar num espaço tão fechado (no qual são guardadas tintas, cartazes, etc.), ainda que de forma subjetiva não me parece muito responsável." width="48" height="36" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="Imagem(299).html"><IMG src="../thumbs/Imagem(299).jpg" title="Esta mesa organiza cópias dos mais diversos documentos relacionados à ocupação, tais como os estatutos da universidade e o texto dos decretos. Como tudo o mais, o acesso é livre." width="48" height="36" alt="" class="mthumb"></A></TD></TR></TABLE></TD></TR></TABLE>
+<BR><!-- Comment and image data at BOTTOM -->
+<TABLE style="width:722px;" class="infotable" cellspacing="0" cellpadding="2">
+<TR><TD style="width:703px;" align="center" valign="middle" class="smalltxt"><span class="comment">Imagem(290)</span></TD>
+
+<TD align="center" valign="middle"><A href="Imagem(290).jpg" target="_blank"><IMG src="../res/download.gif" title="Descarregar a Imagem" width="17" height="17" border="0" alt=""></A></TD><!-- Download Image -->
+</TR>
+<TR><TD colspan="2" align="center" valign="middle" class="smalltxt"><a href="Imagem(262).html" title="Primeira página">&laquo; </a>|<a href="Imagem(286).html" title="Página anterior"> &lt; </a>|<a href="Imagem(287).html">&nbsp;21&nbsp;</a>|<a href="Imagem(288).html">&nbsp;22&nbsp;</a>|<a href="Imagem(289).html">&nbsp;23&nbsp;</a>|<span class="current">&nbsp;24&nbsp;</span>|<a href="Imagem(292).html">&nbsp;25&nbsp;</a>|<a href="Imagem(293).html">&nbsp;26&nbsp;</a>|<a href="Imagem(297).html">&nbsp;27&nbsp;</a>|<a href="Imagem(298).html">&nbsp;28&nbsp;</a>|<a href="Imagem(299).html">&nbsp;29&nbsp;</a>|<a href="Imagem(300).html">&nbsp;30&nbsp;</a>|<a href="Imagem(301).html">&nbsp;31&nbsp;</a>|<a href="Imagem(302).html">&nbsp;32&nbsp;</a>|<a href="Imagem(303).html">&nbsp;33&nbsp;</a>|<a href="Imagem(304).html">&nbsp;34&nbsp;</a>|<a href="Imagem(305).html">&nbsp;35&nbsp;</a>|<a href="Imagem(306).html">&nbsp;36&nbsp;</a>|<a href="Imagem(307).html">&nbsp;37&nbsp;</a>|<a href="Imagem(308).html">&nbsp;38&nbsp;</a>|<a href="Imagem(309).html">&nbsp;39&nbsp;</a>|<a href="Imagem(310).html">&nbsp;40&nbsp;</a>|<a href="Imagem(312).html" title="Página seguinte"> &gt; </a>|<a href="Video(28).html" title="Última página"> &raquo;</a></TD></TR>
+
+
+
+
+<TR><TD colspan="2" align="center" valign="middle" class="xsmalltxt">Total images: <strong>44</strong> | Last update: <strong>05-06-2007 5:16</strong> | Gerado por <a href="http://jalbum.net" title="JAlbum - Álbum de imagens para a web - freeware" target="_blank">JAlbum 7.1</a> &amp; <a href="http://lazaworx.com" title="Chameleon v4.03 Carstereo[Red] skin by lazaWORX" target="_blank">Chameleon</a> | <A href="javascript:void(0)" onClick="window.open('../help.html','Help','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes,width=560,height=560')">Help</A></TD></TR>
+</TABLE>
+
+
+<BR>&nbsp;</CENTER>
+
+<script language="javascript" type="text/javascript">
+next_image=new Image(); next_image.src="Imagem(292).jpg";
+</script>
+<script language="javascript" type="text/javascript">
+previous_image=new Image(); previous_image.src="Imagem(289).jpg";
+</script>
+</BODY>
+</HTML>
