@@ -1,0 +1,27 @@
+<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+<!-- twitter card and open graph, from http://www.lukaszielinski.de/blog/posts/2013/01/28/twitter-cards-and-open-graph-metatags-in-octopress/ -->
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@chesterbr">
+<meta name="twitter:creator" content="@chesterbr">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
+<meta name="twitter:url" content="{{ canonical }}">
+<meta name="twitter:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
+
+<meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}"/>
+{% if page.url == '/index.html' %}
+  <meta property="og:image"  content="//chester.me/img/chester_ila_250.jpg" />
+  <meta name="twitter:image" content="//chester.me/img/chester_ila_250.jpg" />
+{% elsif page.og_image %}
+  <meta property="og:image"  content="{% unless page.og_image contains 'http://' or page.og_image contains 'https://' %}{{ site.url }}{% endunless %}{{ page.og_image }}" />
+  <meta name="twitter:image" content="{% unless page.og_image contains 'http://' or page.og_image contains 'https://' %}{{ site.url }}{% endunless %}{{ page.og_image }}" />
+{% endif %}
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="{{ canonical }}"/>
+<meta property="og:site_name" content="{{ site.title }}"/>
+<meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}"/>
+
+<meta property="fb:app_id" content="{{ site.fb_app_id }}" />
