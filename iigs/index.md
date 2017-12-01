@@ -4,6 +4,7 @@ author: chester
 layout: page
 robotsmeta:
   - index,follow
+redirect_from: "/iigs.html/"  
 ---
 <p style="text-align: right;">
   <strong><em>último update: 05/Jul/2003</em></strong>

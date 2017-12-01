@@ -2,6 +2,7 @@
 title: ZX Spectrum +2
 author: chester
 layout: page
+redirect_from: "/spectrumplus2.html/"
 ---
 <p style="text-align: right;">
   <strong><em>último update: 07/Jul/2010</em></strong>

@@ -4,6 +4,7 @@ author: chester
 layout: page
 onswipe_thumb:
   - SKIP
+redirect_from: "/mac512.html/"
 ---
 <p style="text-align: right;">
   <strong><em>último update: 14/Mar/2004</em></strong>

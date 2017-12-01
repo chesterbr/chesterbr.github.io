@@ -2,6 +2,7 @@
 title: Meus Gibis
 author: chester
 layout: page
+redirect_from: "/gibis.html/"
 ---
 <a href="/img/estante_grande.jpg" target="_blank"><img src="/img/estante.jpg" border="0" alt="minha estante de gibis - clique para ampliar" hspace="2" width="240" height="180" align="right" /></a>Sou fã confesso e incorrigível de histórias em quadrinhos. Começou desde pequeno, ficou sério no colegial (começo dos anos 90), e dura até hoje, firme e forte (embora minhas preferências tenham mudado bastante).
 
@@ -765,7 +766,7 @@ JOHNNY QUEST 1 (AM/B3)
 JORNAL DA BD 19 (GR/B2)  
 <!--nextpage-->
 
-  
+
 JULIETA &#8211; A MENINA MALUQUINHA (GLOBO) 1 (FO/C2)  
 JULIETA &#8211; A MENINA MALUQUINHA (GLOBO) 2 (FO/C2)  
 JULIETA &#8211; A MENINA MALUQUINHA (GLOBO) 4 (FO/C2)  

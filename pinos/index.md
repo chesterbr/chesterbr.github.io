@@ -2,6 +2,7 @@
 title: Pinos Mágicos
 author: chester
 layout: page
+redirect_from: "/pinos.html/"
 ---
 Começou com pequenas doses, vendidas em pacotinhos perto do meu caminho. Daí foi crescendo, crescendo, e hoje minha mesa de trabalho (isso sem falar nas mesas ao redor da minha) é um verdadeiro mar de [Pinos Mágicos][1] &#8211; uma espécie de Lego com preços viáveis para a Vila Ema.
 

@@ -2,6 +2,7 @@
 title: Red Octane Ignition 2.0 Pad
 author: chester
 layout: page
+redirect_from: "/ignition.html/"
 ---
 Todo jogador de [Dance Dance Revolution][1] sonha em ter uma máquina na própria casa. O motivo para isso é que os tapetes de dança para PlayStation são propensos a falhas, desconfortáveis, barulhentos e de baixa durabilidade. Isso leva alguns jogadores a fazer modificações nos seus tapetes (até eu fiz [uma][2]), com resultados variados.
 

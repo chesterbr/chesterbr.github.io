@@ -4,6 +4,7 @@ author: chester
 layout: page
 robotsmeta:
   - index,follow
+redirect_from: "/tk85.html/"  
 ---
 ***último update: 07/Fev/2004***
 

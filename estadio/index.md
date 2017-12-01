@@ -2,6 +2,7 @@
 title: A primeira vez… no estádio
 author: chester
 layout: page
+redirect_from: "/estadio.html/"
 ---
 <p style="text-align: right;">
   <em>Fotos: Adriana Garcia</em>
@@ -25,20 +26,20 @@ Fica a impressão de que assistir um jogo desses pela TV é como navergar nesses
       <hr />
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       <a href="../img/estadio/torcida_g.jpg"><img src="../img/estadio/torcida.jpg" border="0" alt="" align="center" /></a><br /> A torcida
     </td>
-    
+
     <td>
     </td>
-    
+
     <td align="center">
       <a href="../img/estadio/golgremio_g.jpg"><img src="../img/estadio/golgremio.jpg" border="0" alt="" align="center" /></a><br /> Momento do gol do grêmio
     </td>
   </tr>
-  
+
   <tr>
     <td colspan="3">
       <hr />
@@ -68,20 +69,20 @@ Dizem os entendidos que um jogo &#8220;em casa&#8221; é forte vantagem. De fato
       <hr />
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       <a href="../img/estadio/fumaca_g.jpg"><img src="../img/estadio/fumaca.jpg" border="0" alt="" align="center" /></a><br /> Efeito de fumaça preta. Macabro.
     </td>
-    
+
     <td>
     </td>
-    
+
     <td align="center">
       <a href="../img/estadio/protesto_g.jpg"><img src="../img/estadio/protesto.jpg" border="0" alt="" align="center" /></a><br /> Faixa de protesto: &#8220;cadê o nosso estádio?&#8221;
     </td>
   </tr>
-  
+
   <tr>
     <td colspan="3">
       <hr />

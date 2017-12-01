@@ -2,6 +2,7 @@
 title: Eye Toy
 author: chester
 layout: page
+redirect_from: "/eyetoy.html/"
 ---
 **<img class="alignright" src="//chester.me/img/eyetoy/eyetoy_peq.jpg" alt="" width="120" height="119" />EYE TOY**
 

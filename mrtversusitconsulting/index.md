@@ -2,6 +2,7 @@
 title: Mr. T versus Big IT Consulting Companies
 author: chester
 layout: page
+redirect_from: "/mrtversusitconsulting.html/"
 ---
 I got so pissed off for having to fix mistakes left by some &#8220;top five&#8221; IT consulting companies in recent times that I decided to use them in my first contribution to the &#8220;Mr. T Versus&#8221; scene (more details [here][1]).
 

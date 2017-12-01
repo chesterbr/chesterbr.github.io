@@ -2,6 +2,7 @@
 title: Melhorando meu tapete de Dance Dance Revolution
 author: chester
 layout: page
+redirect_from: "/tapete.html/"
 ---
 [Dance Dance Revolution][1] (DDR, para os íntimos) é um dos mais inovadores jogos do PlayStation &#8211; além de ser extremamente divertido, obriga os nerds de plantão a mexerem seus traseiros gordos. No entanto, os tapetes de dança doméstico não são a oitava maravilha &#8211; eles começam a falhar depois de um tempo, e não são confortáveis como os botões da máquina de fliperama (por não terem as molas).
 
