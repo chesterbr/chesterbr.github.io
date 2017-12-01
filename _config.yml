@@ -51,7 +51,9 @@ plugins:
   - jekyll-paginate
 permalink: /archives/:year/:month/:title/
 
-
+# Disqus Comments
+disqus_short_name: chesterbr
+disqus_show_comment_count: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
