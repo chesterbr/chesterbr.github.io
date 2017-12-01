@@ -8,6 +8,12 @@ pagination:
   {% assign index = true %}
   {% for post in paginator.posts %}
     {% assign content = post.excerpt %}
+    {% capture end_elipsis %}{{ post.excerpt | slice: -4, 3  }}{% endcapture %}
+    {% if post.content contains "<!--more-->" or end_elipsis == "..." %}
+      {% assign read_more = 'show' %}
+    {% else %}
+      {% assign read_more = 'hide' %}
+    {% endif %}
     <article>
       {% include article.html %}
     </article>
