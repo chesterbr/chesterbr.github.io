@@ -2,6 +2,7 @@
 title: 8-Bit Computers
 author: chester
 layout: page
+redirect_from: "/micros.html/"
 ---
 <p align="left">
   A mix of nostalgia, curiosity and whatnot drove me into collecting old computers (or so-called "8-bit", even though a few were 16 or even 32-bit). Space and geographic concerns forced me to let them go, but here are lots of pics and tips for those who want to try that.
