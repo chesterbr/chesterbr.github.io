@@ -7,7 +7,7 @@ robotsmeta:
   - index,follow
 categories:
 ---
-<img src="//chester.me/img/blig/hokusai_wave.jpg" border=1 alt="'A Grande Onda de Kanagawa, por Katsushita Hokusai. Ilustração do início do século XIX." align=left>O iG Ler publicou um [guia sobre mangá][1] que eu escrevi, voltado a pessoas que não conhecem nada de HQ japonesa. Para que a coisa não virasse um livro, algumas generalizações tiveram que ser feitas (e até agora as pessoas me cobram por não ter falado deste ou daquele mangá). É a vida.
+<img src="//chester.me/img/blig/hokusai_wave.jpg" border=1 alt="'A Grande Onda de Kanagawa, por Katsushita Hokusai. Ilustração do início do século XIX." align="left">O iG Ler publicou um [guia sobre mangá][1] que eu escrevi, voltado a pessoas que não conhecem nada de HQ japonesa. Para que a coisa não virasse um livro, algumas generalizações tiveram que ser feitas (e até agora as pessoas me cobram por não ter falado deste ou daquele mangá). É a vida.
 
 Não é o primeiro artigo que escrevo para o portal iG, mas é um dos que eu mais gostei (tanto de fazer quanto do resultado final). Acho que empatou com o que fala sobre [programação no Atari][2], meu favorito até então. Tem também um [glossário][3] sobre o tema.
 

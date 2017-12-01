@@ -5,7 +5,7 @@ comments: true
 permalink: /archives/2002/11/e-de-menina-mas-eu-gosto.html
 categories:
 ---
-Ok, vou admitir: o mangá que mais está me divertindo, o que eu não aguento de ansiedade quando termina é esse mesmo, <a href=http://www.omelete.com.br/quadrinhos/artigos/base\_para\_artigos.asp?artigo=788 >Love Hina</a> &#8211; a história extremamente novelesca do jovem Keitarô Urashima que, depois de rodar algumas vezes no concorrido vestibular da Universidade de Tóquio, vai parar em uma pensão só para mulheres.
+Ok, vou admitir: o mangá que mais está me divertindo, o que eu não aguento de ansiedade quando termina é esse mesmo, <a href="http://www.omelete.com.br/quadrinhos/artigos/base\_para\_artigos.asp?artigo=788" >Love Hina</a> &#8211; a história extremamente novelesca do jovem Keitarô Urashima que, depois de rodar algumas vezes no concorrido vestibular da Universidade de Tóquio, vai parar em uma pensão só para mulheres.
 
 Mas a vida não é boa como possa parecer, pois ele apanha o tempo todo &#8211; e esses são os \*bons\* monentos: quando ele não está apanhando, está metido em algum rolo sentimental.
 

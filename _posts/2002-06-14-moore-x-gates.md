@@ -7,7 +7,7 @@ robotsmeta:
   - index,follow
 categories:
 ---
-Todo mundo que tem uma vaga idéia do que é desenvolvimento de software parece ter uma opinião sobre <a href=http://www.microsoft.com/net/ >.Net</a>. E quase todos são arrogantes a ponto de acharem possível prever o que vai acontecer com a plataforma (e poucos vão além das posições radicais: ou Bill Gates domina a galáxia, ou tudo termina com o *campus* da Microsoft em chamas).
+Todo mundo que tem uma vaga idéia do que é desenvolvimento de software parece ter uma opinião sobre <a href="http://www.microsoft.com/net/" >.Net</a>. E quase todos são arrogantes a ponto de acharem possível prever o que vai acontecer com a plataforma (e poucos vão além das posições radicais: ou Bill Gates domina a galáxia, ou tudo termina com o *campus* da Microsoft em chamas).
 
 Neste contexto sem-graça é muito gratificante ler artigos como [.NET Signals an Industry Shift][1] de David Bau (criador da [Dave´s Quick Search Bar][2], um dos programnhas que eu mais sinto falta quando estou usando Linux). O autor traça um panorama interessante de como a lei de Moore traduziu-se no barateamento do hardware e como isso foi afetando a indústria e a estratégia da Microsoft.
 
