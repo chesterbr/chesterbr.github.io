@@ -14,7 +14,7 @@ Seriously, their cans are advanced enough to deserve their own [Wikipedia entry]
 
 ![What, your toilet doesn't do all that? :-) ](/img/2016/01/remote.jpg){: .center }
 
-<!-- more -->
+<!--more-->
 
 Surprisingly, [TOTO][4] (a popular Japanese manufacturer of those) is present in the US since the late 80s. But a basic model like the [B100][6] starts at US$ 599, and fancier ones can cost 2-3x that. So when I found an [S300][5] (which includes all the niceties in the image above) on sale for "just" CAD 550, I bought it. And despite my limited plumbing experience, I decided to install it myself.
 

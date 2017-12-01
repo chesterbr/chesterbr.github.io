@@ -14,7 +14,7 @@ It isn't a *super* complex operation, but the components are quite delicate, req
 
 ![Here is how it looks inside ](/img/2016/02/gamepad_open.jpg){: .center }
 
-<!-- more -->
+<!--more-->
 
 ### Parts and Tools
 

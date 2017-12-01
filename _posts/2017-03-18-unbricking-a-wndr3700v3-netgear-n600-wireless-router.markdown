@@ -16,7 +16,7 @@ That didn't work either.
 
 At that point, I realized this fix would require some physical hacking.
 
-<!-- more -->
+<!--more-->
 
 The idea was to connect a computer to the router via serial port and run some lower-level commands to restore the old firmware. But there was a catch: almost any decent router has a serial *port*, but very few have a serial port *connector*. To make the connection, I'd have to open the device and hook the computer's serial port to the [router motherboard pins][12] that contain the serial port signals (TX/RX/GND).
 

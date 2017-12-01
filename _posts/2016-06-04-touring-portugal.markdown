@@ -11,7 +11,7 @@ A week in Portugal surely came with a special flavour for Brazilian expats like 
 
 ![Coimbra ](/img/2016/06/coimbra.jpg){: .center }
 
-<!-- more -->
+<!--more-->
 
 The 7-hour Toronto-Porto flight ([Azores Airlines][2]) did not have individual entertainment systems, but made up with a very decent meal and comfortable seats (for airplane food and economy seat standards). We bought [Vodafone "Go" SIM cards][3] right at the airport, getting a week of super fast internet with a decent cap (12.5GB) for a reasonable price (12.50 €).
 

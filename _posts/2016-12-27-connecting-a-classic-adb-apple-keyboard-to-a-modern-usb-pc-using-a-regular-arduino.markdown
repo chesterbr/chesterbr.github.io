@@ -15,7 +15,7 @@ My winter holiday plans did not include going outside, so I wanted to build it w
 
 I wasn't sure that would do the job, so before tearing the keyboard apart, I decided that my first experiment would be an attempt to connect it to my computer.
 
-<!-- more -->
+<!--more-->
 
 To connect the Arduino to the keyboard, I could have cannibalized an [S-Video MiniDIN-4 cable][4], since ADB uses the same connector. But I ended up using [breadboard jumper wires][3], because they can be easily plugged on the Arduino *and* inserted straight into the ADB jack holes.
 

@@ -18,7 +18,7 @@ The schematics, however, never came. That episode's [GitHub repository](https://
 
 Those boards aren't as sturdy or portable as traditional printed circuit boards, but the freedom to tinker (and make mistakes) sparked my flame once more. That led me to reproduce his first two posts, adapting them to the Atari's 6507 and adding a few tweaks.
 
-<!-- more -->
+<!--more-->
 
 ### Building
 

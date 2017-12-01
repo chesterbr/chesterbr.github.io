@@ -15,7 +15,7 @@ Little did I know that getting fast and reliable predictions on my wrist wasn't 
 
 This insight of the development process was originally intended to become a presentation for the likes of [PebbleTO][21], but given the uncertain future of Pebble (recently [acquired by FitBit][22]), I decided to just publish it here as a supplement to the application's [source code][20].
 
-<!-- more -->
+<!--more-->
 
 ## Inspiration
 
