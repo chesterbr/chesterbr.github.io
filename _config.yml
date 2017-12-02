@@ -49,6 +49,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-sitemap
 permalink: /archives/:year/:month/:title/
 
 # Disqus Comments
