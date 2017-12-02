@@ -7,7 +7,7 @@ published: true
 categories:
 ---
 
-->![I don't always write blog posts, but when I do...](/wp-content/uploads/2013/09/most_interesting_man_blog.jpg)<-
+![I don't always write blog posts, but when I do...](/wp-content/uploads/2013/09/most_interesting_man_blog.jpg){: .center }
 
 I could not express enough gratitude to the [WordPress][1] developers for offering the world a free, open-source, professional-quality blogging platform. Being based on a [LAMP][2] stack means it can be hosted pretty much anywhere with very limited resources, giving me freedom to change hosting services without any impact. Having a powerful admin panel, hundreds of plugins and being open to change means you can do pretty much anything with it.
 

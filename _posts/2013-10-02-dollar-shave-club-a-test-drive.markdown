@@ -11,7 +11,7 @@ The only reason I shave is because I'm not much fond of facial hair either. And 
 
 Now you know why anyhthing with the slightest potential of making shaving suck a bit less grabs my attention - not that [Dollar Shave Club][1]'s unorthodox presentation needs any help in that regard. If you don't know what I'm talking about (or just want to laugh again), here is their [presentation video][2]:
 
--><iframe width="560" height="315" src="//www.youtube.com/embed/ZUG9qYTJMsI" frameborder="0" allowfullscreen></iframe><-
+<center><iframe width="560" height="315" src="//www.youtube.com/embed/ZUG9qYTJMsI" frameborder="0" allowfullscreen></iframe></center>
 
 For "$1" a month, they will send you enough blades to allow a weekly replacement. Of course, that does not include shipping (adds $2/mo), and refers to the very basic model, the "Humble Twin". Also, that is the price in the US - in Canada it gets 50c more expensive, and you pay in Canadian dollars.
 
@@ -19,13 +19,13 @@ Still, CAD 3.50 is an awesome deal for a month's worth of shaving - you can only
 
 The package arrived with a separate razor and its set of 5 cartridges. The razor is pretty decent: comfortable grip, flexible head (my biggest issue with disposables) and a firm pressure-connection system, complete with eject button. It also included a couple of lame joke cards, not nearly as fun as the video.
 
--><a href="http://www.flickr.com/photos/chesterbr/10063526203/" title="Dollar Shave - Humble Twin by chesterbr, on Flickr"><img src="//farm8.staticflickr.com/7332/10063526203_2a7bb0b246.jpg" width="500" height="375" alt="Dollar Shave - Humble Twin"></a><-
+<center><a href="http://www.flickr.com/photos/chesterbr/10063526203/" title="Dollar Shave - Humble Twin by chesterbr, on Flickr"><img src="//farm8.staticflickr.com/7332/10063526203_2a7bb0b246.jpg" width="500" height="375" alt="Dollar Shave - Humble Twin"></a></center>
 
 After shaving a few days with it, I won't say it is as good as the vibrating, 4-blade Fusion Power, but the difference was really small: with an extra pass I got the same results, which is much more than I could say of other 2-blade systems I've tried. Since they let you upgrade/downgrade your plan at any time (changing the future billing/delivery), I upped the ante and switched to the 4x, for CAD 6.50 a month - still below the Fusion price.
 
 The switch process was easy, although I had to enter my credit card information again (apparently they need to do a new authorization, and the website confusingly warns that, for all effects, you are stopping the previous plan and starting a new one). But it worked fine - at the time I'd be receiveing a new set of 2-blade cartridges, I got a 4-blade set (with 1 less cartridge, but I suppose they last more), a new razor compatible with them, and another set of not-really-funny cards.
 
--><a href="http://www.flickr.com/photos/chesterbr/10063412234/" title="Dollar Shave - Humble Twin versus 4x by chesterbr, on Flickr"><img src="//farm3.staticflickr.com/2862/10063412234_b3ba32c073.jpg" width="500" height="326" alt="Dollar Shave - Humble Twin versus 4x"></a><-
+<center><a href="http://www.flickr.com/photos/chesterbr/10063412234/" title="Dollar Shave - Humble Twin versus 4x by chesterbr, on Flickr"><img src="//farm3.staticflickr.com/2862/10063412234_b3ba32c073.jpg" width="500" height="326" alt="Dollar Shave - Humble Twin versus 4x"></a></center>
 
 Once again I was positively surprised: it is nearly as good as the Fusion. The difference is small enough to be shadowed by the convenience/price, and the freshness of a new blade every week or so might even make the average shaving slightly better than with the Fusion, whose steep price makes me swap less often.
 

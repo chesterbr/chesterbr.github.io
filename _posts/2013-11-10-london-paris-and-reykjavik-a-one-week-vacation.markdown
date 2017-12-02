@@ -130,7 +130,7 @@ It is a hit-or-miss: you may go out and see nothing at all. On behalf of that,
 most tours will offer a second booking free of charge if the lights don't
 appear, but you may want to book more than one trip anyway, since the notion of "appearing" is at their discretion.
 
--> <a href="http://www.flickr.com/photos/chesterbr/10673352123/" title="DSCN1304 by chesterbr, on Flickr"><img src="//farm4.staticflickr.com/3807/10673352123_3bcaaaee79.jpg" width="500" height="375" alt="DSCN1304"></a> <-
+<center> <a href="http://www.flickr.com/photos/chesterbr/10673352123/" title="DSCN1304 by chesterbr, on Flickr"><img src="//farm4.staticflickr.com/3807/10673352123_3bcaaaee79.jpg" width="500" height="375" alt="DSCN1304"></a> </center>
 
 I recommend Icelandic Mountain Guides' [Golden Circle and Magical Nights][301]: in
 a single day you see [beautiful mountains, waterfalls and geysers][302]; spend
@@ -161,7 +161,7 @@ A few things you should be aware:
 
 Anyway, those are just minor nuisances - I **strongly** recommend a couple of hours at Blue Lagoon. It is so relaxing that I felt my body weight for quite a minute after leaving it, like an astronaut returning to earth gravity!
 
--> <a href="http://www.flickr.com/photos/chesterbr/10672671975/" title="DSCN1282 by chesterbr, on Flickr"><img src="//farm4.staticflickr.com/3806/10672671975_24d45a3383.jpg" width="500" height="375" alt="DSCN1282"></a> <-
+<center> <a href="http://www.flickr.com/photos/chesterbr/10672671975/" title="DSCN1282 by chesterbr, on Flickr"><img src="//farm4.staticflickr.com/3806/10672671975_24d45a3383.jpg" width="500" height="375" alt="DSCN1282"></a> </center>
 
 The last day presented a tough choice: I could either visit the
 [Icelandic Phallological Museum][310], or have lunch at [Lebowsky Bar][311].
@@ -178,7 +178,7 @@ with an amazing [Ultra Light Down][317] jacket, some thermals and even turtlenec
 T-shirts (which I used to hate, until I tried their
 [ultra-comfortable][318] stuff). Anyway, if you don't fear the cold, this is a trip you won't regret!
 
--> <a href="http://www.flickr.com/photos/chesterbr/10674210753/" title="DSCN1344 by chesterbr, on Flickr"><img src="//farm3.staticflickr.com/2871/10674210753_d85cf424ee.jpg" width="500" height="375" alt="DSCN1344"></a> <-
+<center> <a href="http://www.flickr.com/photos/chesterbr/10674210753/" title="DSCN1344 by chesterbr, on Flickr"><img src="//farm3.staticflickr.com/2871/10674210753_d85cf424ee.jpg" width="500" height="375" alt="DSCN1344"></a> </center>
 
 [300]: http://www.northernlightscentre.ca/northernlights.html
 [301]: http://www.mountainguides.is/day-tours/northern-lights-tours/golden-circle-and-magical-nights/

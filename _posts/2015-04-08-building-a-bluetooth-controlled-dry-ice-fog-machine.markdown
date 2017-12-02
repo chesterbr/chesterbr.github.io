@@ -112,11 +112,11 @@ void loop() {
 
 Here is a test with room-temperature water. On such conditions, even the initial (4.5V) version pumps pretty nicely:
 
--><iframe width="560" height="315" src="https://www.youtube.com/embed/ZmdWFTBhY_s" frameborder="0" allowfullscreen></iframe><-
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZmdWFTBhY_s" frameborder="0" allowfullscreen></iframe></center>
 
 The next video shows the first dry ice experiment. Even though the fog didn't spread much (due to the bowl height), it generated a lot of fog, even from a reused block of dry ice:
 
--><iframe width="560" height="315" src="https://www.youtube.com/embed/EyM7SH8aCSE" frameborder="0" allowfullscreen></iframe><-
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/EyM7SH8aCSE" frameborder="0" allowfullscreen></iframe></center>
 
 The picture that opens the post shows the result with an appropriate recipient and new pellets. There are only two caveats to keep in mind:
 

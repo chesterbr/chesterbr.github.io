@@ -38,7 +38,7 @@ A idéia era almoçar ali, mas estava tudo fechado &#8211; como eu disse, estava
 
 Apesar do nome, é um restaurante africano normal, com comida africana normal, cujo almoço bem servido valeu como janta. No entanto, eu quis ir ao shopping à noite assim mesmo para, entre outras coisas, tirar uma revanche da máquina de DDR. Não foi a melhor performance da minha vida (estou fora de forma e destreinado), mas pelo menos fui até o final &#8211; e o André filmou tudo:
 
--><iframe width="420" height="315" src="//www.youtube.com/embed/R4XcJfX7b68" frameborder="0" allowfullscreen></iframe><-
+<center><iframe width="420" height="315" src="//www.youtube.com/embed/R4XcJfX7b68" frameborder="0" allowfullscreen></iframe></center>
 
  [1]: http://canadianpress.google.com/article/ALeqM5iS3svtsB8bFkM90FU69o31ilnqYg
  [2]: http://www.sa-venues.com/2010/cape-town.htm

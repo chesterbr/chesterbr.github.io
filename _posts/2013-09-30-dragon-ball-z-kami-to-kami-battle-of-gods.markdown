@@ -5,7 +5,7 @@ date: 2013-09-30 00:05
 comments: true
 categories:
 ---
-->![Dragon Ball Z: Kami to Kami (Battle of Gods)](/wp-content/uploads/2013/09/dbz-kamitokami.jpg)<-
+![Dragon Ball Z: Kami to Kami (Battle of Gods)](/wp-content/uploads/2013/09/dbz-kamitokami.jpg){: .center }
 
 It is not a secret to anyone how much of a [Dragon Ball][1] nerd I used to be. I collected the manga (having read it quite a few times) and watched the anime religiously, although I did not enjoy the post-manga material (Dragon Ball GT and the "TV specials") that much. Granted, I *did* watch it, but those always felt like something was missing. [Akira Toriyama][2] (original manga writer/artist) not being much involved on their production surely played a role.
 

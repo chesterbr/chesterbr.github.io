@@ -8,7 +8,7 @@ categories:
 
 I had the great opportunity of attending [TEDxToronto 2013][2], the 5th edition of this [independently organized TED event][30] in the city, and my my second TEDx (the first being [TEDxUSP][20] 2010 in São Paulo). Held at the [Koerner Hall][31], it was carefully organized around the theme "The Choices We Make".
 
--><a href="http://www.flickr.com/photos/chesterbr/9975964374/" title="TEDxToronto 2013 by chesterbr, on Flickr"><img src="//farm4.staticflickr.com/3743/9975964374_bd02cb3b14.jpg" width="500" height="375" alt="TEDxToronto 2013"></a><-
+<center><a href="http://www.flickr.com/photos/chesterbr/9975964374/" title="TEDxToronto 2013 by chesterbr, on Flickr"><img src="//farm4.staticflickr.com/3743/9975964374_bd02cb3b14.jpg" width="500" height="375" alt="TEDxToronto 2013"></a></center>
 
 A great selection of speakers made this edition a huge success - I honestly could not find a single disappointing talk (and I was [not the only one][32]). The artistic performances had a strong local appeal, making them a bit harder to grasp for newcomers like me. But the audience really enjoyed, so I guess it is all about living a few more years in this lovely city.
 
@@ -16,7 +16,7 @@ If I had to choose a favorite talk, I'd be torn between [Darrell Bricker][3] (fo
 
 It is interesting how a few of those presentations interact: Mark makes a point in how those visual cues are an important part of communication and how social engagement can be improved by them, even though they might be cast as *lies* - and it was just after [Debbie Berlin-Romalis][7] talked about how her work with terminal children with cancer taught her that telling the *truth* is the core component of dealing with such a delicate matter.
 
--><a href="http://www.flickr.com/photos/chesterbr/9975946864/" title="TEDxToronto 2013 by chesterbr, on Flickr"><img src="//farm8.staticflickr.com/7434/9975946864_8bf505195c.jpg" width="500" height="375" alt="TEDxToronto 2013"></a><-
+<center><a href="http://www.flickr.com/photos/chesterbr/9975946864/" title="TEDxToronto 2013 by chesterbr, on Flickr"><img src="//farm8.staticflickr.com/7434/9975946864_8bf505195c.jpg" width="500" height="375" alt="TEDxToronto 2013"></a></center>
 
 There was no shortage of sad stories, such as [Ti-Anna Wang][11]'s life as an advocate for Chinese dissident families (including her injustly imprisioned father) and [Mark Henick][13]'s pledge for mental health care backed by a vivid portrait of clinical depression. On the other hand, seeing [Dr. Ivar Mendez][9] connecting on-stage to the remote presence robots he and his coleagues use to bring medical care to remote communities in Canada and Bolivia brought happiness back to everyone's souls.
 

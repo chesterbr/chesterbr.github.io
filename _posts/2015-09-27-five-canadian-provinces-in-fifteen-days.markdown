@@ -55,7 +55,7 @@ Saskatoon is a great place to spend a night and know a bit more about Praries co
 
 I explored it in several ways: walking, on a [rented bike][25] and [by boat][24]. It was great to cross the bridges and explore the south side by bike, whereas the boat got boring (and cold) pretty quick. Regardless of transportation, Victoria Park and the Meewasin Trail have lots of pleasant surprises, from an [outdoor gym][27] to the walk-through geological map of the nearby regions, in which I previewed the upcoming trips:
 
--><iframe width="560" height="315" src="https://www.youtube.com/embed/thOfybt1kjw" frameborder="0" allowfullscreen></iframe><-
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/thOfybt1kjw" frameborder="0" allowfullscreen></iframe></center>
 
 Another must-visit: the (free) [Meewasin Interpretive Centre][23]. I entered it barely knowing how to spell the city's name, but left with a full historical and geographic background. If you can handle a second museum, the [Western Development Museum][28] is a great complement for a small bus trip and $10 admission. Car and model train enthusiasts will have a blast there. Otherwise, try the [Farmer's Market][21], but be sure to [pick a day][22] when farmers are actually there.
 

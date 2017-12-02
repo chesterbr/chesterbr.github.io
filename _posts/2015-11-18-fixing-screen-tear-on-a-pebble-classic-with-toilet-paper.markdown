@@ -16,7 +16,7 @@ At first, I thought it was a software issue, but the actual cause is that the sc
 
 <!--more-->
 
--><iframe width="560" height="315" src="https://www.youtube.com/embed/n7JBmktquUs" frameborder="0" allowfullscreen></iframe><-
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/n7JBmktquUs" frameborder="0" allowfullscreen></iframe></center>
 
 Since I had a tearing Pebble lying around, I decided to try the fix, which, amazingly, worked! It is likely not as waterproof as it was before, but I can live with that.
 

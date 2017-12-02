@@ -21,7 +21,7 @@ Foi uma palestra bastante difícil de encaixar no tempo, porque a proposta era h
 
 **UPDATE:** Saiu o vídeo da palestra &#8211; obrigado, [@agaelebe][14] pela edição! Confira abaixo:
 
--><iframe width="560" height="315" src="https://www.youtube.com/embed/6FwD0iAe3tI" frameborder="0" allowfullscreen></iframe><-
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/6FwD0iAe3tI" frameborder="0" allowfullscreen></iframe></center>
 
 Recomendo um passeio nos [links do finalzinho (slide 138)][16] para quem quiser se aprofundar mais no assunto (alguns já foram comentados neste blog, como o [livro Racing the Beam][17])<del datetime="2011-09-01T04:02:55+00:00">, e creio que em breve os vídeos das palestras devem ser disponibilizados</del>. Reitero os parabéns e agradecimentos à organização do evento, e espero ver esse povo todo lá no ano que vem!
 
