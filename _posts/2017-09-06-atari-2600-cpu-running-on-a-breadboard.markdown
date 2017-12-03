@@ -8,7 +8,7 @@ comments: true
 categories:
 ---
 
-A year ago, Ben Heck [hand-soldered an Atari 2600 on a protoboard](https://www.youtube.com/watch?v=QoBcrZJA4TI) (and, as usual, [turned that into a portable console](https://www.youtube.com/watch?v=21qZKo0f280)). The idea of manually assembling the console for which I had already hacked together a [game](https://github.com/chesterbr/2048-2600) and an  [emulator](https://github.com/chesterbr/2048-2600) was **very** exciting for me.
+A year ago, Ben Heck [hand-soldered an Atari 2600 on a protoboard](https://www.youtube.com/watch?v=QoBcrZJA4TI) (and, as usual, [turned that into a portable console](https://www.youtube.com/watch?v=21qZKo0f280)). The idea of manually re-assembling the console for which I had already hacked together a [game](https://github.com/chesterbr/2048-2600) and an  [emulator](https://github.com/chesterbr/2048-2600) sounded **very** exciting (and educational) for me.
 
 The show crew always publishes schematics for his projects, so while I waited for that, I started de-soldering the chips and cartrige conector (and a few extra components, why not?) from an old [Atari Jr.](http://www.atarimuseum.com/videogames/consoles/2600/atari2600jr.html) board I had lying around. De-soldering is *hard*, but eventually it was done:
 
@@ -16,7 +16,7 @@ The show crew always publishes schematics for his projects, so while I waited fo
 
 The schematics, however, never came. That episode's [GitHub repository](https://github.com/thebenheckshow/226-tbhs-Super-Soldered-Atari-2600) only includes the original Atari's block diagram, so I shelved the plan. But more recently I stumbled upon a [series of blog posts](http://www.plingboot.com/2015/09/homebrew-6502-part-1/) in which David Barton describes how he built a 6502-based computer (a [65c02](https://en.wikipedia.org/wiki/WDC_65C02), to be precise) on a solder-less breadboard.
 
-Those boards aren't as sturdy or portable as traditional printed circuit boards, but the freedom to tinker (and make mistakes) sparked my flame once more. That led me to reproduce his first two posts, adapting them to the Atari's 6507 and adding a few tweaks.
+Those boards aren't as sturdy or portable as traditional printed circuit boards, but the freedom to tinker (and make mistakes) sparked my flame once again, so I decided to give the project another shot. I started by reproducing his first two posts, but adapted to the Atari's 6507 and adding a couple tweaks.
 
 <!--more-->
 
@@ -24,13 +24,13 @@ Those boards aren't as sturdy or portable as traditional printed circuit boards,
 
 ![solder-less breadboard ](/img/2017/09/breadboard.jpg){: .right }
 
-The first step was to position the 6507 on the breadboard. Easy, yet I managed to mess up. I aligned the 6507 first pins with the numbered tracks, which sounds smart, but leaves little space to work on the first/last pins. If you are trying this, put the chip closer to the center and save yourself the trouble.
+The first step was to position the 6507 on the breadboard - easy, yet I managed to mess up. I aligned the 6507 first pins with the numbered tracks, which sounds smart, but leaves little space to work on the first/last pins. If you are trying this, put the chip closer to the center and save yourself the trouble.
 
 The connections are roughly the same as Barton's project, but translated to the 6507 [pin layout](http://www.datasheetcatalog.com/datasheets_pdf/U/M/6/5/UM6507.shtml). 5V power goes to pin 4 of the 6507, and ground goes to pin 2. There is no IRQ or NMI, so you only need two 3K resistors coming from 5V - one ending on the reset input (pin 1) and another on RDY (pin 4).
 
 Also following him, I added a push button between the ground and the reset pin, so I could (re-)start the processor at will. The 6507 seems to work without that, but it didn't hurt. But I also added a second push button between ground and RDY - this one is more interesting, you'll see later why.
 
-Still on his footsteps, I added the decoupling capacitor (a 100nF, 20V non-polarized ceramic) close to the power pin, to ensure clean power to the chip. Finally, I hard-wired the binary value `11101010` to the data pins, by connecting 18, 19, 20, 22 and 24 (the `1`s) to 5V and pins 21, 23 and 25 (the `0`s) to ground. It sounds arbitrary value, but it will also make sense later. For now, just keep in mind that this makes CPU "believe" it is connected to a ROM chip where every single byte is `11101010` (or `0xEA` in hexadecimal).
+Still on his footsteps, I added the decoupling capacitor (a 100nF, 20V non-polarized ceramic) close to the power pin, to ensure clean power to the chip. Finally, I hard-wired the binary value `11101010` to the data pins, by connecting 18, 19, 20, 22 and 24 (the `1`s) to 5V and pins 21, 23 and 25 (the `0`s) to ground. It sounds like an arbitrary value, but it will _also_ make sense later. For now, just keep in mind that this makes CPU "believe" it is connected to a ROM chip where every single byte is `11101010` (or `0xEA` in hexadecimal).
 
 Here is the finished job (there is also a [higher-resolution picture](/img/2017/09/6507_full.jpg)):
 
