@@ -5,7 +5,7 @@ excerpt: |
     Nessa sexta-feira eu causei fortemente no escritório ao mencionar que uma das minhas primeiras compras pelo correio foi o Karatê Sem Mestre - um dos inúmeros livros que a Ediouro oferecia em suas populares revistas de passatempos. Lembro muito pouco...
 layout: post
 comments: true
-permalink: /archives/2008/02/do_karate_sem_m.html
+permalink: /archives/2008/02/do_karate_sem_m.html/
 dsq_thread_id:
   - 1751450335
 categories:

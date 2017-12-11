@@ -2,7 +2,7 @@
 title: Mr. t versus consultorias de ti
 layout: post
 comments: true
-permalink: /archives/2003/07/mr-t-versus-consultorias-de-ti.html
+permalink: /archives/2003/07/mr-t-versus-consultorias-de-ti.html/
 categories:
 ---
 Ah, as férias da USP&#8230; depois de um semestre usando todo o tempo livre para estudar, estou extrapolando todos os limites no que se refere a fazer coisas inúteis.

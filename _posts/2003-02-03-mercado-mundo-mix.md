@@ -2,7 +2,7 @@
 title: Mercado mundo mix
 layout: post
 comments: true
-permalink: /archives/2003/02/mercado-mundo-mix.html
+permalink: /archives/2003/02/mercado-mundo-mix.html/
 categories:
 ---
 Mistérios do casamento: saí pra ir comprar roupas na Augusta, e, de alguma forma, fui levado ao chamado <a href="http://mundomixonline.virgula.terra.com.br/mmm.htm" >Mercado Mundo Mix</a>.

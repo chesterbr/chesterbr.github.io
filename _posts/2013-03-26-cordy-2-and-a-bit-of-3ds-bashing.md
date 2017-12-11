@@ -2,7 +2,7 @@
 title: Cordy 2 (and a bit of 3DS bashing)
 layout: post
 comments: true
-permalink: /archives/2013/03/cordy-2-and-a-bit-of-3ds-bashing.html
+permalink: /archives/2013/03/cordy-2-and-a-bit-of-3ds-bashing.html/
 robotsmeta:
   - index,follow
 dsq_thread_id:

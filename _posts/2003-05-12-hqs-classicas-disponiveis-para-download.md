@@ -2,7 +2,7 @@
 title: Hqs clássicas disponíveis para download
 layout: post
 comments: true
-permalink: /archives/2003/05/hqs-classicas-disponiveis-para-download.html
+permalink: /archives/2003/05/hqs-classicas-disponiveis-para-download.html/
 categories:
 ---
 <img src='//chester.me/img/blig/diasfutesq.jpg' align="left" border=2 hspace=3>Os fãs de mangá e animê já conhecem o trabalho dos *fansubbers* e dos *manga translators* &#8211; indivíduos que traduzem os desenhos e gibis, disponbilizando-os na Internet. A qualidade das traduções varia, mas é muitas vezes o único jeito de ter acesso a coisas que não são lançadas num determinado idioma ou país.

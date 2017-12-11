@@ -2,7 +2,7 @@
 title: Outros videos com o eye toy
 layout: post
 comments: true
-permalink: /archives/2005/03/outros-videos-com-o-eye-toy.html
+permalink: /archives/2005/03/outros-videos-com-o-eye-toy.html/
 enclosure:
   - |
     |

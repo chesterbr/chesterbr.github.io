@@ -5,7 +5,7 @@ excerpt: |
     Como um nerd que se preza, eu tenho um "servidorzinho" em casa. Após uma troca de ventoinha da CPU (Pentium III), me deparei com um problema muito chato: barulho. Depois de procurar inutilmente uma ventoinha de maior qualidade (só encontrei...
 layout: post
 comments: true
-permalink: /archives/2007/01/para_cortar_o_b.html
+permalink: /archives/2007/01/para_cortar_o_b.html/
 dsq_thread_id:
   - 1751441372
 categories:

@@ -2,7 +2,7 @@
 title: Catálogo acme
 layout: post
 comments: true
-permalink: /archives/2002/03/catalogo-acme.html
+permalink: /archives/2002/03/catalogo-acme.html/
 categories:
 ---
 <img src='//chester.me/img/blig/hitch.jpg' width=150 height=108 hspace=4 align="left" border=0>Os personagens dos desenhos animados da Warner (e mesmo de outras produtoras) sempre puderam contar com os produtos ACME. E algum doido reuniu todos eles num <a href="http://home.nc.rr.com/tuco/looney/acme/acme.html" >catálogo</a> que, lamentavelmente, não possui um botão &#8220;comprar&#8221;. Como vou viver sem a &#8220;tinta invisível&#8221; ou o &#8220;dedão para caronistas&#8221;?

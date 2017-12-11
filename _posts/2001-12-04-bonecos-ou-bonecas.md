@@ -2,7 +2,7 @@
 title: Bonecos ou bonecas?
 layout: post
 comments: true
-permalink: /archives/2001/12/bonecos-ou-bonecas.html
+permalink: /archives/2001/12/bonecos-ou-bonecas.html/
 categories:
 ---
 &#8220;Homem brinca com bola, mulher brinca com boneca&#8221;.

@@ -5,7 +5,7 @@ excerpt: |
     O site 3D4ALL organiza concursos de ilustração baseada em modelagem 3D. O interessante é que os participantes colocam na web todos os passos do seu trabalho, do rascunho feito no papel de pão até a figura renderizada final, passando...
 layout: post
 comments: true
-permalink: /archives/2005/07/darth_vader_e_o.html
+permalink: /archives/2005/07/darth_vader_e_o.html/
 categories:
 ---
 <img title="darthvader.gif" src="//chester.me/archives/img/darthvader.gif" width="231" height="239" align="right" style="margin-left:2px" />

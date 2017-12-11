@@ -2,7 +2,7 @@
 title: Mp3 player de garagem
 layout: post
 comments: true
-permalink: /archives/2005/02/mp3-player-de-garagem.html
+permalink: /archives/2005/02/mp3-player-de-garagem.html/
 categories:
 ---
 Fui conferir o tão falado <a href="http://web.media.mit.edu/~ladyada/make/minty/index.html" >Minty MP3</a>, um player de música digital feito em uma caixa de &#8220;mentinha&#8221;. De fato, o jeitão descolado da caixinha impressiona, mas eu fui fisgado pelos detalhes técnicos &#8211; a começar pela própria caixinha (que, sendo metálica, diminui bastante o ruído eletromagnético). É impressionante a quantidade reduzida de componentes de prateleira, cada um executando funções bastante elaboradas.

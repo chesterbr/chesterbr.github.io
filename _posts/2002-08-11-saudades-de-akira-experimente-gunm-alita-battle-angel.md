@@ -2,7 +2,7 @@
 title: 'Saudades de akira? experimente Gunm &#8211; Alita Battle Angel'
 layout: post
 comments: true
-permalink: /archives/2002/08/saudades-de-akira-experimente-gunm-alita-battle-angel.html
+permalink: /archives/2002/08/saudades-de-akira-experimente-gunm-alita-battle-angel.html/
 categories:
 ---
 Ainda estou impressionado com este mangá, lançado pela Opera Graphica. Logo nas primeiras páginas, a primeira coisa que me veio à mente quando li foi Akira, de Katsuhiro Otomo. Não que um tenha se baseado no outro, mas ambos navegam com habilidade no perigoso terreno da &#8220;influência ocidental&#8221;, tanto na temática *bladerunneriana* quanto no ritmo e na arte mais &#8220;orgânica&#8221;, que se distancia do desenho &#8220;cartunesco&#8221; característico do mangá.

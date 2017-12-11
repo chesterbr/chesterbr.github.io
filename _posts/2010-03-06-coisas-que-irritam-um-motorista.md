@@ -2,7 +2,7 @@
 title: Coisas que irritam um motorista
 layout: post
 comments: true
-permalink: /archives/2010/03/coisas-que-irritam-um-motorista.html
+permalink: /archives/2010/03/coisas-que-irritam-um-motorista.html/
 onswipe_thumb:
   - |
     http://img.youtube.com/vi/RMZ3bsrtJZ0">Sr. Volante</a> (independente de quem tem culpa);</li>

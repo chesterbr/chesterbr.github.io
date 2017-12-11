@@ -5,7 +5,7 @@ excerpt: |
     O título não é, nem de longe, bombástico - ainda mais quando se considera que ele trata do jornal cuja cereja do bolo eram justamente as manchetes chamativas. Isso pouco importa: o documentário em vídeo sobre o NP está no...
 layout: post
 comments: true
-permalink: /archives/2007/04/noticias_popula.html
+permalink: /archives/2007/04/noticias_popula.html/
 dsq_thread_id:
   - 1751443928
 categories:

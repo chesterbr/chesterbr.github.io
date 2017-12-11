@@ -2,7 +2,7 @@
 title: 'Galeria Central &#8211; minha primeira&#8230; err&#8230; &#8220;home page&#8221;'
 layout: post
 comments: true
-permalink: /archives/2010/01/galeria-central-minha-primeira-home-page.html
+permalink: /archives/2010/01/galeria-central-minha-primeira-home-page.html/
 onswipe_thumb:
   - |
     http://img.youtube.com/vi/HqdJkFM3pSM">DeLorean</a> rumo a 1997/98 (eu tinha uma versão anterior, mas essa foi a que eu achei), ignore links quebrados e acesse a...

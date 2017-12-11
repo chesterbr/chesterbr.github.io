@@ -5,7 +5,7 @@ excerpt: |
     Fiz a atualização do meu iPhone californiano não-3G para o OS 3.0, com o auxílio do PwnageTool - que faz isso garantindo o jailbreak (que permite instalar as apps que eu quero, independente da vontade e do DRM do Steve...
 layout: post
 comments: true
-permalink: /archives/2009/06/atualizando_o_iphone_3_0_pwnagetool.html
+permalink: /archives/2009/06/atualizando_o_iphone_3_0_pwnagetool.html/
 dsq_thread_id:
   - 1751449366
 categories:

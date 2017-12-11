@@ -5,7 +5,7 @@ excerpt: |
     Não ia mais me meter a comentar esse tipo de coisa, mas foi impagável ver o Google desprender uma quantia fabulosa (na verdade ações, mas do próprio bolso) para comprar o YouTube, e, na mesma página, tomar ciência da liberação...
 layout: post
 comments: true
-permalink: /archives/2006/10/o_que_e_mais_ar.html
+permalink: /archives/2006/10/o_que_e_mais_ar.html/
 dsq_thread_id:
   - 1751441829
 categories:

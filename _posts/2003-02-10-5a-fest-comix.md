@@ -2,7 +2,7 @@
 title: 5a. fest comix
 layout: post
 comments: true
-permalink: /archives/2003/02/5a-fest-comix.html
+permalink: /archives/2003/02/5a-fest-comix.html/
 categories:
 ---
 Não bastasse o Mundo Mix, compareci no domingo à <a href="http://www.omelete.com.br/quadrinhos/news/base\_para\_news.asp?artigo=4471" >5ª Fest Comix</a>. Estava lotadíssimo, mas valeu: o lugar tinha lançamentos dos últimos 3 anos, mas todos em estado de novo &#8211; e, em muitos casos, com preço de sebo. Isso fora a premiação, para a qual não pude ficar. É sempre legal ver o povo que faz os quadrinhos, mesmo pra quem, como eu, não tem vocação para &#8220;<a href="http://members.easyspace.com/u235/thefans/fanclub.html" >fã bobão</a>&#8220;.

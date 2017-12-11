@@ -5,7 +5,7 @@ excerpt: |
     Pra fechar a semana, vou falar do The Daily WTF. Apesar do nome (WTF="what the f@#$"), é um blog sobre programação, especializado nas "barbeiragens" que a gente cansa de ver nos sistemas comerciais, particularmente quando as consultorias topo-de-linha cobram...
 layout: post
 comments: true
-permalink: /archives/2005/07/a_central_do_co.html
+permalink: /archives/2005/07/a_central_do_co.html/
 categories:
 ---
 <img title="Logo do The Daily WTF" src="//chester.me/archives/img/wtf.gif" width="424" height="90" align="right" />

@@ -2,7 +2,7 @@
 title: Sentimental (?) shooting
 layout: post
 comments: true
-permalink: /archives/2004/01/sentimental-shooting.html
+permalink: /archives/2004/01/sentimental-shooting.html/
 categories:
 ---
 Quem já jogou em MSX conhece duas das maiores famílias de jogos japoneses: os &#8220;atire em 800 naves&#8221; e os &#8220;tire a roupa da menina&#8221;. Ontem eu descobri o <a href="http://faqs.ign.com//articles/393/393131p1.html" >Sentimental Shooting</a>, que de sentimental não tem nada: nele você tem que atirar em 800 naves **e** tirar a roupa da menina.

@@ -2,7 +2,7 @@
 title: Papo sério (com visual nem tanto) sobre segurança de redes
 layout: post
 comments: true
-permalink: /archives/2003/07/papo-serio-com-visual-nem-tanto-sobre-seguranca-de-redes.html
+permalink: /archives/2003/07/papo-serio-com-visual-nem-tanto-sobre-seguranca-de-redes.html/
 categories:
 ---
 <img src=//chester.me/img/blig/chester_serginho.jpg align="left" border=0>O Último Segundo publicou um <a href="http://ultimosegundo.ig.com.br/useg/economia/mundovirtual/artigo/0,,1259617,00.html" >artigo</a> que eu escrevi comentando os riscos da boataria e do alarmismo quando o assunto é segurança de redes.

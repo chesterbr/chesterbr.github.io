@@ -2,7 +2,7 @@
 title: Aterrissando no Canadá
 layout: post
 comments: true
-permalink: /archives/2012/11/aterrissando-no-canada.html
+permalink: /archives/2012/11/aterrissando-no-canada.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

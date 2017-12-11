@@ -2,7 +2,7 @@
 title: '&#8220;Temos que passar o ibest a limpo&#8221;, diria Boris Casoy'
 layout: post
 comments: true
-permalink: /archives/2001/11/temos-que-passar-o-ibest-a-limpo-diria-boris-casoy.html
+permalink: /archives/2001/11/temos-que-passar-o-ibest-a-limpo-diria-boris-casoy.html/
 categories:
 ---
 O assunto de hoje foi a <a href="http://br.news.yahoo.com/011130/9/1l12.html" >compra do iBest</a> por um dos grupos acionistas do iG &#8211; e o fato vários grandes portais portais tirarem seus sites do evento, por acharem que a imparcialidade acabou.

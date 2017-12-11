@@ -5,7 +5,7 @@ excerpt: |
     Este livro é escrito por ninguém menos que Tenzin Gyatso, mais conhecido como o Dalai Lama. Para quem não sabe, o título é atribuído a uma linhagem de líderes espirituais do budismo tibetano, e o décimo-quarto e atual Dalai Lama...
 layout: post
 comments: true
-permalink: /archives/2009/04/o_universo_em_um_atomo_dalai_lama.html
+permalink: /archives/2009/04/o_universo_em_um_atomo_dalai_lama.html/
 bb-custom-tags:
   - dalai lama
 categories:

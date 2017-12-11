@@ -2,7 +2,7 @@
 title: Brinquedos novos
 layout: post
 comments: true
-permalink: /archives/2004/03/brinquedos-novos.html
+permalink: /archives/2004/03/brinquedos-novos.html/
 categories:
 ---
 <img src="//chester.me/img/blig/spectrum.jpg" border=1 alt="ZX Spectrum +2" align="left">Pra variar, a USP me sequestrou &#8211; mas o sumiço foi mais porque o velho e bom &#8220;museu dos micros de 8 bits&#8221; voltou à atividade: além de arrumar os disquetes que faltavam para o <a href="mac512.html">Mac512</a>, recuperei diversos micros e acessórios da coleção antiga.

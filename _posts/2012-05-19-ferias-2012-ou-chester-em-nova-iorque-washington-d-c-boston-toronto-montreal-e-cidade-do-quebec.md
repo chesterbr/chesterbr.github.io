@@ -2,7 +2,7 @@
 title: 'Férias 2012 (ou: Chester em Nova Iorque, Washington D.C., Boston, Toronto, Montreal e Cidade do Quebec)'
 layout: post
 comments: true
-permalink: /archives/2012/05/ferias-2012-ou-chester-em-nova-iorque-washington-d-c-boston-toronto-montreal-e-cidade-do-quebec.html
+permalink: /archives/2012/05/ferias-2012-ou-chester-em-nova-iorque-washington-d-c-boston-toronto-montreal-e-cidade-do-quebec.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

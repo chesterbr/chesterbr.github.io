@@ -2,7 +2,7 @@
 title: Plotter feito de sucata
 layout: post
 comments: true
-permalink: /archives/2004/05/plotter-feito-de-sucata.html
+permalink: /archives/2004/05/plotter-feito-de-sucata.html/
 robotsmeta:
   - index,follow
 dsq_thread_id:

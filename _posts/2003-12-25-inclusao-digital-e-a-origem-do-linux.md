@@ -2,7 +2,7 @@
 title: Inclusão digital e a origem do linux
 layout: post
 comments: true
-permalink: /archives/2003/12/inclusao-digital-e-a-origem-do-linux.html
+permalink: /archives/2003/12/inclusao-digital-e-a-origem-do-linux.html/
 categories:
 ---
 <img src=//chester.me/img/blig/softlivre.jpg align="right" border=2 alt="Software Livre e Inclusão Digital">Uma das grandes virtudes da comunidade do software livre é seu primor pela excelência técnica. Infelizmente, este é o catalisador do que é possívelmente seu maior vício: a disposição que este pessoal tem para dizer bobagens sobre assuntos que pouco entendem &#8211; desde o software do concorrente até ética e geopolítica.

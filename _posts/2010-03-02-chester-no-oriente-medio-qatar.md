@@ -2,7 +2,7 @@
 title: Chester no Oriente Médio (Qatar)
 layout: post
 comments: true
-permalink: /archives/2010/03/chester-no-oriente-medio-qatar.html
+permalink: /archives/2010/03/chester-no-oriente-medio-qatar.html/
 bb-custom-tags:
   - qatar árabe oriente
 onswipe_thumb:

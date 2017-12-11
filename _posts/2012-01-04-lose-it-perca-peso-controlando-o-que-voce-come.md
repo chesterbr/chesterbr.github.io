@@ -2,7 +2,7 @@
 title: 'Lose It! &#8211; perca peso controlando o que você come'
 layout: post
 comments: true
-permalink: /archives/2012/01/lose-it-perca-peso-controlando-o-que-voce-come.html
+permalink: /archives/2012/01/lose-it-perca-peso-controlando-o-que-voce-come.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

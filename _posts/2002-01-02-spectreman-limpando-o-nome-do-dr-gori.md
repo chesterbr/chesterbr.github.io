@@ -2,7 +2,7 @@
 title: 'Spectreman &#8211; limpando o nome do Dr. Gori'
 layout: post
 comments: true
-permalink: /archives/2002/01/spectreman-limpando-o-nome-do-dr-gori.html
+permalink: /archives/2002/01/spectreman-limpando-o-nome-do-dr-gori.html/
 categories:
 ---
 (ou &#8220;spectromen&#8221;, como pronunciávamos nos anos 80)

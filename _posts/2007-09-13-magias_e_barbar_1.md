@@ -5,7 +5,7 @@ excerpt: |
     Graças a um comentário do autor num post recente descobri a existência de Magias e Barbaridades - um webcomic nacional pra ninguém botar defeito[1]. Fazer humor com temas medievais é uma missão ingrata - já vi veteranos como os autores...
 layout: post
 comments: true
-permalink: /archives/2007/09/magias_e_barbar_1.html
+permalink: /archives/2007/09/magias_e_barbar_1.html/
 dsq_thread_id:
   - 1751443597
 categories:

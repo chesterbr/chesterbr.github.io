@@ -2,7 +2,7 @@
 title: É divertido ficar na A.C.M.
 layout: post
 comments: true
-permalink: /archives/2004/10/e-divertido-ficar-na-a-c-m.html
+permalink: /archives/2004/10/e-divertido-ficar-na-a-c-m.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/img/blig/village.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:

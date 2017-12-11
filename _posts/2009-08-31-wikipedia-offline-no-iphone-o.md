@@ -2,7 +2,7 @@
 title: Wikipedia offline no iPhone \o/
 layout: post
 comments: true
-permalink: /archives/2009/08/wikipedia-offline-no-iphone-o.html
+permalink: /archives/2009/08/wikipedia-offline-no-iphone-o.html/
 categories:
 ---
 Aleluia! Finalmente pintou uma aplicação que permite levar a [Wikipedia][1] em qualquer lugar, independente de operadoras ou redes Wi-Fi.

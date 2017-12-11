@@ -2,7 +2,7 @@
 title: 'Revolution in the Valley: The Insanely Great Story of How the Mac Was Made'
 layout: post
 comments: true
-permalink: /archives/2011/01/revolution-in-the-valley-the-insanely-great-story-of-how-the-mac-was-made.html
+permalink: /archives/2011/01/revolution-in-the-valley-the-insanely-great-story-of-how-the-mac-was-made.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2011/01/51+MmbKBC1L._SL154.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:

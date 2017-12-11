@@ -2,7 +2,7 @@
 title: Universitárias fazendo sexo na sala de aula
 layout: post
 comments: true
-permalink: /archives/2002/02/universitarias-fazendo-sexo-na-sala-de-aula.html
+permalink: /archives/2002/02/universitarias-fazendo-sexo-na-sala-de-aula.html/
 dsq_thread_id:
   - 1750753387
 categories:

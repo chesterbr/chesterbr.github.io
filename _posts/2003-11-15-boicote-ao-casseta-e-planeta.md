@@ -2,7 +2,7 @@
 title: Boicote ao casseta e planeta
 layout: post
 comments: true
-permalink: /archives/2003/11/boicote-ao-casseta-e-planeta.html
+permalink: /archives/2003/11/boicote-ao-casseta-e-planeta.html/
 categories:
 ---
 Enquatno eu procurava uma ilustração para a nota anterior, achei essa <a href="http://www.projetocasulo.com.br/arquivos/002071.php" >entrevista com o Adão</a>. Ela está hospedada no site do <a href="http://www.projetocasulo.com.br/" >Projeto Casulo</a>, cujos artigos se destacam pela qualidade dos hiperlinks &#8211; um recurso do qual muitas vezes a imprensa &#8220;pseudo-online&#8221; simplesmente se esquece.

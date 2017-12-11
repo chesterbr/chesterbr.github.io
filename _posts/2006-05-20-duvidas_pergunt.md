@@ -5,7 +5,7 @@ excerpt: |
     Não sei explicar exatamente o motivo, mas é divertido ver um "ninja" gesticulando nervosamente enquanto explica, com seu sotaque peculiar, assuntos que vão desde a relação entre os ninjas e a física até a neutralidade na rede. Se interessou? Então...
 layout: post
 comments: true
-permalink: /archives/2006/05/duvidas_pergunt.html
+permalink: /archives/2006/05/duvidas_pergunt.html/
 dsq_thread_id:
   - 1751444695
 categories:

@@ -5,7 +5,7 @@ excerpt: |
     A versão online da Red Hat Magazine está mostrando alguns vídeos, nos quais ela tenta vendar a idéia de que Linux representa uma espécie de revolução que irá libertar os povos oprimidos da tirania do Império da Microsoft, yadda, yadda,...
 layout: post
 comments: true
-permalink: /archives/2005/06/videos_infantis.html
+permalink: /archives/2005/06/videos_infantis.html/
 enclosure:
   - |
     |

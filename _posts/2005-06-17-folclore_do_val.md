@@ -5,7 +5,7 @@ excerpt: |
     Já que falei em Steve Jobs, aproveito para mencionar o Folklore.org, um site dedicado a contar histórias dos bastidores da Apple no conturbado início da década de 80. É divertidíssimo ler sobre as tensões geradas pelo comportamento irascível de Jobs...
 layout: post
 comments: true
-permalink: /archives/2005/06/folclore_do_val.html
+permalink: /archives/2005/06/folclore_do_val.html/
 categories:
 ---
 <img title="Crachás do povo da Apple" src="//chester.me/archives/img/crachasapple.jpg" width="200" height="262" align="left" style="margin-right:2px" border="2" />Já que falei em Steve Jobs, aproveito para mencionar o [Folklore.org][1], um site dedicado a contar histórias dos bastidores da Apple no conturbado início da década de 80. É divertidíssimo ler sobre as tensões geradas pelo [comportamento irascível][2] de Jobs nos anos que a empresa passou projetando o Mac, ou sobre proezas tecnológicas dignas de adoração religiosa, como a [interface de mouse para o Apple II][3].

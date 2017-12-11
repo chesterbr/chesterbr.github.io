@@ -5,7 +5,7 @@ excerpt: |
     Line-Kill Spirits é um jogo de luta entre mulheres, com um detalhe interessante: a arma/golpe mais importante do jogo é uma câmera, que você usa para fotografar a calcinha da adversária quando ela se prepara para um golpe. Não joguei...
 layout: post
 comments: true
-permalink: /archives/2005/12/_esses_japonese.html
+permalink: /archives/2005/12/_esses_japonese.html/
 dsq_thread_id:
   - 1751445158
 categories:

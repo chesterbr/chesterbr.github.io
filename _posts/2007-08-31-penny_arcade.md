@@ -5,7 +5,7 @@ excerpt: |
     Não sei como até hoje nunca falei de Penny Arcade, que é praticamente o pai dos webcomics. Foi um dos primeiros a sair com regularidade, e também um dos pioneiros em atingir independência econômica - de certa forma sacramentando o...
 layout: post
 comments: true
-permalink: /archives/2007/08/penny_arcade.html
+permalink: /archives/2007/08/penny_arcade.html/
 robotsmeta:
   - index,follow
 categories:

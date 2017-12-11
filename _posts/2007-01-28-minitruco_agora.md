@@ -5,7 +5,7 @@ excerpt: |
     Aleluia, a versão Bluetooth do miniTruco finalmente está pronta, permitindo que até 4 pessoas joguem entre si (para quem não conhece, trata-se de um jogo gratuito e de código aberto para celulares que suportam Java). Não tive muita chance de...
 layout: post
 comments: true
-permalink: /archives/2007/01/minitruco_agora.html
+permalink: /archives/2007/01/minitruco_agora.html/
 dsq_thread_id:
   - 1751442337
 categories:

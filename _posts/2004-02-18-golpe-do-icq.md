@@ -2,7 +2,7 @@
 title: Golpe do ICQ
 layout: post
 comments: true
-permalink: /archives/2004/02/golpe-do-icq.html
+permalink: /archives/2004/02/golpe-do-icq.html/
 robotsmeta:
   - index,follow
 categories:

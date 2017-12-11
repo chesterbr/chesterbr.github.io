@@ -2,7 +2,7 @@
 title: '&#8220;Um homem entra num restaurante e pede uma sopa de gaivota&#8230;&#8221;'
 layout: post
 comments: true
-permalink: /archives/2002/05/um-homem-entra-num-restaurante-e-pede-uma-sopa-de-gaivota.html
+permalink: /archives/2002/05/um-homem-entra-num-restaurante-e-pede-uma-sopa-de-gaivota.html/
 robotsmeta:
   - index,follow
 dsq_thread_id:

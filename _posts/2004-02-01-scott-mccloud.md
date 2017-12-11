@@ -2,7 +2,7 @@
 title: Scott mccloud
 layout: post
 comments: true
-permalink: /archives/2004/02/scott-mccloud.html
+permalink: /archives/2004/02/scott-mccloud.html/
 categories:
 ---
 <img src="//chester.me/img/blig/mccloud.jpg" border=1 alt="My Obsession With Chess, Scott McCloud" align="left">Eu só tinha ouvido falar do livro dele (<a href="http://www.amazon.com/exec/obidos/tg/detail/-/006097625X/qid=1075669290//ref=sr\_8\_xs\_ap\_i2_xgl14/102-3231085-8025729?v=glance&#038;s=books&#038;n=507846" >Understanding Comics</a>), mas quando li o Derek Kirk Kim falando bem, fui dar uma olhada nos <a href="http://www.scottmccloud.com/" >quadrinhos online de Scott McCloud</a>.

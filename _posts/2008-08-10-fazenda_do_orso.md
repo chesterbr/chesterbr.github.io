@@ -5,7 +5,7 @@ excerpt: |
     Quem assistiu ao desenho animado do Garfield deve se lembrar que ele era "dividido" com um outro grupo de personagens, a Fazenda do Orson (U. S. Acres no original). Já naquela época Garfield sofria da crise criativa que o tornou...
 layout: post
 comments: true
-permalink: /archives/2008/08/fazenda_do_orso.html
+permalink: /archives/2008/08/fazenda_do_orso.html/
 robotsmeta:
   - index,follow
 dsq_thread_id:

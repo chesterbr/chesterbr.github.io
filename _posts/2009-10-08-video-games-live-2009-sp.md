@@ -2,7 +2,7 @@
 title: Video Games Live 2009 SP
 layout: post
 comments: true
-permalink: /archives/2009/10/video-games-live-2009-sp.html
+permalink: /archives/2009/10/video-games-live-2009-sp.html/
 categories:
 ---
 <img class="alignright size-full wp-image-3494 right" src="//chester.me/wp-content/uploads/2009/10/vgl.jpg" alt="Video Games Live 2009 SP" width="256" height="179" />Fui no [Video Games Live][1] com um certo pé atrás. Afinal de contas, um evento onde você bota uma orquestra sinfônica para tocar música de videogame é um pouco surreal &#8211; e juntar três mil nerds pra alucinar em cima disso me parecia a própria receita da vergonha alheia.

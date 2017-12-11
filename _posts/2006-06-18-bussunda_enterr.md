@@ -5,7 +5,7 @@ excerpt: |
     Quando me falaram que o Bussunda tinha falecido, meu primeiro pensamento foi num possível trote do Cocadaboa - ainda mais considerando que o tal falecimento teria se dado durante um jogo de futebol na Alemanha, em plena copa do mundo....
 layout: post
 comments: true
-permalink: /archives/2006/06/bussunda_enterr.html
+permalink: /archives/2006/06/bussunda_enterr.html/
 categories:
 ---
 <img title="Revista da Web de Setembro/2000, com Bussunda no caixão para ilustrar reportagem de 50 sites de humor" src="//chester.me/archives/img/bussunda.jpg" width="204" height="301" align="right" border="1" style="left-margin:2px" />Quando me falaram que o Bussunda tinha falecido, meu primeiro pensamento foi num possível trote do [Cocadaboa][1] &#8211; ainda mais considerando que o tal falecimento teria se dado durante um jogo de futebol na Alemanha, em plena copa do mundo. Como todos sabem, [não era][2].

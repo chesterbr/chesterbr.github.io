@@ -5,7 +5,7 @@ excerpt: |
     Acabei de ler o número 1 (parece que rolou um número zero em alguns eventos) da versão "reloaded" da Turma da Mônica. E posso dizer que me surpreendeu positivamente. (eu, pessoalmente, sempre tive uma teoria de que a Tina era...
 layout: post
 comments: true
-permalink: /archives/2008/08/turma_da_monica.html
+permalink: /archives/2008/08/turma_da_monica.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/monica_jovem.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:

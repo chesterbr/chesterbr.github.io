@@ -5,7 +5,7 @@ excerpt: |
     Este deveria ser um artigo a respeito de Anders Loves Maria, um webcomic que trabalha o universo dos "jovens adultos" através das relações pouco usuais entre os personagens-título e o elenco de apoio, tudo isso apoiado em uma arte que...
 layout: post
 comments: true
-permalink: /archives/2008/05/anders_loves_ma.html
+permalink: /archives/2008/05/anders_loves_ma.html/
 categories:
 ---
 <span class="mt-enclosure mt-enclosure-image"><img title="Cena de Anders Loves Maria, por Rene Engström" src="//chester.me/archives/img/2008-02-07.png" width="192" height="287" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Este deveria ser um artigo a respeito de [Anders Loves Maria][1], um webcomic que trabalha o universo dos &#8220;jovens adultos&#8221; através das relações pouco usuais entre os personagens-título e o elenco de apoio, tudo isso apoiado em uma arte que consegue ser experimental sem perder a consistência e a qualidade.

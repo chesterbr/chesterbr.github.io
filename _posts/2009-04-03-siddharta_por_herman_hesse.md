@@ -5,7 +5,7 @@ excerpt: |
     Siddharta (que já teve versão em filme) é um livro de ficção, cujo protagonista-título é um jovem indiano bem-nascido, que deixa sua fortuna para tentar alcançar o conhecimento. Esta jornada se dá das mais diversas formas: desde a meditação e...
 layout: post
 comments: true
-permalink: /archives/2009/04/siddharta_por_herman_hesse.html
+permalink: /archives/2009/04/siddharta_por_herman_hesse.html/
 dsq_thread_id:
   - 1751450186
 categories:

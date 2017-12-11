@@ -2,7 +2,7 @@
 title: Alt.sex.hellokitty
 layout: post
 comments: true
-permalink: /archives/2004/07/alt-sex-hellokitty.html
+permalink: /archives/2004/07/alt-sex-hellokitty.html/
 categories:
 ---
 <img src="//chester.me/img/blig/altsexhellokitty.jpg" border=2 alt="Gatinho, gatinho, gatinho..." align="left">Para quem ainda considera Hello Kitty um fofinho e inocente personagem (tem até quem tenha <a href="http://www.sanriotown.com/login/index.php" >e-mail @hellokitty.com</a>), é surpreendente descobrir que existe o alt.sex.hellokitty (acessível via <a href="http://groups.google.com/groups?hl=en&#038;lr=&#038;ie=UTF-8&#038;group=alt.sex.hello-kitty" >Google Groups</a>).

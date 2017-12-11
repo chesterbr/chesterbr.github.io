@@ -2,7 +2,7 @@
 title: Bola de neve church
 layout: post
 comments: true
-permalink: /archives/2004/04/bola-de-neve-church.html
+permalink: /archives/2004/04/bola-de-neve-church.html/
 categories:
 ---
 <img src="//chester.me/img/blig/boladeneve.jpg" border=1 alt="imagem do altar da Bola de Neve Church" align="left">Vão falar que eu tou de perseguição com as igrejas &#8211; e eu não tenho a menor vocação pra Mel Gibson. Mas depois de ouvir comentários de rua, fui procurar na web a <a href="http://www.boladeneve.com" >Bola de Neve Church</a>, que se auto-descreve como &#8220;uma Igreja centrada em Deus, voltada para a X-Generation, com visão missionária, plantando Igrejas como a forma mais eficaz de evangelismo&#8221;.

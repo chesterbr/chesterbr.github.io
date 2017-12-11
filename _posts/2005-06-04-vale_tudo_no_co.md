@@ -5,7 +5,7 @@ excerpt: |
     Eu me achava sacana por inventar telefones sempre que me pedem para colocar o número ao lado da assinatura nos comprovantes de compras com cartão - afinal, a última coisa que eu preciso é dar às pessoas que conhecem meu...
 layout: post
 comments: true
-permalink: /archives/2005/06/vale_tudo_no_co.html
+permalink: /archives/2005/06/vale_tudo_no_co.html/
 categories:
 ---
 <img title="cartao.jpg" src="//chester.me/archives/img/cartao.jpg" width="223" height="222" align="right" border="1" style="margin-left:4px" />Eu me achava sacana por inventar telefones sempre que me pedem para colocar o número ao lado da assinatura nos comprovantes de compras com cartão &#8211; afinal, a última coisa que eu preciso é dar às pessoas que conhecem meu padrão de compras uma chance para me ligar. Conheci um cara que tevea genial idéia de dar sempre o telefone do Bozo (para quem não lembra: 236-0873). Nunca reclamaram.

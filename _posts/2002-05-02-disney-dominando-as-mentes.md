@@ -2,7 +2,7 @@
 title: Disney dominando as mentes
 layout: post
 comments: true
-permalink: /archives/2002/05/disney-dominando-as-mentes.html
+permalink: /archives/2002/05/disney-dominando-as-mentes.html/
 categories:
 ---
 <img src='//chester.me/img/blig/brancadeneve.gif' align="left" hspace=3 border=2>Todo mundo já teve algum amigo, professor de história ou colega de trabalho teórico da conspiração, daqueles que acha que qualquer mudança nos intervalos comerciais da televisão é uma tentativa de propaganda subliminar. Quando isso se mistura com religião, então, é que a casa cai.

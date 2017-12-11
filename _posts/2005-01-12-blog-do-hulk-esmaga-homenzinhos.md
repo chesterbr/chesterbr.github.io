@@ -2,7 +2,7 @@
 title: Blog do hulk esmaga homenzinhos
 layout: post
 comments: true
-permalink: /archives/2005/01/blog-do-hulk-esmaga-homenzinhos.html
+permalink: /archives/2005/01/blog-do-hulk-esmaga-homenzinhos.html/
 dsq_thread_id:
   - 1751447375
 categories:

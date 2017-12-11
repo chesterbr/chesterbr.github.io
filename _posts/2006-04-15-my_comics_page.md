@@ -5,7 +5,7 @@ excerpt: |
     Outro dia eu procurava material novo da Cathy (personagem cuja única publicação de que tenho notícia é uma coletânea da Cedibra de mais de 20 anos atrás) e achei o excelente My Comics Page. Por meros US$ 11,95 por ano,...
 layout: post
 comments: true
-permalink: /archives/2006/04/my_comics_page.html
+permalink: /archives/2006/04/my_comics_page.html/
 dsq_thread_id:
   - 1751444728
 categories:

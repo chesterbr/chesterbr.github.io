@@ -5,7 +5,7 @@ excerpt: |
     Já vi algumas dessas, mas esta coleção de tiras do Calvin sobre bonecos de neve é massiva. Não entendo como não lançam um livro temático disso, o assunto é inesgotável. Outra idéia (pra quem tiver livros do Calvin e tempo...
 layout: post
 comments: true
-permalink: /archives/2006/12/bonecos_de_neve.html
+permalink: /archives/2006/12/bonecos_de_neve.html/
 dsq_thread_id:
   - 1751441523
 categories:

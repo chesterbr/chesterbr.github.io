@@ -5,7 +5,7 @@ excerpt: |
     Eu achei que o fundo do poço tinha chegado com o dragon porn. Me enganei, pois logo em seguida pintou o smurf porn. Agora é vez dos Transformers: Dream in Pink é um site que reune yaoi (i.e., mangá com...
 layout: post
 comments: true
-permalink: /archives/2008/07/dreaming_in_pin.html
+permalink: /archives/2008/07/dreaming_in_pin.html/
 dsq_thread_id:
   - 1751450744
 categories:

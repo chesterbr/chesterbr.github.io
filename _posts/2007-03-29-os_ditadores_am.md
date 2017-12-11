@@ -5,7 +5,7 @@ excerpt: |
     Friendly Dictators é uma coleção de trading cards que, como o Golpe, possui temática política. Nele, cada carta representa um ditador da história recente que colheu frutos ao cultivar boas relações com os EUA. São 35 cartas (confira o índice...
 layout: post
 comments: true
-permalink: /archives/2007/03/os_ditadores_am.html
+permalink: /archives/2007/03/os_ditadores_am.html/
 categories:
 ---
 <img title="Arte de caixa do Friendly Dictators" src="//chester.me/archives/img/friendly_dict.jpg" width="180" height="236" align="right" border="1" style="margin-left:2px" />[Friendly Dictators][1] é uma coleção de *trading cards* que, como o [Golpe][2], possui temática política. Nele, cada carta representa um ditador da história recente que colheu frutos ao cultivar boas relações com os EUA.

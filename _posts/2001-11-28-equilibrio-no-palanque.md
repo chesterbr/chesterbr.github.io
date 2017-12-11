@@ -2,7 +2,7 @@
 title: Equilíbrio no palanque
 layout: post
 comments: true
-permalink: /archives/2001/11/equilibrio-no-palanque.html
+permalink: /archives/2001/11/equilibrio-no-palanque.html/
 categories:
 ---
 FHC resolveu <a href="http://ultimosegundo.ig.com.br/home/editorial/stories/editorial_body/0,1205,676861,00.html" >dar as caras em público</a>, apesar do seu ibope estar meio na sombra do apagão. Infelizmente (pro presidente) a aparição era a respeito do bolsa-escola, assim, não tinha como não trazer o Paulo Renato &#8211; cujo filme queimado nos permite dizer que, em termos de popularidade, isso só perde pra inaugurar uma creche e chamar o Michael Jackson pra fazer o discurso!

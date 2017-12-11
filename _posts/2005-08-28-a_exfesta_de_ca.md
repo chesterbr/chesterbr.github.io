@@ -5,7 +5,7 @@ excerpt: |
     E quando eu achava que já tinha visto de tudo no Orkut, encontro essa comunidade surreal. O próprio dono explica: Eu ia casar em 17 de junho de 2006 (DOIS MIL E SEIS). A noiva "fugiu": pirou o cabeção e...
 layout: post
 comments: true
-permalink: /archives/2005/08/a_exfesta_de_ca.html
+permalink: /archives/2005/08/a_exfesta_de_ca.html/
 dsq_thread_id:
   - 1751446040
 categories:

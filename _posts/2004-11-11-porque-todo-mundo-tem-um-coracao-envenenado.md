@@ -2,7 +2,7 @@
 title: Porque todo mundo tem um coração envenenado
 layout: post
 comments: true
-permalink: /archives/2004/11/porque-todo-mundo-tem-um-coracao-envenenado.html
+permalink: /archives/2004/11/porque-todo-mundo-tem-um-coracao-envenenado.html/
 categories:
 ---
 <img src="//chester.me/img/blig/ramones_logo.jpg" border=0 align="right" alt="">[Coração Envenenado][1] é uma autobiografia (relativamente antiga, da metade dos anos 90) de Dee Dee Ramone, fundador, baixista e autor de boa parte das músicas dos Ramones (ele escreveu bastante material, mesmo depois de deixar o grupo). O livro (que eu sugiro comprar no site, na loja é mais caro) vai da infância do autor até a fase em que ele se livra da heroína &#8211; que não durou muito, já que a droga o levou à morte em 2002.

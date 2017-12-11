@@ -2,7 +2,7 @@
 title: Você mexeria com um hipopótamo?
 layout: post
 comments: true
-permalink: /archives/2001/11/voce-mexeria-com-um-hipopotamo.html
+permalink: /archives/2001/11/voce-mexeria-com-um-hipopotamo.html/
 categories:
 ---
 Parece uma pergunta idiota, mas não é: um hipopótamo <a href="http://ultimosegundo.ig.com.br/home/editorial/stories/editorial_body/0,1205,674546,00.html" >matou seis pessoas</a> numa embarcação, porque eles foram estúpidos o suficiente pra ir ver o bicho mais de perto, já que hipopótamo é mansinho e não pesa quase nada mesmo&#8230;

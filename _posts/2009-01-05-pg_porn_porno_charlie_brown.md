@@ -5,7 +5,7 @@ excerpt: |
     Quando você tem no currículo coisas que vão desde filmes da Troma até produções mais mainstream como Scooby Doo, o que resta pra fazer da vida? No caso de James Gunn, a resposta foi o PG Porn - que se...
 layout: post
 comments: true
-permalink: /archives/2009/01/pg_porn_porno_charlie_brown.html
+permalink: /archives/2009/01/pg_porn_porno_charlie_brown.html/
 dsq_thread_id:
   - 1751450250
 categories:

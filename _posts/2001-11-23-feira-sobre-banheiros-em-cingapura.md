@@ -2,7 +2,7 @@
 title: Feira sobre banheiros em Cingapura
 layout: post
 comments: true
-permalink: /archives/2001/11/feira-sobre-banheiros-em-cingapura.html
+permalink: /archives/2001/11/feira-sobre-banheiros-em-cingapura.html/
 categories:
 ---
 Esse lance de ir em Fenasoft e Salão do Automóvel já era &#8211; em Cingapura os caras estão fazendo [uma feira sobre \*banheiros\*][1], é mole?

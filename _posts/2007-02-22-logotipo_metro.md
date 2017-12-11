@@ -5,7 +5,7 @@ excerpt: |
     Por mais que eu respeite o trabalho de criação de logomarcas, não dá pra engolir as hipérboles que a explicação oficial do significado do logotipo do Metrô de São Paulo faz. O metrô tem um ícone muito eficiente, mas, depois...
 layout: post
 comments: true
-permalink: /archives/2007/02/logotipo_metro.html
+permalink: /archives/2007/02/logotipo_metro.html/
 dsq_thread_id:
   - 1751444025
 categories:

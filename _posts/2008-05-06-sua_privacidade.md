@@ -5,7 +5,7 @@ excerpt: |
     Fui supreendido pelo panfleto da ilustração ao entrar no prédio de uma grande empresa de mídia paulistana. A proposta é que a pessoa entregue dados pessoais, vínculo com a empresa, informações do veículo e da residência para uma empresa de...
 layout: post
 comments: true
-permalink: /archives/2008/05/sua_privacidade.html
+permalink: /archives/2008/05/sua_privacidade.html/
 categories:
 ---
 <span class="mt-enclosure mt-enclosure-image"><img title="vale um chocolate" src="//chester.me/archives/img/Imagem%20%282%29.jpg" width="299" height="432" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Fui supreendido pelo panfleto da ilustração ao entrar no prédio de uma grande empresa de mídia paulistana. A proposta é que a pessoa entregue dados pessoais, vínculo com a empresa, informações do veículo e da residência para uma empresa de seguros &#8211; tudo por um singelo chocolate.

@@ -2,7 +2,7 @@
 title: Chester, por Ila Fox
 layout: post
 comments: true
-permalink: /archives/2010/11/chester-por-ila-fox.html
+permalink: /archives/2010/11/chester-por-ila-fox.html/
 onswipe_thumb:
   - /img/chester_ila_500.jpg
 categories:

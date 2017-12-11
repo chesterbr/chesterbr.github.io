@@ -5,7 +5,7 @@ excerpt: |
     04/10 (Quarta) - A escolha do chefe, rugby e um bar "estáile" Inicialmente a empresa tinha alugado um carro para nós cinco (os três brasileiros e os dois chineses), mas só poderíamos dirigir com uma PID. O link dá detalhes,...
 layout: post
 comments: true
-permalink: /archives/2007/10/chester_na_afri_2.html
+permalink: /archives/2007/10/chester_na_afri_2.html/
 categories:
 ---
 <span class="mt-enclosure mt-enclosure-image"><img title="Pub do Peddlars" border="1" src="//chester.me/archives/img/peddlars_pub.jpg" width="230" height="176" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>*04/10 (Quarta) &#8211; A escolha do chefe, rugby e um bar &#8220;estáile&#8221;*

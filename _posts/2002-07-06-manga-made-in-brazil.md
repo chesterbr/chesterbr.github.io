@@ -2,7 +2,7 @@
 title: Mangá made in brazil
 layout: post
 comments: true
-permalink: /archives/2002/07/manga-made-in-brazil.html
+permalink: /archives/2002/07/manga-made-in-brazil.html/
 categories:
 ---
 <img src='//chester.me/img/blig/oiran.jpg' align="left" border=2 hspace=2>Sempre que algum personagem ligado direta ou indiretamente a histórias em quadrinhos faz sucesso com o público infantil (leia-se: público ultra-consumidor), há um reflexo positivo no mercado de HQ. No caso de Dragonball, uma quantidade enorme de lançamentos de mangás que se viabilizou em grande parte graças ao sucesso do desenho animado e de seus produtos associados (ok, também ajudou o fato de os editores perceberem que podiam baratear bastante o produto final mantendo-o em preto-e-branco e na diagramação original).

@@ -5,7 +5,7 @@ excerpt: |
     Uma das características mais legais do Nintendo DS (NDS) é a comunicação sem fio: você pode jogar pessoalmente contra os amigos, ou, através de uma rede Wi-Fi, desafiar pessoas do mundo todo. O sucesso do NDS com o público infantil...
 layout: post
 comments: true
-permalink: /archives/2007/01/colocando_o_nin.html
+permalink: /archives/2007/01/colocando_o_nin.html/
 dsq_thread_id:
   - 1751441348
 categories:

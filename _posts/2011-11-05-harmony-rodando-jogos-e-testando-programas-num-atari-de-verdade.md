@@ -2,7 +2,7 @@
 title: 'Harmony: rodando jogos (e testando programas) num Atari de verdade'
 layout: post
 comments: true
-permalink: /archives/2011/11/harmony-rodando-jogos-e-testando-programas-num-atari-de-verdade.html
+permalink: /archives/2011/11/harmony-rodando-jogos-e-testando-programas-num-atari-de-verdade.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

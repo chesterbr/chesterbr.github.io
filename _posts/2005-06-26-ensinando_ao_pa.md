@@ -5,7 +5,7 @@ excerpt: |
     Um dos fatores de sucesso dos computadores de mão é o sistema de reconhecimento de escrita. E isso demorou para surgir porque as pessoas têm caligrafias muito diferentes, e interpretá-las é uma tarefa complexa, mesmo para um computador de mesa....
 layout: post
 comments: true
-permalink: /archives/2005/06/ensinando_ao_pa.html
+permalink: /archives/2005/06/ensinando_ao_pa.html/
 categories:
 ---
 Um dos fatores de sucesso dos computadores de mão é o sistema de reconhecimento de escrita. E isso demorou para surgir porque as pessoas têm caligrafias muito diferentes, e interpretá-las é uma tarefa complexa, mesmo para um computador de mesa. O [Newton][1] conseguia um resultado até que louvável nisto, mas à custa de tamanho e preço que o tornaram inviável como computador de mão.

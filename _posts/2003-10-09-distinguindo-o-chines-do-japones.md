@@ -2,7 +2,7 @@
 title: Distinguindo o chinês do japonês
 layout: post
 comments: true
-permalink: /archives/2003/10/distinguindo-o-chines-do-japones.html
+permalink: /archives/2003/10/distinguindo-o-chines-do-japones.html/
 categories:
 ---
 <img src=//chester.me/img/blig/kanji.gif align="left" border=0>Estava eu procurando material de apoio para entender melhor o último <a href="http://www.joelonsoftware.com/articles/Unicode.html" >artigo</a> do Joel Spolsky, quando me vi no site oficial do <a href="http://www.unicode.org/" >Unicode</a> (sim, existe um).

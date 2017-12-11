@@ -5,7 +5,7 @@ excerpt: |
     Elite Beat Agents é um jogo musical para o portátil Nintendo DS. Assim como em Guitar Hero ou Dance Dance Revolution, cada fase corresponde a uma música, e você joga de acordo com a coreografia. O diferencial é que o...
 layout: post
 comments: true
-permalink: /archives/2007/03/elite_beat_agen.html
+permalink: /archives/2007/03/elite_beat_agen.html/
 dsq_thread_id:
   - 1751451045
 categories:

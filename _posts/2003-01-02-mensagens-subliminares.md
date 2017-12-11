@@ -2,7 +2,7 @@
 title: Mensagens subliminares
 layout: post
 comments: true
-permalink: /archives/2003/01/mensagens-subliminares.html
+permalink: /archives/2003/01/mensagens-subliminares.html/
 categories:
 ---
 Essa é tão ridícula que eu não podia deixar passar: o site <a href="http://www.mundosubliminar.hpg.ig.com.br" >Mundo Subliminar</a> dedica-se a achar as mensagens que os conspiradores deixam na mídia na tentativa de corromper nossas criancinhas. Não sei se o autor é um rei da ironia, ou se acredita nisso tudo, mas ele juntou uma quantidade de material capaz de entreter por horas.

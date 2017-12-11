@@ -2,7 +2,7 @@
 title: 'Internet explorer: infelizmente não tem mais como usar'
 layout: post
 comments: true
-permalink: /archives/2005/01/internet-explorer-infelizmente-nao-tem-mais-como-usar.html
+permalink: /archives/2005/01/internet-explorer-infelizmente-nao-tem-mais-como-usar.html/
 categories:
 ---
 [<img align="right" border="0" alt="Get Firefox!" title="Get Firefox!" src="http://sfx-images.mozilla.org/affiliates/Buttons/180x60/safer.gif"/>][1]<a href="http://www.jmcardle.com/?postid=77" >Essa</a> parece eser uma das mais perigosas falhas de segurança descobertas no Internet Explorer até hoje.

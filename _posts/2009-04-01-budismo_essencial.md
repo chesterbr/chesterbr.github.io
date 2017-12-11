@@ -5,7 +5,7 @@ excerpt: |
     O Reverendo Gyomay Kubose, autor de Budismo Essencial, vive um dualismo interessante: nasceu nos EUA, mas cresceu no Japão, dividindo-se entre os estudos acadêmicos no ocidente e a ordenação como monge budista da Escola Shin na terra do sol nascente....
 layout: post
 comments: true
-permalink: /archives/2009/04/budismo_essencial.html
+permalink: /archives/2009/04/budismo_essencial.html/
 dsq_thread_id:
   - 1751852809
 categories:

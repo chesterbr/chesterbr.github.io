@@ -2,7 +2,7 @@
 title: Desvendando os quadrinhos
 layout: post
 comments: true
-permalink: /archives/2004/12/desvendando-os-quadrinhos.html
+permalink: /archives/2004/12/desvendando-os-quadrinhos.html/
 categories:
 ---
 Depois de quase uma década, foi lançado no Brasil o <a href="http://www.submarino.com.br/books_productdetails.asp?Query=ProductPage&#038;ProdTypeId=1&#038;ProdId=21471&#038;ST=SE" >Desvendando os Quadrinhos</a> de Scott McCloud. Valeu a espera: é leitura tão obrigatória quanto <a href="http://www.submarino.com.br/books\_productdetails.asp?Query=ProductPage&#038;ProdTypeId=1&#038;ProdId=54251&#038;franq=102414" taregt=\_blank>Quadrinhos e Arte Seqüêncial</a>, de Will Einser.

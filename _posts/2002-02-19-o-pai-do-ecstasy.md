@@ -2,7 +2,7 @@
 title: O pai do ecstasy
 layout: post
 comments: true
-permalink: /archives/2002/02/o-pai-do-ecstasy.html
+permalink: /archives/2002/02/o-pai-do-ecstasy.html/
 categories:
 ---
 <img src='//chester.me/img/blig/n-1.jpg' hspace=4 align="left" height=112 width=150 border=0>Já nos anos 80 Angeli abria os olhos da petizada (na impagável sessão de cartas da *Chiclete com Banana*) para o fato de que a apologia às &#8220;drogas&#8221;, independente de ser correta ou não, já era algo extremamente esgotado e sem sentido, e que o assunto fora tratado à exaustão nos anos 60 e 70.

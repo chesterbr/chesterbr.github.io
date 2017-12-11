@@ -5,7 +5,7 @@ excerpt: |
     Pensando na adminsitração da cidade de São Paulo, meu voto iria para Marta. Mas num momento em que o mundo volta sua atenção para a questão da corrupção e cada vez mais se vê discrepância entre discurso e atitude quando...
 layout: post
 comments: true
-permalink: /archives/2008/10/eleicoes_2008_meu_voto_e_soninha.html
+permalink: /archives/2008/10/eleicoes_2008_meu_voto_e_soninha.html/
 categories:
 ---
 <span class="mt-enclosure mt-enclosure-image"><img alt="soninha.jpg" src="//chester.me/archives/img/soninha.jpg" width="150" height="180" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Pensando na adminsitração da cidade de São Paulo, meu voto iria para Marta. Mas num momento em que o mundo [volta sua atenção][1] para a questão da corrupção e cada vez mais se vê [discrepância entre discurso e atitude][2] quando o assunto é cidadania sustentável, acho mais sensato escolher a [Soninha Francine][3] como candidata.

@@ -2,7 +2,7 @@
 title: 'Crise no Japão: a herdeira é menina'
 layout: post
 comments: true
-permalink: /archives/2001/12/crise-no-japao-a-herdeira-e-menina.html
+permalink: /archives/2001/12/crise-no-japao-a-herdeira-e-menina.html/
 categories:
 ---
 O Japão está em crise: a imperatriz <a href="http://www.terra.com.br/noticias/mundo/2001/12/01/028.htm" >deu à luz uma menina</a>, o que pode desencadear uma crise política. Sério! A lei do país permite apenas que homens assumam o trono, mas o nascimento da princesa reacende o debate sobre o sentido desta lei nos tempos atuais.

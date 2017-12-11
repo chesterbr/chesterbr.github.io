@@ -5,7 +5,7 @@ excerpt: |
     O GUIdebook é uma gigantesca (e organizadíssima) coleção de screenshots de diversas interfaces gráficas (GUIs) dos mais variados computadores e sistemas operacionais. Ali é possível encontrar pérolas como o Apple II DeskTop, que tirava água da pedra colocando uma interface...
 layout: post
 comments: true
-permalink: /archives/2005/05/todas_as_interf.html
+permalink: /archives/2005/05/todas_as_interf.html/
 categories:
 ---
 <img style="border-color: #FFFFFF;" title="Xerox Palo Alto mostrando sua interface " src="//chester.me/archives/img/xerox.jpg" alt="" width="220" height="169" align="right" border="2" />O [GUIdebook][1] é uma gigantesca (e organizadíssima) coleção de screenshots de diversas interfaces gráficas (GUIs) dos mais variados computadores e sistemas operacionais.

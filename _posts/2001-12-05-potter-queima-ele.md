@@ -2,7 +2,7 @@
 title: 'Potter: &#8220;queima ele!!!&#8221;'
 layout: post
 comments: true
-permalink: /archives/2001/12/potter-queima-ele.html
+permalink: /archives/2001/12/potter-queima-ele.html/
 categories:
 ---
 Tem horas que eu me rendo ao pessimismo: somos mesmos atrasados. Só agora surgiu um desinformado brazuca querendo [associar Harry Potter ao anticristo][1] (mesmo sem ter lido os livros ou assistido ao filme, como confessa na matéria).

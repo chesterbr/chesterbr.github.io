@@ -2,7 +2,7 @@
 title: 'Cegonha: ainda um sucesso na China'
 layout: post
 comments: true
-permalink: /archives/2001/12/cegonha-ainda-um-sucesso-na-china.html
+permalink: /archives/2001/12/cegonha-ainda-um-sucesso-na-china.html/
 categories:
 ---
 É difícil de aceitar para nós, latinos *calientes*, mas, entre os **universitários** chineses, 10% dos homens e 16% das mulheres simplesmente não sabem como nascem as crianças, conforme pesquisa realizada recentemente e divulgada <a href="http://ultimosegundo.ig.com.br/home/editorial/stories/editorial_body/0,1205,691981,00.html" >neste artigo</a>.

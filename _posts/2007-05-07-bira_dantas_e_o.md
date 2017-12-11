@@ -5,7 +5,7 @@ excerpt: |
     Fui surpreendido por um e-mail pra lá de simpático: o Bira Dantas, integrante "das antigas" do quase mítico Estúdio Ely Barbosa (o link mostra algumas das criações que surgiram ali) me escreve pra falar da sua participação nas histórias em...
 layout: post
 comments: true
-permalink: /archives/2007/05/bira_dantas_e_o.html
+permalink: /archives/2007/05/bira_dantas_e_o.html/
 dsq_thread_id:
   - 1751443881
 categories:

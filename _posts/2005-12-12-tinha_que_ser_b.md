@@ -5,7 +5,7 @@ excerpt: |
     A singela ilustração aí do lado é a vencedora do Phallic Logo Awards, uma coletânea do site B3ta que reuniu peças publicitárias com motivos acidentalmente (ou incidentalmente) fálicos. O artigo saiu no meio do ano, mas graças a uma menção...
 layout: post
 comments: true
-permalink: /archives/2005/12/tinha_que_ser_b.html
+permalink: /archives/2005/12/tinha_que_ser_b.html/
 dsq_thread_id:
   - 1751441991
 categories:

@@ -2,7 +2,7 @@
 title: Restolhada do Marcatti
 layout: post
 comments: true
-permalink: /archives/2003/09/restolhada-do-marcatti.html
+permalink: /archives/2003/09/restolhada-do-marcatti.html/
 onswipe_thumb:
   - SKIP
 categories:

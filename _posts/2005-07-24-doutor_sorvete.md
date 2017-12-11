@@ -5,7 +5,7 @@ excerpt: |
     O Professor H. Goff parece ser um acadêmico divertido: sua área de pesquisa é a físico-química, estrutura e formação de laticínios e comida congelada. Trocando em miúdos: o cara é um especialista em sorvete - e compilou uma porrada de...
 layout: post
 comments: true
-permalink: /archives/2005/07/doutor_sorvete.html
+permalink: /archives/2005/07/doutor_sorvete.html/
 categories:
 ---
 <img title="IceCreamCones.jpg" src="//chester.me/archives/img/IceCreamCones.jpg" width="139" height="126" align="left" />O Professor H. Goff parece ser um acadêmico divertido: sua área de pesquisa é a físico-química, estrutura e formação de laticínios e comida congelada. Trocando em miúdos: o cara é um especialista em sorvete &#8211; e compilou uma porrada de informações a este respeito [nesta][1] página.

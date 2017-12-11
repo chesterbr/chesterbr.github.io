@@ -5,7 +5,7 @@ excerpt: |
     Leitura leve e divertida, Por Que Almocei Meu Pai é um livro de 1960 que já foi publicado sob diferentes nomes (mesmo no idioma original) e redescoberto algumas vezes em diversos lugares do mundo. Apesar do histórico conturbado, ele se...
 layout: post
 comments: true
-permalink: /archives/2005/06/por_que_almocei.html
+permalink: /archives/2005/06/por_que_almocei.html/
 dsq_thread_id:
   - 1751442142
 categories:

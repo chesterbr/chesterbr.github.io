@@ -5,7 +5,7 @@ excerpt: |
     O que dizer de um filme com a sinopse abaixo? (fonte: Cineprojeto 365) "Siri, um anão negro, feio, semi-analfabeto, mudo (mas dotado de telepatia) é adotado por um casal com certa queda por orgias. Um dia a esposa se recusa...
 layout: post
 comments: true
-permalink: /archives/2006/03/fuk_fuk_a_brasi.html
+permalink: /archives/2006/03/fuk_fuk_a_brasi.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/ffab.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:

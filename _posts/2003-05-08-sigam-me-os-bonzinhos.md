@@ -2,7 +2,7 @@
 title: Sigam-me os bonzinhos
 layout: post
 comments: true
-permalink: /archives/2003/05/sigam-me-os-bonzinhos.html
+permalink: /archives/2003/05/sigam-me-os-bonzinhos.html/
 categories:
 ---
 Não, não é do Chapolin que eu vou falar, e sim dos <a href="http://www.comborangers.com.br" >Combo Rangers</a>. A história começou na época &#8220;pré-bolha&#8221; (~1999), com o site **PutaQuePariu.com** (não adianta procurar, nem o <a href="http://archive.org/" >Internet Archive</a> tem vestígio).

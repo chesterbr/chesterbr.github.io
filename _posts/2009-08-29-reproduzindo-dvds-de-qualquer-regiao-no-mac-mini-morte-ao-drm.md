@@ -2,7 +2,7 @@
 title: Reproduzindo DVDs de qualquer região no Mac mini (morte ao DRM)
 layout: post
 comments: true
-permalink: /archives/2009/08/reproduzindo-dvds-de-qualquer-regiao-no-mac-mini-morte-ao-drm.html
+permalink: /archives/2009/08/reproduzindo-dvds-de-qualquer-regiao-no-mac-mini-morte-ao-drm.html/
 dsq_thread_id:
   - 1753452160
 categories:

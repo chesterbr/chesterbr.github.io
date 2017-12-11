@@ -5,7 +5,7 @@ excerpt: |
     Lendo o álbum Minha Vida, do sempre genial Robert Crumb, descobri um fato inusitado sobre a música que anunciava a entrada dos jurados do Show De Calouros. Calma: o Crumb não assiste ao SBT. Acontece que um quadrinho reproduzia, como...
 layout: post
 comments: true
-permalink: /archives/2007/04/pedro_de_lara_l.html
+permalink: /archives/2007/04/pedro_de_lara_l.html/
 enclosure:
   - |
     |

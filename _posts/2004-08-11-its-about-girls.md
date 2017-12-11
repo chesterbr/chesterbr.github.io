@@ -2,7 +2,7 @@
 title: 'It&#8217;s about girls'
 layout: post
 comments: true
-permalink: /archives/2004/08/its-about-girls.html
+permalink: /archives/2004/08/its-about-girls.html/
 categories:
 ---
 <img src="//chester.me/img/blig/itsabout.jpg" border=2 alt="cena de It's About Girls, de william G" align="right">O nome do autor é William G. (mas já ouvi falar dele como William Beckerson). É mais um desses talentos que só chegam ao público graças à mágica dos quadrinhos online.

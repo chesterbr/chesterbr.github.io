@@ -5,7 +5,7 @@ excerpt: |
     Este Manual de civildade destinado às meninas para uso nas escolas é um livro do início do século passado, que, sob o pretexto alegado no título, desfila um humor que julgo ora sofistcado, ora grosseiro - mas nunca deixo de...
 layout: post
 comments: true
-permalink: /archives/2005/12/a_civilidade_fe.html
+permalink: /archives/2005/12/a_civilidade_fe.html/
 categories:
 ---
 <img title="Capa do livro de Pierre Louÿs" src="//chester.me/archives/img/conduta_meninas.jpg" width="201" height="266" align="left" border="1" style="margin-right:2px" />Este *[Manual de civildade destinado às meninas para uso nas escolas][1]* é um livro do início do século passado, que, sob o pretexto alegado no título, desfila um humor que julgo ora sofistcado, ora grosseiro &#8211; mas nunca deixo de achar curioso.

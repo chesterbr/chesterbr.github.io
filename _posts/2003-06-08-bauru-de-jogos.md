@@ -2,7 +2,7 @@
 title: Bauru de jogos
 layout: post
 comments: true
-permalink: /archives/2003/06/bauru-de-jogos.html
+permalink: /archives/2003/06/bauru-de-jogos.html/
 categories:
 ---
 Outro link bacana recebido dos amigos, o <a href="http://baudejogos.vetorialnet.com.br" >Bauru de Jogos</a> é mais um site sobre jogos para micros e videogames de 8 bits. O diferencial é que os autores não têm dó de descer a lenha naqueles jogos que todo mundo acha podreira, mas ninguém tem coragem de dizer.

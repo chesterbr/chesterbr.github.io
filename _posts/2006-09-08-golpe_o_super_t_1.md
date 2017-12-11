@@ -5,7 +5,7 @@ excerpt: |
     Com uma eleição tão parada como esta (a menos de pérolas como o Super Moura e o Deputado das Raves), só nos restou pegar carona no insanamente bem sacado Super Trunfo de Santos Católicos e lançar o Golpe - um...
 layout: post
 comments: true
-permalink: /archives/2006/09/golpe_o_super_t_1.html
+permalink: /archives/2006/09/golpe_o_super_t_1.html/
 dsq_thread_id:
   - 1751441904
 categories:

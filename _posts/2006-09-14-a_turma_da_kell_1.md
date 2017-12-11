@@ -5,7 +5,7 @@ excerpt: |
     Uma coisa legal da repercussão do Golpe foi que eu acabei visitando vários blogs e sites bacanas. Um deles me levou até A Turma da Kelly, um webcomic nacional que me impressionou por abordar temas-tabu como homossexualismo, uso de maconha...
 layout: post
 comments: true
-permalink: /archives/2006/09/a_turma_da_kell_1.html
+permalink: /archives/2006/09/a_turma_da_kell_1.html/
 dsq_thread_id:
   - 1751441806
 categories:

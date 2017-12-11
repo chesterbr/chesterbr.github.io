@@ -5,7 +5,7 @@ excerpt: |
     Numa possível boa intenção, o Detran/RJ postou um simulado da prova de direção defensiva e primeiros socorros (que todo mundo que tira ou renova a carteira de motorista precisa fazer). Tá, a prova real tem lá as suas questões sem...
 layout: post
 comments: true
-permalink: /archives/2007/09/teste_mad_para_1.html
+permalink: /archives/2007/09/teste_mad_para_1.html/
 dsq_thread_id:
   - 1751443548
 categories:

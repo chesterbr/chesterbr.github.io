@@ -5,7 +5,7 @@ excerpt: |
     A Uncyclopedia surgiu como um contraponto cômico da Wikipedia - ali, o critério é a paródia e a falta de conteúdo. O resultado cômico nem sempre é incrível, embora verbetes como Java, AAAAAAAAA! e o dos gatinhos (aqueles que Deus...
 layout: post
 comments: true
-permalink: /archives/2006/05/uncyclopedia_e.html
+permalink: /archives/2006/05/uncyclopedia_e.html/
 categories:
 ---
 <img title="Tiozinho servindo um gregão" src="//chester.me/archives/img/churrasco_grego.jpg" width="250" height="160" align="left" style="margin-right:2px" border=1/>A [Uncyclopedia][1] surgiu como um contraponto cômico da [Wikipedia][2] &#8211; ali, o critério é a paródia e a falta de conteúdo. O resultado cômico nem sempre é incrível, embora verbetes como [Java][3], [AAAAAAAAA!][4] e o dos [gatinhos][5] (aqueles que Deus mata toda vez que você se masturba) tenham lá o seu valor humorístico.

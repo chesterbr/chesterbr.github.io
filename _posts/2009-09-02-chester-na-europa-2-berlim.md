@@ -2,7 +2,7 @@
 title: 'Chester na Europa (parte 2 de 3): Berlim'
 layout: post
 comments: true
-permalink: /archives/2009/09/chester-na-europa-2-berlim.html
+permalink: /archives/2009/09/chester-na-europa-2-berlim.html/
 dsq_thread_id:
   - 1751441175
 categories:

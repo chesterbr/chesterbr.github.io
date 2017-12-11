@@ -5,7 +5,7 @@ excerpt: |
     O Tornado me mandou o vídeo de Finite Simple Group (of order two), no qual um coral afinadíssimo trilha o espinhoso caminho de misturar matemática e comédia, com bons resultados (o que não é impossível - o xkcd está aí...
 layout: post
 comments: true
-permalink: /archives/2007/05/the_klein_four.html
+permalink: /archives/2007/05/the_klein_four.html/
 categories:
 ---
 <img title="Imagem do coral de matemáticos 'The Klein Four'" src="//chester.me/archives/img/kleinfour.jpg" width="200" height="149" align="left" style="margin-right:2px" border="1" />O [Tornado][1] me mandou o [vídeo de Finite Simple Group (of order two)][2], no qual um coral afinadíssimo trilha o espinhoso caminho de misturar matemática e comédia, com bons resultados (o que não é impossível &#8211; o [xkcd][3] está aí para provar).

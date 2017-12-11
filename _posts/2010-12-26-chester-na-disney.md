@@ -2,7 +2,7 @@
 title: Chester na Disney
 layout: post
 comments: true
-permalink: /archives/2010/12/chester-na-disney.html
+permalink: /archives/2010/12/chester-na-disney.html/
 onswipe_thumb:
   - http://img.youtube.com/vi/UzQB6-733oI/0.jpg
 dsq_thread_id:

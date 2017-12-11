@@ -2,7 +2,7 @@
 title: Pastor Silas e a Igreja Internacional
 layout: post
 comments: true
-permalink: /archives/2009/11/pastor-silas-e-a-igreja-internacional.html
+permalink: /archives/2009/11/pastor-silas-e-a-igreja-internacional.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2009/11/graphic1iml2.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:

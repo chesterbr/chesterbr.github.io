@@ -2,7 +2,7 @@
 title: 'Elesbão e Haroldinho &#8211; coisa de <i>dizáin</i>'
 layout: post
 comments: true
-permalink: /archives/2002/08/elesbao-e-haroldinho-coisa-de-dizain.html
+permalink: /archives/2002/08/elesbao-e-haroldinho-coisa-de-dizain.html/
 dsq_thread_id:
   - 1752555989
 categories:

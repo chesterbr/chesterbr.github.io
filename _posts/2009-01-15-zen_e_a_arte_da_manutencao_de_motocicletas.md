@@ -5,7 +5,7 @@ excerpt: |
     Comecei a ler este livro anos atrás, mas acabei não terminando, e retomei ele após ler o recém-comentado Os Vagabundos Iluminados, já que ambos são histórias semi-autobiográficas nas quais o zen-budismo exerce influência num contexto urbano ocidental (especificamente, nos EUA)....
 layout: post
 comments: true
-permalink: /archives/2009/01/zen_e_a_arte_da_manutencao_de_motocicletas.html
+permalink: /archives/2009/01/zen_e_a_arte_da_manutencao_de_motocicletas.html/
 dsq_thread_id:
   - 1751450236
 categories:

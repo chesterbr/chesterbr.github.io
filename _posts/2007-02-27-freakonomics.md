@@ -5,7 +5,7 @@ excerpt: |
     Freakonomics é uma leitura que adiei bastante, mas a edição americana em papel-jornal (na casa dos R$ 20) me permitiu tirar o atraso. Trata-se de um interessante apanhado de análises em torno de questões sociais como criminalidade e sucesso profissional,...
 layout: post
 comments: true
-permalink: /archives/2007/02/freakonomics.html
+permalink: /archives/2007/02/freakonomics.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/freakonomics.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:

@@ -2,7 +2,7 @@
 title: Jailbreak do iPhone OS 3.1
 layout: post
 comments: true
-permalink: /archives/2009/09/jailbreak-do-iphone-os-3-1.html
+permalink: /archives/2009/09/jailbreak-do-iphone-os-3-1.html/
 categories:
 ---
 <img class="alignleft left" src="//chester.me/archives/img/mt/2009/06/20/logo.png" alt="logo do PwnageTool" width="84" height="120" />Quem tem iPhone da primeira geração (**não** 3G ou 3GS) pode usar o [PwnageTool novo][1] e a [receita de bolo][2] que eu publiquei outro dia para atualizar para o OS 3.1. Testei no meu, que já tinha o 3.0, e rolou sem problemas.

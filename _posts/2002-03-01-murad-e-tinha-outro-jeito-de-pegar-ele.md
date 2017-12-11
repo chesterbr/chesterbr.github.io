@@ -2,7 +2,7 @@
 title: 'Murad: e tinha outro jeito de pegar ele?'
 layout: post
 comments: true
-permalink: /archives/2002/03/murad-e-tinha-outro-jeito-de-pegar-ele.html
+permalink: /archives/2002/03/murad-e-tinha-outro-jeito-de-pegar-ele.html/
 categories:
 ---
 Cansei de ver, nos últimos dias, jornalistas e políticos denunciarem o &#8220;absurdo&#8221; que é o judiciário saber de tanta coisa sobre Jorge Murad e só tomar uma atitude agora. Será que alguém realmente acredita que, sem uma forcinha &#8220;lá de cima&#8221;, a vida de um genro de *coroné* como Jorge Murad seria investigada de alguma forma?

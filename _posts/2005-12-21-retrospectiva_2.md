@@ -5,7 +5,7 @@ excerpt: |
     O Google Zeitgeist é um apanhando que aponta semanalmente os termos de busca que estão em ascensão ou declínio. Ao final do mês, estes dados são categoriza-os de forma a oferecer interessantes visões sobre o que as pessoas procuram na...
 layout: post
 comments: true
-permalink: /archives/2005/12/retrospectiva_2.html
+permalink: /archives/2005/12/retrospectiva_2.html/
 categories:
 ---
 <img title="logo do Zeitgeist" src="http://www.google.com/intl/en/press/zeitgeist2005/images/logo.gif" width="130" height="54" align="right" style="margin-left:2px" />O [Google Zeitgeist][1] é um apanhando que aponta semanalmente os termos de busca que estão em ascensão ou declínio. Ao final do mês, estes dados são categoriza-os de forma a oferecer interessantes visões sobre o que as pessoas procuram na Internet.

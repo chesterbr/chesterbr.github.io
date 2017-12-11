@@ -5,7 +5,7 @@ excerpt: |
     10/10 (Quarta) e 11/10 (Quinta): Fechamento Gastronômico O trabalho e as últimas reuniões nos deixaram tempo "apenas" para a gastronomia. Na quarta o Leon nos levou ao Bloemendal - um casarão estilo medieval no topo de uma montanha ao norte...
 layout: post
 comments: true
-permalink: /archives/2007/10/chester_na_afri_8.html
+permalink: /archives/2007/10/chester_na_afri_8.html/
 categories:
 ---
 <span class="mt-enclosure mt-enclosure-image"><img title="Aparelho que, no Brasil, remete à escravidão, mas lá está mais ligado às guerras mesmo" border="1" src="//chester.me/archives/img/aparelho.jpg" width="200" height="164" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>*10/10 (Quarta) e 11/10 (Quinta): Fechamento Gastronômico*

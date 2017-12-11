@@ -5,7 +5,7 @@ excerpt: |
     A Carne é Fraca se propõe a mostrar em cores vivas as conseqüências do consumo de carne, e abre apresentando dados objetivos sobre o impacto desta prática no meio ambiente. Ele segue para impactantes cenas de onde e como os...
 layout: post
 comments: true
-permalink: /archives/2009/01/a_carne_e_fraca.html
+permalink: /archives/2009/01/a_carne_e_fraca.html/
 onswipe_thumb:
   - |
     http://img.youtube.com/vi/SKz6sgnUgdg">parte 2</a>). Quem preferir o DVD pode também adquiri-lo direto no site do <a href="http://www.institutoninarosa.org.br/">Instituto Nina Rosa</a>, que tem muito mais informações sobre o tema.</p>

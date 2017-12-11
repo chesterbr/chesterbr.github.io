@@ -5,7 +5,7 @@ excerpt: |
     The Packet Sniffers é um programa de "variedades nerd", produzido de forma independente por dois autênticos representantes do estilo faça-você-mesmo (para os não-técnicos: o nome é uma brincadeira com um tipo específico de software de rede). O show se destaca...
 layout: post
 comments: true
-permalink: /archives/2006/07/os_cheiradores.html
+permalink: /archives/2006/07/os_cheiradores.html/
 dsq_thread_id:
   - 1751441621
 categories:

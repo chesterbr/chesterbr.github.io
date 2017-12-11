@@ -2,7 +2,7 @@
 title: O que eu quero MESMO ganhar no Natal
 layout: post
 comments: true
-permalink: /archives/2011/11/o-que-eu-quero-mesmo-ganhar-no-natal.html
+permalink: /archives/2011/11/o-que-eu-quero-mesmo-ganhar-no-natal.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

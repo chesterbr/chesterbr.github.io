@@ -5,7 +5,7 @@ excerpt: |
     Raramente deixo livros inacabados. No entanto, o indigesto A Voz do Fogo, do Alan Moore, foi um desses casos. Dizem que fica bom lá pelo meio - mas a caminhada é longa, e a vida é curta. Pra piorar, deixou...
 layout: post
 comments: true
-permalink: /archives/2006/01/deuses_american.html
+permalink: /archives/2006/01/deuses_american.html/
 categories:
 ---
 <img title="Capa de Deuses Americanos, de Neil Gaiman" src="//chester.me/archives/img/deuses_americanos.jpg" width="110" height="160" align="left" style="margin-right: 2px" border="1" />Raramente deixo livros inacabados. No entanto, o indigesto [A Voz do Fogo][1], do Alan Moore, foi um desses casos. Dizem que fica bom lá pelo meio &#8211; mas a caminhada é longa, e a vida é curta. Pra piorar, deixou uma seqüela: fiquei cismado com autores de quadrinhos que entram no campo da literatura.

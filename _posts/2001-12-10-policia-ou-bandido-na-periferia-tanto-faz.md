@@ -2,7 +2,7 @@
 title: Polícia ou bandido? Na periferia tanto faz
 layout: post
 comments: true
-permalink: /archives/2001/12/policia-ou-bandido-na-periferia-tanto-faz.html
+permalink: /archives/2001/12/policia-ou-bandido-na-periferia-tanto-faz.html/
 robotsmeta:
   - index,follow
 categories:

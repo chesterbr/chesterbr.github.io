@@ -5,7 +5,7 @@ excerpt: |
     Quando viajei pela primeira vez para a África do Sul (em 2007) fiz algumas considerações sobre a convivência entre os diversos grupos étnicos no pós-apartheid. A idéia de "rainbow nation" descrita ali é válida, mas numa nova (e mais longa)...
 layout: post
 comments: true
-permalink: /archives/2009/03/some_of_my_best_friends_are_white.html
+permalink: /archives/2009/03/some_of_my_best_friends_are_white.html/
 categories:
 ---
 <span class="mt-enclosure mt-enclosure-image"><img title="Capa do livro 'Some Of My Best Friends Are White'" src="//chester.me/archives/img/mt/2009/03/09/some_of_my_best_friends_are_white.jpg" width="211" height="300" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Quando viajei pela primeira vez para a África do Sul (em 2007) fiz [algumas considerações][1] sobre a convivência entre os diversos grupos étnicos no pós-apartheid. A idéia de &#8220;[rainbow nation][2]&#8221; descrita ali é válida, mas numa nova (e mais longa) viagem notei que, num nível mais pessoal, ainda persistem diferenças nas pequenas coisas do dia-a-dia &#8211; diferenças cuja mecânica ou justificativa eu não conseguia decifrar.

@@ -5,7 +5,7 @@ excerpt: |
     O mais perto que eu cheguei do nirvana foi ler Os Vagabundos Iluminados enquanto tomava sol e cerveja na praia, cercado de mulheres. Confesso que, por ser do mesmo autor de Pé na Estrada (que imortalizou a chamada geração beat)...
 layout: post
 comments: true
-permalink: /archives/2009/01/os_vagabundos_iluminados_the_dharma_bums.html
+permalink: /archives/2009/01/os_vagabundos_iluminados_the_dharma_bums.html/
 dsq_thread_id:
   - 1751450268
 categories:

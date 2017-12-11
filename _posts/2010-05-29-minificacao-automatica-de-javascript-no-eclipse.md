@@ -2,7 +2,7 @@
 title: Minificação automática de JavaScript no Eclipse
 layout: post
 comments: true
-permalink: /archives/2010/05/minificacao-automatica-de-javascript-no-eclipse.html
+permalink: /archives/2010/05/minificacao-automatica-de-javascript-no-eclipse.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/05/builder.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:

@@ -2,7 +2,7 @@
 title: Considerações sobre Serra e Marta
 layout: post
 comments: true
-permalink: /archives/2004/10/consideracoes-sobre-serra-e-marta.html
+permalink: /archives/2004/10/consideracoes-sobre-serra-e-marta.html/
 categories:
 ---
 Embora não costume reproduzir textos de terceiros aqui (ainda mais sem conhecer o autor), mas reproduzi abaixo um e-mail curioso que recebi, já que não gosto de encaminhar correntes

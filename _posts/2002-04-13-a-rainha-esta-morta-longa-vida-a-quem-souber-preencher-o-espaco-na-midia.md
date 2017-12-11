@@ -2,7 +2,7 @@
 title: A rainha está morta. longa vida a quem souber preencher o espaço na mídia
 layout: post
 comments: true
-permalink: /archives/2002/04/a-rainha-esta-morta-longa-vida-a-quem-souber-preencher-o-espaco-na-midia.html
+permalink: /archives/2002/04/a-rainha-esta-morta-longa-vida-a-quem-souber-preencher-o-espaco-na-midia.html/
 categories:
 ---
 Claro que o funeral foi pomposo, e os ingleses compareceram em peso, mas daqui do terceiro mundo ficou uma impressão de que a morte da plebéia Diana foi mais traumática do que a da própria Rainha-Mãe &#8211; ao menos, teve mais &#8220;media stickness&#8221; (para usar um termo da própria mídia), visto que os informativos já se ocupam de outros assuntos.

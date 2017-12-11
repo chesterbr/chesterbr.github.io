@@ -5,7 +5,7 @@ excerpt: |
     Mais uma vez, o Arnaldo se supera....
 layout: post
 comments: true
-permalink: /archives/2005/06/coisas_que_eu_s.html
+permalink: /archives/2005/06/coisas_que_eu_s.html/
 categories:
 ---
 Mais uma vez, o Arnaldo [se supera][1].

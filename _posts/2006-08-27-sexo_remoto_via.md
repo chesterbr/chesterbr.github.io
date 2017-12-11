@@ -5,7 +5,7 @@ excerpt: |
     O BoingBoing hoje mencionou um post do Tiny Nibbles sobre um cidadão que conseguiu adaptar um vibrador num controle de Xbox. Seguindo os links é possível encontrar uma montagem semelhante para PS2, e também o protótipo de uma "versão fêmea",...
 layout: post
 comments: true
-permalink: /archives/2006/08/sexo_remoto_via.html
+permalink: /archives/2006/08/sexo_remoto_via.html/
 dsq_thread_id:
   - 1751441992
 categories:

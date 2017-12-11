@@ -2,7 +2,7 @@
 title: Quadrinhos no iPad
 layout: post
 comments: true
-permalink: /archives/2011/06/quadrinhos-no-ipad.html
+permalink: /archives/2011/06/quadrinhos-no-ipad.html/
 onswipe_thumb:
   - 'http://img.youtube.com/vi/0QMhOIySiyE">Igreja do Mac</a>) acredito que qualquer aparelho com resolução e formato/peso comparáveis se saia igualmente bem, em particular se tiver um sistema operacional com suporte bom. O Android parece ser a alternativa mais razoável: o comiXology está disponível para ele, o IDW <a href="http://www.examiner.com/android-in-chicago/android-to-get-idw-comics-this-summer">sai em breve</a> e eu tenho certeza que não faltam bons leitores do formato cdr. Seja qual for a plataforma, tablets realmente são bons para ler quadrinhos - se vão substituir o papel por completo ou não já é outra história, mas, pela minha experiência, qualquer fanático pela nona arte deve considerar um aparelho destes no seu arsenal./0.jpg'
 dsq_thread_id:

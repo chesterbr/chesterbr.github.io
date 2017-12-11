@@ -2,7 +2,7 @@
 title: Descendo as cataratas de barril
 layout: post
 comments: true
-permalink: /archives/2004/08/descendo-as-cataratas-de-barril.html
+permalink: /archives/2004/08/descendo-as-cataratas-de-barril.html/
 categories:
 ---
 <img class="alignleft" style="margin: 4px; border: 1px solid black;" title="dúzias de guardas descendo as cataratas de barril" src="//chester.me/img/blig/barril.jpg" alt="dúzias de guardas descendo as cataratas de barril" width="150" height="112" align="left" border="2" />Tive a oportunidade de assistir novamente ao [episódio do Pica-Pau em que ele quer tentar descer as Cataratas do Niágara de barril][1] (acompanhado da impagável gag dos turistas de capote amarelo fazendo &#8220;waaaah&#8221;). A maioria dos episódios do Pica-Pau clássico é fortemente inspirada no mundo real, e é fácil ver que este não é diferente, graças a sites como o [Daredevils of Niagra Falls][2].

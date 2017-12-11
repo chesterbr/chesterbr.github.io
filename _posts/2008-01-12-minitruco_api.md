@@ -5,7 +5,7 @@ excerpt: |
     miniTruco is an implementation of the Brazilian Truco card game (also known as Truco Paulista or Truco Mineiro) for Java-enabled cellphones. One of its features is its multiplayer ability over the Internet. That is done by having a server software...
 layout: post
 comments: true
-permalink: /archives/2008/01/minitruco_api.html
+permalink: /archives/2008/01/minitruco_api.html/
 robotsmeta:
   - index,follow
 dsq_thread_id:

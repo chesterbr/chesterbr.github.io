@@ -5,7 +5,7 @@ excerpt: |
     Mesmo depois de dois anos do lançamento ainda tem bastante gente interessada no Golpe, o Super Trunfo dos políticos brasileiros. Só entre o Internet Archive (hospedeiro oficial), o SuperDownloads e o Baixaki foram mais de 25 mil downloads - e...
 layout: post
 comments: true
-permalink: /archives/2008/04/um_golpe_mais_leve.html
+permalink: /archives/2008/04/um_golpe_mais_leve.html/
 categories:
 ---
 <img title="cartas do jogo Golpe" src="//chester.me/archives/img/golpe.jpg" width="140" height="141"  align="right" />Mesmo depois de dois anos do lançamento ainda tem bastante [gente][1] interessada no [Golpe, o Super Trunfo dos políticos brasileiros][2]. Só entre o [Internet Archive][3] (hospedeiro oficial), o [SuperDownloads][4] e o [Baixaki][5] foram mais de 25 mil downloads &#8211; e isso apesar de ser um PDF de mais de 20MB.

@@ -2,7 +2,7 @@
 title: Hai-kais e outros livrinhos
 layout: post
 comments: true
-permalink: /archives/2004/02/hai-kais-e-outros-livrinhos.html
+permalink: /archives/2004/02/hai-kais-e-outros-livrinhos.html/
 categories:
 ---
 <img src="//chester.me/img/blig/haikais.jpg" border=0 alt="Livro 'Hai-Kais', do Millôr" align="left">Achei este <a href="http://www.submarino.com.br/books_productdetails.asp?Query=ProductPage&#038;ProdTypeId=1&#038;ProdId=32673&#038;ST=SE" >Hai-Kais</a>, do Millôr Fernandes, em um sebo. Ele abre explicando o uso da grafia &#8220;Hai-Kai&#8221; no lugar de &#8220;Haiku&#8221; (que é o nome original dos tradicionais versos japoneses de três linhas). Infelizmente, o buraco é <a href="http://www.toyomasu.com/haiku/#whatishaiku" >mais embaixo</a>.

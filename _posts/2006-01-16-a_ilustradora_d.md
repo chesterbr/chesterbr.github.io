@@ -5,7 +5,7 @@ excerpt: |
     O anteriormente mencionado Folklore.org (site que conta os bastidores da história da Apple nos conturbados anos 80) virou livro recentemente - e nem por isso o pessoal das antigas do Vale do Silício parou de atualizar as histórias do site....
 layout: post
 comments: true
-permalink: /archives/2006/01/a_ilustradora_d.html
+permalink: /archives/2006/01/a_ilustradora_d.html/
 dsq_thread_id:
   - 1751444852
 categories:

@@ -5,7 +5,7 @@ excerpt: |
     Dentre as muitas pessoas simpáticas que eu conheci/reencontrei no último FISL estava o pessoal da Mozilla. Além de levar da melhor forma possível as hordas de pessoas que passavam o tempo todo lá perguntando a mesma coisa, i.e., se vendiam...
 layout: post
 comments: true
-permalink: /archives/2009/06/semana_do_servico_voluntario_mozilla_service_week.html
+permalink: /archives/2009/06/semana_do_servico_voluntario_mozilla_service_week.html/
 categories:
 ---
 <span class="mt-enclosure mt-enclosure-image"><img title="logo do Firefox" src="//chester.me/archives/img/mt/2009/06/29/firefox.jpg" width="122" height="120" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Dentre as muitas pessoas simpáticas que eu conheci/reencontrei no [último FISL][1] estava o pessoal da Mozilla. Além de levar da melhor forma possível as hordas de pessoas que passavam o tempo todo lá perguntando a mesma coisa, i.e., se vendiam camisetas do Firefox (quem manda ter um logotipo bacana?), eles fizeram uma série de atividades e divulgaram bastante coisas interessantes (com destaque para os [vídeos de propaganda][2], um mais lindo que o outro.)

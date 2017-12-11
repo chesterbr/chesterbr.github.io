@@ -2,7 +2,7 @@
 title: Truco para Windows/Linux
 layout: post
 comments: true
-permalink: /archives/2002/03/procura-se-programador-para-jogo-de-truco.html
+permalink: /archives/2002/03/procura-se-programador-para-jogo-de-truco.html/
 dsq_thread_id:
   - 1751446862
 categories:

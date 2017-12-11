@@ -2,7 +2,7 @@
 title: É de menina, mas eu gosto
 layout: post
 comments: true
-permalink: /archives/2002/11/e-de-menina-mas-eu-gosto.html
+permalink: /archives/2002/11/e-de-menina-mas-eu-gosto.html/
 categories:
 ---
 Ok, vou admitir: o mangá que mais está me divertindo, o que eu não aguento de ansiedade quando termina é esse mesmo, <a href="http://www.omelete.com.br/quadrinhos/artigos/base\_para\_artigos.asp?artigo=788" >Love Hina</a> &#8211; a história extremamente novelesca do jovem Keitarô Urashima que, depois de rodar algumas vezes no concorrido vestibular da Universidade de Tóquio, vai parar em uma pensão só para mulheres.

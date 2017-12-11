@@ -2,7 +2,7 @@
 title: '&#8220;Juventude&#8221; Cesar Maia'
 layout: post
 comments: true
-permalink: /archives/2004/01/juventude-cesar-maia.html
+permalink: /archives/2004/01/juventude-cesar-maia.html/
 categories:
 ---
 Eu não costumo falar de spam por dois motivos: primeiro porque que o [SpamBayes][1] faz um excelente (e gratuito) trabalho se livrando dele, e segundo que tem [gente][2] que fala do assunto com mais competência e bom-humor do que eu.

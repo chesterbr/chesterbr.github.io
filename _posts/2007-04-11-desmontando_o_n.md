@@ -5,7 +5,7 @@ excerpt: |
     Estava o pequeno Chester feliz, brincando com seu NDS, quando a tela sensível ao toque perdeu a dita sensibilidade. Do nada. Os jogos e programas continuavam funcionando, mas qualquer um que dependesse da mesma (i.e., qualquer um que não fosse...
 layout: post
 comments: true
-permalink: /archives/2007/04/desmontando_o_n.html
+permalink: /archives/2007/04/desmontando_o_n.html/
 dsq_thread_id:
   - 1751443036
 categories:

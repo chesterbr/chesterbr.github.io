@@ -2,7 +2,7 @@
 title: Harry Potter e a Pedra Filosofal
 layout: post
 comments: true
-permalink: /archives/2001/11/harry-potter-e-a-pedra-filosofal.html
+permalink: /archives/2001/11/harry-potter-e-a-pedra-filosofal.html/
 categories:
 ---
 Fui ver hoje. Tem que ser macho pra querer assistir um filme infantil tão promovido num sábado à tarde. Mas quem gosta de desenho animado já sabe o truque: é só procurar uma sala com a versão legendada, de preferência próxima a alguma com o filme dublado. É garantia de cinema vazio.

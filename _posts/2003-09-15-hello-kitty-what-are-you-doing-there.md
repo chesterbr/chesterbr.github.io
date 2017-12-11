@@ -2,7 +2,7 @@
 title: 'Hello, kitty&#8230; what are you doing <i>there</i>???'
 layout: post
 comments: true
-permalink: /archives/2003/09/hello-kitty-what-are-you-doing-there.html
+permalink: /archives/2003/09/hello-kitty-what-are-you-doing-there.html/
 categories:
 ---
 É, minha gente, é isso aí mesmo: um <a href="http://www.jlist.com/cgi-bin/shop.cgi?function=product.display&#038;id=44870" >vibrador da Hello Kitty</a>! Claro, é vendido como &#8220;massegeador de costas&#8221;, e até passa despercebido entre os badulaques da típica bolsa de adolescente feminina. Mas nem a loja virtual bota muito uma fé no uso recomendado pelo fabricante.

@@ -2,7 +2,7 @@
 title: 'Micro Men &#8211; o &#8220;Pirates of Silicon Valley inglês&#8221;'
 layout: post
 comments: true
-permalink: /archives/2011/11/micro-men-o-pirates-of-silicon-valley-ingles.html
+permalink: /archives/2011/11/micro-men-o-pirates-of-silicon-valley-ingles.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

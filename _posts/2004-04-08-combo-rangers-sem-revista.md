@@ -2,7 +2,7 @@
 title: Combo Rangers sem revista
 layout: post
 comments: true
-permalink: /archives/2004/04/combo-rangers-sem-revista.html
+permalink: /archives/2004/04/combo-rangers-sem-revista.html/
 categories:
 ---
 <img src="//chester.me/img/blig/combomain.jpg" border="1" alt="Combo Rangers" align="left" />É, dessa vez o Super Macacaloiro venceu: a revista Combo Rangers &#8211; uma das nacionais mais interessantes publicadas atualmente &#8211; teve sua publicação interrompida, segundo informação do próprio autor (Fabio Yabu).

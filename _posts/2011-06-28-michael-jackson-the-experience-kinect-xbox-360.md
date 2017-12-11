@@ -2,7 +2,7 @@
 title: 'Michael Jackson: The Experience &#8211; Kinect (XBox 360)'
 layout: post
 comments: true
-permalink: /archives/2011/06/michael-jackson-the-experience-kinect-xbox-360.html
+permalink: /archives/2011/06/michael-jackson-the-experience-kinect-xbox-360.html/
 onswipe_thumb:
   - |
     http://img.youtube.com/vi/oRdxUFDoQe0">Beat It</a> é uma boa para começar) e, ali, quebrar o gelo no <em>Practice</em>, recorrendo aos vídeos para os passos mais complicados.

@@ -2,7 +2,7 @@
 title: 'Lenha na fogueira: Linux e Solaris são menos seguros que Windows'
 layout: post
 comments: true
-permalink: /archives/2002/02/lenha-na-fogueira-linux-e-solaris-sao-menos-seguros-que-windows.html
+permalink: /archives/2002/02/lenha-na-fogueira-linux-e-solaris-sao-menos-seguros-que-windows.html/
 categories:
 ---
 <img src="//chester.me/img/blig/logo_3324.jpg" border="0" alt="" hspace="4" width="80" height="76" align="left" />O site Baboo publicou este [artigo][1] que traz um pouco de novidade ao debate sobre sistemas operacionais (lamentavelmente composto na maior parte do tempo por egotrips e opiniões pouco calcadas na realidade das pessoas e empresas).

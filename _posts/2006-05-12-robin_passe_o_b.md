@@ -5,7 +5,7 @@ excerpt: |
     Não importa quantos filmes do Batman façam, nenhum deles supera o clássico As Novas Aventuras de Batman e Robin, com a impagável dupla Adam West e Burt Ward. Duvida? Então assita à hilária cena do helicóptero e reveja seus conceitos....
 layout: post
 comments: true
-permalink: /archives/2006/05/robin_passe_o_b.html
+permalink: /archives/2006/05/robin_passe_o_b.html/
 robotsmeta:
   - index,follow
 dsq_thread_id:

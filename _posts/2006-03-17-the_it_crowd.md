@@ -5,7 +5,7 @@ excerpt: |
     The IT Crowd é um seriado inglês sobre o departamento de tecnologia de uma empresa, no qual dois nerds completamente incapazes de manter uma conversa com um ser humano trabalham com uma chefe completamente incapaz de trocar uma lâmpada. Questionamentos...
 layout: post
 comments: true
-permalink: /archives/2006/03/the_it_crowd.html
+permalink: /archives/2006/03/the_it_crowd.html/
 categories:
 ---
 <img title="Logotipo do The IT Crowd" src="//chester.me/archives/img/Itcrowd.png" width="267" height="53" align="left" style="margin-right:2px" />[The IT Crowd][1] é um seriado inglês sobre o departamento de tecnologia de uma empresa, no qual dois nerds completamente incapazes de manter uma conversa com um ser humano trabalham com uma chefe completamente incapaz de trocar uma lâmpada.

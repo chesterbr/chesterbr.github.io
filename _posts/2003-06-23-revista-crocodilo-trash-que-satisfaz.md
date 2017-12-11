@@ -2,7 +2,7 @@
 title: 'Revista Crocodilo &#8211; trash que satisfaz'
 layout: post
 comments: true
-permalink: /archives/2003/06/revista-crocodilo-trash-que-satisfaz.html
+permalink: /archives/2003/06/revista-crocodilo-trash-que-satisfaz.html/
 dsq_thread_id:
   - 1751447346
 categories:

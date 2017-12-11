@@ -2,7 +2,7 @@
 title: 'Crumb: a censura acontecendo onde menos se espera'
 layout: post
 comments: true
-permalink: /archives/2003/01/crumb-a-censura-acontecendo-onde-menos-se-espera.html
+permalink: /archives/2003/01/crumb-a-censura-acontecendo-onde-menos-se-espera.html/
 categories:
 ---
 A Conrad lançou o especial &#8220;R. Crumb: Frtiz the Cat&#8221;, uma edição com preço meio salgado [na editora][1], mas que na FNAC estava com um [bom desconto][2] quando eu comprei.

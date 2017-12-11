@@ -5,7 +5,7 @@ excerpt: |
     Caso alguém não conheça: "santinhos" são panfletos contendo a imagem de um santo e uma oração, que os devotos prometem enviar ou distribuir em quantidades massivas caso o santo homenageado interceda em prol de alguma graça. Basicamente, a idéia é...
 layout: post
 comments: true
-permalink: /archives/2006/02/ai_meu_santo.html
+permalink: /archives/2006/02/ai_meu_santo.html/
 categories:
 ---
 <img title="Foto de um santinho" src="//chester.me/archives/img/santinho.jpg" width="200" height="196" align="right" style="margin-left:2px" />Caso alguém não conheça: &#8220;santinhos&#8221; são panfletos contendo a imagem de um santo e uma oração, que os devotos prometem enviar ou distribuir em quantidades massivas caso o santo homenageado interceda em prol de alguma graça. Basicamente, a idéia é subornar o segundo escalão do céu, oferecendo em troca uma envio de spam insanamente anti-ecológico.

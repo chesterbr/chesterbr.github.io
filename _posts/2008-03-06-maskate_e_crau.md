@@ -5,7 +5,7 @@ excerpt: |
     Acabo de conhecer a edição online do Maskate, um jornal sensacionalista de Manaus que não fica devendo nada ao clássico Notícias Populares: manchetes sensacionalistas, ocorrências policiais toscamente relatadas, ensaios de mulépelada e relatos eróticos classe C, enfim, tem tudo o...
 layout: post
 comments: true
-permalink: /archives/2008/03/maskate_e_crau.html
+permalink: /archives/2008/03/maskate_e_crau.html/
 dsq_thread_id:
   - 1751449321
 categories:

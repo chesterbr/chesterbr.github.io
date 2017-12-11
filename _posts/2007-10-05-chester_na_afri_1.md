@@ -5,7 +5,7 @@ excerpt: |
     01/10 (Segunda) - Acampamento, carnes exóticas e drinking games Nosso primeiro destino foi o Clara Anna Fontein, uma reserva florestal que contava com as tendas mais fantásticas que eu já vi - com chuveiro, banheiro e proteção total contra insetos,...
 layout: post
 comments: true
-permalink: /archives/2007/10/chester_na_afri_1.html
+permalink: /archives/2007/10/chester_na_afri_1.html/
 dsq_thread_id:
   - 1751442288
 categories:

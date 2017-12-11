@@ -2,7 +2,7 @@
 title: Ensaio Sobre a Cegueira (e uma espetada no Alan Moore)
 layout: post
 comments: true
-permalink: /archives/2004/09/ensaio-sobre-a-cegueira-e-uma-espetada-no-alan-moore.html
+permalink: /archives/2004/09/ensaio-sobre-a-cegueira-e-uma-espetada-no-alan-moore.html/
 categories:
 ---
 Já que confesso os filmes que assisto tardiamente, aproveito para mencionar <a href="http://www.submarino.com.br/books_productdetails.asp?Query=ProductPage&#038;ProdTypeId=1&#038;ProdId=25479&#038;ST=CT232854" >Ensaio Sobre a Cegueira</a>, que só li agora.Sem grandes pretensões, este relato de uma cidade na qual vários habitantes são acometidos de uma cegueira misteriosa é interessante e justifica a leitura.

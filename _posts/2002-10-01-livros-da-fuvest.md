@@ -2,7 +2,7 @@
 title: Livros da FUVEST
 layout: post
 comments: true
-permalink: /archives/2002/10/livros-da-fuvest.html
+permalink: /archives/2002/10/livros-da-fuvest.html/
 categories:
 ---
 Quem já prestou FUVEST sabe do grande dilema do vestibulando. Não, não é qual carreira escolher, e sim decidir se deve ou não ler as &#8220;obras recomendadas&#8221;. Por um lado, há a possibilidade de recorrer aos resumos e investir o tempo economizado em outras matérias. Por outro, é uma boa maneira de misturar estudo e lazer.

@@ -2,7 +2,7 @@
 title: Aula sobre Mashups Web na UNESP (SECCOMP 2010)
 layout: post
 comments: true
-permalink: /archives/2010/10/aula-sobre-mashups-web-na-unesp-seccomp-2010.html
+permalink: /archives/2010/10/aula-sobre-mashups-web-na-unesp-seccomp-2010.html/
 onswipe_thumb:
   - |
     http://img.youtube.com/vi/L6TuMhYg89E">videoclip de música do Girl Talk</a> e os exemplos iam de sites comerciais como o <a href="http://www.buscape.com.br">BuscaPé</a> e o surreal <a href="http://play.mobzombies.com/">Mobzombies</a>.

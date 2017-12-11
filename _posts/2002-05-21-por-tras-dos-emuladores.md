@@ -2,7 +2,7 @@
 title: Por trás dos emuladores
 layout: post
 comments: true
-permalink: /archives/2002/05/por-tras-dos-emuladores.html
+permalink: /archives/2002/05/por-tras-dos-emuladores.html/
 categories:
 ---
 </div> <div class=mensagem><img src='//chester.me/img/blig/endurojpg.jpg' align="left" border=2 hspace=3>Para quem nunca viu: emuladores são programas que simulam o funcionamento de computadores ou videogames antigos, permitindo que se rode os programas destas máquinas nos micros modernos (veja e pegue <a href="http://fliperama.ig.com.br/emuladores/home_emuladores/index.html" >aqui</a> alguns deles).</p>

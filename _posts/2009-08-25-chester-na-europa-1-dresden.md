@@ -2,7 +2,7 @@
 title: 'Chester na Europa (parte 1 de 3): Dresden'
 layout: post
 comments: true
-permalink: /archives/2009/08/chester-na-europa-1-dresden.html
+permalink: /archives/2009/08/chester-na-europa-1-dresden.html/
 categories:
 ---
 Novamente o trabalho me levou a visitar um país exótico, e dessa vez foi a República Tcheca. Nunca estive na Europa antes, então aproveitei a oportunidade para mochilar um pouco por ali e pela Alemanha. Ao todo visitei três cidades (Praga, Dresden e Berlim), com uma breve passagem por uma quarta (Potsdam).

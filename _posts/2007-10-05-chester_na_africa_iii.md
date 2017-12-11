@@ -5,7 +5,7 @@ excerpt: |
     02/10 (Terça) - Semi-encoxada(!), trabalho, shopping center e um velho conhecido Fechamos o evento pela manhã com um passeio de quadriciclo pelo campo. O quadriciclo é como uma moto, só que com quatro rodas (claro), o que o torna um...
 layout: post
 comments: true
-permalink: /archives/2007/10/chester_na_africa_iii.html
+permalink: /archives/2007/10/chester_na_africa_iii.html/
 categories:
 ---
 <span class="mt-enclosure mt-enclosure-image"><br /> <form mt:asset-id="15" class="mt-enclosure mt-enclosure-image">

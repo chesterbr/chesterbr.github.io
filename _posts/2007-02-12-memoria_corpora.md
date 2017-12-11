@@ -5,7 +5,7 @@ excerpt: |
     Segundo o GameSpot, ex-funcionários da RedOctane (fabricante de tapetes de DDR legais e de jogos como Guitar Hero) que saíram da empresa para fundar a a sua própria estão sendo processados pela atual dona da RedOctane, a Activision. Nada de...
 layout: post
 comments: true
-permalink: /archives/2007/02/memoria_corpora.html
+permalink: /archives/2007/02/memoria_corpora.html/
 dsq_thread_id:
   - 1751444078
 categories:

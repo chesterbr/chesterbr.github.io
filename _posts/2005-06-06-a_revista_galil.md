@@ -5,7 +5,7 @@ excerpt: |
     A revista Galileu deste mês está com uma matéria interessante sobre aquelas traquitanas mágicas que só não curam o câncer, popularizadas no Brasil através do Grupo Imagem, que vendia as Facas Ginsu, os Óculos AmberVision e outros pelo (incessantemente repetido)...
 layout: post
 comments: true
-permalink: /archives/2005/06/a_revista_galil.html
+permalink: /archives/2005/06/a_revista_galil.html/
 dsq_thread_id:
   - 1751442175
 categories:

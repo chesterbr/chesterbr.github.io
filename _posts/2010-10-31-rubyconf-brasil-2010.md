@@ -2,7 +2,7 @@
 title: RubyConf Brasil 2010
 layout: post
 comments: true
-permalink: /archives/2010/10/rubyconf-brasil-2010.html
+permalink: /archives/2010/10/rubyconf-brasil-2010.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/10/logo_rubyconf.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:

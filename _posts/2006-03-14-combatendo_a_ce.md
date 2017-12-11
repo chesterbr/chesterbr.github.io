@@ -5,7 +5,7 @@ excerpt: |
     O Distributed Boing Boing foi uma maneira que um cara bolou para garantir o acesso ao blog mais invocado do planeta, cujo conteúdo tem sido cada vez mais bloqueado por filtros corporativos e governamentais. A sacada está no fato de...
 layout: post
 comments: true
-permalink: /archives/2006/03/combatendo_a_ce.html
+permalink: /archives/2006/03/combatendo_a_ce.html/
 categories:
 ---
 <img title="Logo do Distributed BoingBoing" src="//chester.me/archives/img/dbb.gif" width="341" height="79" align="right" />O [Distributed Boing Boing][1] foi uma maneira que um cara bolou para garantir o acesso ao blog mais invocado do planeta, cujo conteúdo tem sido cada vez mais bloqueado por filtros corporativos e governamentais.

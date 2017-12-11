@@ -5,7 +5,7 @@ excerpt: |
     O Android é uma proposta anunciada recentemente pelo Google para uma arquitetura aberta de telefones celulares que privilegia o usuário e os desenvolvedores independentes de aplicativos - em contraste com as plataformas usadas nos aparelhos atuais (além das soluções para...
 layout: post
 comments: true
-permalink: /archives/2007/11/android_comenta.html
+permalink: /archives/2007/11/android_comenta.html/
 dsq_thread_id:
   - 1751442727
 categories:

@@ -2,7 +2,7 @@
 title: 'Exposição: Ocupação Angeli'
 layout: post
 comments: true
-permalink: /archives/2012/03/exposicao-ocupacao-angeli.html
+permalink: /archives/2012/03/exposicao-ocupacao-angeli.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

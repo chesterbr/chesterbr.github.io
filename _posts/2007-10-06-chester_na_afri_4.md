@@ -5,7 +5,7 @@ excerpt: |
     06/10 (Sexta) - Table Mountain, Devil's Peak e um pouco da Jamaica em Woodstock Uma das primeiras coisas que se vê ao chegar na cidade é a Table Mountain. É uma formação rochosa plana que, quando coberta com as nuvens,...
 layout: post
 comments: true
-permalink: /archives/2007/10/chester_na_afri_4.html
+permalink: /archives/2007/10/chester_na_afri_4.html/
 categories:
 ---
 *06/10 (Sexta) &#8211; Table Mountain, Devil&#8217;s Peak e um pouco da Jamaica em Woodstock*

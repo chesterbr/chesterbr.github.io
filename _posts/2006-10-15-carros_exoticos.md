@@ -5,7 +5,7 @@ excerpt: |
     Ainda tentando entender o rolo todo em torno do cara da Gizmondo (empresa que fabricava o natimorto console portátil de mesmo nome), dei de cara com o Wrecked Exotics - site especializado em fotos de carros sofisticados batidos. A dedicação...
 layout: post
 comments: true
-permalink: /archives/2006/10/carros_exoticos.html
+permalink: /archives/2006/10/carros_exoticos.html/
 robotsmeta:
   - index,follow
 dsq_thread_id:

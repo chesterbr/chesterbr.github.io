@@ -2,7 +2,7 @@
 title: 'Bustani: um brasileiro peitando os EUA'
 layout: post
 comments: true
-permalink: /archives/2002/03/bustani-um-brasileiro-peitando-os-eua.html
+permalink: /archives/2002/03/bustani-um-brasileiro-peitando-os-eua.html/
 categories:
 ---
 Sei que é quase chavão afirmar que brasileiro só é patriota em copa do mundo, mas tem horas que o apoio popular aos brasileiros que **realmente** defendem os interesses da nação (ou mesmo da humanidade) faz muita falta. É o caso do embaixador José Maurício Bustani, que ocupa a secretaria executiva da <a href="http://www.opcw.org/" >OPAQ</a>, uma entidade que busca a diminuição das armas químicas no mundo todo.

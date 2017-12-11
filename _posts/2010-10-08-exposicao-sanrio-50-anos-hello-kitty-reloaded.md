@@ -2,7 +2,7 @@
 title: 'Exposição Sanrio 50 Anos: Hello Kitty, reloaded.'
 layout: post
 comments: true
-permalink: /archives/2010/10/exposicao-sanrio-50-anos-hello-kitty-reloaded.html
+permalink: /archives/2010/10/exposicao-sanrio-50-anos-hello-kitty-reloaded.html/
 onswipe_thumb:
   - |
     http://img.youtube.com/vi/KKQUZPqDZb0">CSS</a> não foi a única do meio musical: <a href="http://www.sanrio.com.br/expo50anos/lucas-silveira-fresno/">Lucas Silveira</a>, vocalista do Fresno, fez um dos quadros mais simpáticos. Mas minha peça favorita foi a do grupo <a href="http://www.sanrio.com.br/expo50anos/laborg/">Laborg</a>: nela, um bloco com pequenas esculturas monocromáticas recebe uma projeção multicolorida e milimetricamente ajustada. Com isso a personagem muda de roupa e de cara o tempo todo, a TV começa a passar telejornais nacionais, enfim, mil coisas que rolam ao mesmo tempo. Eu, que costumo torcer o nariz para "arte multimídia", fiquei de queixo caído.

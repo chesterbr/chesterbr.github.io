@@ -5,7 +5,7 @@ excerpt: |
     O site UseFool (note o trocadilho) reúne links para artigos sobre invenções de gosto (e principalmente, de uso) duvidoso. Ótimo para conhecer novidades indispensáveis, como o anel detector de Wi-Fi ou o projeto conceitual da máquina que imprime RSS em...
 layout: post
 comments: true
-permalink: /archives/2005/12/site_de_inutili.html
+permalink: /archives/2005/12/site_de_inutili.html/
 dsq_thread_id:
   - 1751451087
 categories:

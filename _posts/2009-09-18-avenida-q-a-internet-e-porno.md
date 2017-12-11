@@ -2,7 +2,7 @@
 title: 'Avenida Q &#8211; A Internet é pornô!'
 layout: post
 comments: true
-permalink: /archives/2009/09/avenida-q-a-internet-e-porno.html
+permalink: /archives/2009/09/avenida-q-a-internet-e-porno.html/
 robotsmeta:
   - index,follow
 categories:

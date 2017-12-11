@@ -5,7 +5,7 @@ excerpt: |
     Ao se falar em comunicação, é lugar-comum afirmar que uma mídia é caracterizada não apenas por suas capacidades, mas também por suas limitações. Ainda assim vale a pena resgatar a idéia, pois ela ajuda a entender alguns aspectos desse brinquedo...
 layout: post
 comments: true
-permalink: /archives/2009/02/twitter_e_a_frivolidade.html
+permalink: /archives/2009/02/twitter_e_a_frivolidade.html/
 dsq_thread_id:
   - 1751450218
 categories:

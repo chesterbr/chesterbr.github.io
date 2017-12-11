@@ -5,7 +5,7 @@ excerpt: |
     O episódio recente envolvendo o confronto entre policiais e estudantes/professores/funcionários da USP trouxe a público uma questão que se arrasta há anos dentro dos muros da Cidade Universitária: o movimento sindical pelos direitos dos funcionários e sua relação conturbada com...
 layout: post
 comments: true
-permalink: /archives/2009/06/os_movimentos_e_a_usp.html
+permalink: /archives/2009/06/os_movimentos_e_a_usp.html/
 dsq_thread_id:
   - 1751449732
 categories:

@@ -2,7 +2,7 @@
 title: Conheci o Daniel Azulay!
 layout: post
 comments: true
-permalink: /archives/2012/02/conheci-o-daniel-azulay.html
+permalink: /archives/2012/02/conheci-o-daniel-azulay.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

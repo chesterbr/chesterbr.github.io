@@ -2,7 +2,7 @@
 title: Chester em Hollywood (e no set do The Big Bang Theory)
 layout: post
 comments: true
-permalink: /archives/2011/10/chester-em-hollywood-e-no-set-do-the-big-bang-theory.html
+permalink: /archives/2011/10/chester-em-hollywood-e-no-set-do-the-big-bang-theory.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

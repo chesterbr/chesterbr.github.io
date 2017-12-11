@@ -2,7 +2,7 @@
 title: Camisinhas do kiss
 layout: post
 comments: true
-permalink: /archives/2002/06/camisinhas-do-kiss.html
+permalink: /archives/2002/06/camisinhas-do-kiss.html/
 categories:
 ---
 Agora a vida ficou completa: lançaram as <a href="http://ultimosegundo.ig.com.br/useg/cultura/artigo/0,,798647,00.html" >Kiss Condoms</a>, camisinhas com os &#8220;rostos&#8221; dos integrantes do Kiss estampados na caixinha (aliás, espero que seja só na caixinha). Não consigo imaginar coisas muito mais bizarras do que isso pra usar numa noite de luxúria&#8230;

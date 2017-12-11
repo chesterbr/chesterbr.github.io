@@ -2,7 +2,7 @@
 title: Super Munchkin
 layout: post
 comments: true
-permalink: /archives/2010/07/super-munchkin.html
+permalink: /archives/2010/07/super-munchkin.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/07/munchkin_cards.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:

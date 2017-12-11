@@ -5,7 +5,7 @@ excerpt: |
 No final dos anos 80 uma propaganda curiosa apareceu em praticamente todas as revistas. Tratava-se de um livro que ensinaria a qualquer pessoa a arte do KUNG FU (ênfase nas maiúsculas: não é Kung Fu, é KUNG FU!) Claro que...
 layout: post
 comments: true
-permalink: /archives/2007/03/eu_faco_de_voce_1.html
+permalink: /archives/2007/03/eu_faco_de_voce_1.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/kungfu.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:

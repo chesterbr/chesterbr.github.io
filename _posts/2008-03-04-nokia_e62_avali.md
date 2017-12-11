@@ -5,7 +5,7 @@ excerpt: |
     Depois de inúmeros Palms e dois anos com o "guerreiro" Nokia 6600, a empresa onde trabalho me cedeu um Nokia E62. Como o aparelho está relativamente acessível no Brasil (e algumas coisas eu suei pra fazer funcionar), vou falar um...
 layout: post
 comments: true
-permalink: /archives/2008/03/nokia_e62_avali.html
+permalink: /archives/2008/03/nokia_e62_avali.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/e62.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:

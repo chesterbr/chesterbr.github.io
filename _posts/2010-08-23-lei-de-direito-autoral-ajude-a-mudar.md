@@ -2,7 +2,7 @@
 title: 'Lei de Direito Autoral: ajude a mudar!'
 layout: post
 comments: true
-permalink: /archives/2010/08/lei-de-direito-autoral-ajude-a-mudar.html
+permalink: /archives/2010/08/lei-de-direito-autoral-ajude-a-mudar.html/
 onswipe_thumb:
   - 'http://img.youtube.com/vi/d82Lq2rVB_4">piada</a> o que as empresas de mídia fazem você passar.../0.jpg'
 categories:

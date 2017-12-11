@@ -5,7 +5,7 @@ excerpt: |
     ATENÇÃO: LINKS NÃO-SEGUROS PARA ESCRITÓRIO, CASA DA AVÓ OU COLÉGIO ADVENTISTA. Eu já desisti de achar que vi de tudo - particularmente em se tratando de internet. Mas o Jean resolve me mandar um link para o impagável relato que...
 layout: post
 comments: true
-permalink: /archives/2008/02/pornografia_com.html
+permalink: /archives/2008/02/pornografia_com.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/yiffy_reichel.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:

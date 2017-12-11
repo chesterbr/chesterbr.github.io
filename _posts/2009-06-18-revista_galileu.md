@@ -5,7 +5,7 @@ excerpt: |
     Motivado pela participação do Fausto Salvadori, do blog Boteco Sujo, resolvi dar uma espiadela na versão reloaded da Revista Galileu. Eles essencialmente desencanaram da idéia de ser o "primo pobre, mas limpinho" da Superinteressante (disclaimer: não leio esta última há...
 layout: post
 comments: true
-permalink: /archives/2009/06/revista_galileu.html
+permalink: /archives/2009/06/revista_galileu.html/
 dsq_thread_id:
   - 1751449649
 categories:

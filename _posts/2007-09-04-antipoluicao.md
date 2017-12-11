@@ -5,7 +5,7 @@ excerpt: |
     O WordWeb é um software de dicionário com uma licença de uso interessante: a versão free só pode ser usada por pessoas que se comprometerem a limitar a quantidade de vôos anuais e a não possuir veículos SUV (os grandes...
 layout: post
 comments: true
-permalink: /archives/2007/09/antipoluicao.html
+permalink: /archives/2007/09/antipoluicao.html/
 dsq_thread_id:
   - 1751443535
 categories:

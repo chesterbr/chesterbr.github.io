@@ -2,7 +2,7 @@
 title: Numbers Rule Your World
 layout: post
 comments: true
-permalink: /archives/2010/11/numbers-rule-your-world.html
+permalink: /archives/2010/11/numbers-rule-your-world.html/
 onswipe_thumb:
   - |
     http://img.youtube.com/vi/DlyaLvwPVkw">Laço da Verdade</a>.

@@ -2,7 +2,7 @@
 title: Kanji Pictográfico
 layout: post
 comments: true
-permalink: /archives/2003/11/kanji-pictografico.html
+permalink: /archives/2003/11/kanji-pictografico.html/
 categories:
 ---
 Quase comprei a versão original de <a href="http://www.lojaconrad.com.br/produto.asp?id=180" >Kanji Pictográfico</a>, mas um amigo mencionou ter ganho a edição em português, e, de fato, achei em uma banca de rodoviária! Como a capa sugere, o livro tenta explicar cerca de 1000 kanjis (caracteres japoneses herdados da China) através da associação com figuras.

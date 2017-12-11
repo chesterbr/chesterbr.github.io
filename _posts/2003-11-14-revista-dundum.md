@@ -2,7 +2,7 @@
 title: Revista Dundum
 layout: post
 comments: true
-permalink: /archives/2003/11/revista-dundum.html
+permalink: /archives/2003/11/revista-dundum.html/
 robotsmeta:
   - index,follow
 categories:

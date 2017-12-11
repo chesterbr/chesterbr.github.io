@@ -5,7 +5,7 @@ excerpt: |
     Escrever qualquer coisa informativa sobre o evento é chover no molhado: blogueiros e tuiteiros cobriram todo e qualquer aspecto sobre o mesmo. Tudo o que eu tenho a dizer é que eu curti bastante esse ano, por conta do tripé:...
 layout: post
 comments: true
-permalink: /archives/2009/01/campus_party_br.html
+permalink: /archives/2009/01/campus_party_br.html/
 dsq_thread_id:
   - 1751449827
 categories:

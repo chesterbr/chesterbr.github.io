@@ -2,7 +2,7 @@
 title: Coding Dojo no Apontador
 layout: post
 comments: true
-permalink: /archives/2010/11/coding-dojo-no-apontador.html
+permalink: /archives/2010/11/coding-dojo-no-apontador.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/11/dojo_screenshot.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:

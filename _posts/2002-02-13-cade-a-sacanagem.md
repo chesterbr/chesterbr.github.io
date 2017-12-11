@@ -2,7 +2,7 @@
 title: Cadê a sacanagem???
 layout: post
 comments: true
-permalink: /archives/2002/02/cade-a-sacanagem.html
+permalink: /archives/2002/02/cade-a-sacanagem.html/
 categories:
 ---
 Passou o carnaval, e, como de costume, nem tomei conhecimento. Mas o feriado foi ótimo para ficar atualizando as leituras, curtir a cidade deserta, e, eventualmente, ver televisão de madrugada.

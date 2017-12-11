@@ -5,7 +5,7 @@ excerpt: |
     Heck, just when Java was getting free from the mammoth's weight, MySQL gets caught. I keep wondering how Sun will apply their "expertise" in MySQL. Ideas: Launching new versions with meaningless name changes to imply the idea of evolution (after...
 layout: post
 comments: true
-permalink: /archives/2008/01/what_sun_could.html
+permalink: /archives/2008/01/what_sun_could.html/
 dsq_thread_id:
   - 1751450384
 categories:

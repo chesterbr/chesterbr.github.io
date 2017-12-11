@@ -2,7 +2,7 @@
 title: 'Campus Party Brasil 2011 (#cpbr4)'
 layout: post
 comments: true
-permalink: /archives/2011/01/campus-party-brasil-2011-cpbr4.html
+permalink: /archives/2011/01/campus-party-brasil-2011-cpbr4.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2011/01/woz.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:

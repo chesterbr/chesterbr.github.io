@@ -2,7 +2,7 @@
 title: Quadrinho bom, de graça e online
 layout: post
 comments: true
-permalink: /archives/2003/03/quadrinho-bom-de-graca-e-online.html
+permalink: /archives/2003/03/quadrinho-bom-de-graca-e-online.html/
 categories:
 ---
 Tem horas em que a vida nos surpreende: você gasta uma bala comprando <a href=" http://www.livrariaexotica.com.br/playboy.htm" >quadrinhos que supostamente deveriam ser legais</a>, e coisas bacanas de verdade pintam na web, de graça. Como foram dois casos só esse mês, me senti na obrigação de compartilhar:

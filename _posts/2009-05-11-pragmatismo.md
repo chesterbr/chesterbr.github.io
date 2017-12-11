@@ -5,7 +5,7 @@ excerpt: |
     Ontem eu passei por uma experiência de dor extrema, daquelas que ajudam você a rever suas prioridades. Mas nada do que eu escrever sobre pragmatismo vai superar o post do Chico Anysio (que eu nem sabia que tinha um blog)...
 layout: post
 comments: true
-permalink: /archives/2009/05/pragmatismo.html
+permalink: /archives/2009/05/pragmatismo.html/
 robotsmeta:
   - index,follow
 dsq_thread_id:

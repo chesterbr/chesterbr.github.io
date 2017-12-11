@@ -5,7 +5,7 @@ excerpt: |
     Useless is one of my favorite xkcd installments: Useless (xkcd), by Randall Munroe - some rights reserved This is obviously an useless approach, but it's hard for a math undergrad to see so many question marks! The second equation, in...
 layout: post
 comments: true
-permalink: /archives/2009/04/cosine_of_a_heart.html
+permalink: /archives/2009/04/cosine_of_a_heart.html/
 robotsmeta:
   - index,follow
 dsq_thread_id:

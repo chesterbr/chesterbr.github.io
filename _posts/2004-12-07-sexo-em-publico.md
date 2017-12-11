@@ -2,7 +2,7 @@
 title: Sexo em público
 layout: post
 comments: true
-permalink: /archives/2004/12/sexo-em-publico.html
+permalink: /archives/2004/12/sexo-em-publico.html/
 robotsmeta:
   - index,follow
 categories:

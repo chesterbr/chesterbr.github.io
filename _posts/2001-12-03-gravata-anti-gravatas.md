@@ -2,7 +2,7 @@
 title: Gravata anti-gravatas
 layout: post
 comments: true
-permalink: /archives/2001/12/gravata-anti-gravatas.html
+permalink: /archives/2001/12/gravata-anti-gravatas.html/
 categories:
 ---
 Você trabalha com tecnologia e sua empresa o obriga a usar gravata? Pense um pouco: isso quer dizer que a gerência perdeu tempo precioso determinando um código de vestuário. Este tempo poderia ser usado para aperfeiçoar a estratégia de mercado, repensando o processo de produção, enfim, para tentar almoçar a concorrência antes que ela os jante.

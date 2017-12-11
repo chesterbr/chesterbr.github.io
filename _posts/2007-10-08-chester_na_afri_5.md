@@ -5,7 +5,7 @@ excerpt: |
     07/10 (Sábado) - Safari e fotos Chegou o tão esperado dia: fomos ao safari. Mais especifciamente, um foto-safari - a diferença básica é que você vai num jipe, e, ao invés de matar os bichos, tira foto deles. E por...
 layout: post
 comments: true
-permalink: /archives/2007/10/chester_na_afri_5.html
+permalink: /archives/2007/10/chester_na_afri_5.html/
 categories:
 ---
 <p><span class="mt-enclosure mt-enclosure-image"><img title="Gosto muito de você, leãozinho..." border="1" src="//chester.me/archives/img/chester_leoa.jpg" width="300" height="225" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;"/></span><em>07/10 (Sábado) &#8211; Safari e fotos</em></p>

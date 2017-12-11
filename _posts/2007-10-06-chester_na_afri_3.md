@@ -5,7 +5,7 @@ excerpt: |
     05/10 (Quinta) - Um pedaço da Califórnia e Camps Bay Desta vez foi a vez do Michael Yolland nos levar para conhecer a noite sul-africana. E para derrubar de vez os estereótipos, abrimos com uma rápida passada na Apple Centre...
 layout: post
 comments: true
-permalink: /archives/2007/10/chester_na_afri_3.html
+permalink: /archives/2007/10/chester_na_afri_3.html/
 categories:
 ---
 <span class="mt-enclosure mt-enclosure-image"><img title="Apple Center no shopping do Waterfront. Pequena, mas bem completa" border="1" src="//chester.me/archives/img/applecentre.jpg" width="250" height="188" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>*05/10 (Quinta) &#8211; Um pedaço da Califórnia e Camps Bay*

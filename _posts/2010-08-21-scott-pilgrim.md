@@ -2,7 +2,7 @@
 title: Scott Pilgrim
 layout: post
 comments: true
-permalink: /archives/2010/08/scott-pilgrim.html
+permalink: /archives/2010/08/scott-pilgrim.html/
 onswipe_thumb:
   - |
     http://img.youtube.com/vi/57saocQSQDo">normal</a> ou <a href="http://www.scottpilgrimthemovie.com/itrailer/">maior e interativo</a>), que tem um visual interessante e parece fiel. Tudo bem que o Kick-Ass também estava nas mesmas condições e eu me decepcionei um bocado com ele, mas quem sabe esse surpreende, né?

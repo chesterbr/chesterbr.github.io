@@ -5,7 +5,7 @@ excerpt: |
     Não é preciso nenhum exercício mais sofisticado de raciocínio para perceber que a web conseguiu viabilizar publicações extremamente especializadas, já que ela derruba as barreiras da tiragem e da distribuição - obstáculos que, na mídia impressa, impedem tais trabalhos de...
 layout: post
 comments: true
-permalink: /archives/2005/12/quadrinhos_sobr.html
+permalink: /archives/2005/12/quadrinhos_sobr.html/
 categories:
 ---
 <img title="Cena de The 10K Commotion" src="//chester.me/archives/img/10k.jpg" width="290" height="240" border="1" align="left" style="margin-right:2px" />Não é preciso nenhum exercício mais sofisticado de raciocínio para perceber que a web conseguiu viabilizar publicações extremamente especializadas, já que ela derruba as barreiras da tiragem e da distribuição &#8211; obstáculos que, na mídia impressa, impedem tais trabalhos de alcançar um público geograficamente disperso.

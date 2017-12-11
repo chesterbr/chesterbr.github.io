@@ -5,7 +5,7 @@ excerpt: |
     Since people love to post their favorite xkcd strips on Twitter, I thought this might help: drag the link below onto your links toolbar (it will create a button). Whenever you read an xkcd comic you want to share, just...
 layout: post
 comments: true
-permalink: /archives/2009/04/tweet_xkcd_bookmarklet.html
+permalink: /archives/2009/04/tweet_xkcd_bookmarklet.html/
 dsq_thread_id:
   - 1751448816
 categories:

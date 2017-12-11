@@ -2,7 +2,7 @@
 title: Æblet og Ormen (The Apple and the Worm) no Anima Mundi
 layout: post
 comments: true
-permalink: /archives/2010/08/%c3%a6blet-og-ormen-the-apple-and-the-worm-no-anima-mundi.html
+permalink: /archives/2010/08/%c3%a6blet-og-ormen-the-apple-and-the-worm-no-anima-mundi.html/
 onswipe_thumb:
   - http://img.youtube.com/vi/3iEbvR0qEUM/0.jpg
 categories:

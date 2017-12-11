@@ -5,7 +5,7 @@ excerpt: |
     A friend of mine called me this Sunday, happy as a child in a candy shop: she had just got herself a shinny new MacBook, after years lusting over my old-but-cute iBook G4. Of course she wanted tips on how...
 layout: post
 comments: true
-permalink: /archives/2008/01/no_thanks_i_can.html
+permalink: /archives/2008/01/no_thanks_i_can.html/
 dsq_thread_id:
   - 1751448702
 categories:

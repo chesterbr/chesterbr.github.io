@@ -2,7 +2,7 @@
 title: Dois filmes e um pequeno desabafo
 layout: post
 comments: true
-permalink: /archives/2002/09/dois-filmes-e-um-pequeno-desabafo.html
+permalink: /archives/2002/09/dois-filmes-e-um-pequeno-desabafo.html/
 categories:
 ---
 Ainda na onda de dar um tempinho dos filmes do circuito, fui ver e recomendo:

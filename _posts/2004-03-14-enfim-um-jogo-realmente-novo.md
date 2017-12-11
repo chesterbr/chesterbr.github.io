@@ -2,7 +2,7 @@
 title: Enfim um jogo realmente novo
 layout: post
 comments: true
-permalink: /archives/2004/03/enfim-um-jogo-realmente-novo.html
+permalink: /archives/2004/03/enfim-um-jogo-realmente-novo.html/
 categories:
 ---
 Eu não comprei um videogame de terceira geração (PlayStation2, XBox, GameCube) até hoje porque, honestamente, acho que eles são todos sub-aproveitados. Os fãs de Halo que me desculpem, mas o que se vê nos jogos modernos é, essencialmente, o que se via nos jogos antigos, apenas com mais polígonos, efeitos sonoros e seqüências de cinema. D&#8217;oh.

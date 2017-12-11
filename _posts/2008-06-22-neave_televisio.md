@@ -5,7 +5,7 @@ excerpt: |
     O Lucas me mandou esse Neave Television. É uma página na qual filmes curtíssimos e altamente bizarros são exibidos em sucessão aleatória e ininterrupta - e você ainda pode manter o dedo nervoso no mouse, clicando para pular. É como...
 layout: post
 comments: true
-permalink: /archives/2008/06/neave_televisio.html
+permalink: /archives/2008/06/neave_televisio.html/
 dsq_thread_id:
   - 1751450948
 categories:

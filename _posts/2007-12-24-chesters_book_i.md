@@ -5,7 +5,7 @@ excerpt: |
     Algumas pessoas se surpreenderam com os últimos posts em inglês. Eu sempre quis blogar neste idioma (afinal, o alcance é bem maior), mas, por outro lado, não queria abandonar o velho e bom português. O fato é que eu tenho...
 layout: post
 comments: true
-permalink: /archives/2007/12/chesters_book_i.html
+permalink: /archives/2007/12/chesters_book_i.html/
 dsq_thread_id:
   - 1751441135
 categories:

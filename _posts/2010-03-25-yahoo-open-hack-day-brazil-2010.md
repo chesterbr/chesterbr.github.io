@@ -2,7 +2,7 @@
 title: Yahoo! Open Hack Day Brazil 2010
 layout: post
 comments: true
-permalink: /archives/2010/03/yahoo-open-hack-day-brazil-2010.html
+permalink: /archives/2010/03/yahoo-open-hack-day-brazil-2010.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

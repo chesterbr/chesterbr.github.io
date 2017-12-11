@@ -5,7 +5,7 @@ excerpt: |
     Pizzicato Five, trilha de Katamari Damaci, não importa: o mundo da música japonesa com influências ocidentais "tá dominado" pelo pancadão nipônico da Tigarah. Ao menos é o que sugerem os vídeos que correm na rede, mostrando a performance da Tati...
 layout: post
 comments: true
-permalink: /archives/2006/12/tigarah_onna_no.html
+permalink: /archives/2006/12/tigarah_onna_no.html/
 robotsmeta:
   - index,follow
 categories:

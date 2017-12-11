@@ -2,7 +2,7 @@
 title: A saga do visto de trabalho canadense
 layout: post
 comments: true
-permalink: /archives/2012/09/a-saga-do-visto-de-trabalho-canadense.html
+permalink: /archives/2012/09/a-saga-do-visto-de-trabalho-canadense.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2012/08/canada-flag.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 robotsmeta:

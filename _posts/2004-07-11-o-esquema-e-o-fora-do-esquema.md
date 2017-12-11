@@ -2,7 +2,7 @@
 title: O esquema e o fora-do-esquema
 layout: post
 comments: true
-permalink: /archives/2004/07/o-esquema-e-o-fora-do-esquema.html
+permalink: /archives/2004/07/o-esquema-e-o-fora-do-esquema.html/
 categories:
 ---
 As duas coisas mais interessantes que assisti em tela grande nos últimos tempos têm pouco em comum.

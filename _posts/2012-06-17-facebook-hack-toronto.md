@@ -2,7 +2,7 @@
 title: 'Facebook HACK &#8211; Toronto'
 layout: post
 comments: true
-permalink: /archives/2012/06/facebook-hack-toronto.html
+permalink: /archives/2012/06/facebook-hack-toronto.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

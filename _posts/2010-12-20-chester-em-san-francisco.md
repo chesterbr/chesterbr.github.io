@@ -2,7 +2,7 @@
 title: Chester em San Francisco
 layout: post
 comments: true
-permalink: /archives/2010/12/chester-em-san-francisco.html
+permalink: /archives/2010/12/chester-em-san-francisco.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

@@ -5,7 +5,7 @@ excerpt: |
     Para quem estava buscando uma última desculpa para comprar um iPod:o Clickwheel promete, por US$ 25, colocar quadrinhos disponíveis na web dentro do brinquedo, usando o (já carne-de-vaca) formato RSS. Os caras estão estimulando a produção de quadrinhos especialmente adaptados...
 layout: post
 comments: true
-permalink: /archives/2005/07/quadrinhos_no_i.html
+permalink: /archives/2005/07/quadrinhos_no_i.html/
 dsq_thread_id:
   - 1751446212
 categories:

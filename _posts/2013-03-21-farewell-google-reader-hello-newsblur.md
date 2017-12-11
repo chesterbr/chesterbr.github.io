@@ -2,7 +2,7 @@
 title: Farewell Google Reader; Hello NewsBlur!
 layout: post
 comments: true
-permalink: /archives/2013/03/farewell-google-reader-hello-newsblur.html
+permalink: /archives/2013/03/farewell-google-reader-hello-newsblur.html/
 robotsmeta:
   - index,follow
 categories:

@@ -5,7 +5,7 @@ excerpt: |
     Em um futuro não muito distante, lutadores outrora gloriosos (velhos conhecidos de qualquer um que jogou fliperama nos últimos 15 anos) enfrentam a decadência - até que alguns deles resolvem dar a volta por cima. Este é o mote de...
 layout: post
 comments: true
-permalink: /archives/2006/12/street_fighter.html
+permalink: /archives/2006/12/street_fighter.html/
 dsq_thread_id:
   - 1751441531
 categories:

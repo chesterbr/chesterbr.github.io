@@ -5,7 +5,7 @@ excerpt: |
     O blog Gambiarra! dá link para dezenas de projetos interessantes para quem tem tempo nas mãos e espírito do-it-yourself. Navegar nos arquivos é diversão garantida por uma bela hora - e se você tiver a sorte/azar de se identificar com...
 layout: post
 comments: true
-permalink: /archives/2007/07/gambiarra.html
+permalink: /archives/2007/07/gambiarra.html/
 dsq_thread_id:
   - 1751443804
 categories:

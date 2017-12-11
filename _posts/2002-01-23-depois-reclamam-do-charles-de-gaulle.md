@@ -2,7 +2,7 @@
 title: 'Depois reclamam do Charles De Gaulle*'
 layout: post
 comments: true
-permalink: /archives/2002/01/depois-reclamam-do-charles-de-gaulle.html
+permalink: /archives/2002/01/depois-reclamam-do-charles-de-gaulle.html/
 categories:
 ---
 <span style="font-size: xx-small;">(* estadista francês que teria dito que &#8220;o Brasil não é um país sério&#8221;)</span>

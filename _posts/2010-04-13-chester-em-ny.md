@@ -2,7 +2,7 @@
 title: Chester em NY
 layout: post
 comments: true
-permalink: /archives/2010/04/chester-em-ny.html
+permalink: /archives/2010/04/chester-em-ny.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

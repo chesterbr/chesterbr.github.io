@@ -2,7 +2,7 @@
 title: 'Toothing: metendo os dentes'
 layout: post
 comments: true
-permalink: /archives/2004/03/toothing-metendo-os-dentes.html
+permalink: /archives/2004/03/toothing-metendo-os-dentes.html/
 categories:
 ---
 <img src="//chester.me/img/blig/toothing2.jpg" border=1 alt="no trem: pode ser ou tá difícil?" align="left">Eu estou quebrando a cabeça desde o ano passado pra encontrar alguma utilidade para o Bluetooth (tecnologia de rede sem fio de curto alcance para palmtops e celulares), ainda mais com o surgimento do WiFi (a mesma coisa, só que com alcance maior) e das novas alternativas de acesso à internet pelo celular.

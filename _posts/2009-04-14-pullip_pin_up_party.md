@@ -5,7 +5,7 @@ excerpt: |
     Um dia a Ludmila cometeu o erro de deixar duas bonecas colecionáveis Pullip muito bem ornamentadas na mão da galera do mal. O resultado foi uma sessão de fotos bastante desinibida, da qual a minha favorita é a que está...
 layout: post
 comments: true
-permalink: /archives/2009/04/pullip_pin_up_party.html
+permalink: /archives/2009/04/pullip_pin_up_party.html/
 categories:
 ---
 <span class="mt-enclosure mt-enclosure-image"><img title="boneca Pullip em momento sensual" src="//chester.me/archives/img/mt/2009/04/13/pullip.jpg" width="179" height="265" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Um dia a [Ludmila][1] cometeu o erro de deixar duas [bonecas colecionáveis Pullip][2] muito bem ornamentadas na mão da galera do mal.

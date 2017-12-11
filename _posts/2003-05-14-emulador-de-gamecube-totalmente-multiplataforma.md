@@ -2,7 +2,7 @@
 title: 'Emulador de Gamecube *totalmente* multiplataforma'
 layout: post
 comments: true
-permalink: /archives/2003/05/emulador-de-gamecube-totalmente-multiplataforma.html
+permalink: /archives/2003/05/emulador-de-gamecube-totalmente-multiplataforma.html/
 categories:
 ---
 Eu estou quase conseguindo fazer meu Apple II<tt>GS</tt> rodar programas 16 bits (já venci a briga com o drive, mas ainda faltam o mouse e outros detalhes). Nem ia comentar enquanto não tivesse fotos, mas lembrei do assunto quando cruzei com a página do <a href="http://benjamin.francois.free.fr/artwork/gcubix/" >gCubix</a>. É um emulador de Gamecube que roda em diversas máquinas: desde PCs com Linux/Windows até em computadores mais limitados, como o GameBoy Advance ou Apple II<tt>GS</tt>. Tem até versões para celulares que rodam Java!

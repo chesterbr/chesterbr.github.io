@@ -2,7 +2,7 @@
 title: Festa no apê
 layout: post
 comments: true
-permalink: /archives/2005/01/festa-no-ape.html
+permalink: /archives/2005/01/festa-no-ape.html/
 enclosure:
   - |
     |

@@ -2,7 +2,7 @@
 title: Asperger, a vida, o universo e tudo mais
 layout: post
 comments: true
-permalink: /archives/2004/09/asperger-a-vida-o-universo-e-tudo-mais.html
+permalink: /archives/2004/09/asperger-a-vida-o-universo-e-tudo-mais.html/
 categories:
 ---
 <img src="//chester.me/img/blig/cachorromorto.jpg" border=1 alt="capa de O Estranho Caso do Cachorro Morto" align="right">Nunca me decepcionei com as <a href="http://www.joelonsoftware.com/navLinks/fog0000000262.html" >resenhas de livros do Joel Spolsky</a>. Mas o assunto costuma ser o processo de desenvolvimento de software, o que me deixou supreso ao ler seu <a href="http://www.joelonsoftware.com/items/2004/08/20.html" >comentário</a> a respeito de <a href="http://www.americanas.com.br/cgi-bin/WebObjects/eacom.woa/wa/prod?pitId=141449&#038;source=NAVIGATION_LINE&#038;sourcevalue=1493" >O Estranho Caso do Cachorro Morto</a> (bem, talvez nem tão surpreso assim, já que ele é o único outro desenvolvedor que eu conheço que cita Gilmore Girls do nada).

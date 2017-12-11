@@ -2,7 +2,7 @@
 title: 'Sony Xperia X10 Mini Pro + Android 2.3 (Gingerbread) &#8211; Sony = ♥♥♥'
 layout: post
 comments: true
-permalink: /archives/2011/06/sony-xperia-x10-mini-pro-android-2-2-froyo-sony-%e2%99%a5.html
+permalink: /archives/2011/06/sony-xperia-x10-mini-pro-android-2-2-froyo-sony-%e2%99%a5.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

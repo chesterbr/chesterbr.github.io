@@ -5,7 +5,7 @@ excerpt: |
     A ocupação da reitoria da USP é bastante polêmica, e não pretendo discutir seus méritos e deméritos aqui. O fato é que eu aproveitei um tempinho no final da tarde para visitar a Torre do Relógio (até então fechada ao...
 layout: post
 comments: true
-permalink: /archives/2007/06/visitando_a_tor.html
+permalink: /archives/2007/06/visitando_a_tor.html/
 dsq_thread_id:
   - 1751443816
 categories:

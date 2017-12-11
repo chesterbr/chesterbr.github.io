@@ -5,7 +5,7 @@ excerpt: |
     ATENÇÃO: Links impróprios para escritório (é quase softcore para os dias de hoje, mas não custa avisar.) Nos anos 50 e 60 proliferou no Brasil um gênero de material pornográfico que consistia em revistas em quadrinhos em preto-e-branco e formato...
 layout: post
 comments: true
-permalink: /archives/2007/06/homenagem_a_car.html
+permalink: /archives/2007/06/homenagem_a_car.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/carloszefiro_catecismos.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:

@@ -2,7 +2,7 @@
 title: Brad templeton
 layout: post
 comments: true
-permalink: /archives/2005/01/brad-templeton.html
+permalink: /archives/2005/01/brad-templeton.html/
 categories:
 ---
 <img src="//chester.me/img/blig/templeton.jpg" border=1 align="left" alt="Brad Templeton, Membro da EFF">Ainda que a <a href="http://www.eff.org/" >Electronic Frontier Foundation</a> não realize sua missão de proteger os &#8220;direitos digitais&#8221; do cidadão, eles já ajudam empregando um batalhão de gente legal &#8211; desde caras como Cory Doctorow, do <a href="http://www.boingboing.net" >Boing Boing</a>, até <a href="http://www.templetons.com/brad/" >Brad Templeton</a>, de quem gostaria de falar hoje.

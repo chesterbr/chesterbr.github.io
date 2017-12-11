@@ -2,7 +2,7 @@
 title: u.nu URL shortener bookmarklet
 layout: post
 comments: true
-permalink: /archives/2010/02/u-nu-url-shortener-bookmarklet.html
+permalink: /archives/2010/02/u-nu-url-shortener-bookmarklet.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

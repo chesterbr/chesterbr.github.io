@@ -2,7 +2,7 @@
 title: Bom cãozinho, mau cãozinho
 layout: post
 comments: true
-permalink: /archives/2004/09/bom-caozinho-mau-caozinho.html
+permalink: /archives/2004/09/bom-caozinho-mau-caozinho.html/
 categories:
 ---
 Ótimo o livrinho <a href="http://www.lojaconrad.com.br/produto.asp?id=257" >Que Saudade, Snoopy!</a>, lançado pela Conrad. São mais de 120 páginas de tiras do Snoopy a um preço que equivale a dois ou três dos mini-mangás atuais. O papel, a tradução, a impressão, e principalmente a seleção das tiras são todos de alto nível, gerando um excelente resultado.

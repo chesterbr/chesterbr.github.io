@@ -5,7 +5,7 @@ excerpt: |
     Aplicações como o GMail mostraram que é possível ter níveis de interatividade na web muito próximos dos de uma aplicação desktop (com a praticidade de alguém cuidar da infra-estrutura para você). Nesta linha, tive uma sensação positiva com o Meebo,...
 layout: post
 comments: true
-permalink: /archives/2006/01/meebo_im_na_era.html
+permalink: /archives/2006/01/meebo_im_na_era.html/
 dsq_thread_id:
   - 1751445078
 categories:

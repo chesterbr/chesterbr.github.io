@@ -5,7 +5,7 @@ excerpt: |
     Sempre tive a impressão de que o horário de verão era uma "sacada" recente, coisa de vinte ou trinta anos atrás, embora não soubesse justificar tal sensação. Mal sabia eu que a idéia havia sido sugerida pela primeira vez em...
 layout: post
 comments: true
-permalink: /archives/2005/10/horario_de_vera.html
+permalink: /archives/2005/10/horario_de_vera.html/
 dsq_thread_id:
   - 1751445103
 categories:

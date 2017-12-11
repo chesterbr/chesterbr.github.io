@@ -2,7 +2,7 @@
 title: 'Bill Gates: &#8220;nippankies go home!!!&#8221;'
 layout: post
 comments: true
-permalink: /archives/2001/11/bill-gates-nippankies-go-home.html
+permalink: /archives/2001/11/bill-gates-nippankies-go-home.html/
 categories:
 ---
 A imprensa tem feito um certo estardalhaço em torno dos novos lançamentos do mercado de videogames (resumidamente, a Microsoft e a Nintendo lançaram novos consoles num mercado dominado pela Sony), tanto pelas novidades técnicas em torno dos consoles, quanto pelo bem-vindo reaquecimento da economia americana, que ainda tenta se adaptar ao pouso forçado do mercado de ações pontocom e à depressão pós-11-de-Setembro.

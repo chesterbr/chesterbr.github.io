@@ -2,7 +2,7 @@
 title: 'Dr. Slump: chega de saiyajins'
 layout: post
 comments: true
-permalink: /archives/2002/06/dr-slump-chega-de-saiyajins.html
+permalink: /archives/2002/06/dr-slump-chega-de-saiyajins.html/
 categories:
 ---
 Se você tem aquele senso de humor um pouco diferente do resto da humanidade, i.e., mais pra Monty Python do que para Jim Carrey, não deixe de ler Dr. Slump, lançado pela editora <a href="http://www.conradeditora.com.br" >Conrad</a>. Este mangá, embora do mesmo criador de DragonBall, não tem nada a ver com batalhas planetárias ou dinastias de guerreiros &#8211; talvez as mentiras do Mr. Satan ou as aventuras amorosas do Mestre Kame coubessem aqui, mas nada mais.

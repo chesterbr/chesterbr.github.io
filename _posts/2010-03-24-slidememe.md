@@ -2,7 +2,7 @@
 title: SlideMeme
 layout: post
 comments: true
-permalink: /archives/2010/03/slidememe.html
+permalink: /archives/2010/03/slidememe.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

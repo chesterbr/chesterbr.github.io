@@ -2,7 +2,7 @@
 title: Entenda Lost
 layout: post
 comments: true
-permalink: /archives/2010/04/entenda-lost.html
+permalink: /archives/2010/04/entenda-lost.html/
 onswipe_thumb:
   - SKIP
 dsq_thread_id:

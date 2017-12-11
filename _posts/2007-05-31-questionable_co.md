@@ -5,7 +5,7 @@ excerpt: |
     Nada como falar de quadrinhos um pouco para desopilar. Ando lendo um bocado de coisas ultimamente, mas hoje o assunto é Questionable Content. Não faço a menor idéia de como encontrei este webcomic - mas dado que o autor (Jeph...
 layout: post
 comments: true
-permalink: /archives/2007/05/questionable_co.html
+permalink: /archives/2007/05/questionable_co.html/
 dsq_thread_id:
   - 1751450388
 categories:

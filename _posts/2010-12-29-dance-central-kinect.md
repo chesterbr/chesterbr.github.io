@@ -2,7 +2,7 @@
 title: Dance Central (Kinect)
 layout: post
 comments: true
-permalink: /archives/2010/12/dance-central-kinect.html
+permalink: /archives/2010/12/dance-central-kinect.html/
 onswipe_thumb:
   - |
     http://img.youtube.com/vi/p2qlHoxPioM">vídeo promocional do Kinect</a> (então conhecido como Project Natal), a primeira coisa que eu pensei foi em como a Konami não perderia tempo em lançar algo parecido com o DDR para ele, mas a Harmonix saiu na frente com o <a href="http://www.dancecentral.com/">Dance Central</a>. O jogo se beneficia da experiência da empresa como <a href="http://en.wikipedia.org/wiki/Harmonix_Music_Systems">desenvolvedora original do Guitar Hero e do Rock Band</a> - que ajudou não apenas com a dinâmica do jogo, mas também com os contatos que levaram ao uso de <a href="http://www.joystiq.com/2010/10/13/the-complete-dance-central-track-list-drops-it-like-its-hot/">músicas conhecidas em versão original</a> (as poucas músicas que não são feitas pela própria Konami no DDR costumam ser remixes europeus de <em>covers </em>de qualidade questionável).

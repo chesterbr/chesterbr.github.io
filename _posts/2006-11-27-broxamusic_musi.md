@@ -5,7 +5,7 @@ excerpt: |
     Nunca assinou um Podcast? Sugestão, comece com BroxaMusic (feed) - uma seleção do que há de pior na música, sem fronteiras temporais. Quer uma amostra? Baixe o episódio 1 da série Novos Clássicos (mp3) e role de rir....
 layout: post
 comments: true
-permalink: /archives/2006/11/broxamusic_musi.html
+permalink: /archives/2006/11/broxamusic_musi.html/
 dsq_thread_id:
   - 1751441585
 categories:

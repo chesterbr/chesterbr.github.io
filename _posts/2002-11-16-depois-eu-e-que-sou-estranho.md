@@ -2,7 +2,7 @@
 title: 'Depois eu é que sou estranho&#8230;'
 layout: post
 comments: true
-permalink: /archives/2002/11/depois-eu-e-que-sou-estranho.html
+permalink: /archives/2002/11/depois-eu-e-que-sou-estranho.html/
 categories:
 ---
 A Wired News está dando uma <a href="http://www.wired.com/news/mac/0,2125,56409,00.html" >matéria</a> (também em <a href="http://busca.terra.com.br/wired/cultura/02/11/18/cul_2.html" >português</a>) falando sobre o fetichismo &#8211; na sua conotação sexual mesmo &#8211; que ronda o mundo do Macintosh. O destaque é para a quantidade de links para sites com fotos envolvendo Macs e sexo, fora alguns tão bizarros quanto, como o FAQ sobre sexo com carros (não **em** carros, mas **com** eles mesmo).

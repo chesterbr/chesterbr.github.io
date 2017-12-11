@@ -5,7 +5,7 @@ excerpt: |
     ATUALIZAÇÃO: O método sugerido aqui não lê a configuração de timezone do servidor (e, portanto, exige atualização a cada ano) . Se o seu servidor é Linux ou assemelhado, sugiro usar o timefix. Se você desenvolve aplicações Java para rodar...
 layout: post
 comments: true
-permalink: /archives/2006/10/acertando_o_hor.html
+permalink: /archives/2006/10/acertando_o_hor.html/
 dsq_thread_id:
   - 1751450154
 categories:

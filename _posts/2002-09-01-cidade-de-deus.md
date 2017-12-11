@@ -2,7 +2,7 @@
 title: Cidade de Deus
 layout: post
 comments: true
-permalink: /archives/2002/09/cidade-de-deus.html
+permalink: /archives/2002/09/cidade-de-deus.html/
 categories:
 ---
 Normalmente eu não vou assistir os &#8220;filmes cabeça&#8221; da moda. Não é tirar onda de pós-tudo não, é que, assim como os &#8220;blockbusters&#8221;, é difícil diferenciar o joio do trigo. <a href="http://epipoca.ig.com.br/filmes_zoom.cfm?id=4432" >Cidade de Deus</a> é um caso desses &#8211; e ainda por cima fala de periferia e narcotráfico, temas que costumam deixar um *vilaemense* como eu com um pé atrás.

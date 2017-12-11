@@ -5,7 +5,7 @@ excerpt: |
     Gone are the days of single-digit audience for Gecko-based browsers, but IE is far from disappearing (which is a good thing even for the diehard Firefox defenders and all five Opera users - after all, the lack of serious competition...
 layout: post
 comments: true
-permalink: /archives/2008/01/internet_explor.html
+permalink: /archives/2008/01/internet_explor.html/
 dsq_thread_id:
   - 1751450515
 categories:

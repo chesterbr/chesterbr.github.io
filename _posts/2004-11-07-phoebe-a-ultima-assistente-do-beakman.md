@@ -2,7 +2,7 @@
 title: Phoebe, a última assistente do beakman
 layout: post
 comments: true
-permalink: /archives/2004/11/phoebe-a-ultima-assistente-do-beakman.html
+permalink: /archives/2004/11/phoebe-a-ultima-assistente-do-beakman.html/
 dsq_thread_id:
   - 1752884894
 categories:

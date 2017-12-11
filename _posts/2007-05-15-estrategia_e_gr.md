@@ -5,7 +5,7 @@ excerpt: |
     O Sandro Rodrigo Gasparoto fez duas importantes contribuições no miniTruco: uma nova estratégia para a CPU e frases mais bacanas para os balões, tornando-os mais variados e coerentes com o clima de uma mesa de truco. A nova versão pode...
 layout: post
 comments: true
-permalink: /archives/2007/05/estrategia_e_gr.html
+permalink: /archives/2007/05/estrategia_e_gr.html/
 dsq_thread_id:
   - 1751443879
 categories:

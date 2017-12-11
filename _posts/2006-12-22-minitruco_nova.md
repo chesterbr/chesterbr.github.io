@@ -5,7 +5,7 @@ excerpt: |
     Há algumas semanas eu tive a agradável surpresa de receber do Leonardo Sellani uma implementação de estratégia adicional para os jogadores virtuais do miniTruco (o jogo contava com uma estratégia do Willian Gigliotti e outra - terrível - minha). Terminadas...
 layout: post
 comments: true
-permalink: /archives/2006/12/minitruco_nova.html
+permalink: /archives/2006/12/minitruco_nova.html/
 dsq_thread_id:
   - 1751450836
 categories:

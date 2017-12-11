@@ -2,7 +2,7 @@
 title: 'Plataforma Vivo: um canal comercial para desenvolvedores JME independentes.'
 layout: post
 comments: true
-permalink: /archives/2010/01/plataforma-vivo-um-canal-comercial-para-desenvolvedores-jme-independentes.html
+permalink: /archives/2010/01/plataforma-vivo-um-canal-comercial-para-desenvolvedores-jme-independentes.html/
 bb-custom-tags:
   - jogos celular
 onswipe_thumb:

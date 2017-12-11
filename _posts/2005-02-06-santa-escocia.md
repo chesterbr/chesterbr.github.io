@@ -2,7 +2,7 @@
 title: Santa escócia!
 layout: post
 comments: true
-permalink: /archives/2005/02/santa-escocia.html
+permalink: /archives/2005/02/santa-escocia.html/
 dsq_thread_id:
   - 1751447368
 categories:

@@ -5,7 +5,7 @@ excerpt: |
     Nem todo mundo entende ou curte, mas eu acho as animações do Lev Yilmaz geniais. Elas são quase todas autobiográficas, e consistem nele finalizando seqüências de desenhos e narrando os acontecimentos. Meu primeiro contato foi o hilário "I Have To...
 layout: post
 comments: true
-permalink: /archives/2008/10/tales_of_mere_existence.html
+permalink: /archives/2008/10/tales_of_mere_existence.html/
 dsq_thread_id:
   - 1751450392
 categories:

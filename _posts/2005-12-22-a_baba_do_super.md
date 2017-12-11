@@ -5,7 +5,7 @@ excerpt: |
     Elsewords é a linha de histórias em quadrinhos da DC Comics ambientada fora da cronologia oficial dos personagens (se é tal conceito ainda existe, dada a bagunça que fizeram para tentar encaixar os eventos do seriado Smallville na história como...
 layout: post
 comments: true
-permalink: /archives/2005/12/a_baba_do_super.html
+permalink: /archives/2005/12/a_baba_do_super.html/
 dsq_thread_id:
   - 1751445005
 categories:

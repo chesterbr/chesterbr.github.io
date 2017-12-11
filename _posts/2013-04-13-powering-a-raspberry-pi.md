@@ -2,7 +2,7 @@
 title: Powering a Raspberry Pi
 layout: post
 comments: true
-permalink: /archives/2013/04/powering-a-raspberry-pi.html
+permalink: /archives/2013/04/powering-a-raspberry-pi.html/
 robotsmeta:
   - index,follow
 dsq_thread_id:

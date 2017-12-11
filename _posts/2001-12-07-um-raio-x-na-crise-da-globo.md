@@ -2,7 +2,7 @@
 title: Um raio-x na crise da Globo
 layout: post
 comments: true
-permalink: /archives/2001/12/um-raio-x-na-crise-da-globo.html
+permalink: /archives/2001/12/um-raio-x-na-crise-da-globo.html/
 categories:
 ---
 Com o final da Casa dos Artistas se aproximando, a onda &#8220;O Sílvio é um gênio&#8221; da semana retrasada parece estar lentamente se convertendo em &#8220;A Globo não é mais aquela&#8221;.

@@ -5,7 +5,7 @@ excerpt: |
     Quando eu estiver fazendo algo muito, muito deturpado, pensarei: "pelo menos não juntei uma galera pra se pintar de azul, vestir roupinhas brancas e encenar um curta pornô dos Smurfs" (ATENÇÃO: LINK IMPRÓPRIO PARA MENORES/ESCRITÓRIO). Não dá pra não comentar....
 layout: post
 comments: true
-permalink: /archives/2008/03/smurf_porn.html
+permalink: /archives/2008/03/smurf_porn.html/
 onswipe_thumb:
   - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/smurf.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:

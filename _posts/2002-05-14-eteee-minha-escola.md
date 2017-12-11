@@ -2,7 +2,7 @@
 title: 'Etêêê&#8230; minha escola&#8230;'
 layout: post
 comments: true
-permalink: /archives/2002/05/eteee-minha-escola.html
+permalink: /archives/2002/05/eteee-minha-escola.html/
 categories:
 ---
 Era de se desconfiar, mas eu não sabia: Steven Spielberg é um *college dropout*, ou seja, abandonou a faculdade para seguir sua carreira. O curioso é que, moço feito, resolveu retomar os estudos &#8211; e <a href="http://ultimosegundo.ig.com.br/useg/cultura/artigo/0,,777476,00.html" >conseguiu</a>. Ele salienta, claro, que não precisa do diploma, mas o fez por questões simbólicas.

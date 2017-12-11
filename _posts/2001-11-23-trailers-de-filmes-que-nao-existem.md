@@ -2,7 +2,7 @@
 title: Trailers de filmes que não existem
 layout: post
 comments: true
-permalink: /archives/2001/11/trailers-de-filmes-que-nao-existem.html
+permalink: /archives/2001/11/trailers-de-filmes-que-nao-existem.html/
 categories:
 ---
 A home do site diz tudo: &#8220;[Trailervision][1] &#8211; Trailers for movies that don&#8217;t exist and spoof movie trailers&#8221;.

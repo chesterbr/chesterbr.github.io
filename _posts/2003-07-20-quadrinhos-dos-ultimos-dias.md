@@ -2,7 +2,7 @@
 title: Quadrinhos dos últimos dias
 layout: post
 comments: true
-permalink: /archives/2003/07/quadrinhos-dos-ultimos-dias.html
+permalink: /archives/2003/07/quadrinhos-dos-ultimos-dias.html/
 categories:
 ---
 <img src=//chester.me/img/blig/mundodisney.jpg align="left" border=1><a href="http://www.popmidia.com.br/loja/produtos/mundodisney.htm">O Mundo de Disney</a>, de Álvaro de Moya, é uma antologia relativamente recente (1996) que eu encontrei em promoção em uma livraria.

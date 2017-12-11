@@ -2,7 +2,7 @@
 title: 'Urban Fact (Fato Urbano) / RHoK #1 SP'
 layout: post
 comments: true
-permalink: /archives/2010/06/random-hacks-of-kindness-1-sp-urban-fact-fato-urbano.html
+permalink: /archives/2010/06/random-hacks-of-kindness-1-sp-urban-fact-fato-urbano.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:

@@ -5,7 +5,7 @@ excerpt: |
     Quando foi a última vez em que você se divertiu com uma moeda de R$ 0,05? O povo do IME consegue, e eu peguei uma palhinha em vídeo (exige Quicktime ou assemelhado)....
 layout: post
 comments: true
-permalink: /archives/2005/09/beyblade_dos_po.html
+permalink: /archives/2005/09/beyblade_dos_po.html/
 dsq_thread_id:
   - 1751445168
 categories:

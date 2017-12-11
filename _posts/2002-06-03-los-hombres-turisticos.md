@@ -2,7 +2,7 @@
 title: Los hombres turísticos
 layout: post
 comments: true
-permalink: /archives/2002/06/los-hombres-turisticos.html
+permalink: /archives/2002/06/los-hombres-turisticos.html/
 categories:
 ---
 Sem entrar no assunto &#8220;rivalidade Brasil-Argentina&#8221; (ainda mais em época de copa): todo mundo que tem uma conta de e-mail nesse país já deve ter recebido a infame <a href="/img/blig/argentinaoriginal.jpg" >foto</a> da barreira argentina, que certamente representa um dos momentos mais felizes do fotógrafo, e um dos mais infelizes dos pobres jogadores.

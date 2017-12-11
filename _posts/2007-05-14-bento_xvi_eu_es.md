@@ -5,7 +5,7 @@ excerpt: |
     (este artigo ia ter uma ilustração fantástica - mas ela é protegida por copyright, portanto clique aqui para visualizá-la)Aos infiéis que não acreditam em milagres: nesta sexta-feira eu estava jogando Pokémon Pearl e, por conta de um travamento, o jogo...
 layout: post
 comments: true
-permalink: /archives/2007/05/bento_xvi_eu_es.html
+permalink: /archives/2007/05/bento_xvi_eu_es.html/
 dsq_thread_id:
   - 1751443886
 categories:
