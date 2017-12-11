@@ -12,7 +12,7 @@ dsq_thread_id:
 categories:
   - Portfolio
 ---
-<img width="300" height="127" src="//chester.me/img/epamin.gif" alt="tela do jogo 'A Busca de Epaminondas Jr.'" align="right" style="margin-left:4px" />Este jogo, criado no início dos anos 90, foi uma das primeiras coisas que disponibilizei na web, não sem um certo constrangimento: minha definição de &#8220;humor&#8221; mudou um pouco ao longo dos últimos quinze anos.
+<img width="300" height="127" src="/img/epamin.gif" alt="tela do jogo 'A Busca de Epaminondas Jr.'" align="right" style="margin-left:4px" />Este jogo, criado no início dos anos 90, foi uma das primeiras coisas que disponibilizei na web, não sem um certo constrangimento: minha definição de &#8220;humor&#8221; mudou um pouco ao longo dos últimos quinze anos.
 
 Embora o jogo não use (nem de longe) os recursos dos PCs modernos, os e-mails que recebo mostram que ainda hoje há quem se divirta um pouco com ele. Este fenômeno curioso me levou a falar um pouco mais a respeito &#8211; incluindo algumas curiosidades e dicas para ajudar quem ficou travado em algum quebra-cabeças. E, claro, disponibilizar o jogo para download **ou direto no navegador (NOVIDADE)**!
 
@@ -77,7 +77,7 @@ Cada um joga adventures de texto à sua maneira, mas eu me dou muito melhor dese
 Eu costumava desenhar na mão, mas usando uma planilha eletrônica moderna foi possível esboçar o mapa abaixo em poucos minutos. Ele mostra os primeiros locais do jogo, dando uma idéia de como começar. À medida que o jogo prossegue, pode-se anotar a posição de objetos e personagens relevantes, enfim, tudo o que puder ajudar lá adiante, caso seja preciso retomar.
 
 <center>
-  <img width="470" height="395" src="//chester.me/archives/img/epa_mapa.png" />
+  <img width="470" height="395" src="/archives/img/epa_mapa.png" />
 </center>
 
 

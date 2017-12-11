@@ -9,7 +9,7 @@ dsq_thread_id:
   - 1751447796
 categories:
 ---
-[<img class="alignright size-medium wp-image-5749" style="border: 1px solid black; padding: 0px;" title="Chester na Disney" src="//chester.me/wp-content/uploads/2010/12/chester_disney-282x300.jpg" alt="Chester na Disney" width="282" height="300" />][1]A [viagem à Califórnia][2] foi seguida por um passeio à Disney de Orlando &#8211; ou, oficialmente, ao [Walt Disney World Resort][3]. O meu maior interesse era conhecer os parques temáticos &#8211; e entender o fascínio que gente como [Cory Doctorow][4] tem pelo assunto ([Down And Out in the Magic Kingdom][5] e [Makers][6] são dois ótimos livros dele que flertam com o tema).
+[<img class="alignright size-medium wp-image-5749" style="border: 1px solid black; padding: 0px;" title="Chester na Disney" src="/wp-content/uploads/2010/12/chester_disney-282x300.jpg" alt="Chester na Disney" width="282" height="300" />][1]A [viagem à Califórnia][2] foi seguida por um passeio à Disney de Orlando &#8211; ou, oficialmente, ao [Walt Disney World Resort][3]. O meu maior interesse era conhecer os parques temáticos &#8211; e entender o fascínio que gente como [Cory Doctorow][4] tem pelo assunto ([Down And Out in the Magic Kingdom][5] e [Makers][6] são dois ótimos livros dele que flertam com o tema).
 
 Visitar três parques (e um centro de compras com atrações próprias) é um programa para três ou quatro dias &#8211; mas eu só dispunha de dois. Felizmente a minha companheira de viagens era a [Bani][7] &#8211; uma verdadeira &#8220;[rata de Disney][8]&#8221; que conseguiu compactar a visita no tempo necessário. Muitas das dicas que compartilho nesse post vieram dela.
 
@@ -336,7 +336,7 @@ As [fotos][25] estão online, como de costume, e com isso só me resta falar dos
 Justiça seja feita: o Soarin quase mereceu um 6 (eu fui duas vezes e iria mais), e o Test Track não merecia nem existir: muita fila para uma atração chata, sem propósito e des-educativa (passa a idéia de que tecnologia é a solução para evitar acidentes de automóvel). Os fogos no final do dia no Magic Kingdom são imperdíveis e resumem bem a experiência. Ah, e só pra constar: os boatos sobre a [Sininho que desce &#8220;voando&#8221; do castelo][27] ser interpretada por um homem são [inconclusivos][28]. :-P
 
  [1]: http://www.flickr.com/photos/chesterbr/sets/72157625466196623/with/5258743472/
- [2]: //chester.me/archives/2010/12/chester-em-san-francisco.html
+ [2]: /archives/2010/12/chester-em-san-francisco.html
  [3]: http://disneyworld.disney.go.com/
  [4]: http://blog.xkcd.com/2007/03/28/cory-doctorow-part-ii/
  [5]: http://www.amazon.co.uk/Down-Magic-Kingdom-Cory-Doctorow/dp/076530953X
@@ -353,7 +353,7 @@ Justiça seja feita: o Soarin quase mereceu um 6 (eu fui duas vezes e iria mais)
  [16]: http://www.wdwinfo.com/transportation/water.htm
  [17]: http://en.wikipedia.org/wiki/Walt_Disney_World_Monorail_System
  [18]: http://www.viajandoparaorlando.com/parques/disney/fastpass.php
- [19]: //chester.me/archives/2010/11/numbers-rule-your-world.html
+ [19]: /archives/2010/11/numbers-rule-your-world.html
  [20]: http://disneyworld.disney.go.com/dining/wolfgang-puck-cafe/
  [21]: http://disneyworld.disney.go.com/dining/nine-dragons-restaurant/?closeDialog=mdvDialog
  [22]: http://www.urbanspoon.com/r/26/1456764/restaurant/Orlando/Disney-Lake-Buena/Pecos-Bill-Tall-Tale-Inn-and-Cafe-Lake-Buena-Vista

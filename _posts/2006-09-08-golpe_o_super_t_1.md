@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Portfolio
 ---
-<img title="cartas do jogo Golpe" src="//chester.me/archives/img/golpe.jpg" alt="" width="140" height="141" align="right" />Com uma eleição tão parada como esta (a menos de pérolas como o [Super Moura][1] e o [Deputado das Raves][2]), só nos restou pegar carona no insanamente bem sacado [Super Trunfo de Santos Católicos][3] e lançar o [Golpe][4] &#8211; um jogo na mesma pegada, só que baseado no caricato panteão dos políticos brasileiros.
+<img title="cartas do jogo Golpe" src="/archives/img/golpe.jpg" alt="" width="140" height="141" align="right" />Com uma eleição tão parada como esta (a menos de pérolas como o [Super Moura][1] e o [Deputado das Raves][2]), só nos restou pegar carona no insanamente bem sacado [Super Trunfo de Santos Católicos][3] e lançar o [Golpe][4] &#8211; um jogo na mesma pegada, só que baseado no caricato panteão dos políticos brasileiros.
 
 O melhor de tudo: é grátis (através da licença Creative Commons). Você baixa o PDF e pode imprimir em casa, mandar na gráfica, enfim, fazer o que bem entender (menos comercializar e reutilizar sem citar a fonte original). Além disso, as mídias, a planilha de dados e o programinha que gera o PDF também estão disponíveis para quem quiser atualizar as cartas ou até criar seu próprio baralho nesse estilo. Divirtam-se.
 

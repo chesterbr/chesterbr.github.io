@@ -49,7 +49,7 @@ Sei lá qual foi o resultado, mas a coisa virou febre: na lojinha (que tem [vers
 
 Enfim, um país que gasta tanta energia com um detalhe como o bonequinho do farol merece uma visita. Próxima parada: Praga.
 
- [1]: //chester.me/archives/2009/08/chester-na-europa-1-dresden.html
+ [1]: /archives/2009/08/chester-na-europa-1-dresden.html
  [2]: http://www.flickr.com/photos/chesterbr/3844429706/ "Teatros, igrejas e monumentos são abundantes na cidade."
  [3]: http://www.baxpax.de/mittes-backpacker/
  [4]: http://www.flickr.com/photos/chesterbr/3843604675/ "O pouco que sobrou do muro, protegido por uma grade (é, todo aquele trabalho pra derrubar e agora estão protegendo :-P )"
@@ -64,7 +64,7 @@ Enfim, um país que gasta tanta energia com um detalhe como o bonequinho do faro
  [13]: http://maps.google.com.br/maps?oe=utf-8&client=firefox-a&ie=UTF8&q=chill+out+bar+berlin&fb=1&split=1&gl=br&cid=8128046848665788474&li=lmd&z=16&iwloc=A
  [14]: http://travel.yahoo.com/p-travelguide-2776412-cafe_zapata_berlin-i?action=describe
  [15]: http://www.flickr.com/photos/chesterbr/3844654626/ "DSCN0355 by chesterbr, on Flickr"
- [16]: //chester.me/wp-content/uploads/2009/09/sslWarning.png
+ [16]: /wp-content/uploads/2009/09/sslWarning.png
  [17]: http://www.flickr.com/photos/chesterbr/3844511136/in/set-72157622106190874/
  [18]: http://www.flickr.com/photos/chesterbr/3843892335/ "DSCN0384 by chesterbr, on Flickr"
  [19]: http://en.wikipedia.org/wiki/Ampelm%C3%A4nnchen

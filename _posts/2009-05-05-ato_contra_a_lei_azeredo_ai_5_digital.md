@@ -20,7 +20,7 @@ Tudo isso torna a manifestação da sociedade civil importante, e por isso prete
 
 **UPDATE:** Fiz vários comentários (e até postei fotos) do ato no [Twitter][3], mas resumindo: não foi um panelaço como eu esperava, e sim um evento oficial da casa, contando com representantes de várias entidades, acadêmicos, deputados e até com o Senador Suplicy. Este último foi bastante comedido, mas acabou admitindo (por conta de oportuna intervenção da jornalista Marina Lang, da Folha &#8211; para quem até dei um [depoimento][4]) que o partido errou em aprovar o projeto original no Senado, mas já está trabalhando num substituto e na interrupção do trâmite do atual. Ou seja, há luz no fim do túnel, mas é preciso continuar dando atenção ao caso.
 
-<span class="mt-enclosure mt-enclosure-image"><img alt="ato-contraai5digital.jpg" src="//chester.me/archives/img/mt/2009/05/05/ato-contraai5digital.jpg" width="546" height="735" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></span>
+<span class="mt-enclosure mt-enclosure-image"><img alt="ato-contraai5digital.jpg" src="/archives/img/mt/2009/05/05/ato-contraai5digital.jpg" width="546" height="735" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></span>
 
  [1]: http://www.trezentos.blog.br/?p=1147
  [2]: http://g1.globo.com/Noticias/Tecnologia/0,,MUL651929-6174,00-ENTENDA+A+POLEMICA+SOBRE+O+IMPACTO+DA+LEI+DE+CRIMES+CIBERNETICOS.html

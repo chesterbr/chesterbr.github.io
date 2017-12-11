@@ -24,7 +24,7 @@ After some head-scratching, I found the issue: the cable. Apparently, [cheap cab
 An LG cable (with no Part number) got me pretty much the same results. Also tested the cable on an [Apple Cinema Display][10] USB port (okay) and a BlackBerry Playbook charger with built-in cable (excellent). Heard good things about the Kindle Fire charger, but could not test it yet.
 
 <div id="attachment_7536" class="wp-caption aligncenter" style="width: 410px">
-  <a href="http://en.wikipedia.org/wiki/Cable_%28comics%29"><img class="size-full wp-image-7536 " alt="Guess who was causing trouble?" src="//chester.me/wp-content/uploads/2013/04/cable.jpg" width="400" height="324" /></a><p class="wp-caption-text">
+  <a href="http://en.wikipedia.org/wiki/Cable_%28comics%29"><img class="size-full wp-image-7536 " alt="Guess who was causing trouble?" src="/wp-content/uploads/2013/04/cable.jpg" width="400" height="324" /></a><p class="wp-caption-text">
     Guess who was causing trouble?
   </p>
 </div>

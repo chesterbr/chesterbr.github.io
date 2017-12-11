@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751445103
 categories:
 ---
-<img border="2" alt="Um detalhe de uma interpretação de A Persistência da Memória, um dos quadros mais famosos de Salvador Dalí. Não sei ao certo a origem." src="//chester.me/archives/img/relogio.jpg" width="240" height="192" align="right" style="margin-left:1px;" />Sempre tive a impressão de que o horário de verão era uma &#8220;sacada&#8221; recente, coisa de vinte ou trinta anos atrás, embora não soubesse justificar tal sensação. Mal sabia eu que a idéia havia sido [sugerida pela primeira vez][1] em 1784 &#8211; por ninguém menos que Benjamin Franklin.
+<img border="2" alt="Um detalhe de uma interpretação de A Persistência da Memória, um dos quadros mais famosos de Salvador Dalí. Não sei ao certo a origem." src="/archives/img/relogio.jpg" width="240" height="192" align="right" style="margin-left:1px;" />Sempre tive a impressão de que o horário de verão era uma &#8220;sacada&#8221; recente, coisa de vinte ou trinta anos atrás, embora não soubesse justificar tal sensação. Mal sabia eu que a idéia havia sido [sugerida pela primeira vez][1] em 1784 &#8211; por ninguém menos que Benjamin Franklin.
 
 Mais ainda: acompanhando a [listagem dos decretos-lei sobre horário de verão no Brasil][2], mantida pelo Observatório Nacional (que também disponibiliza um curioso serviço de [hora falada em tempo real][3] e outras coisas interessantes), descobri que o horário de verão foi insituído no Brasil em 1931, por Getúlio Vargas.
 

@@ -19,7 +19,7 @@ Pior é que na Tarja #1, ele é destaque também, em grande parte graças ao vir
 O mais matador é que uma das melhores histórias &#8211; &#8220;A Origem do Capitão Presença&#8221; &#8211; mal tem desenhos! Nada de pais mortos em becos ou naves alienígenas: o que vemos é o cérebro do Branco parindo o cara como se fosse uma agência de publicidade &#8220;criando&#8221; uma peça. Presença!
 
 <center>
-  <img title="Tira do Capitão Presença" src="//chester.me/archives/img/presenca.png" width="525" height="194" />
+  <img title="Tira do Capitão Presença" src="/archives/img/presenca.png" width="525" height="194" />
 </center>
 
  [1]: http://www.fhumor.com.br/index.html

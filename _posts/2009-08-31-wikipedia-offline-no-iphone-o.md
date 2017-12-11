@@ -14,7 +14,7 @@ Demorou para me convencer a gastar US$ 10 na [Encyclopedia][2] &#8211; ainda mai
 Mas tudo isso vale por um simples motivo &#8211; o programa realiza um sonho de consumo da minha infância:
 
 <p style="text-align: center">
-  <a title="O livro mais completo do universo" href="http://duckman.pettho.com/characters/guideb.html"><img class="aligncenter size-full wp-image-2709" src="//chester.me/wp-content/uploads/2009/08/manual_do_escoteiro_mirim.jpg" alt="O livro mais completo do universo" width="250" height="277" /></a>
+  <a title="O livro mais completo do universo" href="http://duckman.pettho.com/characters/guideb.html"><img class="aligncenter size-full wp-image-2709" src="/wp-content/uploads/2009/08/manual_do_escoteiro_mirim.jpg" alt="O livro mais completo do universo" width="250" height="277" /></a>
 </p>
 
 Sim, gente: ter a Wikipedia no bolso é equivalente a ter o [Manual do Escoteiro Mirim][4] &#8211; aquele livro que sempre salvava os sobrinhos do Donald (antes, claro, de eles [poderem contar com a ajuda dos Vingadores][5]) em qualquer situação complicada que surgisse.
@@ -24,7 +24,7 @@ Na época a Abril até lançou um [livro][6] com esse nome &#8211; mas duvido qu
 Alguns diriam que a Wikipedia offline também é funcionalmente equivalente (ao menos para quem não pretende sair deste planeta) a outro livro indispensável:
 
 <p style="text-align: center">
-  <a title="Outro livro sem precedentes. Arte de George Cairns." href="http://www.georgecairns.com/guide.html"><img class="size-full wp-image-2710 aligncenter" src="//chester.me/wp-content/uploads/2009/08/o_guia_do_mochileiro_das_galaxias.jpg" alt="Outro livro sem precedentes. Arte de George Cairns." width="208" height="277" /></a>
+  <a title="Outro livro sem precedentes. Arte de George Cairns." href="http://www.georgecairns.com/guide.html"><img class="size-full wp-image-2710 aligncenter" src="/wp-content/uploads/2009/08/o_guia_do_mochileiro_das_galaxias.jpg" alt="Outro livro sem precedentes. Arte de George Cairns." width="208" height="277" /></a>
 </p>
 
 É fato: [O Guia do Mochileiro das Galáxias][7] também livraria a cara fortemente em várias situações complicadas do dia-a-dia.

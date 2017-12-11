@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751441304
 categories:
 ---
-<img title="Scott McCloud em modo autobiográfico: 'What, do I have to *explain* that one?'" src="//chester.me/archives/img/mccloud_explain.png" width="221" height="154" style="margin-right:2px" align="left" />O futuro da indústria fonográfica (e, para quem consegue dissociar, dos artistas) num mundo onde o download de MP3 e o CD pirata do camelô estão ao alcance de qualquer um é um tema que rende muita conversa. Além disso, a relação dos quadrinhos impressos com as inúmeras alternativas online, se não tem a universalidade do outro tema, possui muitas semelhanças &#8211; e é igualmente interessante.
+<img title="Scott McCloud em modo autobiográfico: 'What, do I have to *explain* that one?'" src="/archives/img/mccloud_explain.png" width="221" height="154" style="margin-right:2px" align="left" />O futuro da indústria fonográfica (e, para quem consegue dissociar, dos artistas) num mundo onde o download de MP3 e o CD pirata do camelô estão ao alcance de qualquer um é um tema que rende muita conversa. Além disso, a relação dos quadrinhos impressos com as inúmeras alternativas online, se não tem a universalidade do outro tema, possui muitas semelhanças &#8211; e é igualmente interessante.
 
 Claro que a explosão de popularidade dos MP3 players (desde os mais modestos até os iPods) e as iniciativas de venda de música (e quadrinhos) online (também dos mais diversos portes) exercem um papel nessa história toda. No entanto, minhas convicções sobre o assunto ainda são fortemente calcadas em um [texto da Courtney Love][1] e uma [história em quadrinhos do Scott McCloud][2]<sup>[<a name="mccloud" href="#ftn.mccloud">1</a>]</sup> que antecedem tudo isso (são de 2000 e 2001, respectivamente).
 

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751448702
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="Detail from Ludwig Gatzke's rendering of Web 2.0 logos, full image at http://tinyurl.com/3dslx2" src="//chester.me/archives/img/web2gatzke.png" width="215" height="183" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>A friend of mine called me this Sunday, happy as a child in a candy shop: she had just got herself a shinny new MacBook, after years lusting over my old-but-cute iBook G4.
+<span class="mt-enclosure mt-enclosure-image"><img title="Detail from Ludwig Gatzke's rendering of Web 2.0 logos, full image at http://tinyurl.com/3dslx2" src="/archives/img/web2gatzke.png" width="215" height="183" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>A friend of mine called me this Sunday, happy as a child in a candy shop: she had just got herself a shinny new MacBook, after years lusting over my old-but-cute iBook G4.
 
 Of course she wanted tips on how to do the basic PC things from a fellow Mac user, and I started by talking about cool software to install (thing such as Firefox, [NeoOffice][1], etc.). But when I mentioned [Adium][2] (a multi-messenger client like Pidgin or Trillian &#8211; except for running on Macs, and not being ugly or clumsy), she said in a very candid voice:
 
@@ -31,7 +31,7 @@ It is hard to say when most applications will have compelling web-based alternat
  [1]: http://www.neooffice.org/
  [2]: http://www.adiumx.com/
  [3]: http://www.meebo.com
- [4]: //chester.me/archives/2006/01/meebo_im_na_era.html
+ [4]: /archives/2006/01/meebo_im_na_era.html
  [5]: http://www.zoho.com
  [6]: http://docs.google.com
  [7]: http://www.bobdylan.com/songs/times.html

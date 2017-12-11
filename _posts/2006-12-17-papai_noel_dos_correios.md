@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2006/12/papai_noel_dos_correios.html/
 categories:
 ---
-<img style="margin-left:2px" src="//chester.me/archives/img/noelcorreios.jpg" border="1" alt="" width="220" height="165" align="right" />Não vou negar: sempre tive um pé atrás com o natal.
+<img style="margin-left:2px" src="/archives/img/noelcorreios.jpg" border="1" alt="" width="220" height="165" align="right" />Não vou negar: sempre tive um pé atrás com o natal.
 
 Quando vejo o povo atarantado entre compras e preparativos, só consigo pensar nos excluídos que não têm razão, companhia ou (principalmente) condições para comemorar. Não, não sofri destes males (apesar do baixo [IDH][1] da Vila Ema, fui criado a [leite com pêra e *ovomaltino* na geladeira][2]), mas desenvolvi um certo preconceito contra a data (superficialmente fundamentado por [clássicos de esquerda][3] e sacramentado por [punk rock dos anos 80][4]).
 

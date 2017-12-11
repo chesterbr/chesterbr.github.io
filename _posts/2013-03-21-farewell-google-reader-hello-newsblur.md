@@ -7,7 +7,7 @@ robotsmeta:
   - index,follow
 categories:
 ---
-[<img src="//chester.me/wp-content/uploads/2013/03/newsblur.png" alt="NewsBlur" width="200" height="200" class="alignright size-full wp-image-7450" />][1]As a content addict, I&#8217;ve always sought tools that ease its consumption, from primitive ones such as [PointCast][2], [Plucker][3] and [Hands][4] to modern-day RSS aggregators like Google Reader.
+[<img src="/wp-content/uploads/2013/03/newsblur.png" alt="NewsBlur" width="200" height="200" class="alignright size-full wp-image-7450" />][1]As a content addict, I&#8217;ve always sought tools that ease its consumption, from primitive ones such as [PointCast][2], [Plucker][3] and [Hands][4] to modern-day RSS aggregators like Google Reader.
 
 Reader&#8217;s efficient handling of feeds, flexible ordering (a must for webcomics) and read post tracking pretty much killed competition on this arena years ago. But hegemony is [seldom a good thing in software][5], and bad calls like the [stubborn push][6] of a GMail-like UI and the abandonment [symptoms][7] (recently [explained][8] by an ex-PM) made the [retirement announce][9] my personal wake-up call to find a better solution.
 

@@ -5,7 +5,7 @@ comments: true
 permalink: /archives/2002/11/finalmente-um-anti-spam-que-funciona-de-verdade.html/
 categories:
 ---
-<img src='//chester.me/img/blig/spam\_monty\_python.gif' align="left" hspace=2>O <a href="http://www.cloudmark.com/products/spamnet/">Cloudmark SpamNet</a> é um plug-in gratuito para o Outlook 2000/XP que se propõe a combater os e-mails não desejados (também conhecidos como &#8220;spam&#8221;) de uma maneira bastante original e eficiente. De forma análoga a um antivírus, ele gera uma &#8220;assinatura&#8221; para cada mensagem que você recebe, e compara com uma lista de assinaturas que ele sabe que são de spams. Quando identifica um, manda para uma pasta &#8220;Spam&#8221;.
+<img src='/img/blig/spam\_monty\_python.gif' align="left" hspace=2>O <a href="http://www.cloudmark.com/products/spamnet/">Cloudmark SpamNet</a> é um plug-in gratuito para o Outlook 2000/XP que se propõe a combater os e-mails não desejados (também conhecidos como &#8220;spam&#8221;) de uma maneira bastante original e eficiente. De forma análoga a um antivírus, ele gera uma &#8220;assinatura&#8221; para cada mensagem que você recebe, e compara com uma lista de assinaturas que ele sabe que são de spams. Quando identifica um, manda para uma pasta &#8220;Spam&#8221;.
 
 Até aí, nada de mais. O interessante é que, quando algum spam passa pelo &#8220;pente fino&#8221;, você pode clicar num botão &#8220;block&#8221;, que, além de mandar para a pasta &#8220;Spam&#8221;, informa a assinatura daquele spam para **todos** os usuários do programa. Resultado (no meu caso): mais de 90% dos spams que chegam já foram bloqueados por alguém, e somem da minha vista antes que eu os abra.
 

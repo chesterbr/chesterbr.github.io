@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751441348
 categories:
 ---
-<img title="Foto da BBC de pessoas jogando NDS, tirada de http://news.bbc.co.uk/2/hi/technology/5041690.stm" src="//chester.me/archives/img/ds_pessoas_bbc.jpg" width="203" height="152" border="1" align="left" style="margin-right:2px" />Uma das características mais legais do [Nintendo DS][1] (NDS) é a comunicação sem fio: você pode jogar pessoalmente contra os amigos, ou, através de uma rede Wi-Fi, desafiar pessoas do mundo todo. O sucesso do NDS com o público infantil no Japão garante um suprimento infindável de adversários &#8211; afinal, a produção de crianças japonesas não dá sinais de cansaço.
+<img title="Foto da BBC de pessoas jogando NDS, tirada de http://news.bbc.co.uk/2/hi/technology/5041690.stm" src="/archives/img/ds_pessoas_bbc.jpg" width="203" height="152" border="1" align="left" style="margin-right:2px" />Uma das características mais legais do [Nintendo DS][1] (NDS) é a comunicação sem fio: você pode jogar pessoalmente contra os amigos, ou, através de uma rede Wi-Fi, desafiar pessoas do mundo todo. O sucesso do NDS com o público infantil no Japão garante um suprimento infindável de adversários &#8211; afinal, a produção de crianças japonesas não dá sinais de cansaço.
 
 O objetivo deste post é ajudar aqueles que, como eu, querem aproveitar a rede sem fio de casa para jogar com o NDS &#8211; embora existam vários [tutoriais para Linux][2] e [Windows][3] ensinando a fazer isso, vale a pena mencinar dois detalhes me fizeram bater a cabeça um bom tempo. Se isso interessa, continue lendo.
 

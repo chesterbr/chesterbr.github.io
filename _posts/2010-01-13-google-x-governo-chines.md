@@ -4,11 +4,11 @@ layout: post
 comments: true
 permalink: /archives/2010/01/google-x-governo-chines.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/01/tiananmen.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/01/tiananmen.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
 ---
 <p style="text-align:center">
-  <a href="http://pt.wikipedia.org/wiki/Protesto_na_Pra%C3%A7a_da_Paz_Celestial_em_1989"><img alt="Protesto na Praça da Paz Celestial, típica cena censurada pelo Google.cn" class="size-full wp-image-3548 center" src="//chester.me/wp-content/uploads/2010/01/tiananmen.jpg" width="300" height="220" /></a>
+  <a href="http://pt.wikipedia.org/wiki/Protesto_na_Pra%C3%A7a_da_Paz_Celestial_em_1989"><img alt="Protesto na Praça da Paz Celestial, típica cena censurada pelo Google.cn" class="size-full wp-image-3548 center" src="/wp-content/uploads/2010/01/tiananmen.jpg" width="300" height="220" /></a>
 </p>
 
 Minha primeira reação ao saber do [imbróglio][1] foi de espanto: o Google China foi vítima de uma invasão que procurava dados de contas de ativistas pró-direitos humanos &#8211; e é bem razoável acreditar que o responsável tenha sido o próprio governo. A empresa ameaça fechar sua [página local][2] (que pré-censura há anos seus resultados, de forma a agradar ao governo chinês) e até fechar as portas no país.

@@ -8,12 +8,12 @@ bb-custom-tags:
 robotsmeta:
   - index,follow
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/04/django.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/04/django.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751444624
 categories:
 ---
-<img src="//chester.me/wp-content/uploads/2010/04/django.jpg" alt="django" title="django" width="246" height="360" class="alignleft size-full wp-image-6235" />[Dreamhost][1] is a pretty decent provider for people with lots of small websites. I didn&#8217;t expect them to have, say, Python 3 (although I&#8217;d love to), but I was surprised to find their official support is just for **2.4**!
+<img src="/wp-content/uploads/2010/04/django.jpg" alt="django" title="django" width="246" height="360" class="alignleft size-full wp-image-6235" />[Dreamhost][1] is a pretty decent provider for people with lots of small websites. I didn&#8217;t expect them to have, say, Python 3 (although I&#8217;d love to), but I was surprised to find their official support is just for **2.4**!
 
 There are [instructions for custom builds][2], but they are not much supportive (&#8220;If you are positive that you need to install Python, reconsider&#8221;), and a few [unofficial][3] ones. Here are the steps **I** used &#8211; try them at your own risk, since I can&#8217;t give any guarantees other than the fact that they worked for me (hint: create a new subdomain **with its own user** and try that there first.)
 

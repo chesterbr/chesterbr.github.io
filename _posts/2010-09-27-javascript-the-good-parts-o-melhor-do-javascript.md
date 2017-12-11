@@ -4,14 +4,14 @@ layout: post
 comments: true
 permalink: /archives/2010/09/javascript-the-good-parts-o-melhor-do-javascript.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/09/crockford.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/09/crockford.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 robotsmeta:
   - index,follow
 dsq_thread_id:
   - 1751441288
 categories:
 ---
-<img class="alignright size-full wp-image-4561" title="crockford" src="//chester.me/wp-content/uploads/2010/09/crockford.jpg" alt="Douglas Crockford, autor de JavaScript: The Good Parts" width="199" height="295" />Não ia escrever sobre esse livro, simplesmente porque não teria muito a acrescentar, mas o [Lucas][1] me convenceu de que valeria a pena nem que fosse só pra convocar as pessoas a ler. Se você programa em JavaScript (mais ainda: se não programa ou não gosta dela por ter tido experiências ruins), preste atenção:
+<img class="alignright size-full wp-image-4561" title="crockford" src="/wp-content/uploads/2010/09/crockford.jpg" alt="Douglas Crockford, autor de JavaScript: The Good Parts" width="199" height="295" />Não ia escrever sobre esse livro, simplesmente porque não teria muito a acrescentar, mas o [Lucas][1] me convenceu de que valeria a pena nem que fosse só pra convocar as pessoas a ler. Se você programa em JavaScript (mais ainda: se não programa ou não gosta dela por ter tido experiências ruins), preste atenção:
 
 [Douglas Crockford][2] é possivelmente um dos caras que mais manjam de JavaScript do mundo: um dos responsáveis pela padronização e disseminação do [JSON][3], ele teve papel fundamental nos comitês que deram (e ainda dão) o rumo da linguagem &#8211; quem foi ao [QCon][4] teve a oportunidade de ouvir algumas histórias &#8220;do front&#8221; em primeira mão.
 
@@ -30,7 +30,7 @@ Optei pela edição nacional (&#8220;[O Melhor do JavaScript][11]&#8220;) pelo p
  [1]: http://xucros.com/
  [2]: http://www.crockford.com/
  [3]: http://www.json.org/
- [4]: //chester.me/archives/2010/09/qcon-sao-paulo-2010.html
+ [4]: /archives/2010/09/qcon-sao-paulo-2010.html
  [5]: http://www.woodger.ca/js_orig.htm
  [6]: http://zef.me/2843/javascript-the-scope-pitfall
  [7]: http://polymathprogrammer.com/2008/05/19/float-finance-folly/

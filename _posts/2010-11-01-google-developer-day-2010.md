@@ -9,7 +9,7 @@ dsq_thread_id:
   - 1751445154
 categories:
 ---
-<img class="size-full wp-image-4778 alignright" title="GDD2010" src="//chester.me/wp-content/uploads/2010/11/gddbr.png" alt="GDD2010-logo" width="122" height="103" />A maratona de eventos do mês foi concluída com a edição deste ano do [Google Developer Day][1] em São Paulo. É um evento bastante concorrido (afinal, é gratuito, bom e ligado ao Google), o que deve tornar a escolha dos participantes um desafio interessante &#8211; mesmo para aqueles cuja [missão][2] já é meio que organizar/classificar o universo&#8230;
+<img class="size-full wp-image-4778 alignright" title="GDD2010" src="/wp-content/uploads/2010/11/gddbr.png" alt="GDD2010-logo" width="122" height="103" />A maratona de eventos do mês foi concluída com a edição deste ano do [Google Developer Day][1] em São Paulo. É um evento bastante concorrido (afinal, é gratuito, bom e ligado ao Google), o que deve tornar a escolha dos participantes um desafio interessante &#8211; mesmo para aqueles cuja [missão][2] já é meio que organizar/classificar o universo&#8230;
 
 Esse ano o processo de inscrição incluiu uma [provinha][3] que gerou bastante &#8220;mimimi&#8221; nas listas e redes sociais: uns questionaram a eficácia de um teste tão básico (e para esses recomendo ler sobre [FizzBuzz e programadores que não programam][4]), outros se sentiram injustiçados com a eventual não-convocação. O fato e que ela ajudou: qualquer pessoa que você encontrasse lá esse ano era, em maior ou menor grau, apaixonada por código. Não era bem assim em anos anteriores, e isso fez diferença no café/happy hour. Sabem como é: [developers, developers, developers!][5]
 
@@ -29,8 +29,8 @@ Mas essas coisas acontecem, e nem de longe tiram o brilho do evento. Pelo contr�
  [6]: http://twitpic.com/3204zg
  [7]: http://search.twitter.com/search?q=gddbr+lotado
  [8]: http://simplesideias.com.br/rails-escala-quem-se-importa/
- [9]: //chester.me/archives/2010/10/android-developer-lab-bootcamp.html
- [10]: //chester.me/archives/2007/11/android_comenta.html
+ [9]: /archives/2010/10/android-developer-lab-bootcamp.html
+ [10]: /archives/2007/11/android_comenta.html
  [11]: http://www.flickr.com/photos/chesterbr/5134031814/
  [12]: http://wordpress.chanezon.com/?p=2
  [13]: http://www.google.com/profiles/ryan.boyd#about

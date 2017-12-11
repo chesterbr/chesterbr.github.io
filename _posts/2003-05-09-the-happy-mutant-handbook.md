@@ -7,7 +7,7 @@ dsq_thread_id:
   - 1751447236
 categories:
 ---
-<img src="//chester.me/img/blig/happymutant.jpg" border="2" alt="" hspace="3" align="left" />Uma coisa leva à outra: ao ler *The Hacker Files* (HQ sobre Internet muito à frente de sua época, mas eu falo dela outro dia) tomei conhecimento do fanzine *bOING bOING* (hoje um &#8220;[diretório de coisas fantásticas][1]&#8220;). O zine era ótimo, mas difícil de conseguir por aqui. Em 1995 os autores publicaram o livro [The Happy Mutant Handbook: Mischievous Fun For Higher Primates][2], e em 1998 eu perdi o medo do e-commerce e comprei na Amazon.
+<img src="/img/blig/happymutant.jpg" border="2" alt="" hspace="3" align="left" />Uma coisa leva à outra: ao ler *The Hacker Files* (HQ sobre Internet muito à frente de sua época, mas eu falo dela outro dia) tomei conhecimento do fanzine *bOING bOING* (hoje um &#8220;[diretório de coisas fantásticas][1]&#8220;). O zine era ótimo, mas difícil de conseguir por aqui. Em 1995 os autores publicaram o livro [The Happy Mutant Handbook: Mischievous Fun For Higher Primates][2], e em 1998 eu perdi o medo do e-commerce e comprei na Amazon.
 
 A idéia de *happy mutant* se baseia no seguinte: as pessoas, em sua maioria, dedicam suas vidas à busca de conformidade e à perpetuação da espécie. Existem uns poucos (*mutants*) que simplesmente não querem fazer parte do gado. Excluídos os *unhappy mutants*, isto é, os que se tornam chatos e negativos por não se encaixarem, sobram os *happy mutants* (nós), que tentamos nos divertir com isso.
 

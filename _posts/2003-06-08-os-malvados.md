@@ -10,5 +10,5 @@ categories:
 Se você ficar com a impressão que o cara tem boas sacadas, mas não desenha nada, não deixe isso estragar a diversão. Afinal, o Luís Fernando Veríssimo também não desenha muito, o que não tira o mérito de <a href="http://www.fortunecity.com/millenium/zebedee/170/" >As Cobras</a>.
 
 <center>
-  <a href="http://www.malvados.com.br" ><img src='//chester.me/img/blig/malvados.gif' border=0 hspace=3></a>
+  <a href="http://www.malvados.com.br" ><img src='/img/blig/malvados.gif' border=0 hspace=3></a>
 </center>

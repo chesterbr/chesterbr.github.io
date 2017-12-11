@@ -7,12 +7,12 @@ layout: post
 comments: true
 permalink: /archives/2007/06/homenagem_a_car.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/carloszefiro_catecismos.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/archives/img/carloszefiro_catecismos.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751443834
 categories:
 ---
-<img title="Capas de alguns 'catecismos' de Carlos Zéfiro. Fonte: carloszefiro.com." src="//chester.me/archives/img/carloszefiro_catecismos.jpg" width="270" height="237" align="right" style="margin-left:2px" />**ATENÇÃO:** Links impróprios para escritório (é quase softcore para os dias de hoje, mas não custa avisar.)
+<img title="Capas de alguns 'catecismos' de Carlos Zéfiro. Fonte: carloszefiro.com." src="/archives/img/carloszefiro_catecismos.jpg" width="270" height="237" align="right" style="margin-left:2px" />**ATENÇÃO:** Links impróprios para escritório (é quase softcore para os dias de hoje, mas não custa avisar.)
 
 Nos anos 50 e 60 proliferou no Brasil um gênero de material pornográfico que consistia em revistas em quadrinhos em preto-e-branco e formato de bolso. Eram os chamados &#8220;catecismos&#8221; ou &#8220;revistinhas de sacanagem&#8221;, cujo baixo custo e discrição foram fatores chave para o sucesso.
 

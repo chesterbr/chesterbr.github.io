@@ -9,7 +9,7 @@ dsq_thread_id:
   - 1751442002
 categories:
 ---
-[<img class="alignright size-full wp-image-6003" title="FoxTrot sobre iPad e Quadrinhos (c) Bill Amend http://www.foxtrot.com" src="//chester.me/wp-content/uploads/2011/06/ipad_comics_foxtrot1.png" alt="FoxTrot sobre iPad e Quadrinhos (c) Bill Amend http://www.foxtrot.com" width="288" height="195" />][1]Resisti bastante à idéia de comprar um tablet. A inevitável comparação com o netbook mostra duas coisas que fazem falta: um teclado de verdade (indispensável para quem produz conteúdo) e a [liberdade][2] para usar os softwares que eu quiser. Mas fui seduzido pela novidade e, principalmente, pelo tempo generoso de bateria (algo muito útil em eventos de TI) e comprei um [iPad 2][3] na minha última [viagem][4]. Claro que uma das primeiras coisas que eu quis tentar com ele foi ler quadrinhos &#8211; a tela e a resolução pareciam ideais para o formato.
+[<img class="alignright size-full wp-image-6003" title="FoxTrot sobre iPad e Quadrinhos (c) Bill Amend http://www.foxtrot.com" src="/wp-content/uploads/2011/06/ipad_comics_foxtrot1.png" alt="FoxTrot sobre iPad e Quadrinhos (c) Bill Amend http://www.foxtrot.com" width="288" height="195" />][1]Resisti bastante à idéia de comprar um tablet. A inevitável comparação com o netbook mostra duas coisas que fazem falta: um teclado de verdade (indispensável para quem produz conteúdo) e a [liberdade][2] para usar os softwares que eu quiser. Mas fui seduzido pela novidade e, principalmente, pelo tempo generoso de bateria (algo muito útil em eventos de TI) e comprei um [iPad 2][3] na minha última [viagem][4]. Claro que uma das primeiras coisas que eu quis tentar com ele foi ler quadrinhos &#8211; a tela e a resolução pareciam ideais para o formato.
 
 Uma pesquisa rápida mostra que o **[comiXology][5]** é a maneira mais eficiente de fazer isso. Mais do que um aplicativo (cujo nome na App Store, &#8220;Comics&#8221;, já demonstra o pioneirismo), ele é o canal oficial de publicação das principais editoras norte-americanas. Através do aplicativo você pode comprar quadrinhos da Marvel, DC e Image. A loja virtual tem muitos lançamentos simultâneos com as edições em papel (a DC em particular está apostando nisso) e outros tantos com algum atraso, mas o mais interessante é poder revisitar coleções antigas: eu me empolguei com Lanterna Verde e fui desde [clássicos do Dennis O&#8217;Neil][6] até a [excelente releitura do Geoff Johns][7].
 
@@ -28,7 +28,7 @@ Espero que este relato ajude quem estiver considerando um iPad para ler quadrinh
  [1]: http://www.appleiphoneschool.com/2010/03/24/the-ipad-the-future-of-comics/
  [2]: http://www.ubuntu-br.org/
  [3]: http://www.apple.com/br/ipad/
- [4]: //chester.me/archives/2011/04/wondercon-2011.html
+ [4]: /archives/2011/04/wondercon-2011.html
  [5]: http://itunes.apple.com/ar/app/comics/id303491945?mt=8
  [6]: http://www.multiversodc.com/v2/2010/12/arqueiro-verde-flower-power-dennis-oneil-e-redefinicoes/
  [7]: http://en.wikipedia.org/wiki/Emotional_spectrum

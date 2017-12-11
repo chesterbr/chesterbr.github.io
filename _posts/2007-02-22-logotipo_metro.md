@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751444025
 categories:
 ---
-<img title="Logotipo do metrô: bacana, mas não justifica tudo isso)" src="//chester.me/archives/img/metro.png" width="86" height="86" align="right" style="border-left:2px" />Por mais que eu respeite o trabalho de criação de logomarcas, não dá pra engolir as hipérboles que a explicação oficial do [significado do logotipo do Metrô de São Paulo][1] faz. O metrô tem um ícone muito eficiente, mas, depois dessa explicação, ele ficou muito menos simpático.
+<img title="Logotipo do metrô: bacana, mas não justifica tudo isso)" src="/archives/img/metro.png" width="86" height="86" align="right" style="border-left:2px" />Por mais que eu respeite o trabalho de criação de logomarcas, não dá pra engolir as hipérboles que a explicação oficial do [significado do logotipo do Metrô de São Paulo][1] faz. O metrô tem um ícone muito eficiente, mas, depois dessa explicação, ele ficou muito menos simpático.
 
 Reproduzo na íntegra, essa merece:
 

@@ -7,12 +7,12 @@ layout: post
 comments: true
 permalink: /archives/2007/03/eu_faco_de_voce_1.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/kungfu.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/archives/img/kungfu.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751444077
 categories:
 ---
-  <img title="Propaganda do incrível método de KUNG FU" src="//chester.me/archives/img/kungfu.jpg" width="250" height="336" align="right" style="margin-left:4px" />No final dos anos 80 uma propaganda curiosa apareceu em praticamente todas as revistas. Tratava-se de um livro que ensinaria a qualquer pessoa a arte do KUNG FU (ênfase nas maiúsculas: não é Kung Fu, é KUNG FU!)</p> <p>
+  <img title="Propaganda do incrível método de KUNG FU" src="/archives/img/kungfu.jpg" width="250" height="336" align="right" style="margin-left:4px" />No final dos anos 80 uma propaganda curiosa apareceu em praticamente todas as revistas. Tratava-se de um livro que ensinaria a qualquer pessoa a arte do KUNG FU (ênfase nas maiúsculas: não é Kung Fu, é KUNG FU!)</p> <p>
 Claro que toda propaganda exagera, mas essa chutava o balde: o livro o tornaria capaz de derrotar &#8220;dois, três ou até mesmo quatro experts em Judô ou Karatê, lutadores profissionais ou boxeadores (&#8230;) mesmo que você seja atacado sentado ou deitado, mesmo REPOUSANDO e ADORMECIDO e COMPLETAMENTE INDEFESO&#8221;.
   </p>
 
@@ -21,7 +21,7 @@ Tem mais: o livro teria sido impresso clandestinamente, mostrando o suposto auto
   </p>
 
   <p>
-Recentemente encontrei esta peça publicitária em um gibi antigo (para ser preciso, na revista Capitão América no. 94, da Editora Abril de 20/03/1987), e meu primeiro impulso foi digitalizá-la &#8211; você pode baixar a <a href="//chester.me/archives/img/kungfu.pdf">propaganda em PDF</a> (780KB) aqui.
+Recentemente encontrei esta peça publicitária em um gibi antigo (para ser preciso, na revista Capitão América no. 94, da Editora Abril de 20/03/1987), e meu primeiro impulso foi digitalizá-la &#8211; você pode baixar a <a href="/archives/img/kungfu.pdf">propaganda em PDF</a> (780KB) aqui.
   </p>
 
   <p>

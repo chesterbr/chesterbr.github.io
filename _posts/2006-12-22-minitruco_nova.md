@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751450836
 categories:
 ---
-<img title="tela de abertura" src="//chester.me/archives/img/minitruco_titulo.png" width="113" height="116" align="left" border="1" style="margin-right:2px" />Há algumas semanas eu tive a agradável surpresa de receber do Leonardo Sellani uma implementação de estratégia adicional para os jogadores virtuais do miniTruco (o jogo contava com uma estratégia do Willian Gigliotti e outra &#8211; terrível &#8211; minha).
+<img title="tela de abertura" src="/archives/img/minitruco_titulo.png" width="113" height="116" align="left" border="1" style="margin-right:2px" />Há algumas semanas eu tive a agradável surpresa de receber do Leonardo Sellani uma implementação de estratégia adicional para os jogadores virtuais do miniTruco (o jogo contava com uma estratégia do Willian Gigliotti e outra &#8211; terrível &#8211; minha).
 
 Terminadas as aulas, troquei a minha estratégia por esta. Agorao jogo sorteia, a cada partida, a estratégia do parceiro e de cada adversário. Também é possível forçar qualquer um dos três a uma estratégia específica, no menu Opções.
 
@@ -22,4 +22,4 @@ A nova versão pode ser baixada para o PC [na página de sempre][1] ou diretamen
 
 (obs.: este endereço mudou, assim como o endereço princpal do blog. Os antigos redirecionam por tempo indeterminado, mas, na dúvida, atualize seus bookmarks)
 
- [1]: //chester.me/archives/2006/01/mt.html
+ [1]: /archives/2006/01/mt.html

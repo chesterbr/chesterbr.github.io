@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2009/03/some_of_my_best_friends_are_white.html/
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="Capa do livro 'Some Of My Best Friends Are White'" src="//chester.me/archives/img/mt/2009/03/09/some_of_my_best_friends_are_white.jpg" width="211" height="300" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Quando viajei pela primeira vez para a África do Sul (em 2007) fiz [algumas considerações][1] sobre a convivência entre os diversos grupos étnicos no pós-apartheid. A idéia de &#8220;[rainbow nation][2]&#8221; descrita ali é válida, mas numa nova (e mais longa) viagem notei que, num nível mais pessoal, ainda persistem diferenças nas pequenas coisas do dia-a-dia &#8211; diferenças cuja mecânica ou justificativa eu não conseguia decifrar.
+<span class="mt-enclosure mt-enclosure-image"><img title="Capa do livro 'Some Of My Best Friends Are White'" src="/archives/img/mt/2009/03/09/some_of_my_best_friends_are_white.jpg" width="211" height="300" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Quando viajei pela primeira vez para a África do Sul (em 2007) fiz [algumas considerações][1] sobre a convivência entre os diversos grupos étnicos no pós-apartheid. A idéia de &#8220;[rainbow nation][2]&#8221; descrita ali é válida, mas numa nova (e mais longa) viagem notei que, num nível mais pessoal, ainda persistem diferenças nas pequenas coisas do dia-a-dia &#8211; diferenças cuja mecânica ou justificativa eu não conseguia decifrar.
 
 E foi justamente um livro de humor, o [Some Of My Best Friends Are White][3] (o link dá uma palhinha, via Google), que jogou uma luz nisso. O título e a [ilustração da capa][4] já mostram a que veio Ndumiso Ngcobo, o autor zulu que cresceu numa vizinhança humilde sob orientação católica, mudando-se para os subúrbios depois de adulto. Isso lhe deu experiência com as mais diversas etnias &#8211; e nenhuma escapa do alcance de sua lingua ácida.
 
@@ -22,7 +22,7 @@ Esse tipo de coisa não há democracia que resolva: trata-se de diferenças cult
 
 De qualquer forma, é uma leitura recomendada, tanto para quem pretende visitar a África do Sul, quanto para quem quer entender um pouco melhor o ser humano &#8211; e, em qualquer caso, permite rir um pouco no processo.
 
- [1]: //chester.me/archives/2007/10/chester_na_afri_6.html
+ [1]: /archives/2007/10/chester_na_afri_6.html
  [2]: http://en.wikipedia.org/wiki/Rainbow_Nation
  [3]: http://books.google.com.br/books?id=ZHxJdXkR0MsC&#038;dq=some+of+my+best+friends+are+white&#038;printsec=frontcover&#038;source=bn&#038;hl=pt-BR&#038;ei=wHW0ScibCeHAtgfwt-y7Bw&#038;sa=X&#038;oi=book_result&#038;resnum=4&#038;ct=result
  [4]: http://ruactivate.wordpress.com/2008/05/19/coconuts-and-oreos/

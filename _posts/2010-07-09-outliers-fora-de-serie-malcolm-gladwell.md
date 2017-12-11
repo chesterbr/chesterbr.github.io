@@ -4,12 +4,12 @@ layout: post
 comments: true
 permalink: /archives/2010/07/outliers-fora-de-serie-malcolm-gladwell.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/07/outliers.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/07/outliers.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751445096
 categories:
 ---
-[<img class="alignleft size-full wp-image-4266" title="Outliers (Fora de Série) - livro" src="//chester.me/wp-content/uploads/2010/07/outliers.jpg" alt="" width="129" height="199" />][1]Peguei [Outliers][1] para ler no ano passado, mas só agora deu tempo de escrever. Ele abre apontando uma relação estatística entre o horóscopo e as chances de sucesso de um jogador de hóquei &#8211; e o nome original¹ pode dar a entender que se trata de outro livro na linha do [Freakonomics][2].
+[<img class="alignleft size-full wp-image-4266" title="Outliers (Fora de Série) - livro" src="/wp-content/uploads/2010/07/outliers.jpg" alt="" width="129" height="199" />][1]Peguei [Outliers][1] para ler no ano passado, mas só agora deu tempo de escrever. Ele abre apontando uma relação estatística entre o horóscopo e as chances de sucesso de um jogador de hóquei &#8211; e o nome original¹ pode dar a entender que se trata de outro livro na linha do [Freakonomics][2].
 
 Mas a proposta é outra: Malcolm Gladwell desconstrói alguns mitos sobre o que faz alguém se destacar nos negócios, esportes, artes ou qualquer outro campo. Ele ataca em particular aquela idéia comum de que o sucesso depende largamente do talento, em menor grau da dedicação e bem pouquinho da sorte.
 
@@ -20,5 +20,5 @@ São propostas ousadas &#8211; colocadas dessa forma, devem gerar muitas express
 ¹ Em Estatística, *outlier* é o nome que se dá àqueles dados completamente diferentes dos demais, os &#8220;fora da curva&#8221;.
 
  [1]: http://www.submarino.com.br/produto/1/21444359/fora+de+serie+:+outliers/?&Franq=273452
- [2]: //chester.me/archives/2007/02/freakonomics.html
+ [2]: /archives/2007/02/freakonomics.html
  [3]: http://en.wikipedia.org/wiki/Bill_Joy

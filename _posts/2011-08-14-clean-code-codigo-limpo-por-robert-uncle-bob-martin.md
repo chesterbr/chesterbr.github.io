@@ -6,12 +6,12 @@ permalink: /archives/2011/08/clean-code-codigo-limpo-por-robert-uncle-bob-martin
 robotsmeta:
   - index,follow
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2011/08/unclebob.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/08/unclebob.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751445660
 categories:
 ---
-[<img src="//chester.me/wp-content/uploads/2011/08/cleancode.jpg" alt="" title="Clean Code" width="199" height="265" class="alignleft size-full wp-image-6241" />][1]Já observei que a maior parte dos programadores com algum tempo de estrada tende a se acomodar, acreditando que o que quer que fosse estado da arte (ou apenas popular) quando a pessoa era ultra-jovem é a verdade absoluta e inenarrável. Não sei se por preguiça, insegurança, ou cansaço, mas muita gente, depois de um tempo, se recusa a a aprender qualquer tecnologia, paradigma ou modo de trabalho novo, em muitos casos se afastando da programação porque já &#8220;aprendeu tudo&#8221;.
+[<img src="/wp-content/uploads/2011/08/cleancode.jpg" alt="" title="Clean Code" width="199" height="265" class="alignleft size-full wp-image-6241" />][1]Já observei que a maior parte dos programadores com algum tempo de estrada tende a se acomodar, acreditando que o que quer que fosse estado da arte (ou apenas popular) quando a pessoa era ultra-jovem é a verdade absoluta e inenarrável. Não sei se por preguiça, insegurança, ou cansaço, mas muita gente, depois de um tempo, se recusa a a aprender qualquer tecnologia, paradigma ou modo de trabalho novo, em muitos casos se afastando da programação porque já &#8220;aprendeu tudo&#8221;.
 
 [Robert C. Martin][2] é tiozão, assim como eu. Talvez um tiquinho mais: ele até adotou o nick &#8220;Uncle Bob&#8221;, me fazendo pensar se eu não vou virar o &#8220;Tio Chester&#8221; logo, logo. Mas, também como eu, ele não é acomodado. Muito pelo contrário: entre seu tempo de consultor, desenvolvedor e autor, ele foi um dos criadores do [Manifesto Ágil][3], e, mais recentemente, ajudou a consolidar o termo &#8220;Artesanato de Software&#8221; (*Software Craftsmanship*).
 
@@ -19,7 +19,7 @@ Artesanato, de fato, descreve o dia-a-dia da imensa maioria dos programadores pr
 
 O [Clean Code][1] é um guia sobre um aspecto fundamental da atividade: a criação de código limpo. Mesmo tendo bastante experiência e escrevendo código que eu julgava muito limpo e bem documentado, o livro me mostrou diversas maneiras de escrever código que seja mais fácil de ler e manter. O autor adverte: você pode não concordar com todas as sugestões dele, e provavelmente vai discordar de forma veemente de uma ou duas (no meu caso: deixe meus parâmetros booleanos em paz :-P). Mas o espírito é que conta.
 
-<img src="//chester.me/wp-content/uploads/2011/08/unclebob.jpg" alt="Uncle Bob" title="Uncle Bob" width="244" height="171" class="alignright size-full wp-image-6242" />Ele vai a fundo em uma série de aspectos &#8211; quase todos são possivlemente pequenos detalhes, mas a atenção ao conjunto cria programas que dão orgulho para quem faz e alívio para quem mantém. Os exemplos todos são baseados em Java, mas compreensíveis para qualquer um que tenha conhecimentos básicos de orientação a objeto, e quase todos são aplicáveis a qualquer linguagem.
+<img src="/wp-content/uploads/2011/08/unclebob.jpg" alt="Uncle Bob" title="Uncle Bob" width="244" height="171" class="alignright size-full wp-image-6242" />Ele vai a fundo em uma série de aspectos &#8211; quase todos são possivlemente pequenos detalhes, mas a atenção ao conjunto cria programas que dão orgulho para quem faz e alívio para quem mantém. Os exemplos todos são baseados em Java, mas compreensíveis para qualquer um que tenha conhecimentos básicos de orientação a objeto, e quase todos são aplicáveis a qualquer linguagem.
 
 Comportamentos enraizados no Java (ex.: JavaDoc, encapsulamento via getters/setters) são analisados com a mente limpa, na tentativa de separar o mito da realidade no que diz respeito aos benefícios reais (e possíveis malefícios) de cada um deles. Eu certamente revi meus conceitos quanto à maneira de nomear e dividir os artefatos dentro do meu software, e recomendo o livro para qualquer um que leve a programação a sério, independente da experiência ou área de atuação.
 

@@ -5,7 +5,7 @@ comments: true
 permalink: /archives/2002/02/lenha-na-fogueira-linux-e-solaris-sao-menos-seguros-que-windows.html/
 categories:
 ---
-<img src="//chester.me/img/blig/logo_3324.jpg" border="0" alt="" hspace="4" width="80" height="76" align="left" />O site Baboo publicou este [artigo][1] que traz um pouco de novidade ao debate sobre sistemas operacionais (lamentavelmente composto na maior parte do tempo por egotrips e opiniões pouco calcadas na realidade das pessoas e empresas).
+<img src="/img/blig/logo_3324.jpg" border="0" alt="" hspace="4" width="80" height="76" align="left" />O site Baboo publicou este [artigo][1] que traz um pouco de novidade ao debate sobre sistemas operacionais (lamentavelmente composto na maior parte do tempo por egotrips e opiniões pouco calcadas na realidade das pessoas e empresas).
 
 Usando de forma bastante transparente dados de sites especializados em segurança, como o Security Focus e o Vunet (o primeiro é bem conhecido, o segundo eu não consegui acessar), o artigo mostra uma &#8220;classificação de insegurança&#8221; dos diferentes sistemas operacionais em suas várias versões e distribuições, baseado no número de falhas de segurança encontrados num dado período de tempo em cada um deles. O ranking pretende mostrar que várias distribuições populares de Linux e duas versões do Solaris são menos seguras do que o Windows 2000.
 

@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2008/01/liberal_liberta.html/
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="Capa do Liberal Libertário Libertino - Crônicas" src="//chester.me/archives/img/lll_cronicas.jpg" width="140" height="210" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Estou terminando de ler o [Liberal Libertário Libertino &#8211; Crônicas][1], mas posso escrever com segurança, pois se trata de uma coletânea de textos publicados no [blog][2] homônimo &#8211; beneficiados pela organização e conveniência que só as árvores mortas proporcionam.
+<span class="mt-enclosure mt-enclosure-image"><img title="Capa do Liberal Libertário Libertino - Crônicas" src="/archives/img/lll_cronicas.jpg" width="140" height="210" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Estou terminando de ler o [Liberal Libertário Libertino &#8211; Crônicas][1], mas posso escrever com segurança, pois se trata de uma coletânea de textos publicados no [blog][2] homônimo &#8211; beneficiados pela organização e conveniência que só as árvores mortas proporcionam.
 
 Os textos do Alex Castro são difíceis de definir. Mas tiveram (e têm) um impacto muito forte sobre a minha maneira de ver as coisas &#8211; ainda que eu não concorde com tudo o que ele diz, sua visão meio que une o desapego budista com um jeito meio beatnik, meio Harvey Pekar de levar a vida, e isso gera um mundo de assuntos &#8211; e de crônicas.
 

@@ -18,7 +18,7 @@ A arte é um espetáculo: num mundo de possibilidades ilimitadas para cores elet
 Recomendo começar pelo link para novos leitores, e, dali, seguir a sugestão do autor de pular para NooseHead, o quarto arco. Eu fiz isso, e, ao terminar, fui para o segundo, que estou seguindo satisfeito.
 
 <div align="center">
-  <img title="Um quadrinho de Sam and Fuzzy - a arte nem está tão boa, mas dá bem o clima." src="//chester.me/archives/img/samandfuzzy.png" width="600" height="337" />
+  <img title="Um quadrinho de Sam and Fuzzy - a arte nem está tão boa, mas dá bem o clima." src="/archives/img/samandfuzzy.png" width="600" height="337" />
 </div>
 
  [1]: http://samandfuzzy.com/

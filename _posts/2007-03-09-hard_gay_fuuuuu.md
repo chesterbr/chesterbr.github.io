@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1758052897
 categories:
 ---
-<img title="Banana! Fuuuuuuuu!" src="//chester.me/archives/img/hardgay.jpg" width="150" height="253" align="left" style="margin-right:2px" border="1" />A última da terra do sol nascente é o ex-lutador de telecatch e humorista [Masaki Sumitani][1] &#8211; mais conhecido quando assume a identidade de [Hard Gay][2] (ou, para ouvidos ocidentais, &#8220;haado gay&#8221;).
+<img title="Banana! Fuuuuuuuu!" src="/archives/img/hardgay.jpg" width="150" height="253" align="left" style="margin-right:2px" border="1" />A última da terra do sol nascente é o ex-lutador de telecatch e humorista [Masaki Sumitani][1] &#8211; mais conhecido quando assume a identidade de [Hard Gay][2] (ou, para ouvidos ocidentais, &#8220;haado gay&#8221;).
 
 Vestindo sua roupa de couro, chapéu e óculos escuros, ele entra em &#8220;ação&#8221; sempre que uma pessoa precisa de ajuda &#8211; ao som de *Livin&#8217; la vida Loca*. O pior é que o visual, o grito de guerra e o movimento de quadris acabam ajudando de uma forma ou de outra &#8211; mesmo que o custo seja o total constrangimento da vítima.
 

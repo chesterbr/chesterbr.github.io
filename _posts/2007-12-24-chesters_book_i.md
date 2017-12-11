@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751441135
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="Pra que servem um scanner e uma coleção de Chiclete com Banana se você não usa, não é mesmo?" src="//chester.me/archives/img/angel_villa.jpg" width="155" height="252" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Algumas pessoas se surpreenderam com os últimos posts em inglês. Eu sempre quis blogar neste idioma (afinal, o alcance é bem maior), mas, por outro lado, não queria abandonar o velho e bom português.
+<span class="mt-enclosure mt-enclosure-image"><img title="Pra que servem um scanner e uma coleção de Chiclete com Banana se você não usa, não é mesmo?" src="/archives/img/angel_villa.jpg" width="155" height="252" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Algumas pessoas se surpreenderam com os últimos posts em inglês. Eu sempre quis blogar neste idioma (afinal, o alcance é bem maior), mas, por outro lado, não queria abandonar o velho e bom português.
 
 O fato é que eu tenho um blog corporativo, no qual andei escrevendo alguns artigos interessantes, e estava sem tempo de traduzir para colocar aqui. Resolvi postar do jeito que estavam, a título de experiência.
 
@@ -22,6 +22,6 @@ Aproveitando (já que eu não curto esses meta-posts, prefiro conteúdo real): o
 
 É isso. Estou de bom humor (projeto entregue e alforria de uma semana), então aproveito para desejar boas festas a todos!
 
- [1]: //chester.me/minitruco_en
+ [1]: /minitruco_en
  [2]: http://twitter.com/chesterbr
  [3]: http://www.nimbuzz.com/

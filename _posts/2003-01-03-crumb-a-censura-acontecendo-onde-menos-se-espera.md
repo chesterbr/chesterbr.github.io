@@ -21,26 +21,26 @@ Seguem alguns quadrinhos das duas publicações &#8211; a qualidade da digitaliz
   <tr>
     <td width="250" align="center">
       <p class="mensagem">
-        <img src="//chester.me/img/blig/capa_fritz.jpg" alt="" /><br /> R. Crumb: Fritz The Cat, 2002<br /> <strong>&#8220;sem censura&#8221;</strong></td> <td width="10">
+        <img src="/img/blig/capa_fritz.jpg" alt="" /><br /> R. Crumb: Fritz The Cat, 2002<br /> <strong>&#8220;sem censura&#8221;</strong></td> <td width="10">
         </td>
 
         <td width="250" align="center">
           <p class="mensagem">
-            <img src="//chester.me/img/blig/capa_porrada.jpg" alt="" /><br /> Porrada! no. 5, 1988<br /> <strong>&#8220;censurada&#8221;</strong></td> </tr> <tr>
+            <img src="/img/blig/capa_porrada.jpg" alt="" /><br /> Porrada! no. 5, 1988<br /> <strong>&#8220;censurada&#8221;</strong></td> </tr> <tr>
               <td colspan="3">
               </td>
             </tr>
 
             <tr>
               <td width="250" bgcolor="#c0c0c0">
-                <img src="//chester.me/img/blig/fritz_1.jpg" alt="" />
+                <img src="/img/blig/fritz_1.jpg" alt="" />
               </td>
 
               <td width="10">
               </td>
 
               <td width="250" bgcolor="#c0c0c0">
-                <img src="//chester.me/img/blig/porrada_1.jpg" alt="" />
+                <img src="/img/blig/porrada_1.jpg" alt="" />
               </td>
             </tr>
 
@@ -59,14 +59,14 @@ Seguem alguns quadrinhos das duas publicações &#8211; a qualidade da digitaliz
 
             <tr>
               <td width="250" bgcolor="#c0c0c0">
-                <img src="//chester.me/img/blig/fritz_2.jpg" alt="" />
+                <img src="/img/blig/fritz_2.jpg" alt="" />
               </td>
 
               <td width="10">
               </td>
 
               <td width="250" bgcolor="#c0c0c0">
-                <img src="//chester.me/img/blig/porrada_2.jpg" alt="" />
+                <img src="/img/blig/porrada_2.jpg" alt="" />
               </td>
             </tr>
 
@@ -85,14 +85,14 @@ Seguem alguns quadrinhos das duas publicações &#8211; a qualidade da digitaliz
 
             <tr>
               <td width="250" bgcolor="#c0c0c0">
-                <img src="//chester.me/img/blig/fritz_3.jpg" alt="" />
+                <img src="/img/blig/fritz_3.jpg" alt="" />
               </td>
 
               <td width="10">
               </td>
 
               <td width="250" bgcolor="#c0c0c0">
-                <img src="//chester.me/img/blig/porrada_3.jpg" alt="" />
+                <img src="/img/blig/porrada_3.jpg" alt="" />
               </td>
             </tr>
 
@@ -111,14 +111,14 @@ Seguem alguns quadrinhos das duas publicações &#8211; a qualidade da digitaliz
 
             <tr>
               <td width="250" bgcolor="#c0c0c0">
-                <img src="//chester.me/img/blig/fritz_4.jpg" alt="" />
+                <img src="/img/blig/fritz_4.jpg" alt="" />
               </td>
 
               <td width="10">
               </td>
 
               <td width="250" bgcolor="#c0c0c0">
-                <img src="//chester.me/img/blig/porrada_4.jpg" alt="" />
+                <img src="/img/blig/porrada_4.jpg" alt="" />
               </td>
             </tr>
 
@@ -137,14 +137,14 @@ Seguem alguns quadrinhos das duas publicações &#8211; a qualidade da digitaliz
 
             <tr>
               <td width="250" bgcolor="#c0c0c0">
-                <img src="//chester.me/img/blig/fritz_5.jpg" alt="" />
+                <img src="/img/blig/fritz_5.jpg" alt="" />
               </td>
 
               <td width="10">
               </td>
 
               <td width="250" bgcolor="#c0c0c0">
-                <img src="//chester.me/img/blig/porrada_5.jpg" alt="" />
+                <img src="/img/blig/porrada_5.jpg" alt="" />
               </td>
             </tr>
 

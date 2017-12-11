@@ -7,7 +7,7 @@ robotsmeta:
   - index,follow
 onswipe_thumb:
   - |
-    http://img.youtube.com/vi/subkfATKBss">The Art Of Video Games Expo</a> em Washington, no Smithsonian. A mostra incluía computadores, videogame, jogos e mini-documentários. Não era tão abrangente quanto, por exemplo, a <a href="//chester.me/archives/2011/12/exposicao-game-on-no-museu-da-imagem-e-do-som-mis.html">Game On</a>, mas valeu ter perdido um ou dois monumentos para visitá-la.
+    http://img.youtube.com/vi/subkfATKBss">The Art Of Video Games Expo</a> em Washington, no Smithsonian. A mostra incluía computadores, videogame, jogos e mini-documentários. Não era tão abrangente quanto, por exemplo, a <a href="/archives/2011/12/exposicao-game-on-no-museu-da-imagem-e-do-som-mis.html">Game On</a>, mas valeu ter perdido um ou dois monumentos para visitá-la.
 
     A Broadway pede musicais, e dessa vez vimos dois: <a href="http://spidermanonbroadway.marvel.com/">Spider Man: Turn Off The Dark</a> e <a href="http://www.lionking.com">The Lion King</a>. O primeiro começa meio devagar (ou eu já estou cansado de ver essa história) mas pega o ritmo na metade, tendo o show roubado pelo Duende Verde. D'o Rei Leão eu nem esperava muito, e me surpreendi: é um dos <strong>melhores</strong> que já vi!
     <h3 style="font-size: 22.825px; line-height: 28.5px;">Passeios</h3>
@@ -24,14 +24,14 @@ onswipe_thumb:
     Uma semana nos EUA sem gordices era impraticável, ainda mais agora que não ando estritamente vegetariano. A redescoberta dos <em>chicken fingers</em> (em particular do KFC e do Friday's, comuns por ali), aliada a duas visitas ao <a href="http://www.thecheesecakefactory.com/">The Cheesecake Factory</a> de Boston me trouxeram de volta 2,5 Kg mais longe do meu peso ideal.
 
     A gastronomia tomou boa parte do passeio no <a href="http://g.co/maps/4b32y">SoHo</a>, com dois lugares ótimos: o <a href="http://www.firstpizza.com/">Lombardi's</a>, que alega ser a primeira pizzaria da cidade (sem dúvida é das melhores) e o <a href="http://www.momondo.pt/blogs/loveofeurope/archive/2008/11/21/the-luxurious-future-of-rice-pudding.aspx">Rice to Riches</a>, que serve arroz-doce nos mais diversos sabores, acompanhado de mensagens motivaicionais em prol do jeito glutão de viver.
-    <p style="text-align: center;"><a href="http://www.momondo.pt/blogs/loveofeurope/archive/2008/11/21/the-luxurious-future-of-rice-pudding.aspx"><img class="aligncenter size-full wp-image-6929" style="border: 1px solid black; padding: 0px;" title="Rice to Riches" src="//chester.me/wp-content/uploads/2012/05/rice-to-riches.jpg" alt="Rice to Riches" width="481" height="215" /></a></p>
+    <p style="text-align: center;"><a href="http://www.momondo.pt/blogs/loveofeurope/archive/2008/11/21/the-luxurious-future-of-rice-pudding.aspx"><img class="aligncenter size-full wp-image-6929" style="border: 1px solid black; padding: 0px;" title="Rice to Riches" src="/wp-content/uploads/2012/05/rice-to-riches.jpg" alt="Rice to Riches" width="481" height="215" /></a></p>
     No Canadá mantivemos o ritmo, já que Toronto tem bastante restaurantes legais na King e na Queen, além de opções garimpáveis onde estávamos hospedados (ao longo da Spadina em Chinatown). A <a href="http://renata.org/">Nat</a> e o <a href="http://fzero.ca/">FZero</a> gentilmente nos levaram ao <a href="http://www.lapalette.ca/">La Palette</a>, no qual experimentei carne de javali e até de cavalo (esta última parece a bovina, o gosto é bom); e o <a href="http://caueguerra.com/">Cauê</a> nos apresentou ao <a href="http://www.dazzlingrestaurant.com/">Dazzling</a>, que tem várias especialidades asiáticas - escolhemos comida tailandesa e não nos arrependemos.
 
     Em Montreal almoçamos com o <a href="http://grokpodcast.com/sobre-rafael-rosa-fu/">Rafael Rosa Fu</a> na ilha vizinha, a <a href="http://pt.wikipedia.org/wiki/%C3%8Ele_des_Soeurs">Île des Soeurs</a>, mas a refeição mais curiosa aconteceu no <a href="http://www.schwartzsdeli.com/">Schwartz's</a>: a fila na porta desanimava, mas do nada dezenas de pessoas entravam! O que rola é que o lugar foi pensado para atender os trabalhadores nos anos 30, então tem todo um esquema: as pessoas sentam na ordem de chegada, em grandes mesas estilo refeitório. Os pedidos são pegos na ordem e entregues da mesma forma. Apesar de tudo ser feito com total cordialidade (e do sanduíche defumado justificar sua <a href="http://en.wikipedia.org/wiki/Schwartz%27s">fama</a>), era inevitável lembrar do <a href="http://www.youtube.com/watch?v=M2lfZg-apSA">Soup Nazi</a> e dar umas boas risadas.
     <h3 style="font-size: 22.825px; line-height: 28.5px;">Fotos</h3>
     Acho que não deu pra falar nem metade do que a gente fez - foram três semanas em ritmo acelerado. Mas fotografamos tanto quanto deu, e pra quem quiser saber mais, eis os álbuns:
 
-    <a href="http://www.flickr.com/photos/chesterbr/7092441475/in/set-72157629486063006"><img class="alignleft  wp-image-6939" style="padding: 0px; border: 1px solid black; margin-right: 32px;" title="Bani tirando fotos" src="//chester.me/wp-content/uploads/2012/05/bani-tirando-foto1.jpg" alt="Bani tirando fotos" width="126" height="168" /></a>
+    <a href="http://www.flickr.com/photos/chesterbr/7092441475/in/set-72157629486063006"><img class="alignleft  wp-image-6939" style="padding: 0px; border: 1px solid black; margin-right: 32px;" title="Bani tirando fotos" src="/wp-content/uploads/2012/05/bani-tirando-foto1.jpg" alt="Bani tirando fotos" width="126" height="168" /></a>
     <ul>
     	<li><a href="http://www.flickr.com/photos/chesterbr/sets/72157629486063006/">New York</a></li>
     	<li><a href="http://www.flickr.com/photos/chesterbr/sets/72157629850532947/">Washington (+The Art of Video Games Expo)</a></li>
@@ -43,7 +43,7 @@ onswipe_thumb:
     </ul>/0.jpg
 categories:
 ---
-<img class="alignright  wp-image-6886" style="border: 1px solid black; padding: 0px;" title="Mapa das Férias 2012" src="//chester.me/wp-content/uploads/2012/05/mapa_ferias_2012_esq.png" alt="" width="271" height="355" />A [Bani][1] queria participar da [Toronto eMetrics][2] (uma conferência de [gente que tortura os números da web até que eles confessem][3]). Era a desculpa que eu precisava para conhecer Toronto de verdade e [retornar][4] a Nova Iorque.
+<img class="alignright  wp-image-6886" style="border: 1px solid black; padding: 0px;" title="Mapa das Férias 2012" src="/wp-content/uploads/2012/05/mapa_ferias_2012_esq.png" alt="" width="271" height="355" />A [Bani][1] queria participar da [Toronto eMetrics][2] (uma conferência de [gente que tortura os números da web até que eles confessem][3]). Era a desculpa que eu precisava para conhecer Toronto de verdade e [retornar][4] a Nova Iorque.
 
 Juntamos Boston e Montreal ao roteiro e incluimos viagens bate-e-volta para Washington e Quebec City, o que resultou em uma viagem que eu não podia deixar de registrar.
 
@@ -68,12 +68,12 @@ Em Montreal fomos à [Star Wars: Identities][18], uma exposição imperdível pa
 Os visitantes recebem uma [pulseira][19] que pode ser usada em diversos pontos da exposição para responder a perguntas (tocando nas paredes e terminais apropriados). Isso permite ao sistema deles criar a história e o visual do seu personagem, cujo link você recebe por e-mail (veja o [Chester wookie][20] ou a [Bani nautolaniana][21]).
 
 <p style="text-align: center; font-size: 19.5px; line-height: 28.5px;">
-  <a href="http://www.flickr.com/photos/chesterbr/sets/72157629580722736/"><img class="aligncenter  wp-image-6890" style="border: 1px solid black;" title="Chester e Vader (clique para outras fotos)" src="//chester.me/wp-content/uploads/2012/05/chester_vader.png" alt="Chester e Vader (clique para outras fotos)" width="367" height="200" /></a>
+  <a href="http://www.flickr.com/photos/chesterbr/sets/72157629580722736/"><img class="aligncenter  wp-image-6890" style="border: 1px solid black;" title="Chester e Vader (clique para outras fotos)" src="/wp-content/uploads/2012/05/chester_vader.png" alt="Chester e Vader (clique para outras fotos)" width="367" height="200" /></a>
 </p>
 
 A brincadeira é acompanhada de dúzias de apresentações multimídia, [sketches][22], roupas e maquetes do filme, tudo com narração bilíngue acionada quando o visitante se aproxima de algum setor. Sensacional, se vier pro Brasil eu vou ver de novo!
 
-[<img class="wp-image-6870 alignleft" style="border: 1px solid black; padding: 0px;" title="Eu fui a caráter..." src="//chester.me/wp-content/uploads/2012/05/artvg.jpg" alt="Eu fui a caráter..." width="175" height="233" />][23]Estivemos também na [The Art Of Video Games Expo][24] em Washington, no Smithsonian. A mostra incluía computadores, videogame, jogos e mini-documentários. Não era tão abrangente quanto, por exemplo, a [Game On][25], mas valeu ter perdido um ou dois monumentos para visitá-la.
+[<img class="wp-image-6870 alignleft" style="border: 1px solid black; padding: 0px;" title="Eu fui a caráter..." src="/wp-content/uploads/2012/05/artvg.jpg" alt="Eu fui a caráter..." width="175" height="233" />][23]Estivemos também na [The Art Of Video Games Expo][24] em Washington, no Smithsonian. A mostra incluía computadores, videogame, jogos e mini-documentários. Não era tão abrangente quanto, por exemplo, a [Game On][25], mas valeu ter perdido um ou dois monumentos para visitá-la.
 
 A Broadway pede musicais, e dessa vez vimos dois: [Spider Man: Turn Off The Dark][26] e [The Lion King][27]. O primeiro começa meio devagar (ou eu já estou cansado de ver essa história) mas pega o ritmo na metade, tendo o show roubado pelo Duende Verde. D&#8217;o Rei Leão eu nem esperava muito, e me surpreendi: é um dos **melhores** que já vi!
 
@@ -104,7 +104,7 @@ Uma semana nos EUA sem gordices era impraticável, ainda mais agora que não and
 A gastronomia tomou boa parte do passeio no [SoHo][49], com dois lugares ótimos: o [Lombardi&#8217;s][50], que alega ser a primeira pizzaria da cidade (sem dúvida é das melhores) e o [Rice to Riches][51], que serve arroz-doce nos mais diversos sabores, acompanhado de mensagens motivaicionais em prol do jeito glutão de viver.
 
 <p style="text-align: center;">
-  <a href="http://www.momondo.pt/blogs/loveofeurope/archive/2008/11/21/the-luxurious-future-of-rice-pudding.aspx"><img class="aligncenter size-full wp-image-6929" style="border: 1px solid black; padding: 0px;" title="Rice to Riches" src="//chester.me/wp-content/uploads/2012/05/rice-to-riches.jpg" alt="Rice to Riches" width="481" height="215" /></a>
+  <a href="http://www.momondo.pt/blogs/loveofeurope/archive/2008/11/21/the-luxurious-future-of-rice-pudding.aspx"><img class="aligncenter size-full wp-image-6929" style="border: 1px solid black; padding: 0px;" title="Rice to Riches" src="/wp-content/uploads/2012/05/rice-to-riches.jpg" alt="Rice to Riches" width="481" height="215" /></a>
 </p>
 
 No Canadá mantivemos o ritmo, já que Toronto tem bastante restaurantes legais na King e na Queen, além de opções garimpáveis onde estávamos hospedados (ao longo da Spadina em Chinatown). A [Nat][52] e o [FZero][53] gentilmente nos levaram ao [La Palette][54], no qual experimentei carne de javali e até de cavalo (esta última parece a bovina, o gosto é bom); jantei com o [Guilherme Blanco][55] e a Sara no [Drake Hotel][56]; e o [Cauê Guerra][57] nos apresentou ao [Dazzling][58], que tem várias especialidades asiáticas &#8211; escolhemos comida tailandesa e não nos arrependemos.
@@ -117,7 +117,7 @@ Em Montreal almoçamos com o [Rafael Rosa Fu][59] na ilha vizinha, a [Île des S
 
 Acho que não deu pra falar nem metade do que a gente fez &#8211; foram três semanas em ritmo acelerado. Mas fotografamos tanto quanto deu, e pra quem quiser saber mais, eis os álbuns:
 
-[<img class="alignleft  wp-image-6939" style="padding: 0px; border: 1px solid black; margin-right: 32px;" title="Bani tirando fotos" src="//chester.me/wp-content/uploads/2012/05/bani-tirando-foto1.jpg" alt="Bani tirando fotos" width="126" height="168" />][64]
+[<img class="alignleft  wp-image-6939" style="padding: 0px; border: 1px solid black; margin-right: 32px;" title="Bani tirando fotos" src="/wp-content/uploads/2012/05/bani-tirando-foto1.jpg" alt="Bani tirando fotos" width="126" height="168" />][64]
 
 *   [New York][65]
 *   [Washington (+The Art of Video Games Expo)][66]
@@ -130,7 +130,7 @@ Acho que não deu pra falar nem metade do que a gente fez &#8211; foram três se
  [1]: http://baniverso.com
  [2]: http://www.emetrics.org/toronto/
  [3]: http://en.wikipedia.org/wiki/Web_analytics
- [4]: //chester.me/archives/2010/04/chester-em-ny.html
+ [4]: /archives/2010/04/chester-em-ny.html
  [5]: http://www.super8.com/hotels/new-york/jamaica/super-8-jfk-airport-nyc/hotel-overview
  [6]: http://www.imdb.com/title/tt0338013/
  [7]: http://www.airbnb.com/rooms/44011
@@ -138,7 +138,7 @@ Acho que não deu pra falar nem metade do que a gente fez &#8211; foram três se
  [9]: http://www.flickr.com/photos/chesterbr/6980924786/in/set-72157629565656524/
  [10]: http://bostoncomiccon.com
  [11]: https://www.facebook.com/pages/Feldstein-the-Documentary/221025114652335
- [12]: //chester.me/archives/2011/04/wondercon-2011.html
+ [12]: /archives/2011/04/wondercon-2011.html
  [13]: http://en.wikipedia.org/wiki/Al_Jaffee
  [14]: http://graphics8.nytimes.com/packages/flash/arts/20080330_FOLD_IN_FEATURE/MADFoldIns.swf
  [15]: http://news.cnet.com/8301-17938_105-57415512-1/al-jaffee-snappy-answers-to-not-stupid-questions/
@@ -149,9 +149,9 @@ Acho que não deu pra falar nem metade do que a gente fez &#8211; foram três se
  [20]: http://www.starwarsidentities.com/hero/en-ca/4fa036a319e6f
  [21]: http://www.starwarsidentities.com/hero/en-ca/4fa037767fd13
  [22]: http://www.flickr.com/photos/chesterbr/7134040317/in/set-72157629580722736
- [23]: //chester.me/wp-content/uploads/2012/05/artvg.jpg
+ [23]: /wp-content/uploads/2012/05/artvg.jpg
  [24]: http://www.youtube.com/watch?v=subkfATKBss
- [25]: //chester.me/archives/2011/12/exposicao-game-on-no-museu-da-imagem-e-do-som-mis.html
+ [25]: /archives/2011/12/exposicao-game-on-no-museu-da-imagem-e-do-som-mis.html
  [26]: http://spidermanonbroadway.marvel.com/
  [27]: http://www.lionking.com
  [28]: http://circleline42.com

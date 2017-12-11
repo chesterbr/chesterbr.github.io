@@ -12,7 +12,7 @@ categories:
 [Time Machine][1] is a wonderful piece of software, in no small part for following Mac OS X&#8217;s philosophy of simplifying common tasks, but allowing advanced users to go &#8220;under the hood&#8221;. My issue: I wanted to back up to a hard disk shared by [this nice router][2], and I also wanted encryption.
 
 <div id="attachment_7506" class="wp-caption aligncenter" style="width: 610px">
-  <a href="http://www.imdb.com/title/tt0088763/"><img src="//chester.me/wp-content/uploads/2013/04/time_machine.jpg" alt="The best Time Machines are designed in California." width="600" height="338" class="size-full wp-image-7506" /></a><p class="wp-caption-text">
+  <a href="http://www.imdb.com/title/tt0088763/"><img src="/wp-content/uploads/2013/04/time_machine.jpg" alt="The best Time Machines are designed in California." width="600" height="338" class="size-full wp-image-7506" /></a><p class="wp-caption-text">
     The best Time Machines are designed in California.
   </p>
 </div>
@@ -79,7 +79,7 @@ Personally, I&#8217;m not much of a fan of doing full restore on a different mac
  [5]: http://en.wikipedia.org/wiki/Server_Message_Block
  [6]: http://pcsupport.about.com/od/termsf/g/fat.htm
  [7]: http://support.apple.com/kb/ht4790
- [8]: //chester.me/archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi.html
+ [8]: /archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi.html
  [9]: http://en.wikipedia.org/wiki/Sparse_image
  [10]: http://www.levelofindirection.com/journal/2009/10/10/using-a-networked-drive-for-time-machine-backups-on-a-mac.html
  [11]: http://www.cognizo.com/2012/04/encrypted-network-backups-with-os-x-time-machine/

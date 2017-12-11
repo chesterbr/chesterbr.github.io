@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Portfolio
 ---
-<span class="mt-enclosure mt-enclosure-image"><img src="//chester.me/archives/img/on.png" width="57" height="59" class="mt-image-right right alignright" /></span>O EDGE Switch é um programa que desenvolvi para o iPhone com o objetivo de bloquear/liberar a conexão de dados da operadora ([EDGE][1]). Isso é necessário porque o sistema operacional da Apple assume que o seu plano de dados é generoso e usa esta conexão sem perguntar quando não encontra uma rede sem fio.
+<span class="mt-enclosure mt-enclosure-image"><img src="/archives/img/on.png" width="57" height="59" class="mt-image-right right alignright" /></span>O EDGE Switch é um programa que desenvolvi para o iPhone com o objetivo de bloquear/liberar a conexão de dados da operadora ([EDGE][1]). Isso é necessário porque o sistema operacional da Apple assume que o seu plano de dados é generoso e usa esta conexão sem perguntar quando não encontra uma rede sem fio.
 
 **UPDATE**: Este programa foi criado no início dos tempos do iPhone, quando mal existia SDK oficial. Ele não foi testado com o OS 2.x/3.x, e com certeza existem alternativas melhores (como o SBSettings) para fazer isso hoje. Mas o código-fonte permanece online para fins de curiosidade e para ilustrar o mínimo do mínimo que a parte não-visual de uma aplicação iPhone tem que ter.
 <!--more-->
@@ -28,7 +28,7 @@ O [código-fonte][4] está disponível sob a licença GPL. Os ícones são mais 
 
 **Instalação, Uso e Remoção**
 
-Para instalar, é preciso ter o iPhone liberado para instalar aplicativos de terceiros. No Installer, entre em &#8220;Sources&#8221; e adicione o meu repositório: <font face="courier">//chester.me/iphone</font>. Com isso o programa vai aparecer na categoria &#8220;Utilities&#8221;.
+Para instalar, é preciso ter o iPhone liberado para instalar aplicativos de terceiros. No Installer, entre em &#8220;Sources&#8221; e adicione o meu repositório: <font face="courier">/iphone</font>. Com isso o programa vai aparecer na categoria &#8220;Utilities&#8221;.
 
 Depois de instalar ou atualizar o software, você verá o ícone amarelo. Clique uma vez nele, e o fone irá reiniciar, mostrando o ícone vermelho (EDGE bloqueado) ou o azul (EDGE liberado).
 

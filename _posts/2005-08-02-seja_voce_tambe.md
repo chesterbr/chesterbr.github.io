@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751442062
 categories:
 ---
-<img title="sissy.png" src="//chester.me/archives/img/sissy.png" width="348" height="141" align="left" />
+<img title="sissy.png" src="/archives/img/sissy.png" width="348" height="141" align="left" />
 [SissyFight 2000][1] é um jogo online das antigas para múltiplos jogadores que, para minha surpresa, ainda está no ar. O ponto forte, além da jogabilidade, é a ambientação: o jogo se passa em um playground, e os jogadores são&#8230; garotinhas (*sissies*)! O objetivo: zerar a auto-estima das outras meninas, mantendo a sua em alta.
 
 Cada partida comporta de três a seis garotinhas, cada uma com dez pontos de auto-estima. As que perderem toda a auto-estima são eliminadas, até que sobrem apenas duas (que são declaradas vencedoras).

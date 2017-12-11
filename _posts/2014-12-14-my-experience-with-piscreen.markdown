@@ -50,7 +50,7 @@ However, other applications requiring touch support and not depending on high re
 [5]: http://www.google.com/search?q=70+aud
 [7]: http://ozzmaker.com/piscreen-driver-install-instructions-2/
 [8]: http://ozzmaker.com/piscreen/PiScreenImage-SDCard-1.6.zip
-[9]: //chester.me/archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi.html/
+[9]: /archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi.html/
 [10]: http://ozzmaker.com/forums/topic/wrong-colors-on-piscreen-my-raspberry-is-purple/#post-2930
 [11]: http://www.dx.com/p/q1303-4-3-pal-ntsc-digital-security-tft-monitor-black-dc-12v-195293#.VI3OrKZrVf0
 [12]: http://lifehacker.com/how-to-build-a-handheld-raspberry-pi-powered-game-cons-1663675758

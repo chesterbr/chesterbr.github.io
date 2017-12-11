@@ -199,7 +199,7 @@ Anyway, it was a great warm-up for my next big project: using the [PiScreen][19]
 [14]: http://en.wikipedia.org/wiki/Game_port
 [15]: http://en.wikipedia.org/wiki/555_timer_IC
 [16]: http://commons.wikimedia.org/wiki/File:Pullup_Resistor.png
-[17]: //chester.me/archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi.html/
+[17]: /archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi.html/
 [18]: http://www.raspberrypi.org/forums/viewtopic.php?f=50&t=8842
 [19]: https://www.kickstarter.com/projects/2135028730/piscreen-a-35-tft-with-touchscreen-for-the-raspber
 [20]: http://pinout.net/browse.php?conid=1990

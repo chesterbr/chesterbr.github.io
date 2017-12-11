@@ -41,7 +41,7 @@ In the end, the cost (toilet, parts and tools) was around CAD 600. Installation 
 ![What, me, worry? ](/img/2016/01/obsolete.jpg){: .center }
 
 
-[1]: //chester.me/archives/2015/03/a-trip-to-japan/
+[1]: /archives/2015/03/a-trip-to-japan/
 [2]: https://en.wikipedia.org/wiki/Toilets_in_Japan
 [3]: https://www.youtube.com/watch?v=s0tCO4NdKeU
 [4]: http://www.totousa.com/about-toto/toto-way

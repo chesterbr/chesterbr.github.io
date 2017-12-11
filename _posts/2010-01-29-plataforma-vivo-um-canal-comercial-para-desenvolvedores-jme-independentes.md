@@ -6,12 +6,12 @@ permalink: /archives/2010/01/plataforma-vivo-um-canal-comercial-para-desenvolved
 bb-custom-tags:
   - jogos celular
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/01/vivo_java_c1.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/01/vivo_java_c1.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751447513
 categories:
 ---
-<img src="//chester.me/wp-content/uploads/2010/01/vivo_java_c1.png" width="76" height="75" class="alignleft left size-full wp-image-3606" />Continuando o assunto do [último post][1]: fui ao workshop que a Vivo deu sobre a [plataforma][2] no Campus Party, no qual os palestrantes Sena e Lecy foram muito gentis em responder ao caminhão de perguntas que eu tinha sobre o assunto.
+<img src="/wp-content/uploads/2010/01/vivo_java_c1.png" width="76" height="75" class="alignleft left size-full wp-image-3606" />Continuando o assunto do [último post][1]: fui ao workshop que a Vivo deu sobre a [plataforma][2] no Campus Party, no qual os palestrantes Sena e Lecy foram muito gentis em responder ao caminhão de perguntas que eu tinha sobre o assunto.
 
 Antes de mais nada: ao contrário do que a apresentação da API SMS multi-linguagem dava a entender, a idéia inicial da plataforma **não é** disponibilizar aplicações server-side baseadas em SMS. Isso é tecnicamente possível, mas a idéia é realmente algo nos moldes da App Store da Apple, isto é, um marketplace para que as pessoas comprem e baixem aplicativos sem as complicações de download e pagamento tradicionalmente envolvidas nesse tipo de operação.
 
@@ -31,8 +31,8 @@ Assim como o sistema, o processo ainda está sendo desenhado e implementado &#82
 
 Se vai dar certo, só o tempo dirá &#8211; mas é a chance que eu queria ter tido em 2005, quando comecei a desenvolver o [miniTruco][5]. Na época nenhuma integradora com que conversei se interessou: eles consideravam os gráficos minimalistas como &#8220;defeito&#8221; &#8211; sendo que isso foi feito propositalmente para garantir a universalidade e evitar telas de *loading* que tanto me irritam nos jogos tradicionais. Hoje, isto é, 300 mil downloads depois, eu suspeito que estava com a razão&#8230;
 
- [1]: //chester.me/archives/2010/01/plataforma-vivo-para-desenvolvimento-e-comercializacao-de-aplicativos-baseados-em-sms-sera-a-app-store-tupiniquim.html
+ [1]: /archives/2010/01/plataforma-vivo-para-desenvolvimento-e-comercializacao-de-aplicativos-baseados-em-sms-sera-a-app-store-tupiniquim.html
  [2]: http://desenvolvedores.vivo.com.br/
  [3]: http://java.sun.com/javame/index.jsp
  [4]: http://poorbuthappy.com/ease/archives/2009/02/28/4482/phase-1-collect-underpants-phase-3-profit
- [5]: //chester.me/minitruco
+ [5]: /minitruco

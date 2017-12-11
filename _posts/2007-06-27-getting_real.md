@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751450665
 categories:
 ---
-<img title="Capa do livro Getting Real (versão papel)" src="//chester.me/archives/img/gettingreal.jpg" width="300" height="199" align="left" style="margin-right:2px" border="1" />[Getting Real][1] abre com uma proposta atraente: ajudar a construir aplicações web de sucesso. Não se trata de uma metodologia &#8211; até porque ele se dispõe a questionar muito do material e da cultura que compõem as metodologias (formais ou práticas) existentes.
+<img title="Capa do livro Getting Real (versão papel)" src="/archives/img/gettingreal.jpg" width="300" height="199" align="left" style="margin-right:2px" border="1" />[Getting Real][1] abre com uma proposta atraente: ajudar a construir aplicações web de sucesso. Não se trata de uma metodologia &#8211; até porque ele se dispõe a questionar muito do material e da cultura que compõem as metodologias (formais ou práticas) existentes.
 
 É o oposto disso, a anti-metodologia. Não por rebeldia, preguiça ou limitação, mas por fazer crer que a melhor maneira de fazer as coisas sairem é&#8230; bem&#8230; fazer as coisas sairem (e não viver em torno de documentos, reuniões, cronogramas e outros mecanismos que fazem parecer que elas estão saindo).
 

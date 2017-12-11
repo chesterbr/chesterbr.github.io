@@ -32,7 +32,7 @@ categories:
 Andar de ônibus em São Paulo não é nenhuma maravilha. Mas os piores perrengues não se comparam à soma das pequenas irritações causadas por este esporte coletivo espartano que é possuir/dirigir um carro particular, tais como:
 
 <p style="text-align: center">
-  <a href="http://www.glommer.net/blogs/?p=189"><img class="aligncenter size-full wp-image-3713" style="border: 1px solid black;margin-right: auto;margin-left: auto" src="//chester.me/wp-content/uploads/2010/03/deadlock.jpg" alt="Clássica foto da Faria Lima x JK. Autor: Magno" width="270" height="202" /></a>
+  <a href="http://www.glommer.net/blogs/?p=189"><img class="aligncenter size-full wp-image-3713" style="border: 1px solid black;margin-right: auto;margin-left: auto" src="/wp-content/uploads/2010/03/deadlock.jpg" alt="Clássica foto da Faria Lima x JK. Autor: Magno" width="270" height="202" /></a>
 </p>
 
 *   Ficar parado no trânsito (sem poder ler, jogar ou navegar);

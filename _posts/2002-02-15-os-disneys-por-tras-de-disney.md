@@ -9,6 +9,6 @@ Ao visitar o [site do Spacca][1] (um dos meus desenhistas/escritores favoritos e
 
 Mas o interessante foi mesmo ele desvendar detalhes interessantes sobre a divisão italiana do estúdio. Além disso tem alguns links bons pra queimar umas horas pesquisando o assunto &#8211; prato cheio para os fanáticos de plantão (presente!) que já sabem reconhecer um Carl Barks no meio das histórias &#8220;anônimas&#8221;.<table class=mensagem width=100% border=0 cellpadding=0 cellspacing=4 width-93>
 
-<img src="//chester.me/img/blig/bone1y.gif" hspace=4 align="left" border=0></p>
+<img src="/img/blig/bone1y.gif" hspace=4 align="left" border=0></p>
 
  [1]: http://www.spaccatutto.com.br

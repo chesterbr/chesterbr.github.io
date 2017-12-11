@@ -6,12 +6,12 @@ permalink: /archives/2011/11/o-que-eu-quero-mesmo-ganhar-no-natal.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2011/11/papai_noel_coca_cola.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/11/papai_noel_coca_cola.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751447599
 categories:
 ---
-[<img src="//chester.me/wp-content/uploads/2011/11/papai_noel_coca_cola.jpg" alt="A Coca-Cola inventou o Papai Noel? Clique e saiba!" title="A Coca-Cola inventou o Papai Noel? Clique e saiba!" width="221" height="199" style="float:right; border:1px solid black" />][1]Amigos e familiares que eventualmente estejam pensando em me presentear no Natal que se aproxima: eu fico muito feliz com isso, juro. Mas ficarei ainda mais feliz se eu **não** ganhar um presente. Existe uma [explicação científica][2] para isso, mas vocês merecem uma satisfação mais pessoal.
+[<img src="/wp-content/uploads/2011/11/papai_noel_coca_cola.jpg" alt="A Coca-Cola inventou o Papai Noel? Clique e saiba!" title="A Coca-Cola inventou o Papai Noel? Clique e saiba!" width="221" height="199" style="float:right; border:1px solid black" />][1]Amigos e familiares que eventualmente estejam pensando em me presentear no Natal que se aproxima: eu fico muito feliz com isso, juro. Mas ficarei ainda mais feliz se eu **não** ganhar um presente. Existe uma [explicação científica][2] para isso, mas vocês merecem uma satisfação mais pessoal.
 
 Fato: é complicado presentear, por mais que a gente ache que conheça a pessoa. Você perde um tempão, gasta um dinheirão, e muitas vezes não atinge o resultado esperado. Que tal, ao invés disso, usar esse tempo e dinheiro para ajudar alguém que esteja precisando muito mais do que eu ou vocês?
 
@@ -28,10 +28,10 @@ Outra idéia é ajudar a manter produções culturais e artísticas que você co
 Qualquer que seja a sua escolha, eu agradeço de verdade. Se tem alguma coisa muito melhor do que desejar um &#8220;Feliz Natal&#8221;, sem dúvida é ajudar a construir um!
 
  [1]: http://willyrenan.wordpress.com/2009/12/24/papai-noel-foi-inventado-pela-coca-cola-mito-ou-realidade/
- [2]: //chester.me/archives/2010/12/scroogenomics-a-economia-dos-presentes.html
+ [2]: /archives/2010/12/scroogenomics-a-economia-dos-presentes.html
  [3]: http://mude.nu/mente/budismo-busca-felicidade-contra-sofrimento/
  [4]: https://www.eff.org/
- [5]: //chester.me/archives/2008/09/kiva.html
- [6]: //chester.me/archives/2006/12/papai_noel_dos_correios.html
+ [5]: /archives/2008/09/kiva.html
+ [6]: /archives/2006/12/papai_noel_dos_correios.html
  [7]: http://en.wikipedia.org/wiki/Main_Page
  [8]: http://wikimediafoundation.org/w/index.php?title=WMFJA085/pt&#038;utm_source=donate&#038;utm_medium=sidebar&#038;utm_campaign=20101204SB002&#038;language=pt&#038;uselang=pt&#038;country=BR&#038;referrer=http%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FWikip%25C3%25A9dia%3AP%25C3%25A1gina_principal

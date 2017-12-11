@@ -15,7 +15,7 @@ categories:
 **<font color="red">ATUALIZAÇÃO:</font>** O método sugerido aqui não lê a configuração de timezone do servidor (e, portanto, exige atualização a cada ano) . Se o seu servidor é Linux ou assemelhado, sugiro usar o [timefix][1].</p>
 * * *
 
-<img title="Detalhe de uma propaganda do governo americano sobre horário de verão" align="right" src="//chester.me/archives/img/timezone.jpg" width="200" height="212" />Se você desenvolve aplicações Java para rodar em servidores, já deve ter se deparado com este problema: a máquina virtual nunca &#8220;acerta&#8221; o horário de verão, mesmo que você tenha configurado corretamente o *timezone* do sistema operacional do servidor para acertar o relógio.</p>
+<img title="Detalhe de uma propaganda do governo americano sobre horário de verão" align="right" src="/archives/img/timezone.jpg" width="200" height="212" />Se você desenvolve aplicações Java para rodar em servidores, já deve ter se deparado com este problema: a máquina virtual nunca &#8220;acerta&#8221; o horário de verão, mesmo que você tenha configurado corretamente o *timezone* do sistema operacional do servidor para acertar o relógio.</p>
 Este artigo aponta algumas soluções para o problema &#8211; incluindo uma que não exige recompilação de código e não se restringe à JVM da Sun.
 
 <!--more-->
@@ -248,8 +248,8 @@ Seria bacana ter uma opção de hot-deployment, como na solução do Buitoni. Al
 <span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/project<span style="color: #000000; font-weight: bold;">&gt;</span></span></span></pre>
 </div>
 
- [1]: //chester.me/archives/2007/02/timefix.html
+ [1]: /archives/2007/02/timefix.html
  [2]: http://noticias.uol.com.br/ultnot/reuters/2006/08/14/ult27u57276.jhtm
- [3]: //chester.me/archives/2005/10/horario_de_vera.html
+ [3]: /archives/2005/10/horario_de_vera.html
  [4]: http://www.javafree.org/javabb/viewtopic.jbb?t=12070
  [5]: http://www.java.com/en/download/license.jsp

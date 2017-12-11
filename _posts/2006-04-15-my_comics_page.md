@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751444728
 categories:
 ---
-<img title="Logotipo do My Comics Page" src="//chester.me/archives/img/my_comics_page_logo.gif" width="130" height="110" align="right" style="margin-left:2px" />Outro dia eu procurava material novo da Cathy (personagem cuja única publicação de que tenho notícia é uma coletânea da Cedibra de mais de 20 anos atrás) e achei o excelente [My Comics Page][1].
+<img title="Logotipo do My Comics Page" src="/archives/img/my_comics_page_logo.gif" width="130" height="110" align="right" style="margin-left:2px" />Outro dia eu procurava material novo da Cathy (personagem cuja única publicação de que tenho notícia é uma coletânea da Cedibra de mais de 20 anos atrás) e achei o excelente [My Comics Page][1].
 
 Por meros US$ 11,95 por ano, eles dão acesso a mais de 150 personagens diferentes, boa parte em tiras diárias &#8211; incluindo um arquivo de mais de 10.000 tiras. Você pode ler no site, ou receber suas favoritas consolidadas num único e-mail diário.
 

@@ -7,12 +7,12 @@ layout: post
 comments: true
 permalink: /archives/2008/08/turma_da_monica.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/monica_jovem.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/archives/img/monica_jovem.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751450600
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="detalhe de um papel de parede do site da Turma da Mônica jovem" src="//chester.me/archives/img/monica_jovem.jpg" width="220" height="300" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Acabei de ler o número 1 (parece que [rolou um número zero][1] em alguns eventos) da [versão &#8220;reloaded&#8221; da Turma da Mônica][2]. E posso dizer que me surpreendeu positivamente.
+<span class="mt-enclosure mt-enclosure-image"><img title="detalhe de um papel de parede do site da Turma da Mônica jovem" src="/archives/img/monica_jovem.jpg" width="220" height="300" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Acabei de ler o número 1 (parece que [rolou um número zero][1] em alguns eventos) da [versão &#8220;reloaded&#8221; da Turma da Mônica][2]. E posso dizer que me surpreendeu positivamente.
 
 (eu, pessoalmente, sempre tive uma teoria de que a Tina era a versão adolescente da Mônica &#8211; que ficou gostosa pra contrariar; na mesma linha, o Rolo era o Cebolinha &#8211; cujo cabelo atrasado cresceu todo de uma vez; a Pipa era a Magali depois que aquela comida toda deu reação, etc&#8230; mas isso é outro assunto :-) )
 

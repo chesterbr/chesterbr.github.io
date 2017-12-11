@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751441740
 categories:
 ---
-<img title="Cena do desenho Família Drácula. 'Mau sapão, mau sapão...'" src="//chester.me/archives/img/familia_dracula.jpg" width="300" height="219" border="1" align="right" style="margin-left:2px" />Outro dia chegou a uma lista de discussões da qual participo a notícia de que [um cientista teria &#8220;provado matematicamente&#8221; que vampiros não existem][1]. Como estudante de matemática de plantão, fiz a elocubração que se segue:
+<img title="Cena do desenho Família Drácula. 'Mau sapão, mau sapão...'" src="/archives/img/familia_dracula.jpg" width="300" height="219" border="1" align="right" style="margin-left:2px" />Outro dia chegou a uma lista de discussões da qual participo a notícia de que [um cientista teria &#8220;provado matematicamente&#8221; que vampiros não existem][1]. Como estudante de matemática de plantão, fiz a elocubração que se segue:
 
 Seja m o mês atual (o mês 0 foi aquele em que, por algum motivo arcano, surgiu o Conde Drácula). Sendo os vampiros imortais, e supondo que cada um morda apenas uma pessoa por mês, temos que a quantidade de vampiros no mês M é dada pela função abaixo (exponencial, para os íntimos):
 

@@ -15,7 +15,7 @@ miniTruco is an open-source implementation of Truco Paulista (a very popular car
 
 You can also play it on your browser, using the gadget on the right side of this page. The original source code was created by me (Chester), but it is available as free (GPL) software. That allowed several developers to add new strategies and features.
 
-Please use the following URL to link to this page: <http://chester.me/minitruco_en>.
+Please use the following URL to link to this page: <http:/minitruco_en>.
 
 <!--more-->
 
@@ -38,11 +38,11 @@ Screenshots:
 
 
 <p style="text-align:center">
-  <a href="//chester.me/minitruco"><img border="0" alt="veja esta página em português" src="/img/brflag.gif" /><br />Esta página em Português</a>
+  <a href="/minitruco"><img border="0" alt="veja esta página em português" src="/img/brflag.gif" /><br />Esta página em Português</a>
 </p></p>
 
- [1]: //chester.me/m/deploy/miniTruco.jar
- [2]: //chester.me/m/deploy/miniTruco.jad
+ [1]: /m/deploy/miniTruco.jar
+ [2]: /m/deploy/miniTruco.jad
  [3]: https://github.com/chesterbr/minitruco-j2me/blob/master/miniTruco/res/regras_en.txt
  [4]: https://github.com/chesterbr/minitruco-j2me/blob/master/miniTruco/res/instrucoes_en.txt
  [5]: http://www.gnu.org/copyleft/gpl.html

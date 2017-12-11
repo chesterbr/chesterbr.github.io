@@ -4,7 +4,7 @@ layout: post
 comments: true
 permalink: /archives/2011/01/sony-ericsson-xperia-x10-mini-pro-avaliacao.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2011/01/x10minipro.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/01/x10minipro.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 robotsmeta:
   - index,follow
 dsq_thread_id:
@@ -15,7 +15,7 @@ categories:
   Estou <b>vendendo</b> meu X10 Mini Pro (com o update 2.3 instalado)<br />clique na <a href="/lojinha">lojinha</a> e veja mais detalhes
 </div>
 
-[<img class="alignright size-full wp-image-5789" title="Sony Ericsson Xperia X10 Mini Pro" src="//chester.me/wp-content/uploads/2011/01/x10minipro.jpg" alt="" width="219" height="211" />][1]Passei dois anos com um iPhone, e uma das coisas que me incomodava era digitar nele. Fato: o melhor teclado virtual do universo é pior que o teclado físico mais vagabundo. Eu escrevo muito (basta [me seguir no Twitter][2] para conferir) e quem produz conteúdo &#8220;na estrada&#8221; precisa de teclas de verdade. É o motivo pelo qual eu não trocaria meu netbook por um tablet &#8211; e que me fez desencanar de um iPhone 4 quando o 2G se foi.
+[<img class="alignright size-full wp-image-5789" title="Sony Ericsson Xperia X10 Mini Pro" src="/wp-content/uploads/2011/01/x10minipro.jpg" alt="" width="219" height="211" />][1]Passei dois anos com um iPhone, e uma das coisas que me incomodava era digitar nele. Fato: o melhor teclado virtual do universo é pior que o teclado físico mais vagabundo. Eu escrevo muito (basta [me seguir no Twitter][2] para conferir) e quem produz conteúdo &#8220;na estrada&#8221; precisa de teclas de verdade. É o motivo pelo qual eu não trocaria meu netbook por um tablet &#8211; e que me fez desencanar de um iPhone 4 quando o 2G se foi.
 
 Juntando a isso o fato de já estar de olho no Android [há pelo menos três anos][3], comecei a procurar aparelhos com este sistema cujo preço não superasse os três dígitos. Também era importante contornar outras limitações do iPhone: a falta do flash na câmera e o formato/tamanho. A busca terminou no [Sony Ericsson Xperia X10 Mini Pro][1].
 
@@ -37,7 +37,7 @@ Com essa atitude eles deixam na mão quem acreditou neles, coincidentemente no e
 
  [1]: http://www.submarino.com.br/produto/11/21849516/sony+ericsson+xperia+x10+mini+pro+3g+wi-fi+qwerty+gps+cam+5.0+mp3?franq=273452
  [2]: http://twitter.com/chesterbr
- [3]: //chester.me/archives/2007/11/android_comenta.html
+ [3]: /archives/2007/11/android_comenta.html
  [4]: http://en.wikipedia.org/wiki/Xperia
  [5]: http://en.wikipedia.org/wiki/Sony_Ericsson_Xperia_X10
  [6]: http://en.wikipedia.org/wiki/Sony_Ericsson_Xperia_X10_Mini
@@ -60,4 +60,4 @@ Com essa atitude eles deixam na mão quem acreditou neles, coincidentemente no e
  [23]: http://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootkit_scandal
  [24]: http://en.wikipedia.org/wiki/Memory_stick
  [25]: http://www.appbrain.com/app/minitruco/me.chester.minitruco
- [26]: //chester.me/archives/2011/06/sony-xperia-x10-mini-pro-android-2-2-froyo-sony-%E2%99%A5.html
+ [26]: /archives/2011/06/sony-xperia-x10-mini-pro-android-2-2-froyo-sony-%E2%99%A5.html

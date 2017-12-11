@@ -16,7 +16,7 @@ Quem assistiu ao [desenho animado do Garfield][1] deve se lembrar que ele era &#
 
 O que eu não sabia é que, assim como o Garfield, o Orson também tinha se originado numa tira &#8211; até tropeçar nesta [série][5] que reúne um conjunto bastante significativo dessas tiras, amplamente comentado e contextualizado. Não é nada que mude a vida de ninguém, mas vale porque a tira tinha bem mais profundidade que o desenho, e também para ver que o Jim Davis ainda teve um outlet criativo (ainda que [questionado][6] por gente de peso como Bill Watterson) antes de entrar em loop eterno.
 
-<span class="mt-enclosure mt-enclosure-image"><img title="tira da Fazenda do Orson - 'duck', em inglês, é tanto 'abaixar' quanto 'pato'" src="//chester.me/archives/img/orson.jpg" width="570" height="174" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></span>
+<span class="mt-enclosure mt-enclosure-image"><img title="tira da Fazenda do Orson - 'duck', em inglês, é tanto 'abaixar' quanto 'pato'" src="/archives/img/orson.jpg" width="570" height="174" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></span>
 
  [1]: http://www.youtube.com/watch?v=GScgnGF8bJ0&#038;feature=related
  [2]: http://www.babble.com/CS/blogs/strollerderby/archive/2008/03/27/retrofitted-does-anyone-still-care-about-garfield.aspx

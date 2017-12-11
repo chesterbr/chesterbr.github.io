@@ -9,4 +9,4 @@ Estou tentando mudar de assunto, palavra. Mas a Vênus Platinada resolveu aderir
 
 Não é montagem, juro &#8211; quem correr na <a href="http://www.globo.com" >home da Globo.Com</a> ainda vai ver. Ah, se a dona Mariluce pega&#8230;
 
- [1]: //chester.me/img/blig/evoce.jpg
+ [1]: /img/blig/evoce.jpg

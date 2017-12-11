@@ -26,7 +26,7 @@ Foi uma palestra bastante difícil de encaixar no tempo, porque a proposta era h
 Recomendo um passeio nos [links do finalzinho (slide 138)][16] para quem quiser se aprofundar mais no assunto (alguns já foram comentados neste blog, como o [livro Racing the Beam][17])<del datetime="2011-09-01T04:02:55+00:00">, e creio que em breve os vídeos das palestras devem ser disponibilizados</del>. Reitero os parabéns e agradecimentos à organização do evento, e espero ver esse povo todo lá no ano que vem!
 
  [1]: http://www.devinsampa.com.br/
- [2]: //chester.me/archives/2010/08/dev-in-sampa-2010.html
+ [2]: /archives/2010/08/dev-in-sampa-2010.html
  [3]: http://twitter.com/tinogomes
  [4]: http://twitter.com/nuxlli
  [5]: http://twitter.com/lfcipriani
@@ -41,4 +41,4 @@ Recomendo um passeio nos [links do finalzinho (slide 138)][16] para quem quiser 
  [14]: http://twitter.com/agaelebe
  [15]: http://blip.tv/dev-in-sampa/devinsampa_2011_chester_atari-5513966
  [16]: http://www.slideshare.net/chesterbr/programao-para-atari-2600/138
- [17]: //chester.me/archives/2011/01/racing-the-beam-um-raio-x-do-atari-2600.html
+ [17]: /archives/2011/01/racing-the-beam-um-raio-x-do-atari-2600.html

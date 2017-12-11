@@ -15,13 +15,13 @@ A [Ila Fox][4] publica todo dia uma ilustração nova no [blog dela][5], e eu se
 
 Curtiu? Vai lá na [lojinha da Ila][8] e encomende a sua também. Ela é muito atenciosa, eficiente e, acima de tudo, profissional &#8211; nem ligou de desenhar o Apple II, mesmo sendo [MSXzeira][9] de raiz :-) (essa antítese é meio que o Corinthians x Palmeiras da era [8 bits][10]&#8230;)
 
- [1]: //chester.me/img/chester_serginho.jpg
+ [1]: /img/chester_serginho.jpg
  [2]: http://smusica.blogspot.com/2005/11/entrevista-srgio-filho-do-gram-parte-1.html
  [3]: http://ultimosegundo.ig.com.br/
  [4]: http://twitter.com/#!/ila_fox
  [5]: http://www.ilafox.com/
  [6]: http://twitter.com/chesterbr
- [7]: //chester.me/img/chester_ila_500.jpg
+ [7]: /img/chester_ila_500.jpg
  [8]: http://www.ilafox.com/2010/04/encomendas.html
  [9]: http://www.ilafox.com/2009/10/pintando-no-aquarela.html
- [10]: //chester.me/micros
+ [10]: /micros

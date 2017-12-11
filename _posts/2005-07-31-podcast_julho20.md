@@ -9,7 +9,7 @@ permalink: /archives/2005/07/podcast_julho20.html/
 enclosure:
   - |
     |
-        //chester.me/archives/podcast/pdC-200507.mp3
+        /archives/podcast/pdC-200507.mp3
         0
         audio/mpeg
 
@@ -18,4 +18,4 @@ dsq_thread_id:
 categories:
 ---
 Segue (um pouco atrasado) o apanhado geral do que rolou no mês.
-<span class="podcast"><a href="//chester.me/archives/podcast/pdC-200507.mp3" />podcast</a></span>
+<span class="podcast"><a href="/archives/podcast/pdC-200507.mp3" />podcast</a></span>

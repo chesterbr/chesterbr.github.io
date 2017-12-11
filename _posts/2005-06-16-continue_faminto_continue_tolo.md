@@ -20,7 +20,7 @@ Ao contrário de outros discursos do gênero, eu achei este tão bacana que reso
 
 <blockquote cite="http://www.interesting-people.org/archives/interesting-people/200506/msg00229.html">
   <p>
-    <img title="Steve Jobs (em outra ocasião, mas também recente)" src="//chester.me/archives/img/jobs.jpg" width="182" height="166" style="margin-right:4px;" border="1" align="left" />Obrigado. Me sinto honrado por estar com vocês hoje para sua formatura em uma das melhores universidades do mundo. Para dizer a verdade, eu nunca me formei, e isto é o mais perto que eu já estive de uma formatura.
+    <img title="Steve Jobs (em outra ocasião, mas também recente)" src="/archives/img/jobs.jpg" width="182" height="166" style="margin-right:4px;" border="1" align="left" />Obrigado. Me sinto honrado por estar com vocês hoje para sua formatura em uma das melhores universidades do mundo. Para dizer a verdade, eu nunca me formei, e isto é o mais perto que eu já estive de uma formatura.
   </p>
 
   <p>

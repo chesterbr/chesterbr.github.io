@@ -4,13 +4,13 @@ layout: post
 comments: true
 permalink: /archives/2010/06/tilewriter-desenhando-ladrilhos-em-javascript.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/06/mario.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/06/mario.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751447428
 categories:
   - Portfolio
 ---
-<img src="//chester.me/wp-content/uploads/2010/06/mario.png" alt="" title="Super Mario em tiles" width="120" height="140" class="alignleft size-full wp-image-4131" />Eu fiquei vidrado no layout de &#8220;ladrinhos&#8221; do logotipo do [site do RHoK][1], que lembra os micros de 8 bits sem deixar de ser moderno, e pensei &#8220;taí, vou <del datetime="2010-06-20T14:22:59+00:00">roubar</del> <del datetime="2010-06-20T14:22:59+00:00">me inspirar</del> criar um trabalho artístico derivativo para o próximo update visual do meu blog&#8221;.
+<img src="/wp-content/uploads/2010/06/mario.png" alt="" title="Super Mario em tiles" width="120" height="140" class="alignleft size-full wp-image-4131" />Eu fiquei vidrado no layout de &#8220;ladrinhos&#8221; do logotipo do [site do RHoK][1], que lembra os micros de 8 bits sem deixar de ser moderno, e pensei &#8220;taí, vou <del datetime="2010-06-20T14:22:59+00:00">roubar</del> <del datetime="2010-06-20T14:22:59+00:00">me inspirar</del> criar um trabalho artístico derivativo para o próximo update visual do meu blog&#8221;.
 
 O chato é que não apenas sou um zero à esquerda em GIMP/PhotoShop, mas também queria algo que pesasse menos no carregamento. Solução: programar.
 
@@ -20,7 +20,7 @@ O [`canvas` do HTML5][2] viria a calhar, mas o suporte dos browsers ainda está 
 
 <div class="code">
         <pre class="javascript" style="font-family:monospace;"><span style="color: #339933;">&lt;</span>script src<span style="color: #339933;">=</span><span style="color: #3366CC;">"http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"</span> type<span style="color: #339933;">=</span><span style="color: #3366CC;">"text/javascript"</span><span style="color: #339933;">&gt;&lt;/</span>script<span style="color: #339933;">&gt;</span>
-<span style="color: #339933;">&lt;</span>script src<span style="color: #339933;">=</span><span style="color: #3366CC;">//chester.me/tilewriter/tilewriter-0.2-min.js"</span> type<span style="color: #339933;">=</span><span style="color: #3366CC;">"text/javascript"</span><span style="color: #339933;">&gt;&lt;/</span>script<span style="color: #339933;">&gt;</span></pre>
+<span style="color: #339933;">&lt;</span>script src<span style="color: #339933;">=</span><span style="color: #3366CC;">/tilewriter/tilewriter-0.2-min.js"</span> type<span style="color: #339933;">=</span><span style="color: #3366CC;">"text/javascript"</span><span style="color: #339933;">&gt;&lt;/</span>script<span style="color: #339933;">&gt;</span></pre>
 </div>
 
 Coloca-se na página um `<div>` (ou outro container HTML) no qual o &#8220;desenho&#8221; será montado, e aí é só brincar de JavaScript:
@@ -119,13 +119,13 @@ tilewriter.<span style="color: #660066;">drawRow</span><span style="color: #0099
 </div>
 
 <p>
-  <script src="//chester.me/tilewriter/tilewriter-0.2-min.js" type="text/javascript"></script>
+  <script src="/tilewriter/tilewriter-0.2-min.js" type="text/javascript"></script>
   <script type="text/javascript">if(tilewriter){tilewriter.drawRow("#div_teste","      X");tilewriter.drawRow("#div_teste"," XX    ");tilewriter.drawRow("#div_teste","X  X  X");tilewriter.drawRow("#div_teste","X  X  X");tilewriter.drawRow("#div_teste"," XX   X");tilewriter.reset();tilewriter.spacing=0;tilewriter.size=8;tilewriter.colors=["","#EA590C","#AC7C00","#FFA440"];tilewriter.drawRow("#div_mario","   111111    ");tilewriter.drawRow("#div_mario","  1111111111 ");tilewriter.drawRow("#div_mario","  22233233   ");tilewriter.drawRow("#div_mario"," 23233323333 ");tilewriter.drawRow("#div_mario"," 232233323333");tilewriter.drawRow("#div_mario"," 22333322222 ");tilewriter.drawRow("#div_mario","   33333333  ");tilewriter.drawRow("#div_mario","  2232222    ");tilewriter.drawRow("#div_mario"," 22212212222 ");tilewriter.drawRow("#div_mario","2222111122222");tilewriter.drawRow("#div_mario","3321311312333");tilewriter.drawRow("#div_mario","3331111113333");tilewriter.drawRow("#div_mario","3311111111333");tilewriter.drawRow("#div_mario","  1111 1111  ");tilewriter.drawRow("#div_mario"," 2222   2222 ");tilewriter.drawRow("#div_mario","22222   22222");tilewriter.reset();tilewriter.drawText("#div_teste_2","oi");tilewriter.reset();tilewriter.spacing=0;tilewriter.size=1;tilewriter.drawText("#div_tk90x_cima","TK90X - Color Computer");tilewriter.spacing=0;tilewriter.size=8;tilewriter.colors=["white","yellow","cyan","green","magenta","red","blue","black"];tilewriter.drawRow("#div_tk90x_baixo","000111222333444555666777");}</script>
 </p>
 
  [1]: http://www.rhok.org
  [2]: http://en.wikipedia.org/wiki/Canvas_element
- [3]: //chester.me/archives/2010/06/tilewriter-desenhando-ladrilhos-em-javascript.html
+ [3]: /archives/2010/06/tilewriter-desenhando-ladrilhos-em-javascript.html
  [4]: http://www.tk90x.com.br/
  [5]: http://homepage.ntlworld.com/wholehog/stuart/fonts/index.html
  [6]: http://github.com/chesterbr/tilewriter/blob/master/tilewriter.js

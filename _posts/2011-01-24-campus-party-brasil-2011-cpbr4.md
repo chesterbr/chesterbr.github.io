@@ -4,12 +4,12 @@ layout: post
 comments: true
 permalink: /archives/2011/01/campus-party-brasil-2011-cpbr4.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2011/01/woz.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/01/woz.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751447582
 categories:
 ---
-<img class="alignright size-full wp-image-5848" title="Woz no cpbr4" src="//chester.me/wp-content/uploads/2011/01/woz.jpg" alt="Woz no cpbr4" width="153" height="143" />Esse ano eu passei menos tempo no [Campus Party][1] do que gostaria. Do pouco que vi, as coisas boas permanecem: você interage com muita gente (velhos conhecidos e sangue novo), aprende e ensina a toda hora, e &#8211; importante &#8211; se diverte um bocado. Algumas das ruins melhoraram, tais como a (quase) total erradicação das cornetas e vuvuzelas, que atrapalhavam as palestras acrescentando pouco ou nada ao evento.
+<img class="alignright size-full wp-image-5848" title="Woz no cpbr4" src="/wp-content/uploads/2011/01/woz.jpg" alt="Woz no cpbr4" width="153" height="143" />Esse ano eu passei menos tempo no [Campus Party][1] do que gostaria. Do pouco que vi, as coisas boas permanecem: você interage com muita gente (velhos conhecidos e sangue novo), aprende e ensina a toda hora, e &#8211; importante &#8211; se diverte um bocado. Algumas das ruins melhoraram, tais como a (quase) total erradicação das cornetas e vuvuzelas, que atrapalhavam as palestras acrescentando pouco ou nada ao evento.
 
 Mas o principal problema do [Centro Imigrantes][2] permanece: o calor **INFERNAL**. Talvez seja o fato de estar ficando mais velho e reclamão a cada ano, mas simplesmente não vejo mais como ficar mais do que algumas horas em um lugar tão quente. O que seria necessário para dotar o ambiente de ar condicionado ou ventilação decente? Ou ainda: por que não fazer o Campus Party em Julho? Qualquer coisa vale, o que não rola é ficar suando em bicas.
 
@@ -21,7 +21,7 @@ Não é possível deixar de mencionar a presença do [Steve Wozniak][7], que lit
 
  [1]: http://www.campus-party.com.br/2011/index.html
  [2]: http://www.apontador.com.br/local/sp/sao_paulo/festas_e_eventos/XA9Q5J2Q/centro_de_exposicoes_imigrantes.html
- [3]: //chester.me/archives/2010/01/plataforma-vivo-para-desenvolvimento-e-comercializacao-de-aplicativos-baseados-em-sms-sera-a-app-store-tupiniquim.html
+ [3]: /archives/2010/01/plataforma-vivo-para-desenvolvimento-e-comercializacao-de-aplicativos-baseados-em-sms-sera-a-app-store-tupiniquim.html
  [4]: http://www.baixaki.com.br/tecnologia/7826-vivo-lanca-concurso-para-premiar-desenvolvedores-de-aplicativos-moveis.htm
  [5]: https://bluevia.com/en/
  [6]: http://www.slideshare.net/chesterbr/aplicativos-mobile-da-idia-ao-produto-ou-no

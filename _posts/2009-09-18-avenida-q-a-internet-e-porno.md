@@ -7,7 +7,7 @@ robotsmeta:
   - index,follow
 categories:
 ---
-[<img class="size-full wp-image-3427 alignright right" src="//chester.me/wp-content/uploads/2009/09/trekkie.png" alt="Trekkie Monster, do Avenida Q" width="199" height="224" />][1]Muita gente deve lembrar de um [vídeo][2] que circulou há uns dois ou três anos, em que personagens 3D cantavam a genial música *The Internet is for Porn*.
+[<img class="size-full wp-image-3427 alignright right" src="/wp-content/uploads/2009/09/trekkie.png" alt="Trekkie Monster, do Avenida Q" width="199" height="224" />][1]Muita gente deve lembrar de um [vídeo][2] que circulou há uns dois ou três anos, em que personagens 3D cantavam a genial música *The Internet is for Porn*.
 
 A animação era feita através de [machinima][3], isto é, da encenação de cada trecho através de um videojogo 3D pré-existente (no caso, World of Warcraft) e posterior edição. E a música era de uma [cena do musical Avenue Q][4] da Broadway &#8211; no qual atores contracenam com leituras adultas dos personagens da [versão original][5] de Vila Sésamo. Na real, esse foi um só das [vários mashups][6] que fizeram com a música &#8211; mas sem dúvida o que mais circulou por estas bandas.
 

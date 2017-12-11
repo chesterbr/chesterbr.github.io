@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2007/11/o_mundo_de_yakk.html/
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="O Mundo de Yakko" src="//chester.me/archives/img/yakkosworld.jpg" width="195" height="149" class="mt-image-left" style="float: left; border-style: solid; border-width:1px; margin: 0 20px 20px 0;" /></span>O Mundo de Yakko (Yakko&#8217;s World) era um *sketch* do desenho animado [Animaniacs][1]. Nele, Yakko Warner canta uma versão da &#8220;Dança do Chapéu&#8221; mexicana ([mp3][2]), cuja letra é uma relação de países do mundo (que ele vai apontando enquanto enumera).
+<span class="mt-enclosure mt-enclosure-image"><img title="O Mundo de Yakko" src="/archives/img/yakkosworld.jpg" width="195" height="149" class="mt-image-left" style="float: left; border-style: solid; border-width:1px; margin: 0 20px 20px 0;" /></span>O Mundo de Yakko (Yakko&#8217;s World) era um *sketch* do desenho animado [Animaniacs][1]. Nele, Yakko Warner canta uma versão da &#8220;Dança do Chapéu&#8221; mexicana ([mp3][2]), cuja letra é uma relação de países do mundo (que ele vai apontando enquanto enumera).
 
 Eu achava que tinham incluído todos os países, até consultar o [verbete da Wikipedia][3] que analisa a música de alto a baixo. Vai desde os países que não existiam na época (ou deixaram de existir) até os que foram deixados de fora, além das inconsistências (não-países que entraram na jogada, problemas de fronteira) nos mínimos detalhes!
 

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751450384
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="author unknown, but fits the article" src="//chester.me/archives/img/itsatrap.jpg" width="180" height="135" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Heck, just when Java was getting free from the mammoth&#8217;s weight, MySQL [gets caught][1].
+<span class="mt-enclosure mt-enclosure-image"><img title="author unknown, but fits the article" src="/archives/img/itsatrap.jpg" width="180" height="135" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Heck, just when Java was getting free from the mammoth&#8217;s weight, MySQL [gets caught][1].
 
 I keep wondering how Sun will apply their &#8220;expertise&#8221; in MySQL. Ideas:
 

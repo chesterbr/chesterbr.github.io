@@ -7,7 +7,7 @@ robotsmeta:
   - index,follow
 onswipe_thumb:
   - |
-    http://img.youtube.com/vi/BOiq9BSH6AA"><img src="//chester.me/wp-content/uploads/2011/12/gameon.png" alt="Exposição Game On" title="Exposição Game On" width="546" height="225" class="aligncenter size-full wp-image-6720" /></a>
+    http://img.youtube.com/vi/BOiq9BSH6AA"><img src="/wp-content/uploads/2011/12/gameon.png" alt="Exposição Game On" title="Exposição Game On" width="546" height="225" class="aligncenter size-full wp-image-6720" /></a>
 
     Na abertura você já se depara com uma máquina de <a href="http://pt.wikipedia.org/wiki/Spacewar!">Spacewar</a> e uma de <a href="http://pt.wikipedia.org/wiki/Pong">Pong</a>. Deu uma pequena frustração porque nenhuma estava funcionando (apesar de haver um emulador do último projetando na parede), mas só de tocar os controles e ficar em frente a elas já deu para reproduzir a sensação de época como nenhum texto ou documentário permitiria.
 
@@ -22,7 +22,7 @@ categories:
 ---
 A *Game On* é uma exposição de [origem inglesa][1] sobre a história dos jogos eletrônicos, que visitei no último sábado e gostei bastante. É muito completa e detalhada, apresentando desde os primeiros protótipos até jogos da atualidade, mas o diferencial é a interatividade: a idéia é que os participantes joguem de verdade, sempre que possível no hardware real, proporcionando uma imersão que remakes e emuladores não permitem alcançar.
 
-[<img src="//chester.me/wp-content/uploads/2011/12/gameon.png" alt="Exposição Game On" title="Exposição Game On" width="546" height="225" class="aligncenter size-full wp-image-6720" />][2]
+[<img src="/wp-content/uploads/2011/12/gameon.png" alt="Exposição Game On" title="Exposição Game On" width="546" height="225" class="aligncenter size-full wp-image-6720" />][2]
 
 Na abertura você já se depara com uma máquina de [Spacewar][3] e uma de [Pong][4]. Deu uma pequena frustração porque nenhuma estava funcionando (apesar de haver um emulador do último projetando na parede), mas só de tocar os controles e ficar em frente a elas já deu para reproduzir a sensação de época como nenhum texto ou documentário permitiria.
 
@@ -52,6 +52,6 @@ Como fomos no sábado, estava um pouquinho cheio, mas nada que impedisse de joga
  [14]: http://en.wikipedia.org/wiki/ZX81
  [15]: http://www.youtube.com/watch?v=ZVEpv0S3bW4
  [16]: http://www.youtube.com/watch?v=7zuZVnXffVc&#038;feature=related
- [17]: //chester.me/archives/2008/04/ddr_hottest_party.html
+ [17]: /archives/2008/04/ddr_hottest_party.html
  [18]: http://www.mis-sp.org.br/icox/icox.php?mdl=mis&#038;op=programacao_interna&#038;id_event=825
  [19]: http://www.threadless.com/product/1397/Grandpa_Cassette

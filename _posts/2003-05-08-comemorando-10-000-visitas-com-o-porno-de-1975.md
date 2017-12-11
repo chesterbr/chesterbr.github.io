@@ -7,7 +7,7 @@ dsq_thread_id:
   - 1751447255
 categories:
 ---
-<img src="//chester.me/img/blig/garotasepiadas.jpg" border="2" alt="" hspace="3" style="float:left; margin-right:4px;" />Fuçando num sebo eu me deparei com esta *Garotas e Piadas no. 1*. É uma espécie de Playboy (nos limites do Brasil de 1975), com uma tentativa (bastante infeliz) de dar um toque humorístico.
+<img src="/img/blig/garotasepiadas.jpg" border="2" alt="" hspace="3" style="float:left; margin-right:4px;" />Fuçando num sebo eu me deparei com esta *Garotas e Piadas no. 1*. É uma espécie de Playboy (nos limites do Brasil de 1975), com uma tentativa (bastante infeliz) de dar um toque humorístico.
 
 O resultado final é tão bizarro e hilário que, em comemoração aos 10.000 visitantes da página, resolvi digitalizar e disponbilizar [toda a revista online][1]. Pode abrir com a avó na sala numa boa &#8211; qualquer filme romântico atual tem mais nu que isso.
 

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751445005
 categories:
 ---
-<img title="Cenas de 'A babá do Superman'" src="//chester.me/archives/img/supermanbs.jpg" width="142" height="238" align="left" style="margin-right:2px" />Elsewords é a linha de histórias em quadrinhos da DC Comics ambientada fora da cronologia oficial dos personagens (se é tal conceito ainda existe, dada a [bagunça][1] que fizeram para tentar encaixar os eventos do seriado Smallville na história como vinha sido contada até então).
+<img title="Cenas de 'A babá do Superman'" src="/archives/img/supermanbs.jpg" width="142" height="238" align="left" style="margin-right:2px" />Elsewords é a linha de histórias em quadrinhos da DC Comics ambientada fora da cronologia oficial dos personagens (se é tal conceito ainda existe, dada a [bagunça][1] que fizeram para tentar encaixar os eventos do seriado Smallville na história como vinha sido contada até então).
 
 Eu não curto muito essas histórias &#8220;alternativas&#8221;, principalmente porque raramente saem do clichê &#8220;como seria a história de [insira seu personagem aqui] se tivesse surgido em [insira seu período histórico aqui]&#8220;. No entanto, fui fisgado por [Superman&#8217;s Babysitter][2] &#8211; uma pérola de dez páginas que chama a atenção por imprimir um tratamento gráfico mais elaborado sobre uma coleção de gags no melhor estilo Tom e Jerry.
 

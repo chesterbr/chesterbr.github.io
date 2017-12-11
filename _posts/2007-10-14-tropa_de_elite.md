@@ -17,7 +17,7 @@ Longe de mim adicionar mais barulho à cacofonia que este filme gerou antes e de
 *   Um subproduto previsível do filme é que a chamada &#8220;blogsfera policial&#8221; deve entrar em evidência. Eu leio esporadicamente o [Diário de um PM][2], que julgo de bom gosto, mas quem discordar ainda encontra uma respeitável lista de links para outros blogs do gênero.
 
 *   Como eu não sou Ministro da [Cultura][3] nem da [Justiça][4], não preciso usar de hipocrisia e fingir que só vi o filme essa semana (até porque hipocrisia vai na contramão do espírito do mesmo). De qualquer forma, hoje eu prestei contas com os produtores &#8211; e valeu a pena:<span class="mt-enclosure mt-enclosure-image"></p> <p>
-      <img alt="ingresso_tropa_de_elite.jpg" src="//chester.me/archives/img/ingresso_tropa_de_elite.jpg" width="219" height="127" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></span></li> <p>
+      <img alt="ingresso_tropa_de_elite.jpg" src="/archives/img/ingresso_tropa_de_elite.jpg" width="219" height="127" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></span></li> <p>
         </ul>
       </p>
 

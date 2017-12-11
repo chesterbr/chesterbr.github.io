@@ -7,7 +7,7 @@ dsq_thread_id:
   - 1751447368
 categories:
 ---
-<img style="border: 1px solid black; margin: 2px 12px;" src="//chester.me/img/blig/super.gif" border="1" alt="Santa Escócia!" width="160" height="249" align="left" />No final dos anos 80 era exibido no Brasil um [desenho][1] (fotos [aqui][2]) que revezava episódios do Super-Homem e do SuperBoy. Em ambos, o personagem usava muito a expressão &#8220;Santa Escócia&#8221; (ou &#8220;Grande Escócia&#8221; &#8211; não tenho muita certeza se era uma, outra, ou ambas). A pergunta que ocupou as mentes vazias dos Stone Age Scanners por meses era: o que diabos tinha a ver o Super-Homem com a Escócia???
+<img style="border: 1px solid black; margin: 2px 12px;" src="/img/blig/super.gif" border="1" alt="Santa Escócia!" width="160" height="249" align="left" />No final dos anos 80 era exibido no Brasil um [desenho][1] (fotos [aqui][2]) que revezava episódios do Super-Homem e do SuperBoy. Em ambos, o personagem usava muito a expressão &#8220;Santa Escócia&#8221; (ou &#8220;Grande Escócia&#8221; &#8211; não tenho muita certeza se era uma, outra, ou ambas). A pergunta que ocupou as mentes vazias dos Stone Age Scanners por meses era: o que diabos tinha a ver o Super-Homem com a Escócia???
 
 Esse é o tipo de coisa que você encontra fácil &#8211; desde que saiba o que está procurando. E nós não sabíamos. Queimei um bom tempo antes de desistir e esquecer o assunto. Até que me deparei com uma [tira][3] amadora do Scott Kurtz, feita em 1991, na qual um herói-paródia exclamava &#8220;*Great Scott!*&#8220;.
 

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751443036
 categories:
 ---
-<img title="NDS desmontado, rodando Elite Beat Agents" src="//chester.me/archives/img/nds_desmontado.jpg" width="250" height="187" border="1" align="right" style="margin-left:2px" />Estava o pequeno Chester feliz, brincando com seu NDS, quando a tela sensível ao toque perdeu a dita sensibilidade. Do nada. Os jogos e programas continuavam funcionando, mas qualquer um que dependesse da mesma (i.e., qualquer um que não fosse o Mario Kart DS) não rolava.
+<img title="NDS desmontado, rodando Elite Beat Agents" src="/archives/img/nds_desmontado.jpg" width="250" height="187" border="1" align="right" style="margin-left:2px" />Estava o pequeno Chester feliz, brincando com seu NDS, quando a tela sensível ao toque perdeu a dita sensibilidade. Do nada. Os jogos e programas continuavam funcionando, mas qualquer um que dependesse da mesma (i.e., qualquer um que não fosse o Mario Kart DS) não rolava.
 
 Peregrinei de assistência técnica em assistência técnica, mas acho que ninguém gosta de mexer em NDS. Não sei se é pelo custo/benefício ou por serem relativamente poucos no Brasil, o fato é que fui desenganado até por aqueles tiozinhos mais *ninja* da Santa Ifigênia, Stand Center e similares pradarias paulistanas.
 
@@ -41,6 +41,6 @@ No final das contas, o brinquedo foi remontado, e pude voltar a tomar as surras 
  [4]: http://lista.mercadolivre.com.br/chave-tri%C3%98wing
  [5]: http://produto.mercadolivre.com.br/MLB-55439716-chave-y-para-abrir-consoles-game-boy-advance-nintendo-ds-_JM
  [6]: http://www.youtube.com/watch?v=vRzTgfo2PsM
- [7]: //chester.me/archives/2007/03/elite_beat_agen.html
+ [7]: /archives/2007/03/elite_beat_agen.html
  [8]: http://jogos.uol.com.br/analises/nintendods/ult2206u17.jhtm
  [9]: http://www.claudiofreitas.com/blog/?p=3

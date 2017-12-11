@@ -14,7 +14,7 @@ onswipe_thumb:
     Foi uma experiência gratificante, na qual espero ter ajudado a mostrar para o pessoal que está chegando agora a importância da programação baseada no ecossistema Web 2.0, deixando um "hello world" sobre o qual eles possam criar coisas interessantes./0.jpg
 categories:
 ---
-[<img src="//chester.me/wp-content/uploads/2010/10/computacao_unesp.jpg" alt="Um prédio do Campus (fonte: site UNESP)" title="Um prédio do Campus (fonte: site UNESP)" width="188" height="143" class="alignleft size-full wp-image-4671" />][1]A organização da [XVIII Semana da Ciência da Computação (SECCOMP 2010)][2] me convidou, por intermédio do [Eduardo Maçan][3] (o [Kevin Bacon do software livre][4]: todo mundo no meio o conhece), a ministrar uma aula (mini-curso) sobre *mashups web* para os alunos de Ciências da Computação no último dia 21.
+[<img src="/wp-content/uploads/2010/10/computacao_unesp.jpg" alt="Um prédio do Campus (fonte: site UNESP)" title="Um prédio do Campus (fonte: site UNESP)" width="188" height="143" class="alignleft size-full wp-image-4671" />][1]A organização da [XVIII Semana da Ciência da Computação (SECCOMP 2010)][2] me convidou, por intermédio do [Eduardo Maçan][3] (o [Kevin Bacon do software livre][4]: todo mundo no meio o conhece), a ministrar uma aula (mini-curso) sobre *mashups web* para os alunos de Ciências da Computação no último dia 21.
 
 Por se tratar de um tema pouco convencional, optei por uma abordagem mais descontraída: as origens musicais do tema foram ilustradas com um [videoclip de música do Girl Talk][5] e os exemplos iam de sites comerciais como o [BuscaPé][6] e o surreal [Mobzombies][8].
 

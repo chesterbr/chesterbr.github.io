@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2006/02/ai_meu_santo.html/
 categories:
 ---
-<img title="Foto de um santinho" src="//chester.me/archives/img/santinho.jpg" width="200" height="196" align="right" style="margin-left:2px" />Caso alguém não conheça: &#8220;santinhos&#8221; são panfletos contendo a imagem de um santo e uma oração, que os devotos prometem enviar ou distribuir em quantidades massivas caso o santo homenageado interceda em prol de alguma graça. Basicamente, a idéia é subornar o segundo escalão do céu, oferecendo em troca uma envio de spam insanamente anti-ecológico.
+<img title="Foto de um santinho" src="/archives/img/santinho.jpg" width="200" height="196" align="right" style="margin-left:2px" />Caso alguém não conheça: &#8220;santinhos&#8221; são panfletos contendo a imagem de um santo e uma oração, que os devotos prometem enviar ou distribuir em quantidades massivas caso o santo homenageado interceda em prol de alguma graça. Basicamente, a idéia é subornar o segundo escalão do céu, oferecendo em troca uma envio de spam insanamente anti-ecológico.
 
 Claro, algum gaiato viu a oportunidade e lançou o [Meu Santo][1], um site que automatiza a parada toda &#8211; claro, por um módico preço, aceitando depósitos em vários bancos. O site espalha os santinhos digitais em milhares de caixas-postais, colocando-os lado a lado com os aumentadores penianos e esquemas de resgate de heranças de príncipes nigerianos.
 

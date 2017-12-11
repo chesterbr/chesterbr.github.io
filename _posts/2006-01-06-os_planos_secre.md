@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751444905
 categories:
 ---
-<img title="Trecho do panfleto que ensina a fazer a Barbie falar grosso" src="//chester.me/archives/img/blo.jpg" width="175" height="210" align="left" style="margin-right:2px" />Isso é notícia **bem** velha: no começo dos anos 90, foi lançada uma série da Barbie que, através de um circuito de voz embutido, brindava as crianças com frases bastante edificantes para o desenvolvimento feminino, tais como &#8220;matemática é difícil&#8221; e &#8220;eu adoro fazer compras&#8221;.
+<img title="Trecho do panfleto que ensina a fazer a Barbie falar grosso" src="/archives/img/blo.jpg" width="175" height="210" align="left" style="margin-right:2px" />Isso é notícia **bem** velha: no começo dos anos 90, foi lançada uma série da Barbie que, através de um circuito de voz embutido, brindava as crianças com frases bastante edificantes para o desenvolvimento feminino, tais como &#8220;matemática é difícil&#8221; e &#8220;eu adoro fazer compras&#8221;.
 
 Incomodadas com isso, algumas pessoas (que ficaram [conhecidas na mídia][1] como a Barbie Liberation Organization, ou BLO) resolveram aproveitar que a Mattel fabricava bonecos &#8220;Comandos em Ação&#8221; com um circuito de som semelhante para aprontar: eles compraram algumas dezenas destes bonecos, inverteram seus circuitos e os devolveram às lojas. Isto gerou situações interessantes nos lares: enquanto a Barbie urrava brados de guerra, o doce G.I. Joe suspirava comentando sobre seu casamento dos sonhos.
 

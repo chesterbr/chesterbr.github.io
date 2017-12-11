@@ -28,10 +28,10 @@ Os slides estão [disponíveis][17] no SlideShare (e abaixo), e incluem incluem 
 </div>
 
  [1]: http://www.pythonbrasil.org.br/2010/
- [2]: //chester.me/archives/2010/10/aula-sobre-mashups-web-na-unesp-seccomp-2010.html
+ [2]: /archives/2010/10/aula-sobre-mashups-web-na-unesp-seccomp-2010.html
  [3]: http://akitaonrails.com/
  [4]: http://twitter.com/akitaonrails
- [5]: //chester.me/archives/2010/09/qcon-sao-paulo-2010.html
+ [5]: /archives/2010/09/qcon-sao-paulo-2010.html
  [6]: http://www.pedrovalente.com/
  [7]: http://twitter.com/pedrovalente
  [8]: http://twitter.com/#!/search/freecep

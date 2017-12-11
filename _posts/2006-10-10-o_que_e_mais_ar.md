@@ -19,8 +19,8 @@ Pior é constatar que não foi o único empréstimo desta natureza em tempos rec
 Triste.
 
 <center>
-  <img title="Notícia 'Google compra YouTube por US$ 1.65 bi', com quadrinho '2,1 bilhões de reais foram concedidos à Brasil Telecom pelo BNDES em outubro de 2007'" src="//chester.me/archives/img/gootube_brt.png" width="655" height="506" />
+  <img title="Notícia 'Google compra YouTube por US$ 1.65 bi', com quadrinho '2,1 bilhões de reais foram concedidos à Brasil Telecom pelo BNDES em outubro de 2007'" src="/archives/img/gootube_brt.png" width="655" height="506" />
 </center>
 
  [1]: http://opiniaoenoticia.com.br/interna.php?mat=5903
- [2]: //chester.me/200210.html#post_1044931
+ [2]: /200210.html#post_1044931

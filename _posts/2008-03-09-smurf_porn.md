@@ -7,12 +7,12 @@ layout: post
 comments: true
 permalink: /archives/2008/03/smurf_porn.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/smurf.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/archives/img/smurf.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751449102
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="lá lá lálálálá-lá lá lálá-láááá..." src="//chester.me/archives/img/smurf.jpg" width="149" height="199" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Quando eu estiver fazendo algo muito, muito deturpado, pensarei: &#8220;pelo menos não juntei uma galera pra se pintar de azul, vestir roupinhas brancas e encenar um [curta pornô dos Smurfs][1]&#8221; (**ATENÇÃO: LINK IMPRÓPRIO PARA MENORES/ESCRITÓRIO**).
+<span class="mt-enclosure mt-enclosure-image"><img title="lá lá lálálálá-lá lá lálá-láááá..." src="/archives/img/smurf.jpg" width="149" height="199" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Quando eu estiver fazendo algo muito, muito deturpado, pensarei: &#8220;pelo menos não juntei uma galera pra se pintar de azul, vestir roupinhas brancas e encenar um [curta pornô dos Smurfs][1]&#8221; (**ATENÇÃO: LINK IMPRÓPRIO PARA MENORES/ESCRITÓRIO**).
 
 Não dá pra não comentar. Destaques:
 
@@ -32,6 +32,6 @@ Não dá pra não comentar. Destaques:
 Ah, pra quem está achando que eu estou apelando muito ultimamente: não tenho culpa, muita bizarrice tá batendo no meu inbox. De qualquer forma, eu sou má influência mesmo (fico jogando [Bible Fight][3] o dia inteiro) &#8211; pra conhecer gente do bem e rir no paraíso quando eu estiver queimando, sugiro lugares como esse [orkut para meninos e meninas bonzinhos][4], olha que show.
 
  [1]: http://www.redtube.com/8399
- [2]: //chester.me/archives/2008/02/pornografia_com.html
+ [2]: /archives/2008/02/pornografia_com.html
  [3]: http://www.adultswim.com/games/biblefight/
  [4]: http://www.amoremcristo.com/

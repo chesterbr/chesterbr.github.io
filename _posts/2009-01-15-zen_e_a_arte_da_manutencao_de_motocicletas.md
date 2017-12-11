@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751450236
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><a href="http://www.submarino.com.br/produto/1/1966289/zen+e+a+arte+da+manutencao+de+motocicletas:+uma+investigacao+sobre+...?franq=273452"><img class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" title="Zen e a Arte da Manutenção de Motocicletas (clique para comprar)" src="//chester.me/archives/img/mt/2009/01/15/zamm.jpg" border="0" alt="" width="119" height="180" /></a></span>Comecei a ler este livro anos atrás, mas acabei não terminando, e retomei ele após ler o [recém-comentado][1] Os Vagabundos Iluminados, já que ambos são histórias semi-autobiográficas nas quais o zen-budismo exerce influência num contexto urbano ocidental (especificamente, nos EUA).
+<span class="mt-enclosure mt-enclosure-image"><a href="http://www.submarino.com.br/produto/1/1966289/zen+e+a+arte+da+manutencao+de+motocicletas:+uma+investigacao+sobre+...?franq=273452"><img class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" title="Zen e a Arte da Manutenção de Motocicletas (clique para comprar)" src="/archives/img/mt/2009/01/15/zamm.jpg" border="0" alt="" width="119" height="180" /></a></span>Comecei a ler este livro anos atrás, mas acabei não terminando, e retomei ele após ler o [recém-comentado][1] Os Vagabundos Iluminados, já que ambos são histórias semi-autobiográficas nas quais o zen-budismo exerce influência num contexto urbano ocidental (especificamente, nos EUA).
 
 Mas a semelhança termina aí. O livro do Kerouac é um desfile de personagens, que não pretende ensinar muito (até porque é questionável se os protagonistas realmente tinham muito o que ensinar). Já o [Zen e a Arte da Manutenção de Motocicletas][2] é mais profundo: seu objetivo é analisar diversos temas filosóficos (tais como [teoria do conhecimento][3], [ética][4] e [filosofia da ciência][5]) usando como pano de fundo a viagem de moto que o autor faz com seu filho Chris e com um casal de amigos.
 
@@ -26,7 +26,7 @@ Ao final, o leitor pode ou não concordar com a tese do autor. Mas seguramente s
 
 Você pode ler online [online][9], ou comprar [aqui][2].
 
- [1]: //chester.me/archives/2009/01/os_vagabundos_iluminados_the_dharma_bums.html
+ [1]: /archives/2009/01/os_vagabundos_iluminados_the_dharma_bums.html
  [2]: http://www.submarino.com.br/produto/1/1966289/zen+e+a+arte+da+manutencao+de+motocicletas:+uma+investigacao+sobre+...?franq=273452
  [3]: http://pt.wikipedia.org/wiki/Epistemologia
  [4]: http://en.wikipedia.org/wiki/Ethics

@@ -15,7 +15,7 @@ onswipe_thumb:
     Os outros projetos (de São Paulo e das outras cidades onde o evento ocorreu) podem ser conferidos no <a href="http://wiki.rhok.org/">wiki</a>. A organização mandou muito bem em termos de infra-estrutura e alimentação. Não houve a "virada" do sábado para o domingo, comum em eventos desse tipo - mas a natureza local das edições pressupõe participantes na mesma cidade, então o pessoal voltou no dia seguinte e tudo correu bem.
 
     Nesse sentido, talvez edições futuras possam privilegiar outras cidades - muitas vezes mais próximas de alguns dos problemas que os fundadores se propõem a resolver - mas se voltar a acontecer em São Paulo não vou reclamar!
-    <p style="text-align: center;"><a href="http://www.rhok.org/"><img class="size-full wp-image-4023 aligncenter" style="margin-top: 4px; margin-bottom: 4px;" title="Random Hacks of Kindness (logo)" src="//chester.me/wp-content/uploads/2010/06/rhok.png" alt="" width="397" height="40" /></a></p>/0.jpg
+    <p style="text-align: center;"><a href="http://www.rhok.org/"><img class="size-full wp-image-4023 aligncenter" style="margin-top: 4px; margin-bottom: 4px;" title="Random Hacks of Kindness (logo)" src="/wp-content/uploads/2010/06/rhok.png" alt="" width="397" height="40" /></a></p>/0.jpg
 dsq_thread_id:
   - 1751444862
 categories:
@@ -51,7 +51,7 @@ Os outros projetos (de São Paulo e das outras cidades onde o evento ocorreu) po
 Nesse sentido, talvez edições futuras possam privilegiar outras cidades &#8211; muitas vezes mais próximas de alguns dos problemas que os fundadores se propõem a resolver &#8211; mas se voltar a acontecer em São Paulo não vou reclamar!
 
 <p style="text-align: center;">
-  <a href="http://www.rhok.org/"><img class="size-full wp-image-4023 aligncenter" style="margin-top: 4px; margin-bottom: 4px;" title="Random Hacks of Kindness (logo)" src="//chester.me/wp-content/uploads/2010/06/rhok.png" alt="" width="397" height="40" /></a>
+  <a href="http://www.rhok.org/"><img class="size-full wp-image-4023 aligncenter" style="margin-top: 4px; margin-bottom: 4px;" title="Random Hacks of Kindness (logo)" src="/wp-content/uploads/2010/06/rhok.png" alt="" width="397" height="40" /></a>
 </p>
 
  [1]: https://github.com/danicuki/urbanfact

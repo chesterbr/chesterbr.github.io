@@ -7,7 +7,7 @@ dsq_thread_id:
   - 1752884894
 categories:
 ---
-<img class=" right alignright" style="border: 1px solid black;" title="Phoebe (Senta Moses)" src="//chester.me/img/blig/phoebe.jpg" alt="Phoebe (Senta Moses)" width="300" height="200" />Saudosismo não é comigo (tenho memória de peixe e uma imensa vontade de viver o agora), mas certas paixões do passado acabam voltando (especialmente quando do presente não ajudam).
+<img class=" right alignright" style="border: 1px solid black;" title="Phoebe (Senta Moses)" src="/img/blig/phoebe.jpg" alt="Phoebe (Senta Moses)" width="300" height="200" />Saudosismo não é comigo (tenho memória de peixe e uma imensa vontade de viver o agora), mas certas paixões do passado acabam voltando (especialmente quando do presente não ajudam).
 
 Uma delas é a Phoebe (Senta Moses), a terceira assistente feminina de O Mundo de Beakman, sobre quem achei aqui algumas coisas bacanas na versão original deste post, mas o fechamento do Geocities mandou todos os links pro além. De qualquer forma, basta buscar [fotos da Senta Moses no Google][1] ou visitar o [site pessoal dela][2] e vai dar pra entender do que eu estou falando.
 

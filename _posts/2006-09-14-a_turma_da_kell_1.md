@@ -13,7 +13,7 @@ categories:
 Uma coisa legal da repercussão do [Golpe][1] foi que eu acabei visitando vários blogs e sites bacanas. Um deles me levou até [A Turma da Kelly][2], um *webcomic* nacional que me impressionou por abordar temas-tabu como homossexualismo, uso de maconha e ateísmo como eu acho que devem ser tratados, i.e., como parte do dia-a-dia de muita gente por aí, sem hipérboles nem preâmbulos. Coisas que as pessoas são, coisas que as pessoas fazem, ponto.
 
 <center>
-  <img title="Trecho de um episódio de Turma da Kelly, onde Lucio, o ateu até a morte (meu personagem favorito até agora) brinca com o perigo" src="//chester.me/archives/img/turmadakelly.png" width="660" height="229" />
+  <img title="Trecho de um episódio de Turma da Kelly, onde Lucio, o ateu até a morte (meu personagem favorito até agora) brinca com o perigo" src="/archives/img/turmadakelly.png" width="660" height="229" />
 </center>
 
 
@@ -25,6 +25,6 @@ Curiosidade: o autor ([Alenômio][3]) é de Birigüi (alguém mais lembrou de [C
  [1]: http://www.stoneagescanners.com/golpe
  [2]: http://alenonimo.com.br/kelly/
  [3]: http://alenonimo.com.br/eu/
- [4]: //chester.me/200305.html#post_3358298
+ [4]: /200305.html#post_3358298
  [5]: http://pt.wikipedia.org/wiki/Turma_da_Tina
- [6]: //chester.me/archives/2005/05/wapsi_square.html
+ [6]: /archives/2005/05/wapsi_square.html

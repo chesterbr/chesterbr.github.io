@@ -18,7 +18,7 @@ O ocorrido é inequívoco: há [depoimentos no Orkut][4], [vídeo no YouTube][5]
 
 Fosse apenas o sindicato reagindo dessa forma, eu já acharia uma barbárie, mas não estaria tão perplexo. Ter alunos agindo exatamente como a PM que tanto criticaram é triste. É sinal de que os pró-greve se prestam cada dia mais ao papel de que são acusados, isto é, de massa de manobra dos sindicalistas. É um comportamento burro, dogmático e inaceitável naqueles que estão se preparando para compor a tal &#8220;elite intelectual&#8221; do país. Lastimável, lastimável.
 
- [1]: //chester.me/archives/2009/06/os_movimentos_e_a_usp.html
+ [1]: /archives/2009/06/os_movimentos_e_a_usp.html
  [2]: http://greveuspresultado.dnsalias.com/
  [3]: http://search.twitter.com/search?q=flash+mob+greve+usp
  [4]: http://www.orkut.com.br/Main#CommMsgs.aspx?cmm=35362&#038;tid=5349161641509978921&#038;start=1

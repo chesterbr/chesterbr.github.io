@@ -5,7 +5,7 @@ comments: true
 permalink: /archives/2003/05/mr-t-versus-a-rapa.html/
 categories:
 ---
-<img class="alignright size-full wp-image-4401" title="mrt" src="//chester.me/wp-content/uploads/2003/05/mrt.jpg" alt="Mr. T" width="289" height="362" />Eu passei anos acreditando que &#8220;Mr. T versus &#8230;&#8221; era o assunto freak mais conhecido da Internet. Só que sempre que eu comento me perguntam o que diabos é isso. Então lá vai:
+<img class="alignright size-full wp-image-4401" title="mrt" src="/wp-content/uploads/2003/05/mrt.jpg" alt="Mr. T" width="289" height="362" />Eu passei anos acreditando que &#8220;Mr. T versus &#8230;&#8221; era o assunto freak mais conhecido da Internet. Só que sempre que eu comento me perguntam o que diabos é isso. Então lá vai:
 
 O Mr. T é a figuraça aí do lado. Ele se popularizou nos anos 80 com o seriado *Esquadrão Classe A* (*A-Team*), chegando a ter seu próprio seriado, além de um desenho animado. Em todos eles, o Mr. T era o cara durão (&#8220;helluva tough&#8221;), mas do bem (&#8220;milk is good&#8221;).
 

@@ -14,7 +14,7 @@ categories:
 
 **SOLUTION:** <del>[3mindme][3] is a minimalistic and efficient replacement created and mantained by [David Barrett][4]. You can send/forward email to <date>@3mindme.com (e.g., 3days@3mindme.com) and it will bounce back at the specified time. No calendar and other Sandy frills, but it fills the gap of a &#8220;snooze&#8221; button at your inbox</del>.
 
-**NEW SOLUTION:** 3mindme also went belly up, so I'm currently using [NudgeMail](//chester.me/archives/2008/10/i_want_sandy_an.html/). It'the same thing: you send/forward e-mail to things like saturday@nudgemail.com or tomorrow5pm@nudgemail.com and it comes back to you. They are on a free beta right now and promise to continue having a free version once they get out of beta phase.
+**NEW SOLUTION:** 3mindme also went belly up, so I'm currently using [NudgeMail](/archives/2008/10/i_want_sandy_an.html/). It'the same thing: you send/forward e-mail to things like saturday@nudgemail.com or tomorrow5pm@nudgemail.com and it comes back to you. They are on a free beta right now and promise to continue having a free version once they get out of beta phase.
 
 * * *
 

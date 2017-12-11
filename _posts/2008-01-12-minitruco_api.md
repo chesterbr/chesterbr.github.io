@@ -13,7 +13,7 @@ dsq_thread_id:
 categories:
   - Portfolio
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="multiplayer miniTruco running on a J2ME emulator" src="//chester.me/archives/img/mt_multiplayer.jpg" width="250" height="222" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>[miniTruco][1] is an implementation of the [Brazilian Truco card game][2] (also known as Truco Paulista or Truco Mineiro) for Java-enabled cellphones.
+<span class="mt-enclosure mt-enclosure-image"><img title="multiplayer miniTruco running on a J2ME emulator" src="/archives/img/mt_multiplayer.jpg" width="250" height="222" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>[miniTruco][1] is an implementation of the [Brazilian Truco card game][2] (also known as Truco Paulista or Truco Mineiro) for Java-enabled cellphones.
 
 One of its features is its multiplayer ability over the Internet. That is done by having a server software that hosts the games, and this server has a (somewhat) well-defined API that allows clients to connect to it.
 
@@ -134,7 +134,7 @@ When you have any sort of working implementation, please [let everyone know][7].
 
 **UPDATE**: As of April 29, 2008, the server sends an empty notification after a few seconds of inactivity. Clients were already expected to ignore those empty lines (but I did not state that explicilty here, so now I am). This is done to test for conneciton inactivity (I was just relying on socket status, but TCP/IP can be a bit sensitive &#8211; that, coupled to Java&#8217;s layered socket approach led to an endless block even after a mobile had disconnected, so I resorted to timeouts on blocks, coupled with the empty notification, which seems to solve the problem).
 
- [1]: //chester.me/minitruco_en/
+ [1]: /minitruco_en/
  [2]: http://en.wikipedia.org/wiki/Truco#Truco_in_Brazil
  [3]: http://java.sun.com/j2se/1.5.0/docs/api/java/io/BufferedReader.html#readLine()
  [4]: http://www.java.com/download/java/

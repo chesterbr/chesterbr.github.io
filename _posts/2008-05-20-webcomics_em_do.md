@@ -17,7 +17,7 @@ Excelente início de semana para webcomics: não apenas Rene Engström retomou a
 Aproveitando para confirmar a quem me perguntou: sim, Rene é uma moça, apesar do nome sugerir um mancebo. Você pode vê-la no [vídeo que mostra a vizinhança][4] na qual se passa Anders Loves Maria e conhecer mais sobre ela no seu [LiveJournal][5] (uma ferramenta que se justifica quando alguém genuinamente interessante usa &#8211; gente que faz algo [assim][6]).
 
  [1]: http://anderslovesmaria.reneengstrom.com/
- [2]: //chester.me/archives/2008/05/anders_loves_ma.html
+ [2]: /archives/2008/05/anders_loves_ma.html
  [3]: http://wastedtalent.ca
  [4]: http://www.youtube.com/watch?v=7_zDQlSVkT0
  [5]: http://eggstorm.livejournal.com/

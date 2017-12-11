@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2007/03/idiocracy.html/
 categories:
 ---
-<img title="Cena de Idiocracy onde uma profissional da área de saúde usa a tecnologia para fazer um diagnóstico" src="//chester.me/archives/img/idiocracy.jpg" width="250" height="131" align="right" border="1" style="margin-left:2px" />Idiocracy já vale pela [introdução][1], que compara a árvore genealógica de um casal de indivíduos inteligentes (praticantes do planejamento familiar) com a de um par mais obtuso (que se reproduz como coelhos). A idéia é que, à medida em que a raça humana não está mais sujeita a predadores naturais, a evolução favorece este último perfil.
+<img title="Cena de Idiocracy onde uma profissional da área de saúde usa a tecnologia para fazer um diagnóstico" src="/archives/img/idiocracy.jpg" width="250" height="131" align="right" border="1" style="margin-left:2px" />Idiocracy já vale pela [introdução][1], que compara a árvore genealógica de um casal de indivíduos inteligentes (praticantes do planejamento familiar) com a de um par mais obtuso (que se reproduz como coelhos). A idéia é que, à medida em que a raça humana não está mais sujeita a predadores naturais, a evolução favorece este último perfil.
 
 Posto isso, imagine o que acontece quando Joe, um cidadão absolutamente mediano, é congelado nos nossos dias e acorda nos EUA de 2500 &#8211; uma nação na qual o programa de TV mais popular é o [Ow My Balls][2] e os serviços públicos se deterioram porque ninguém sabe mais como funciona nada &#8211; e ninguém liga.
 

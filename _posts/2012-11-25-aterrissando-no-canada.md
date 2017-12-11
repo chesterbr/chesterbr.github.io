@@ -6,12 +6,12 @@ permalink: /archives/2012/11/aterrissando-no-canada.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2012/11/canada_parachute.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2012/11/canada_parachute.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751448219
 categories:
 ---
-[<img class="alignright size-full wp-image-7294" style="padding: 0px; border: 1px solid black !important;" title="Foto Original por Deaf Dude (clique para ver)" src="//chester.me/wp-content/uploads/2012/11/canada_parachute.jpg" alt="Foto Original por Deaf Dude (clique para ver)" width="300" height="323" />][1]Mudar de país envolve um monte de pequenos detalhes. Assim como fiz no [post sobre o processo do visto de trabalho][2], estou colocando neste os passos que dei ao chegar no Canadá até me considerar estabelecido: tirar documentos, abrir conta em banco, arrumar uma casa e coisas do gênero.
+[<img class="alignright size-full wp-image-7294" style="padding: 0px; border: 1px solid black !important;" title="Foto Original por Deaf Dude (clique para ver)" src="/wp-content/uploads/2012/11/canada_parachute.jpg" alt="Foto Original por Deaf Dude (clique para ver)" width="300" height="323" />][1]Mudar de país envolve um monte de pequenos detalhes. Assim como fiz no [post sobre o processo do visto de trabalho][2], estou colocando neste os passos que dei ao chegar no Canadá até me considerar estabelecido: tirar documentos, abrir conta em banco, arrumar uma casa e coisas do gênero.
 
 Novamente vale avisar: esta informação **não é oficial**. Muito só se aplica a [temporary workers][3], ou só a quem vem pra Toronto, ou só pra quem é o Chester. Minha intenção é das melhores, mas você tem que avaliar as diferenças do seu caso e sempre [procurar][4] a** informação oficial e atualizada**.
 
@@ -76,7 +76,7 @@ Como sempre, o governo vai te dar uma ajuda: o [Health Care Connect][22] é um p
 *OBS. 2: Acredito que este post cobre tudo o que eu fiz até me considerar &#8220;instalado&#8221; aqui, mas pode ser atualizado caso eu lembre/faça mais algo nesse sentido.*
 
  [1]: http://www.flickr.com/photos/the_bally/88840884/
- [2]: //chester.me/archives/2012/09/a-saga-do-visto-de-trabalho-canadense.html
+ [2]: /archives/2012/09/a-saga-do-visto-de-trabalho-canadense.html
  [3]: http://www.canadainternational.gc.ca/france/visas/work-other_travailler-autre.aspx?view=d
  [4]: http://www.google.com
  [5]: http://www.hrsdc.gc.ca/eng/workplaceskills/foreign_workers/ei_tfw/lmi_tfw.shtml
@@ -93,7 +93,7 @@ Como sempre, o governo vai te dar uma ajuda: o [Health Care Connect][22] é um p
  [16]: http://www.ikea.com/us/en/catalog/products/60196103/
  [17]: http://www.ontario.ca/government/ontario-photo-card
  [18]: http://www.ontario.ca/welcome-serviceontario
- [19]: //chester.me/archives/2010/03/coisas-que-irritam-um-motorista.html
+ [19]: /archives/2010/03/coisas-que-irritam-um-motorista.html
  [20]: https://www.services.gov.on.ca/locations/start.do
  [21]: http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?openform&ENV=WWE&NO=014-9998E-82
  [22]: http://www.health.gov.on.ca/en/ms/healthcareconnect/public/

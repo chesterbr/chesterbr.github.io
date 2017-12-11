@@ -9,7 +9,7 @@ dsq_thread_id:
   - 1751448119
 categories:
 ---
-[<img class="alignright size-full wp-image-7369" alt="marvel_unlimited_logo" src="//chester.me/wp-content/uploads/2013/03/marvel_unlimited_logo.png" width="243" height="243" />][1]I&#8217;m **very** excited with this: at last a publisher launched a tablet-friendly, fixed-price digital comics service. For a monthly fee of $10 (or an yearly $60), [Marvel Unlimited][2] gives you access to a library of 13,000 comic books, both on computers and on iOS devices (with Android coming soon), just like Netflix or Hulu!
+[<img class="alignright size-full wp-image-7369" alt="marvel_unlimited_logo" src="/wp-content/uploads/2013/03/marvel_unlimited_logo.png" width="243" height="243" />][1]I&#8217;m **very** excited with this: at last a publisher launched a tablet-friendly, fixed-price digital comics service. For a monthly fee of $10 (or an yearly $60), [Marvel Unlimited][2] gives you access to a library of 13,000 comic books, both on computers and on iOS devices (with Android coming soon), just like Netflix or Hulu!
 
 Imagine reading Secret Wars (I and II), House of M, Muttant Massacre and another couple arcs, all on a single day if it fancies you, for no extra fee. I&#8217;ve jumped into the yearly subscription (before they change their mind on the 50% discount), and my first impression after browsing the library and reading a few books is quite positive.
 
@@ -25,7 +25,7 @@ Granted, 13,000 issues with the 6-month delay and 6-issue offline cap is far fro
 
 Overall, this will be a weekend to remember, since I intend to spend it read comics until my eyes pop out. Life is good.
 
- [1]: //chester.me/wp-content/uploads/2013/03/marvel_unlimited_logo.png
+ [1]: /wp-content/uploads/2013/03/marvel_unlimited_logo.png
  [2]: https://marvel.com/comics/unlimited
  [3]: http://www.comixology.com
  [4]: http://www.defectivebydesign.org/what_is_drm_digital_restrictions_management

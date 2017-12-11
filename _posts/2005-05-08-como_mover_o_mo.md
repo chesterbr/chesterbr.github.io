@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2005/05/como_mover_o_mo.html/
 categories:
 ---
-<img title="Capa de 'Como Mover o Monte Fuji'" src="//chester.me/archives/img/montefuji.jpg" width="130" height="130" align="left" />Me deparei por acaso com [Como Mover o Monte Fuji][1], livro [recomendado][2] por Joel Spolsky, e que não sabia existir em português. O tema são os famosos quebra-cabeças de entrevista &#8211; cosutmeiramente atribuídos à Microsoft, mas usados na prática por uma boa parcela das empresas da era pontocom na sua declarada (embora nem sempre sincera) busca pelos melhores talentos.
+<img title="Capa de 'Como Mover o Monte Fuji'" src="/archives/img/montefuji.jpg" width="130" height="130" align="left" />Me deparei por acaso com [Como Mover o Monte Fuji][1], livro [recomendado][2] por Joel Spolsky, e que não sabia existir em português. O tema são os famosos quebra-cabeças de entrevista &#8211; cosutmeiramente atribuídos à Microsoft, mas usados na prática por uma boa parcela das empresas da era pontocom na sua declarada (embora nem sempre sincera) busca pelos melhores talentos.
 
 Sem se restringir ao lugar-comum de catalogar os quebra-cabeças (até porque existem [sites bons][3] que fazem isso), o livro procura estudar os objetivos das empresas que usam esse tipo de testes, determinando tanto as potencialidades quanto as limitações do método.
 

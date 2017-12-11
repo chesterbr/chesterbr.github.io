@@ -4,7 +4,7 @@ layout: post
 comments: true
 permalink: /archives/2010/06/cruzalinhas.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/06/cruzalinhas_tela.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/06/cruzalinhas_tela.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751447629
 categories:
@@ -19,7 +19,7 @@ Misturando essa demanda com um desejo de colocar as informações de itinerário
 Como de costume, o [código-fonte][5] é livre ([licença MIT][6]), e esse post vai falar um pouco sobre o funcionamento do mesmo.
 
 <p style="text-align: center;">
-  <a href="http://cruzalinhas.com"><img class="size-full wp-image-4012  aligncenter" style="border: 1px solid black;" title="cruzalinhas" src="//chester.me/wp-content/uploads/2010/06/cruzalinhas_tela.png" alt="cruzalinhas" width="350" height="164" /></a>
+  <a href="http://cruzalinhas.com"><img class="size-full wp-image-4012  aligncenter" style="border: 1px solid black;" title="cruzalinhas" src="/wp-content/uploads/2010/06/cruzalinhas_tela.png" alt="cruzalinhas" width="350" height="164" /></a>
 </p>
 
 <!--more-->O back-end da aplicação é escrito em [Python][7] e hospedado no [Google App Engine][8]. Ele disponibiliza um par de chamadas [AJAX][9]/[JSON][10] para o front-end: uma página HTML que usa o JQuery para acessar tanto esse back-end quanto a [API do Google Maps][11] (usada para desenhar os mapas/trajetos e buscar endereços).

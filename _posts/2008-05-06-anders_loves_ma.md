@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2008/05/anders_loves_ma.html/
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="Cena de Anders Loves Maria, por Rene Engström" src="//chester.me/archives/img/2008-02-07.png" width="192" height="287" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Este deveria ser um artigo a respeito de [Anders Loves Maria][1], um webcomic que trabalha o universo dos &#8220;jovens adultos&#8221; através das relações pouco usuais entre os personagens-título e o elenco de apoio, tudo isso apoiado em uma arte que consegue ser experimental sem perder a consistência e a qualidade.
+<span class="mt-enclosure mt-enclosure-image"><img title="Cena de Anders Loves Maria, por Rene Engström" src="/archives/img/2008-02-07.png" width="192" height="287" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Este deveria ser um artigo a respeito de [Anders Loves Maria][1], um webcomic que trabalha o universo dos &#8220;jovens adultos&#8221; através das relações pouco usuais entre os personagens-título e o elenco de apoio, tudo isso apoiado em uma arte que consegue ser experimental sem perder a consistência e a qualidade.
 
 Infelizmente, o motivador é outro: após [mais de 150 episódios][2], a autora Rene Engström (que diz em [entrevista][3] produzi-los originalmente no idioma sueco, traduzindo para o inglês logo em seguida) decidiu suspender a publicação porque um indivíduo não-identificado começou a persegui-la pelo telefone.
 

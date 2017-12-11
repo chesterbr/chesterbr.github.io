@@ -4,7 +4,7 @@ layout: post
 comments: true
 permalink: /archives/2009/11/a-linguagem-mais-importante-para-um-programador.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2009/11/HamletSkullHCSealous.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2009/11/HamletSkullHCSealous.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751444586
 categories:
@@ -15,7 +15,7 @@ Os veteranos costumam responder a essa pergunta vendendo suas linguagens predile
 
 No entanto, a resposta que eu costumo dar (e que, por distração, não usei no programa) é &#8220;inglês&#8221;.
 
-<img class="size-full wp-image-3510 left alignleft" style="border: 1px solid black;margin-right: 8px" src="//chester.me/wp-content/uploads/2009/11/HamletSkullHCSealous.jpg" alt="O idioma de Shakespeare é indispensável." width="200" height="194" />Pode parecer que falo isso porque trabalho com muitas empresas/pessoas de fora, mas não é verdade: o campo está em constante atualização, e as novidades relevantes quase sempre começam neste idioma, independente do país de origem.
+<img class="size-full wp-image-3510 left alignleft" style="border: 1px solid black;margin-right: 8px" src="/wp-content/uploads/2009/11/HamletSkullHCSealous.jpg" alt="O idioma de Shakespeare é indispensável." width="200" height="194" />Pode parecer que falo isso porque trabalho com muitas empresas/pessoas de fora, mas não é verdade: o campo está em constante atualização, e as novidades relevantes quase sempre começam neste idioma, independente do país de origem.
 
 Não ler inglês é ter que esperar pelas traduções; não escrever inglês é não participar. Pouco importa se você quer colaborar ou apenas consultar, os assuntos mais &#8220;enroscados&#8221; vão exigir alguma familiaridade com este idioma.
 

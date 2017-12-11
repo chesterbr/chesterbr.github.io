@@ -4,12 +4,12 @@ layout: post
 comments: true
 permalink: /archives/2010/12/scroogenomics-a-economia-dos-presentes.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/12/scroogenomics.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/12/scroogenomics.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751441315
 categories:
 ---
-<img class="alignleft size-full wp-image-5683" title="scroogenomics" src="//chester.me/wp-content/uploads/2010/12/scroogenomics.jpg" alt="" width="160" height="240" />Um livro cujo título junta *Economics* (economia) e *Scrooge* (personagem avarento do [conto de Dickens][1], que também foi homenageado por Carl Barks ao nomear o [Tio Patinhas][2] &#8211; *Uncle Scrooge* no original), pode parecer mal-intencionado. Mas não é: o objetivo de [Scroogenomics][3] é mostrar que a compra desenfreada de presentes no natal não é exatamente a oitava maravilha para a economia nacional ou global &#8211; ao contrário do que o senso comum (compras ⇒ aquecimento econômico) possa sugerir.
+<img class="alignleft size-full wp-image-5683" title="scroogenomics" src="/wp-content/uploads/2010/12/scroogenomics.jpg" alt="" width="160" height="240" />Um livro cujo título junta *Economics* (economia) e *Scrooge* (personagem avarento do [conto de Dickens][1], que também foi homenageado por Carl Barks ao nomear o [Tio Patinhas][2] &#8211; *Uncle Scrooge* no original), pode parecer mal-intencionado. Mas não é: o objetivo de [Scroogenomics][3] é mostrar que a compra desenfreada de presentes no natal não é exatamente a oitava maravilha para a economia nacional ou global &#8211; ao contrário do que o senso comum (compras ⇒ aquecimento econômico) possa sugerir.
 
 A idéia central é que quando eu pago, digamos, R$ 50 por uma mercadoria, é porque considero que aquilo vale (em termos de satisfação, utilidade ou qualquer critério de valor) pelo menos aqueles R$ 50. Se eu toparia pagar, digamos, R$ 70 por essa mercadoria (caso não a achasse por R$ 50), criou-se valor nesta compra. Em contrapartida: se você gastou R$ 50 para me dar um presente, mas é algo pelo que eu não pagaria mais de R$ 40, o seu ato de boa-vontade destruiu R$ 10 de riqueza dentro da nossa economia.
 
@@ -26,6 +26,6 @@ Mesmo que você não considere esse tipo de iniciativa, ainda é interessante ap
  [3]: http://press.princeton.edu/titles/8972.html
  [4]: http://pt.wikipedia.org/wiki/Nova_economia_cl%C3%A1ssica
  [5]: http://kiva.org
- [6]: //chester.me/archives/2008/09/kiva.html
+ [6]: /archives/2008/09/kiva.html
  [7]: http://www.kiva.org/gifts
- [8]: //chester.me/lojinha
+ [8]: /lojinha

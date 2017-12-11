@@ -5,7 +5,7 @@ comments: true
 permalink: /archives/2002/07/manga-made-in-brazil.html/
 categories:
 ---
-<img src='//chester.me/img/blig/oiran.jpg' align="left" border=2 hspace=2>Sempre que algum personagem ligado direta ou indiretamente a histórias em quadrinhos faz sucesso com o público infantil (leia-se: público ultra-consumidor), há um reflexo positivo no mercado de HQ. No caso de Dragonball, uma quantidade enorme de lançamentos de mangás que se viabilizou em grande parte graças ao sucesso do desenho animado e de seus produtos associados (ok, também ajudou o fato de os editores perceberem que podiam baratear bastante o produto final mantendo-o em preto-e-branco e na diagramação original).
+<img src='/img/blig/oiran.jpg' align="left" border=2 hspace=2>Sempre que algum personagem ligado direta ou indiretamente a histórias em quadrinhos faz sucesso com o público infantil (leia-se: público ultra-consumidor), há um reflexo positivo no mercado de HQ. No caso de Dragonball, uma quantidade enorme de lançamentos de mangás que se viabilizou em grande parte graças ao sucesso do desenho animado e de seus produtos associados (ok, também ajudou o fato de os editores perceberem que podiam baratear bastante o produto final mantendo-o em preto-e-branco e na diagramação original).
 
 O que me chama a atenção é que, mesmo a molecada já indo procurar outra coisa para assombrar os bolsos de seus pais, o mercado de mangá parece estar com fôlego total &#8211; a um ponto que surgem coisas como Oiran: uma revista feita totalmente no Brasil, mas no estilo japonês (mangá).
 

@@ -11,7 +11,7 @@ onswipe_thumb:
 
     O processo começa com a abertura de um <a href="http://desenvolvedores.vivo.com.br/user-registration-by-role">cadastro</a> e leitura da <a href="http://desenvolvedores.vivo.com.br/tools/document-library/technical-documents-and-guides">documentação das APIs</a> - que são chamadas externamente (ou seja, seu aplicativo não roda no celular, e sim no seu próprio servidor), e consistem no envio de SMS, MMS e <a href="http://en.wikipedia.org/wiki/Wireless_Application_Protocol#WAP_Push">WAP Push</a> (que é, grosso modo, o envio de um link para um conteúdo WAP) através de uma API REST (que cheira a SOAP com uma capinha REST por cima, apesar de contar com conversão implícita de JSON), com <a href="http://desenvolvedores.vivo.com.br/tools/network-enablers/sdk">bibliotecas prontas para PHP, Java e .Net</a> - mas, claro sendo REST, qualquer linguagem vale.
 
-    Pode parecer pobre em comparação, digamos, com apps iPhone, mas aplicações baseadas em SMS rodam até mesmo nos celulares mais modestos - eu lembro que, quando vi um pager pela primeira vez, minha primeira reação foi "cara, eu muito faria um <a href="//chester.me/archives/2006/06/a_busca_de_epam.html">adventure de texto</a> rolando nessa parada". De repente um <a href="//chester.me/minitruco">miniTruco</a> baseado em SMS... idéias mil.
+    Pode parecer pobre em comparação, digamos, com apps iPhone, mas aplicações baseadas em SMS rodam até mesmo nos celulares mais modestos - eu lembro que, quando vi um pager pela primeira vez, minha primeira reação foi "cara, eu muito faria um <a href="/archives/2006/06/a_busca_de_epam.html">adventure de texto</a> rolando nessa parada". De repente um <a href="/minitruco">miniTruco</a> baseado em SMS... idéias mil.
 
     Dei uma olhada na biblioteca Java. Ela é empacotada de maneira, digamos, pouco carinhosa (ex.: inclui o <a href="http://hc.apache.org/httpclient-3.x/">Jakarta Commons HttpClient</a> como código-fonte, misturado com o código da API - provavelmente foi gerada por alguma ferramenta) e abre com um caminhão de issues no Eclipse. O mérito é que vem com uns exemplos (bem básicos) de uso, e os issues devem ser coisa fácil de resolver (depois eu vejo com calma).
 
@@ -30,7 +30,7 @@ dsq_thread_id:
   - 1751447464
 categories:
 ---
-<img src="//chester.me/wp-content/uploads/2010/01/vivo_grana1.png" alt="Show me the money!" width="85" height="75" class="alignright right size-full wp-image-3589" />Parece que ontem a operadora de telefonia móvel Vivo [apresentou][1] no Campus Party sua plataforma de desenvolvimento de aplicativos para celulares &#8211; apresentação que infelizmente eu perdi por causa de trabalho e *[tchuva][2]*.
+<img src="/wp-content/uploads/2010/01/vivo_grana1.png" alt="Show me the money!" width="85" height="75" class="alignright right size-full wp-image-3589" />Parece que ontem a operadora de telefonia móvel Vivo [apresentou][1] no Campus Party sua plataforma de desenvolvimento de aplicativos para celulares &#8211; apresentação que infelizmente eu perdi por causa de trabalho e *[tchuva][2]*.
 
 A [notícia][3] (TI Inside) me deixou salivando: potencialmente a coisa permitiria publicar apps sem o envolvimento de terceiros (como na App Store), mas cobrando direto na conta telefônica &#8211; só isso já merece alguma consideração.
 
@@ -58,8 +58,8 @@ Espero que as pessoas que foram à apresentação tenhma perguntado essas coisas
  [5]: http://desenvolvedores.vivo.com.br/tools/document-library/technical-documents-and-guides
  [6]: http://en.wikipedia.org/wiki/Wireless_Application_Protocol#WAP_Push
  [7]: http://desenvolvedores.vivo.com.br/tools/network-enablers/sdk
- [8]: //chester.me/archives/2006/06/a_busca_de_epam.html
- [9]: //chester.me/minitruco
+ [8]: /archives/2006/06/a_busca_de_epam.html
+ [9]: /minitruco
  [10]: http://hc.apache.org/httpclient-3.x/
  [11]: http://desenvolvedores.vivo.com.br/business-model
  [12]: http://desenvolvedores.vivo.com.br/forum

@@ -30,7 +30,7 @@ There is still a lot to fix (such as [automating minification/joining of scripts
 [3]: http://octopress.org/
 [4]: http://git-scm.com/
 [5]: http://daringfireball.net/projects/markdown/syntax
-[6]: //chester.me/blog/archives/
+[6]: /blog/archives/
 [7]: https://github.com/benbalter/wordpress-to-jekyll-exporter
 [8]: http://www.lukaszielinski.de/blog/posts/2013/01/28/twitter-cards-and-open-graph-metatags-in-octopress/
 [9]: http://opthemes.com/

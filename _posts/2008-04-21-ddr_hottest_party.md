@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751442144
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="Caixa do Dance Dance Revolution: Hottest Party, para o Nintendo Wii" src="//chester.me/archives/img/ddrhottestparty.jpg" width="190" height="267" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>A última coisa que eu esperava era ver um jogo da [série DDR][1] no Nintendo Wii. Mas parando para pensar, os dois têm tudo a ver: o Wii se caracteriza por um controle pouco usual e por colocar a jogabilidade acima dos gráficos &#8211; e isso descreve bem o DDR (para quem não conhece, é aquela série de jogos em que você tem que pisar num tapete ou base de metal seguindo coreografia na tela, sempre em sincronia com a música que está tocando).
+<span class="mt-enclosure mt-enclosure-image"><img title="Caixa do Dance Dance Revolution: Hottest Party, para o Nintendo Wii" src="/archives/img/ddrhottestparty.jpg" width="190" height="267" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>A última coisa que eu esperava era ver um jogo da [série DDR][1] no Nintendo Wii. Mas parando para pensar, os dois têm tudo a ver: o Wii se caracteriza por um controle pouco usual e por colocar a jogabilidade acima dos gráficos &#8211; e isso descreve bem o DDR (para quem não conhece, é aquela série de jogos em que você tem que pisar num tapete ou base de metal seguindo coreografia na tela, sempre em sincronia com a música que está tocando).
 
 Os caras da Konami perceberam isso e lançaram o [DDR Hottest Party][2] para o Wii &#8211; e eu, que nem Wii tenho, acabei comprando o jogo e pegando um console emprestado. Uma das grandes novidades é que, além do tapete, você joga com o controle do Wii. Marcadores especiais (*hand markers*) dizem quando você deve mexer a mão direita (que segura o Wiimote) ou a esquerda (que segura o Numchuck).
 
@@ -40,4 +40,4 @@ Tirando isso, é um jogaço. Seguem o teaser oficial e um cara dancando na E3, s
  [7]: http://en.wikipedia.org/wiki/The_Karate_Kid
  [8]: http://www.gamesny.com/index.php?p=product&#038;id=826&#038;parent=103
  [9]: http://store.gameasylum.us/gaddraduanyp.html
- [10]: //chester.me/ignition.html
+ [10]: /ignition.html

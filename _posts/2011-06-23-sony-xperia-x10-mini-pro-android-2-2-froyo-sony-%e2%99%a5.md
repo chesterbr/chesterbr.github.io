@@ -6,7 +6,7 @@ permalink: /archives/2011/06/sony-xperia-x10-mini-pro-android-2-2-froyo-sony-%e2
 robotsmeta:
   - index,follow
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2011/06/froyo_cyanogen_x10_mini_pro.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/06/froyo_cyanogen_x10_mini_pro.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751448069
 categories:
@@ -15,7 +15,7 @@ categories:
   Estou <b>vendendo</b> meu X10 Mini Pro (com o update 2.3 instalado)<br />clique na <a href="/lojinha">lojinha</a> e veja mais detalhes
 </div>
 
-[<img class="alignleft size-full wp-image-6043" title="Animação do boot do Froyo. Hit the road, Sony Ericsson!" src="//chester.me/wp-content/uploads/2011/06/froyo_cyanogen_x10_mini_pro.jpg" alt="Animação do boot do Froyo. Hit the road, Sony Ericsson!" width="200" height="200" />][1]*Este post falava originalmente de um upgrade para o Android 2.2 (que continua válido), mas já consegui atualizar o celular para o 2.3, daí a mudança no título. Pule para o [final][2] para obter os links para 2.3.*
+[<img class="alignleft size-full wp-image-6043" title="Animação do boot do Froyo. Hit the road, Sony Ericsson!" src="/wp-content/uploads/2011/06/froyo_cyanogen_x10_mini_pro.jpg" alt="Animação do boot do Froyo. Hit the road, Sony Ericsson!" width="200" height="200" />][1]*Este post falava originalmente de um upgrade para o Android 2.2 (que continua válido), mas já consegui atualizar o celular para o 2.3, daí a mudança no título. Pule para o [final][2] para obter os links para 2.3.*
 
 Demorou, mas finalmente rolou: um programador ([slade87][3]) juntou código dele com o [MiniCM][4] (baseada no [CyanogenMod][5]) e conseguiu gerar uma versão do Android 2.2 (conhecido como &#8220;Froyo&#8221;) que funciona no X10 Mini Pro. Um amigo me [avisou][6] da existência de um [tutorial em português][7] escrito pelo [NightCrawler][8], e foi o que eu segui.
 
@@ -37,7 +37,7 @@ Dentre os &#8220;brindes&#8221; que o firmware customizado oferece estão opçõ
 
 <a name="minicm"></a>**UPDATE 3 (MiniCM)**: Pouco antes do final de 2011 saiu o MiniCM7, outro firmware para o X10 Mini Pro customizado a partir do CyanogenMod 7 (e, portanto, Android 2.3). Ele promete mais estabilidade e performance, e, como sempre, tem a [receita de bolo para instalar][21] no xda-developers. O catch: para ser instalada, ela exige a troca do kernel Linux por um customizado (o [nAa][22]), e a instalação deste, por sua vez, pede o [unlock do bootloader][22] (além do root do celular que as outras pediam). É uma operação com uma bela possibilidade de tijolar o celular &#8211; eu só fiz porque estava em um delírio de insônia. Vamos ver se melhora algo.
 
- [1]: //chester.me/wp-content/uploads/2011/06/froyo_cyanogen_x10_mini_pro.jpg
+ [1]: /wp-content/uploads/2011/06/froyo_cyanogen_x10_mini_pro.jpg
  [2]: #gingerbread
  [3]: http://forum.xda-developers.com/member.php?u=3261285
  [4]: http://code.google.com/p/minicm/

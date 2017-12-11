@@ -13,5 +13,5 @@ Como ninguém lembra mesmo do desenho, lá vai uma &#8220;foto&#8221; do Chester
 
 Lembrou? Ainda não? Então vá ao [Toonarific Cartoon Archive][2], lá tem fotos de personagens mais expressivos e uma pilha de informações. Site bacaninha.
 
- [1]: //chester.me/img/blig/beverlyhillsteens7.jpg
+ [1]: /img/blig/beverlyhillsteens7.jpg
  [2]: http://www.toonarific.com/b/beverlyhillsteens-pics.html

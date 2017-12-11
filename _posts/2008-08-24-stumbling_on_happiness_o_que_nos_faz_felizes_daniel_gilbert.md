@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751449896
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="capa do Stumbling On Happiness" src="//chester.me/archives/img/stumbling_on_happiness.jpg" width="200" height="309" class="mt-image-right" style="border-style: solid; border-width: 1px; float: right; margin: 0 0 20px 20px;" /></span>[Stumbling on Happiness][1] é um dos livros mais interessantes que li este ano. O [autor][2] é professor de psicologia de Harvard, e aborda um dos temas mais espinhosos das ciências humanas: a felicidade (ou, mais especificamente: por que é tão difícil definir, encontrar ou manter por perto esse monstrinho).
+<span class="mt-enclosure mt-enclosure-image"><img title="capa do Stumbling On Happiness" src="/archives/img/stumbling_on_happiness.jpg" width="200" height="309" class="mt-image-right" style="border-style: solid; border-width: 1px; float: right; margin: 0 0 20px 20px;" /></span>[Stumbling on Happiness][1] é um dos livros mais interessantes que li este ano. O [autor][2] é professor de psicologia de Harvard, e aborda um dos temas mais espinhosos das ciências humanas: a felicidade (ou, mais especificamente: por que é tão difícil definir, encontrar ou manter por perto esse monstrinho).
 
 É difícil falar dele sem entregar o conteúdo, mas uma coisa é importante: não se deixe enganar pelo título e apresentação da [edição nacional][3] &#8211; que remetem muito à idéia de auto-ajuda (rechaçada logo nas primeiras páginas) ou, pior ainda, de pseudociência. Passa ao largo: cada afirmação do autor é baseada em pesquisas sérias (e minuciosamente referenciadas), mas sem que isso torne o texto enfadonho ou de difícil acesso para não-acadêmicos.
 
@@ -23,6 +23,6 @@ Ele conduz magistralmente o leitor por meio deste propósito, chegando até a fl
  [1]: http://www.randomhouse.com/kvpa/gilbert/index.html
  [2]: http://www.randomhouse.com/kvpa/gilbert/author.html
  [3]: http://compare.buscape.com.br/o-que-nos-faz-felizes-daniel-gilbert-8535214070.html
- [4]: //chester.me/archives/2007/02/freakonomics.html
+ [4]: /archives/2007/02/freakonomics.html
  [5]: http://www.boingboing.net/2007/04/28/stumbling-on-happine.html
  [6]: http://www.randomhouse.com/kvpa/gilbert/blog/

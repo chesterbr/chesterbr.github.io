@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751450186
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img alt="siddharta.jpg" src="//chester.me/archives/img/mt/2009/04/03/siddharta.jpg" width="100" height="169" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>[Siddharta][1] (que já teve versão em filme) é um livro de ficção, cujo protagonista-título é um jovem indiano bem-nascido, que deixa sua fortuna para tentar alcançar o conhecimento. Esta jornada se dá das mais diversas formas: desde a meditação e o contato com o próprio Buda (Gautama) até experiências com os prazeres terrenos.
+<span class="mt-enclosure mt-enclosure-image"><img alt="siddharta.jpg" src="/archives/img/mt/2009/04/03/siddharta.jpg" width="100" height="169" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>[Siddharta][1] (que já teve versão em filme) é um livro de ficção, cujo protagonista-título é um jovem indiano bem-nascido, que deixa sua fortuna para tentar alcançar o conhecimento. Esta jornada se dá das mais diversas formas: desde a meditação e o contato com o próprio Buda (Gautama) até experiências com os prazeres terrenos.
 
 É difícil falar sobre o tipo de coisa que ele aprende nesta jornada sem incorrer em *spoilers* (o que é irônico, já que a [pessoa][2] que me apresentou ele é uma ardente defensora das virtudes dos spoilers), mas basta dizer que cada uma destas experiências acrescenta ao protagonista (e ao leitor) uma nova perspectiva com relação ao caminho da iluminação.
 

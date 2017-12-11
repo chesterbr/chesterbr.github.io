@@ -7,4 +7,4 @@ dsq_thread_id:
   - 1751447375
 categories:
 ---
-<img src="//chester.me/img/blig/hulk.jpg" border=1 align="left" alt="HULK SMASHES PUZZLE">Mau português por mau português (cabe também &#8220;mau inglês&#8221;, já que os gringos não ficam atrás em escrever errado), fico com o <a href="http://incrediblehulk.blogspot.com/" >Blog do Hulk</a>. Pelo menos o Hulk esmaga.
+<img src="/img/blig/hulk.jpg" border=1 align="left" alt="HULK SMASHES PUZZLE">Mau português por mau português (cabe também &#8220;mau inglês&#8221;, já que os gringos não ficam atrás em escrever errado), fico com o <a href="http://incrediblehulk.blogspot.com/" >Blog do Hulk</a>. Pelo menos o Hulk esmaga.

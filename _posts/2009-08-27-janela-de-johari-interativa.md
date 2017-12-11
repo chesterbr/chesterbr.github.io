@@ -4,12 +4,12 @@ layout: post
 comments: true
 permalink: /archives/2009/08/janela-de-johari-interativa.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2009/08/johari.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2009/08/johari.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751018604
 categories:
 ---
-<img class="size-full wp-image-2685 alignright right" style="border: 1px solid black;" title="A Janela de Johari. Os adjetivos são dispostos nos quadrados conforme o avaliado ou seus pares vão escolhendo" src="//chester.me/wp-content/uploads/2009/08/johari.png" alt="A Janela de Johari. Os adjetivos são dispostos nos quadrados conforme o avaliado ou seus pares vão escolhendo" width="319" height="267" />
+<img class="size-full wp-image-2685 alignright right" style="border: 1px solid black;" title="A Janela de Johari. Os adjetivos são dispostos nos quadrados conforme o avaliado ou seus pares vão escolhendo" src="/wp-content/uploads/2009/08/johari.png" alt="A Janela de Johari. Os adjetivos são dispostos nos quadrados conforme o avaliado ou seus pares vão escolhendo" width="319" height="267" />
 
 A [Johari Window][1] é um instrumento de auto-avaliação interessante: ao contrário de testes como o [MBTI][2], que tentam categorizar/quantificar traços de personalidade, este foca em mensurar a percepção que a pessoa tem destas características, comparando-a com a percepção de terceiros.
 

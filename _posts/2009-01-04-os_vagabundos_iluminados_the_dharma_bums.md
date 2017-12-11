@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751450268
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="Os Vagabundos Iluminados, de Jack Kerouac" src="//chester.me/archives/img/mt/2009/01/04/vagabundos_iluminados.jpg" width="149" height="241" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>O mais perto que eu cheguei do nirvana foi ler [Os Vagabundos Iluminados][1] enquanto tomava sol e cerveja na praia, cercado de mulheres. Confesso que, por ser do mesmo autor de [Pé na Estrada][2] (que imortalizou a chamada [geração beat][3]) eu esperava algo na linha &#8220;mais do mesmo&#8221;, mas fui positivamente surpreendido.
+<span class="mt-enclosure mt-enclosure-image"><img title="Os Vagabundos Iluminados, de Jack Kerouac" src="/archives/img/mt/2009/01/04/vagabundos_iluminados.jpg" width="149" height="241" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>O mais perto que eu cheguei do nirvana foi ler [Os Vagabundos Iluminados][1] enquanto tomava sol e cerveja na praia, cercado de mulheres. Confesso que, por ser do mesmo autor de [Pé na Estrada][2] (que imortalizou a chamada [geração beat][3]) eu esperava algo na linha &#8220;mais do mesmo&#8221;, mas fui positivamente surpreendido.
 
 De fato, o livro é, como seu predecessor, um relato semi-autobiográfico (i.e., romanceado e com [nomes trocados][4], mas essencialmente calcado em experiências do autor com outros beatniks) &#8211; só que narra uma fase um pouco diferente, na qual ele e os outros personagens já estão completamente imersos nos conceitos do zen-budismo, aplicando-os ao dia-a-dia beat &#8211; bem à margem do &#8220;american way of life&#8221;.
 

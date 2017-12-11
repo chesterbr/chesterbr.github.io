@@ -4,13 +4,13 @@ layout: post
 comments: true
 permalink: /archives/2011/07/my-retweeted-tweets.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2011/07/myretweetedtweets1.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/07/myretweetedtweets1.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1754046187
 categories:
   - Portfolio
 ---
-[<img class="alignright size-full wp-image-6137" title="My Retweeted Tweets" src="//chester.me/wp-content/uploads/2011/07/myretweetedtweets1.png" alt="My Retweeted Tweets" width="88" height="285" />][1]Eu nunca me animei a colocar o [widget do Twitter][2] no blog porque meus tweets variam bastante, e nem todos são interessantes para um público mais amplo. Isso mudou quando ouvi, nos dois últimos minutos do [Nerdcast 264][3], o [Rafinha Bastos][4] confessar que:
+[<img class="alignright size-full wp-image-6137" title="My Retweeted Tweets" src="/wp-content/uploads/2011/07/myretweetedtweets1.png" alt="My Retweeted Tweets" width="88" height="285" />][1]Eu nunca me animei a colocar o [widget do Twitter][2] no blog porque meus tweets variam bastante, e nem todos são interessantes para um público mais amplo. Isso mudou quando ouvi, nos dois últimos minutos do [Nerdcast 264][3], o [Rafinha Bastos][4] confessar que:
 
 > &#8220;Eu (&#8230;) deixo no meu twitter só as (&#8230;) tweetadas¹ que foram **bem** retweetadas&#8221;
 

@@ -4,7 +4,7 @@ layout: post
 comments: true
 permalink: /archives/2010/11/coding-dojo-no-apontador.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/11/dojo_screenshot.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/11/dojo_screenshot.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751441252
 categories:
@@ -18,7 +18,7 @@ Devido à heterogeneidade do público potencial (e também para levar o ambiente
 A estação de trabalho era o meu Mac do trabalho mesmo, então usei o [TextWrangler][7], um editor básico com sintaxe colorida e que permite alternar facilmente entre o programa e o teste. Deixamos o editor ocupando 2/3 da tela, e o restante dividido entre o console (posicionado estrategicamente para garantir a visibilidade do OK ou FAILED do teste) e o cronômetro &#8211; ter as duas coisas na tela dá mais segurança e tranquilidade à dupla.
 
 <p style="text-align: center;">
-  <a href="//chester.me/wp-content/uploads/2010/11/dojo_screenshot.jpg"><img class="aligncenter size-medium wp-image-4846" style="border: 1px solid black;" title="Uma reprodução do jeitão da tela durante o Dojo no Apontador (clique para ampliar)" src="//chester.me/wp-content/uploads/2010/11/dojo_screenshot-300x225.jpg" alt="Uma reprodução do jeitão da tela durante o Dojo no Apontador (clique para ampliar)" width="300" height="225" /></a>
+  <a href="/wp-content/uploads/2010/11/dojo_screenshot.jpg"><img class="aligncenter size-medium wp-image-4846" style="border: 1px solid black;" title="Uma reprodução do jeitão da tela durante o Dojo no Apontador (clique para ampliar)" src="/wp-content/uploads/2010/11/dojo_screenshot-300x225.jpg" alt="Uma reprodução do jeitão da tela durante o Dojo no Apontador (clique para ampliar)" width="300" height="225" /></a>
 </p>
 
 Eu queria um cronômetro offline &#8211; apesar da internet do Apontador ser boa, é sempre bom reduzir riscos. Adorei o [Coding Dojo Screenlet][8], escrito pelo próprio Gola, cuja cor de fundo (vermelho/verde) reflete o status do teste, ajudando a audiência saber quando (não) é apropriado se manifestar, mas ele só existe para Linux. A solução foi o [timer do Hora Agora][9] (criado pela [Bani][10]), que, aliado à interface minimalista do [Chrome][11], resolveu super bem: o alarme ininterrupto garantia que o piloto, ao sentar no teclado, não esquecesse de reiniciar o timer (usando o parâmetro &#8220;?t=05:00&#8243;, era só dar reload na página).

@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751446040
 categories:
 ---
-<img title="casamento.jpg" src="//chester.me/archives/img/casamento.jpg" width="128" height="128" align="right" style="border-left:1px" />E quando eu achava que já tinha visto de tudo no Orkut, encontro essa [comunidade][1] surreal. O próprio dono explica:
+<img title="casamento.jpg" src="/archives/img/casamento.jpg" width="128" height="128" align="right" style="border-left:1px" />E quando eu achava que já tinha visto de tudo no Orkut, encontro essa [comunidade][1] surreal. O próprio dono explica:
 
 > Eu ia casar em 17 de junho de 2006 (DOIS MIL E SEIS).
 > A noiva &#8220;fugiu&#8221;: pirou o cabeção e terminou comigo.

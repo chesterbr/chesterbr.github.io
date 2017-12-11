@@ -4,14 +4,14 @@ layout: post
 comments: true
 permalink: /archives/2012/09/a-saga-do-visto-de-trabalho-canadense.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2012/08/canada-flag.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2012/08/canada-flag.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 robotsmeta:
   - index,follow
 dsq_thread_id:
   - 1751444903
 categories:
 ---
-<img class="alignright size-thumbnail wp-image-7200" title="canada flag" src="//chester.me/wp-content/uploads/2012/08/canada-flag-150x150.png" alt="" width="150" height="150" />Quem vai para o Canadá através de uma oferta de trabalho (ao invés dos já conhecidos [processos de imigração][1]) precisa solicitar um visto de trabalho. O [site oficial][2] explica em detalhes como fazer isso, mas resolvi documentar alguns detalhes que aprendi solicitando o meu.
+<img class="alignright size-thumbnail wp-image-7200" title="canada flag" src="/wp-content/uploads/2012/08/canada-flag-150x150.png" alt="" width="150" height="150" />Quem vai para o Canadá através de uma oferta de trabalho (ao invés dos já conhecidos [processos de imigração][1]) precisa solicitar um visto de trabalho. O [site oficial][2] explica em detalhes como fazer isso, mas resolvi documentar alguns detalhes que aprendi solicitando o meu.
 
 Devo lembrar que não sou especialista no assunto e não tenho nenhuma relação com o governo do Canadá &#8211; apenas passei pelo processo e resolvi compartilhar o que aprendi. A sua experiência pode ser diferente, pode ter mudado tudo, [**se informe**][2]. Se tiver compreendido que não me responsabilizo por **nada** sobre o seu caso, continue lendo sobre o meu.
 

@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2007/03/os_ditadores_am.html/
 categories:
 ---
-<img title="Arte de caixa do Friendly Dictators" src="//chester.me/archives/img/friendly_dict.jpg" width="180" height="236" align="right" border="1" style="margin-left:2px" />[Friendly Dictators][1] é uma coleção de *trading cards* que, como o [Golpe][2], possui temática política. Nele, cada carta representa um ditador da história recente que colheu frutos ao cultivar boas relações com os EUA.
+<img title="Arte de caixa do Friendly Dictators" src="/archives/img/friendly_dict.jpg" width="180" height="236" align="right" border="1" style="margin-left:2px" />[Friendly Dictators][1] é uma coleção de *trading cards* que, como o [Golpe][2], possui temática política. Nele, cada carta representa um ditador da história recente que colheu frutos ao cultivar boas relações com os EUA.
 
 São 35 cartas (confira o [índice por país][3]), magnificamente ilustradas por ninguém menos que [Bill Sienkiewicz][4] (velho conhecido dos quadrinhófilos por sua arte fortemente expressionista, baseada em pintura a óleo, colagem e outras técnicas criativas).
 

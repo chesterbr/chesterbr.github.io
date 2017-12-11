@@ -14,7 +14,7 @@ dsq_thread_id:
   - 1751447729
 categories:
 ---
-[<img class="alignright size-full wp-image-5612" title="Chester nos arredores da Golden Gate" src="//chester.me/wp-content/uploads/2010/12/5257083232_4b995aa960_m.jpg" alt="Chester nos arredores da Golden Gate" width="240" height="180" />][1]Na minha cabeça, Califórnia é aquele lance [descrito pelo Joel Spolsky][2]: todo mundo plugado, [surfe][3], e o [verão do amor][4]. A realidade, contudo, é outra: o WiFi nas ruas é escasso (e é difícil conseguir um chip pré-pago com dados), a chuva lembra a garoa paulistana, e me imaginar num calção de banho iniciava uma crise psicológica de hipotermia. Mas os [amigos][5] que nos acolheram tambem ofereceram Wi-Fi, dicas e companhia, viabilizando um passeio por San Francisco (e arredores) em apenas quatro dias &#8211; com direito a uma aula do Knuth em pessoa!<!--more-->
+[<img class="alignright size-full wp-image-5612" title="Chester nos arredores da Golden Gate" src="/wp-content/uploads/2010/12/5257083232_4b995aa960_m.jpg" alt="Chester nos arredores da Golden Gate" width="240" height="180" />][1]Na minha cabeça, Califórnia é aquele lance [descrito pelo Joel Spolsky][2]: todo mundo plugado, [surfe][3], e o [verão do amor][4]. A realidade, contudo, é outra: o WiFi nas ruas é escasso (e é difícil conseguir um chip pré-pago com dados), a chuva lembra a garoa paulistana, e me imaginar num calção de banho iniciava uma crise psicológica de hipotermia. Mas os [amigos][5] que nos acolheram tambem ofereceram Wi-Fi, dicas e companhia, viabilizando um passeio por San Francisco (e arredores) em apenas quatro dias &#8211; com direito a uma aula do Knuth em pessoa!<!--more-->
 
 #### Comida e Passeios
 

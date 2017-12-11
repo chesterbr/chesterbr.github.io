@@ -20,7 +20,7 @@ Felizmente nunca fui ao local, mas amigos bons de copo confirmam que o atendimen
 Oportunamente [surgiu][1] a excelente idéia de reproduzir o post em tudo quanto é blog, tornando impossível essa tentativa estúpida e truculenta de censura. Segue, portanto, a íntegra da resenha (mas não deixe de acompanhar os comentários no [post original][2]):
 
 <p style="text-align: center">
-  <img class="size-full wp-image-3475 alignnone" src="//chester.me/wp-content/uploads/2009/09/saobento.jpg" alt="saobento" width="320" height="262" />
+  <img class="size-full wp-image-3475 alignnone" src="/wp-content/uploads/2009/09/saobento.jpg" alt="saobento" width="320" height="262" />
 </p>
 
 > Depois da Faixa de Gaza e do Acre, este é o pior lugar do mundo para você ir com os amigos. Caro, petiscos sem graça e, principalmente, garçons ultra-power-mega chatos: você toma dois dedos do seu chopp, quente e azedo que nem xoxota nos tempos dos vikings, eles já colocam outro na mesa. E se você recusa, eles ainda ficam putos. Só tulipadas diárias no rabo para justificar tamanha simpatia no atendimento.

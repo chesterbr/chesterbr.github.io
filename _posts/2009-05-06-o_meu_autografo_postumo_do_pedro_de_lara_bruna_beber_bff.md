@@ -14,7 +14,7 @@ Um dos meus passatempos favoritos no trabalho é transcrever algum dos aforismos
 
 Qual não foi a minha surpresa quando a [Bruna Beber][3] me contou que, em suas andanças pela cidade, conheceu pessoalmente Mag de Lara, a viúva do mestre. Mais ainda: quando a Bruna mencionou minha dedicação em disseminar a sua obra, a Mag de Lara gentilmente me agraciou com o mimo que digitalizei abaixo: um autógrafo **póstumo** do Pedro de Lara!
 
-<span class="mt-enclosure mt-enclosure-image"><img alt="autografo_pedro_de_lara.jpg" src="//chester.me/archives/img/mt/2009/05/06/autografo_pedro_de_lara.jpg" width="356" height="571" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></span>
+<span class="mt-enclosure mt-enclosure-image"><img alt="autografo_pedro_de_lara.jpg" src="/archives/img/mt/2009/05/06/autografo_pedro_de_lara.jpg" width="356" height="571" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></span>
 
 Fica claro pela diferença na cor da caneta que não foi bruxaria: ele deixou alguns com ela (se isso não é badass, eu não sei o que é), que só adicionou o meu nome. Desnecessário dizer que, depois dessa, a Bruna é minha best friend forever and ever and evah!
 

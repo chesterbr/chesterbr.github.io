@@ -18,7 +18,7 @@ The Raspberry Pi is a low-priced small computer-in-a-board, built for those who 
 Like many of today&#8217;s smartphones and low-power devices, the Pi uses an [ARM][2] CPU. This is a fun fact because that architecture was created by Acorn, the very same company that built the original BBC Micro! (the &#8220;Model A&#8221; and &#8220;Model B&#8221; boards are a clear pun on the [BBC Micro models][3].)
 
 <div id="attachment_7406" class="wp-caption aligncenter" style="width: 610px">
-  <a href="//chester.me/wp-content/uploads/2013/03/raspberry_pi.jpg"><img class="size-full wp-image-7406" alt="Here is my Pi, close to an SD card (to get an idea of its size). Yes, it's a full-fledged computer." src="//chester.me/wp-content/uploads/2013/03/raspberry_pi.jpg" width="600" height="450" /></a><p class="wp-caption-text">
+  <a href="/wp-content/uploads/2013/03/raspberry_pi.jpg"><img class="size-full wp-image-7406" alt="Here is my Pi, close to an SD card (to get an idea of its size). Yes, it's a full-fledged computer." src="/wp-content/uploads/2013/03/raspberry_pi.jpg" width="600" height="450" /></a><p class="wp-caption-text">
     Here is my Pi, close to an SD card (to give an idea of its size). Yes, it&#8217;s a full-fledged computer.
   </p>
 </div>
@@ -30,7 +30,7 @@ Here is a cost breakdown (in CAD): I spent less than $50 on my board ([here][4])
 A cheap Wi-Fi dongle got me wireless for another $15. It all depends on what you already have on your house, but you won&#8217;t spend more than you would on, say, an Apple TV &#8211; which provides a bit more of convenience, but a fraction of the functionality and pretty much none of the DIY fun.
 
 <div id="attachment_7409" class="wp-caption aligncenter" style="width: 610px">
-  <a href="//chester.me/wp-content/uploads/2013/03/first_boot.jpg"><img class="size-full wp-image-7409" alt="Terrible photo, but a milestone: first boot!" src="//chester.me/wp-content/uploads/2013/03/first_boot.jpg" width="600" height="450" /></a><p class="wp-caption-text">
+  <a href="/wp-content/uploads/2013/03/first_boot.jpg"><img class="size-full wp-image-7409" alt="Terrible photo, but a milestone: first boot!" src="/wp-content/uploads/2013/03/first_boot.jpg" width="600" height="450" /></a><p class="wp-caption-text">
     Terrible photo, but a milestone: first boot!
   </p>
 </div>
@@ -95,7 +95,7 @@ If everything works, LinApple will allow you to select a disk image pressing F3 
 Also be aware that these instructions were tested with ChameleonPI 0.3, not with 0.3.1 (which is giving me a hard time to mount anywhere outside the Pi).
 
 <div id="attachment_7408" class="wp-caption aligncenter" style="width: 610px">
-  <a href="//chester.me/wp-content/uploads/2013/03/playing_with_turtle_graphics.jpg"><img class="size-full wp-image-7408" alt="Yes, I brought the Pi to Uken - why not doing turtle graphics alongside Rails?" src="//chester.me/wp-content/uploads/2013/03/playing_with_turtle_graphics.jpg" width="600" height="450" /></a><p class="wp-caption-text">
+  <a href="/wp-content/uploads/2013/03/playing_with_turtle_graphics.jpg"><img class="size-full wp-image-7408" alt="Yes, I brought the Pi to Uken - why not doing turtle graphics alongside Rails?" src="/wp-content/uploads/2013/03/playing_with_turtle_graphics.jpg" width="600" height="450" /></a><p class="wp-caption-text">
     Yes, I brought the Pi to Uken &#8211; why not doing turtle graphics alongside Rails?
   </p>
 </div>

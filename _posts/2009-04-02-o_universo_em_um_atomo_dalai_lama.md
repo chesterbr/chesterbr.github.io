@@ -10,7 +10,7 @@ bb-custom-tags:
   - dalai lama
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img class="mt-image-left" style="float: left;margin: 0 20px 20px 0" src="//chester.me/archives/img/mt/2009/04/02/universo_atomo.jpg" alt="" width="128" height="190" /></span>Este livro é escrito por ninguém menos que Tenzin Gyatso, mais conhecido como o [Dalai Lama][1]. Para quem não sabe, o título é atribuído a uma linhagem de líderes espirituais do budismo tibetano, e o décimo-quarto e atual Dalai Lama é um integrante bastante peculiar desta linhagem.
+<span class="mt-enclosure mt-enclosure-image"><img class="mt-image-left" style="float: left;margin: 0 20px 20px 0" src="/archives/img/mt/2009/04/02/universo_atomo.jpg" alt="" width="128" height="190" /></span>Este livro é escrito por ninguém menos que Tenzin Gyatso, mais conhecido como o [Dalai Lama][1]. Para quem não sabe, o título é atribuído a uma linhagem de líderes espirituais do budismo tibetano, e o décimo-quarto e atual Dalai Lama é um integrante bastante peculiar desta linhagem.
 
 Só a sua situação política já seria digna de nota: desde 1959 ele vive exilado na Índia por conta da ocupação do Tibete pela China (que enxerga nele um risco político, entre outras coisas por seu discurso em prol dos direitos humanos e da autonomia tibetana).
 

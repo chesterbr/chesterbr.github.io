@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - quadrinhos
 ---
-<img alt="Trecho de Magias e Barbaridades, de Fabio Ciccone" src="//chester.me/archives/img/magiasebarbaridades.png" width="338" height="208" align="right" style="margin-left:2px" />Graças a um comentário do [autor][1] num post recente descobri a existência de [Magias e Barbaridades][2] &#8211; um webcomic nacional pra ninguém botar defeito<sup><a href="#meb1">[1]</a></sup>.
+<img alt="Trecho de Magias e Barbaridades, de Fabio Ciccone" src="/archives/img/magiasebarbaridades.png" width="338" height="208" align="right" style="margin-left:2px" />Graças a um comentário do [autor][1] num post recente descobri a existência de [Magias e Barbaridades][2] &#8211; um webcomic nacional pra ninguém botar defeito<sup><a href="#meb1">[1]</a></sup>.
 
 Fazer humor com temas medievais é uma missão ingrata &#8211; já vi veteranos como os autores de Penny Arcade e PvP se arriscarem nessa área, com resultados pífios. Lendo Magias e Barbaridades percebi que faltava um certo tom que só existe do lado de baixo do Equador.
 

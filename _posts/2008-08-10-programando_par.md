@@ -19,8 +19,8 @@ Eu já tinha [feito][3] isso no Mac. No Ubuntu foi até mais fácil, por conta [
 
 O resultado final é um compilador que permitiu dar o build do [EDGE Switch][5] numa boa &#8211; a menos, claro, do meu makefile tosqueira, que tem n dependências de Mac, e isso só pra empacotar no formato do Installer. Mas isso eu arrumo fácil, o pior já foi.
 
- [1]: //chester.me/archives/2008/07/eee_pc_900_ubuntu.html
+ [1]: /archives/2008/07/eee_pc_900_ubuntu.html
  [2]: http://code.google.com/p/iphone-dev/
- [3]: //chester.me/archives/2008/05/desenvolvimento_para_iphone_instalando_o_sdk.html
+ [3]: /archives/2008/05/desenvolvimento_para_iphone_instalando_o_sdk.html
  [4]: http://jewclaw.net/2008/01/the-iphone-toolchain-for-linux/
- [5]: //chester.me/archives/2008/08/edge_switch.html
+ [5]: /archives/2008/08/edge_switch.html

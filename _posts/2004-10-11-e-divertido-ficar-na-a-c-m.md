@@ -4,10 +4,10 @@ layout: post
 comments: true
 permalink: /archives/2004/10/e-divertido-ficar-na-a-c-m.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/img/blig/village.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/img/blig/village.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
 ---
-<img class="alignright right" style="border: 1px solid black;" src="//chester.me/img/blig/village.jpg" alt="Village People" width="351" height="322" />Neste sábado fui ao [show][1] do Village People, o grupo que desde os anos 70 vem tirando nego desavisado do armário através das suas letras de duplo sentido (que talvez só percam para o [Smithers][2] dos Simpsons).Não levei câmera, mas fotos e vídeos do show estão disponíveis [aqui][3].
+<img class="alignright right" style="border: 1px solid black;" src="/img/blig/village.jpg" alt="Village People" width="351" height="322" />Neste sábado fui ao [show][1] do Village People, o grupo que desde os anos 70 vem tirando nego desavisado do armário através das suas letras de duplo sentido (que talvez só percam para o [Smithers][2] dos Simpsons).Não levei câmera, mas fotos e vídeos do show estão disponíveis [aqui][3].
 
 Quem esperava uma cena *clubber* e forte presença GLS se surpreendeu: o público era composto essencialmente de &#8220;casaisinhos&#8221; e senhores(as) mais velhos (que muitas vezes agitavam mais que os jovens).
 

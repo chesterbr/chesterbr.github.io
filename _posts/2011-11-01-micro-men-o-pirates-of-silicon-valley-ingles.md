@@ -6,10 +6,10 @@ permalink: /archives/2011/11/micro-men-o-pirates-of-silicon-valley-ingles.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2011/11/micromen.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/11/micromen.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
 ---
-[<img src="//chester.me/wp-content/uploads/2011/11/micromen.jpg" alt="Micro Men" title="Micro Men" width="249" height="141" class="alignleft size-full wp-image-6524" />][1]Durante a explosão da microinformática nos anos 80, a Inglaterra era um dos poucos países (o Japão seria outro) nos quais os computadores eram projetados de forma independente dos EUA. Ali, [Sir Clive Sinclair][2] se destacou ao criar os [primeiros][3] computadores pessoais realmente acessíveis, o que lhe rendeu o título.
+[<img src="/wp-content/uploads/2011/11/micromen.jpg" alt="Micro Men" title="Micro Men" width="249" height="141" class="alignleft size-full wp-image-6524" />][1]Durante a explosão da microinformática nos anos 80, a Inglaterra era um dos poucos países (o Japão seria outro) nos quais os computadores eram projetados de forma independente dos EUA. Ali, [Sir Clive Sinclair][2] se destacou ao criar os [primeiros][3] computadores pessoais realmente acessíveis, o que lhe rendeu o título.
 
 A disputa entre a Sinclair Research e a Acorn (ou, especificamente, entre Clive e Chris Curry, ex-funcionário do primeiro e um dos fundadores da Acorn) para decidir quem iria fabricar o computador que levaria a marca da BBC é o mote central de [Micro Men][1], um documentário dramático que começa nas primeiras inovações de Sinclair (calculadoras de bolso e relógios de pulso digitais) e vai até os finalmentes das duas empresas, retratando o &#8220;estouro da bolha&#8221; que viria nos anos seguintes.
 

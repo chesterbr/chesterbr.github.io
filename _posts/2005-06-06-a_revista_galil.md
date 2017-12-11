@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751442175
 categories:
 ---
-<img title="galileu.gif" src="//chester.me/archives/img/galileu.gif" width="120" height="155" align="left" border="1" style="margin-right: 4px" />A revista [Galileu][1] deste mês está com uma matéria interessante sobre aquelas traquitanas mágicas que só não curam o câncer, popularizadas no Brasil através do Grupo Imagem, que vendia as [Facas Ginsu][2], os [Óculos AmberVision][3] e outros pelo (incessantemente repetido) 1406.
+<img title="galileu.gif" src="/archives/img/galileu.gif" width="120" height="155" align="left" border="1" style="margin-right: 4px" />A revista [Galileu][1] deste mês está com uma matéria interessante sobre aquelas traquitanas mágicas que só não curam o câncer, popularizadas no Brasil através do Grupo Imagem, que vendia as [Facas Ginsu][2], os [Óculos AmberVision][3] e outros pelo (incessantemente repetido) 1406.
 
 O interessante da reportagem está no fato de eles terem testado boa parte dos produtos &#8211; mesmo considerando que é complicado medir o &#8220;retorno&#8221; obtido por algo como o [Invisible Bra][4] ou a [Jarra Magnética Plus][5]. Mas foi divertido ver o colaborador tentar não se estressar num engarrafamento através da Pulseira Sabona.
 

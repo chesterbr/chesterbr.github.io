@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751451045
 categories:
 ---
-<img title="Caixa do jogo Elite Beat Agents" src="//chester.me/archives/img/eba.jpg" width="250" height="225" align="right" style="margin-left:2px" />[Elite Beat Agents][1] é um jogo musical para o portátil Nintendo DS. Assim como em [Guitar Hero][2] ou [Dance Dance Revolution][3], cada fase corresponde a uma música, e você joga de acordo com a coreografia. O diferencial é que o controle é feito usando a tela sensível ao toque, o que significa que, ao invés de quatro ou cinco botões/locais fixos, é preciso trabalhar com toda a área da tela.
+<img title="Caixa do jogo Elite Beat Agents" src="/archives/img/eba.jpg" width="250" height="225" align="right" style="margin-left:2px" />[Elite Beat Agents][1] é um jogo musical para o portátil Nintendo DS. Assim como em [Guitar Hero][2] ou [Dance Dance Revolution][3], cada fase corresponde a uma música, e você joga de acordo com a coreografia. O diferencial é que o controle é feito usando a tela sensível ao toque, o que significa que, ao invés de quatro ou cinco botões/locais fixos, é preciso trabalhar com toda a área da tela.
 
 A abordagem também é inovadora: cada fase apresenta (em forma de mangá e tom bem-humorado) uma personagem vivenciando um problema &#8211; que pode ser desde uma crise do dia-a-dia (tal como a garota que quer se namorar com o *quarterback* ou o cachorrinho perdido tentando voltar pra casa) até coisas mais fantásticas (na última fase, extraterrestres invadem a terra). As histórias sempre terminam com o protagonista gritando por ajuda, e os agentes vão motivá-lo a resolver os problemas &#8211; através da música.
 
@@ -23,4 +23,4 @@ O conjunto todo é uma excelente mistura de originalidade, irreverência, jogabi
  [3]: http://www.ddrfreak.com/aboutddr.php
  [4]: http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan
  [5]: http://www.youtube.com/results?search_query=elite+beat+agents&#038;search=Search
- [6]: //chester.me/archives/2005/11/katamari_damacy.html
+ [6]: /archives/2005/11/katamari_damacy.html

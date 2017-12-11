@@ -4,7 +4,7 @@ layout: post
 comments: true
 permalink: /archives/2011/03/chester-em-curitiba.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2011/03/curitiba.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/03/curitiba.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751448027
 categories:
@@ -12,7 +12,7 @@ categories:
 Mais uma vez apelei para o velho truque de transformar o transtorno de voltar de uma viagem a trabalho numa sexta-feira em um passeio de final de semana de baixo custo. Os curitibanos se orgulham de morar em uma cidade que alia qualidade de vida a comodidades urbanas, e resolvi passar o sábado conferindo, aproveitando as dicas da [Bani][1], que **sempre** tem um mapinha turístico no fundo do armário.
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/chesterbr/sets/72157626170985864/"><img class="aligncenter size-full wp-image-5889" style="border: 1px solid black;" title="Jardim Botânico em Curitiba" src="//chester.me/wp-content/uploads/2011/03/curitiba.jpg" alt="Jardim Botânico em Curitiba" width="597" height="249" /></a>
+  <a href="http://www.flickr.com/photos/chesterbr/sets/72157626170985864/"><img class="aligncenter size-full wp-image-5889" style="border: 1px solid black;" title="Jardim Botânico em Curitiba" src="/wp-content/uploads/2011/03/curitiba.jpg" alt="Jardim Botânico em Curitiba" width="597" height="249" /></a>
 </p>
 
 Fiquei no [Hotel Confiance][2], que oferece um ótimo custo/benefício, destacando a internet sem fio de qualidade e o café da manhã amigável a vegetarianos. Um despretensioso folheto no quarto listava os restaurantes próximos por tipo de culinária e dava dicas de como chegar em lugares-chave, tais como a parada do [Aeroporto Executivo][3], um transporte rápido (~30min), confortável (ar condicionado, poltronas espaçosas) e barato (R$ 8) até o [Afonso Pena][4]. Excelente alternativa ao táxi.

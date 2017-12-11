@@ -6,12 +6,12 @@ permalink: /archives/2010/03/yahoo-open-hack-day-brazil-2010.html/
 robotsmeta:
   - index,follow
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/03/mochila.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/03/mochila.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751441285
 categories:
 ---
-[<img class="alignleft left size-full wp-image-3828" style="margin-right:6px" src="//chester.me/wp-content/uploads/2010/03/mochila.jpg" alt="Essa mochila foi um dos prêmios dos vencedores. Clique para outras fotos do evento." width="199" height="232" />][1]Conforme prometido no [post anterior][2], eis minhas impressões sobre o [Yahoo! Open Hack Day Brazil 2010][3]. O evento já foi tão [comentado][4] que corro o sério risco de chover no molhado, mas eu não poderia deixar passar em branco.
+[<img class="alignleft left size-full wp-image-3828" style="margin-right:6px" src="/wp-content/uploads/2010/03/mochila.jpg" alt="Essa mochila foi um dos prêmios dos vencedores. Clique para outras fotos do evento." width="199" height="232" />][1]Conforme prometido no [post anterior][2], eis minhas impressões sobre o [Yahoo! Open Hack Day Brazil 2010][3]. O evento já foi tão [comentado][4] que corro o sério risco de chover no molhado, mas eu não poderia deixar passar em branco.
 
 A organização foi irrepreensível &#8211; tínhamos tudo o que era preciso para um fim-de-semana fantástico: [espaço][5], alimentação, transporte, conectividade e o apoio constante de yahoos daqui e de fora para aproveitar muito bem e pirar na criação dos hacks.
 
@@ -30,7 +30,7 @@ Outro ponto enriquecedor foram as palestras &#8211; independente do seu nível d
 Enfim, me junto ao [coro][19] dos que consideraram o evento **sensacional**, muito acima de qualquer expectativa. Aguardo os próximos ansiosamente!
 
  [1]: http://www.flickr.com/photos/chesterbr/sets/72157623568401113/
- [2]: //chester.me/archives/2010/03/slidememe.html
+ [2]: /archives/2010/03/slidememe.html
  [3]: http://openhackbrazil.pbworks.com/
  [4]: http://openhackbrazil.pbworks.com/Not%C3%ADcias-e-Posts-sobre-o-Open-Hack-Day
  [5]: http://www.sp.senac.br/jsp/default.jsp?newsID=a14463.htm&testeira=727&sub=0&unit=CAS

@@ -26,14 +26,14 @@ Independente da justificação prática, achei que seria interessante aproveitar
   <tr>
     <td>
       <b>A Little Smalltalk</b></p> <p>
-        <img title="A Little Smalltalk (capa)" src="//chester.me/archives/img/smalltalk.jpg" width="120" height="150" border="1" align="left" style="margin-right:2px" />Se você, programador Java, já se perguntou por que a classe-mãe-de-todas-as-classes se chama Object (e não &#8220;Class&#8221;), ou porque chamamos o paradigma de &#8220;orientação a objeto&#8221; (considerando que o desenho da aplicação acaba lidando mais com as classes do que com os objetos em si), aprender Smalltalk vai acender algumas luzes.
+        <img title="A Little Smalltalk (capa)" src="/archives/img/smalltalk.jpg" width="120" height="150" border="1" align="left" style="margin-right:2px" />Se você, programador Java, já se perguntou por que a classe-mãe-de-todas-as-classes se chama Object (e não &#8220;Class&#8221;), ou porque chamamos o paradigma de &#8220;orientação a objeto&#8221; (considerando que o desenho da aplicação acaba lidando mais com as classes do que com os objetos em si), aprender Smalltalk vai acender algumas luzes.
       </p>
 
       <p>
         E é melhor ainda se este aprendizado se der sob uma ótica isenta de legado. <a href="http://web.engr.oregonstate.edu/~budd/Books/little/" >A Little Smalltalk</a> aborda um dialeto específico da linguagem, mas é mais do que suficiente para evidenciar variações sutis (por exemplo, em Smalltalk você não &#8220;chama um método&#8221;, e sim &#8220;envia uma mensagem&#8221;). Tais diferenças parecem, numa primeira análise, puramente estéticas/semânticas, mas ajudam a compreender as motivações (e reais limitações) existentes no Java como o usamos hoje. </td> </tr> <tr>
           <td>
             <br /><b>Programming in Common Lisp</b></p> <p>
-              <img title="Programming in Common Lisp (capa)" src="//chester.me/archives/img/lisp.jpg" width="104" height="150" border="1" align="left" style="margin-right:2px" />Lisp é como a <a href="http://en.wikipedia.org/wiki/Cher" >Cher</a>: de tempos em tempos volta com plena majestade. Seja quando <a href="http://www.paulgraham.com/avg.html" >Paul Graham defende seu aprendizado</a>, seja quando <a href="http://labs.google.com/papers/mapreduce.html" >programação funcional se torna o assunto da vez</a>, vira e mexe algo aparece que desperta a curiosidade sobre esta linguagem.
+              <img title="Programming in Common Lisp (capa)" src="/archives/img/lisp.jpg" width="104" height="150" border="1" align="left" style="margin-right:2px" />Lisp é como a <a href="http://en.wikipedia.org/wiki/Cher" >Cher</a>: de tempos em tempos volta com plena majestade. Seja quando <a href="http://www.paulgraham.com/avg.html" >Paul Graham defende seu aprendizado</a>, seja quando <a href="http://labs.google.com/papers/mapreduce.html" >programação funcional se torna o assunto da vez</a>, vira e mexe algo aparece que desperta a curiosidade sobre esta linguagem.
             </p>
 
             <p>
@@ -44,7 +44,7 @@ Independente da justificação prática, achei que seria interessante aproveitar
               Para quem gosta de construções matemáticas &#8220;belas&#8221; (i.e., simples em suas definições, mas que possuem ramificações complexas), Lisp é um prato cheio: os reais fundamentos (CAR/CDR, lazy evaluation e cercanias) são bastante sintéticos, mas os desdobramentos (e aplicações) são infindáveis, e, a meu ver, justificam plenamente o interesse (ainda que teórico) em torno da linguagem e das técnicas associadas a ela. </td> </tr> <tr>
                 <td>
                   <br /><b>Comparative Programming Languages &#8211; 2nd Edition</b></p> <p>
-                    <img title="Comparative Programming Languages (capa da 3rd. edition)" src="//chester.me/archives/img/comparative.jpg" width="110" height="150" border="1" align="left" style="margin-right:2px" />Muito mais denso que os anteriores, este livro traça um panorama das linguagens de programação mais relevantes, desde as primeiras tentativas de evoluir do código de máquina puramente numérico até os primeiros ambientes OO maduros.
+                    <img title="Comparative Programming Languages (capa da 3rd. edition)" src="/archives/img/comparative.jpg" width="110" height="150" border="1" align="left" style="margin-right:2px" />Muito mais denso que os anteriores, este livro traça um panorama das linguagens de programação mais relevantes, desde as primeiras tentativas de evoluir do código de máquina puramente numérico até os primeiros ambientes OO maduros.
                   </p>
 
                   <p>

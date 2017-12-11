@@ -26,7 +26,7 @@ This **is** obviously an useless approach, but it&#8217;s hard for a math underg
 
 How could someone extract the cosine of a heart? It seems impossible &#8211; unless you can represent a heart in mathematics. And I remembered a very interesting curve from calculus that might be a candidate for that: the [cardioid][3]. Its name implies some relationship with a heart shape. I was never much sold on that, but you can judge by yourself:
 
-<span class="mt-enclosure mt-enclosure-image"><img class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" src="//chester.me/archives/img/mt/2009/03/14/cardioid.jpg" alt="cardioid.jpg" width="349" height="289" /></span>
+<span class="mt-enclosure mt-enclosure-image"><img class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" src="/archives/img/mt/2009/03/14/cardioid.jpg" alt="cardioid.jpg" width="349" height="289" /></span>
 
 It may not be the best heart representation ever seen, but at least it is described by a very simple formula &#8211; if you don&#8217;t mind using [polar coordinates][4]:
 
@@ -41,7 +41,7 @@ If you change the signal from minus to plus and/or the function from *sin* to *c
 
 We can tackle the first problem by replacing the bottom of the curve. First we draw just the part that fits our heart&#8217;s desire for a heart, that is, the one with *θ ∈ *[*-(1/3)π, (4/3)π*]:
 
-<span class="mt-enclosure mt-enclosure-image"><img class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" src="//chester.me/archives/img/mt/2009/03/14/cardioid_upper.jpg" alt="cardioid_upper.jpg" width="349" height="289" /></span>
+<span class="mt-enclosure mt-enclosure-image"><img class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" src="/archives/img/mt/2009/03/14/cardioid_upper.jpg" alt="cardioid_upper.jpg" width="349" height="289" /></span>
 
 Now we can add a second curve that fits the remaining part with the more traditional sharp edge. But first let&#8217;s convert the formula to its cartesian equivalent, using the definitions: *x(θ) = ρ.cos(&#952;)* and *y(θ) = ρ.sin(&#952;)*. Then we have, for *θ ∈ *[*-(1/3)π, (4/3)π*]:
 
@@ -57,17 +57,17 @@ Making a &#8220;tip&#8221; on the bottom requires *x* to vary on the range betwe
 
 Yes, it can be simplified, but I&#8217;m too <span style="text-decoration: line-through;">lazy</span> focused on the main problem now. The resulting graph is:
 
-<span class="mt-enclosure mt-enclosure-image"><img class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" src="//chester.me/archives/img/mt/2009/03/14/heart_lower.jpg" alt="heart_lower.jpg" width="349" height="260" /></span>
+<span class="mt-enclosure mt-enclosure-image"><img class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" src="/archives/img/mt/2009/03/14/heart_lower.jpg" alt="heart_lower.jpg" width="349" height="260" /></span>
 
 which fits nicely into the top part:
 
-<span class="mt-enclosure mt-enclosure-image"><img class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" src="//chester.me/archives/img/mt/2009/03/14/heart_full.jpg" alt="heart_full.jpg" width="349" height="260" /></span>
+<span class="mt-enclosure mt-enclosure-image"><img class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" src="/archives/img/mt/2009/03/14/heart_full.jpg" alt="heart_full.jpg" width="349" height="260" /></span>
 
 The conversion to cartesian formulas also solves the other problem: it is reasonable to think that the cosine of a system of equations is obtainable by applying the cosine function to each of the equations &#8211; you can think about that either as applying the cosine to each coordinate of each point, or as doing that to the equations in matrix form. Or you can just use your heart and believe when I say it&#8217;s reasonable. Your call.
 
 Anyway, by applying the cosine to the formulas above, we obtain the following graphic, **which represents cos(♥)**:
 
-<span class="mt-enclosure mt-enclosure-image"><img class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" src="//chester.me/archives/img/mt/2009/03/14/cosine_of_a_heart.jpg" alt="cosine_of_a_heart.jpg" width="349" height="260" /></span>
+<span class="mt-enclosure mt-enclosure-image"><img class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" src="/archives/img/mt/2009/03/14/cosine_of_a_heart.jpg" alt="cosine_of_a_heart.jpg" width="349" height="260" /></span>
 
 The most frustrating part is that it&#8217;s not a closed curve &#8211; one might imagine a line linking the two edges and try some [rorschach][5]-esque interpretation (a friend of mine suggested a sillhuete of a female bust, but his heart was under heavy stress at the moment). Another interpretation is to realize that you simply end up with a broken, deformed heart (which **is** what happens after you find out that math is all you have left to deal with issues in your life).
 

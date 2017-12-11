@@ -43,6 +43,6 @@ Se algum grupo de gibis te interessar, [me mande um e-mail][2] **contendo os seg
 
     (**UPDATE**: não é preciso estimar o envio para fazer uma oferta &#8211; não sei onde estava com a cabeça quando escrevi aquilo&#8230;)
 
- [1]: //chester.me/linha_organizado.txt
+ [1]: /linha_organizado.txt
  [2]: mailto:cd@pobox.com?subject=Oferta de Compra de HQs
  [3]: http://www.correios.com.br/encomendas/precos/default.cfm

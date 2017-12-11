@@ -7,14 +7,14 @@ layout: post
 comments: true
 permalink: /archives/2008/02/pornografia_com.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/yiffy_reichel.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/archives/img/yiffy_reichel.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751451068
 categories:
 ---
 **ATENÇÃO: LINKS NÃO-SEGUROS PARA ESCRITÓRIO, CASA DA AVÓ OU COLÉGIO ADVENTISTA.**
 
-<span class="mt-enclosure mt-enclosure-image"><img title="Detalhe de imagem do  Reichel - vai entender" src="//chester.me/archives/img/yiffy_reichel.jpg" width="300" height="224" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Eu já desisti de achar que vi de tudo &#8211; particularmente em se tratando de internet. Mas o Jean resolve me mandar um link para o [impagável relato][1] que Ronald Rios faz da sua introdução involuntária no mundo fantástico da **pornografia envolvendo dragões homossexuais**.
+<span class="mt-enclosure mt-enclosure-image"><img title="Detalhe de imagem do  Reichel - vai entender" src="/archives/img/yiffy_reichel.jpg" width="300" height="224" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Eu já desisti de achar que vi de tudo &#8211; particularmente em se tratando de internet. Mas o Jean resolve me mandar um link para o [impagável relato][1] que Ronald Rios faz da sua introdução involuntária no mundo fantástico da **pornografia envolvendo dragões homossexuais**.
 
 É isso mesmo: homoerotic dragon p0rn. Nem vou tentar fazer mais piada do que o blog (e os comentários, tão hilários quatno o próprio) já fizeram &#8211; só sei que eu nunca mais vou conseguir dissociar &#8220;dragões&#8221; de &#8220;dragões com falos antropomórficos catracando-se mutuamente&#8221;. Termos como &#8220;Dragon Balls&#8221; e &#8220;Caverna do Dragão&#8221; ficarão maculados para sempre na minha cabeça.
 

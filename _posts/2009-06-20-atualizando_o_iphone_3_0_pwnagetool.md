@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751449366
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img alt="logo.png" src="//chester.me/archives/img/mt/2009/06/20/logo.png" width="84" height="120" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Fiz a atualização do meu iPhone californiano não-3G para o OS 3.0, com o auxílio do [PwnageTool][1] &#8211; que faz isso garantindo o jailbreak (que permite instalar as apps que eu quero, independente da vontade e do DRM do Steve Jobs) e o unlock (isto é, fazer ele funcione com qualquer operadora). Além dos fixes do OS 3.0 já comentados [por aí][2], o jailbreak novo inclui o Icy, um programa bem mais rápido que o Cydia para instalar software via apt.
+<span class="mt-enclosure mt-enclosure-image"><img alt="logo.png" src="/archives/img/mt/2009/06/20/logo.png" width="84" height="120" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Fiz a atualização do meu iPhone californiano não-3G para o OS 3.0, com o auxílio do [PwnageTool][1] &#8211; que faz isso garantindo o jailbreak (que permite instalar as apps que eu quero, independente da vontade e do DRM do Steve Jobs) e o unlock (isto é, fazer ele funcione com qualquer operadora). Além dos fixes do OS 3.0 já comentados [por aí][2], o jailbreak novo inclui o Icy, um programa bem mais rápido que o Cydia para instalar software via apt.
 
 O processo consiste nos passos abaixo, e por ora é preciso usar um Mac. Como de costume, não me responsabilizo se o seu iPhone travar, explodir ou se transformar num BlackBerry. Só faça se souber o que está fazendo (ou estiver pensando em inutilizar o seu pra comprar um 3GS oficial ou um Nokia bacanudo).
 

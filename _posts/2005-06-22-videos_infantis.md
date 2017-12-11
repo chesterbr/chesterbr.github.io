@@ -23,7 +23,7 @@ dsq_thread_id:
   - 1751446182
 categories:
 ---
-<img title="Cena de 'Despite opposition, truth happens'" src="//chester.me/archives/img/truth.jpg" width="200" height="130" align="right" style="margin-left:2px" />A versão online da [Red Hat Magazine][1] está mostrando alguns vídeos, nos quais ela tenta vendar a idéia de que Linux representa uma espécie de revolução que irá libertar os povos oprimidos da tirania do Império da Microsoft, [yadda, yadda, yadda&#8230;][2]
+<img title="Cena de 'Despite opposition, truth happens'" src="/archives/img/truth.jpg" width="200" height="130" align="right" style="margin-left:2px" />A versão online da [Red Hat Magazine][1] está mostrando alguns vídeos, nos quais ela tenta vendar a idéia de que Linux representa uma espécie de revolução que irá libertar os povos oprimidos da tirania do Império da Microsoft, [yadda, yadda, yadda&#8230;][2]
 
 Nenhum dos vídeos vai ganhar um Oscar de melhor curta-metragem, mas o &#8220;[Despite Opposition, Truth Happens][3]&#8221; definitivamente pisa na chapinha. Se fosse para comparar o software livre **como um todo** com as grandes inovações tecnológicas subestimadas em seu nascimento, vá lá. Mas o vídeo passa a maior parte do tempo vendendo o Linux como sendo essa inovação. E não é &#8211; no máximo é um bom garoto-propaganda, já que é um projeto bem sucedido e popular de software livre (se bem que, se contássemos penetração de mercado como fator, eu usaria o Apache para esta missão).
 

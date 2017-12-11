@@ -7,12 +7,12 @@ layout: post
 comments: true
 permalink: /archives/2008/03/nokia_e62_avali.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/e62.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/archives/img/e62.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751450782
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="Foto do Nokia e62" src="//chester.me/archives/img/e62.jpg" width="149" height="215" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Depois de inúmeros Palms e dois anos com o &#8220;guerreiro&#8221; Nokia 6600, a empresa onde trabalho me cedeu um [Nokia E62][1]. Como o aparelho está relativamente acessível no Brasil (e algumas coisas eu suei pra fazer funcionar), vou falar um pouco da minha experiência com ele.
+<span class="mt-enclosure mt-enclosure-image"><img title="Foto do Nokia e62" src="/archives/img/e62.jpg" width="149" height="215" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Depois de inúmeros Palms e dois anos com o &#8220;guerreiro&#8221; Nokia 6600, a empresa onde trabalho me cedeu um [Nokia E62][1]. Como o aparelho está relativamente acessível no Brasil (e algumas coisas eu suei pra fazer funcionar), vou falar um pouco da minha experiência com ele.
 
 O celular usa a versão 3 da [plataforma S60][2], cuja multitarefa e biblioteca de software, aliados a um teclado QUERTY matador e uma tela nababesca (320x240x24bit) viabilizam seu uso como palmtop (de fato, ele se parece mais com um Palm/Pocket PC do que com um telefone, embora seja muito fino e leve).
 
@@ -66,7 +66,7 @@ Eu não experimentei muito, mas parece que os S60 no geral são bem servidos em 
  [10]: http://s2putty.sourceforge.net/
  [11]: http://fms.komkon.org/EmuSymbian/#fMSX
  [12]: http://loja.tray.com.br/loja/produto.php?loja=78945&#038;IdDep=&#038;IdProd=1103
- [13]: //chester.me/minitruco
+ [13]: /minitruco
  [14]: http://phonphun.altervista.org/eng/sudoku.php
  [15]: http://koti.mbnet.fi/mertama/index_new.html
  [16]: http://www.drjukka.com/YBrowser.html

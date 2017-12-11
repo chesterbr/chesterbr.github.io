@@ -7,12 +7,12 @@ layout: post
 comments: true
 permalink: /archives/2006/03/fuk_fuk_a_brasi.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/archives/img/ffab.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/archives/img/ffab.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751444781
 categories:
 ---
-<img title="Cena do Siri carregando seu 'porno-shop ambulante' (não devia existir o termo 'sex-shop' na época...)" src="//chester.me/archives/img/ffab.jpg" width="325" height="256" align="right" border="1" style="margin-left:2px" />O que dizer de um filme com a sinopse abaixo? (fonte: [Cineprojeto 365][1])
+<img title="Cena do Siri carregando seu 'porno-shop ambulante' (não devia existir o termo 'sex-shop' na época...)" src="/archives/img/ffab.jpg" width="325" height="256" align="right" border="1" style="margin-left:2px" />O que dizer de um filme com a sinopse abaixo? (fonte: [Cineprojeto 365][1])
 
 > *&#8220;Siri, um anão negro, feio, semi-analfabeto, mudo (mas dotado de telepatia) é adotado por um casal com certa queda por orgias. Um dia a esposa se recusa a lubrificar seu ânus com margarina (só aceita manteiga), então o marido tenta sodomizar Siri, que escapa pela privada e vai viver uma verdadeira odisséia, com direito a lusitanos pan-sexuais, naves de formato fálico e um isopor térmico cheio de vibradores para satisfação auto-erótica.&#8221;*
 

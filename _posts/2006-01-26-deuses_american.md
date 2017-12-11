@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2006/01/deuses_american.html/
 categories:
 ---
-<img title="Capa de Deuses Americanos, de Neil Gaiman" src="//chester.me/archives/img/deuses_americanos.jpg" width="110" height="160" align="left" style="margin-right: 2px" border="1" />Raramente deixo livros inacabados. No entanto, o indigesto [A Voz do Fogo][1], do Alan Moore, foi um desses casos. Dizem que fica bom lá pelo meio &#8211; mas a caminhada é longa, e a vida é curta. Pra piorar, deixou uma seqüela: fiquei cismado com autores de quadrinhos que entram no campo da literatura.
+<img title="Capa de Deuses Americanos, de Neil Gaiman" src="/archives/img/deuses_americanos.jpg" width="110" height="160" align="left" style="margin-right: 2px" border="1" />Raramente deixo livros inacabados. No entanto, o indigesto [A Voz do Fogo][1], do Alan Moore, foi um desses casos. Dizem que fica bom lá pelo meio &#8211; mas a caminhada é longa, e a vida é curta. Pra piorar, deixou uma seqüela: fiquei cismado com autores de quadrinhos que entram no campo da literatura.
 
 Felizmente, o mesmo quase-ex-amigo que indicou este livro redimiu-se trazendo o ótimo [Deuses Americanos][2]. O autor (Neil Gaiman) compartilha com Moore a origem inglesa e o renome enquanto roteirista de quadrinhos com fortes elementos de fantasia, mas voltados a um público mais maduro.
 

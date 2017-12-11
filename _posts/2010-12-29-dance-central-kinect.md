@@ -9,7 +9,7 @@ onswipe_thumb:
 
     DDR à parte, o Dance Central é <strong>ótimo</strong>. O objetivo do jogo é simples: você dança em frente à câmera, reproduzindo os passos que compõem cada música, sendo que cada passo é representado por um símbolo e um nome mnemônico. Por exemplo: o <em>Torch</em> pede para erguer os braços como se estivesse carregando uma tocha; <em>Burn a Ride</em> é o gesto de pedir carona, <em>Disco</em> e <em>Fever</em> compõem uma dancinha básica estilo John Travolta, e por aí vai. Um passo executado corretamente rende um "nice" ou (se for muito bem feito) "flawless", e no meio da música o momento <em>freestyle</em> deixa o jogador dançar à vontade (e filma para <a href="http://www.youtube.com/watch?v=ciUy3TJ4soI">constrangê-lo logo em seguida</a>).
 
-    <img class="aligncenter size-full wp-image-5757" title="Dance Central (Kinect)" src="//chester.me/wp-content/uploads/2010/12/kinect.jpg" alt="Dance Central (Kinect)" width="512" height="288" />
+    <img class="aligncenter size-full wp-image-5757" title="Dance Central (Kinect)" src="/wp-content/uploads/2010/12/kinect.jpg" alt="Dance Central (Kinect)" width="512" height="288" />
 
     Jogadores mais avançados (ou ousados) podem ignorar os símbolos e simplesmente imitar o dançarino na tela como se estivessem em frente a um espelho. Eu vou pelo caminho oposto: antes de jogar uma música, entro no <a href="http://www.youtube.com/watch?v=NU7TucL_QX4#t=0m45s">modo Break it Down</a>, que ensina a dançar cada um dos passos isoladamente. É possível até treinar em câmera lenta aqueles em que você estiver mais enroscado. Com isso não tem desculpa: qualquer um pode jogar, independente de sua relação prévia com a balada.
 
@@ -26,7 +26,7 @@ Quando soltaram o primeiro [vídeo promocional do Kinect][5] (então conhecido c
 
 DDR à parte, o Dance Central é **ótimo**. O objetivo do jogo é simples: você dança em frente à câmera, reproduzindo os passos que compõem cada música, sendo que cada passo é representado por um símbolo e um nome mnemônico. Por exemplo: o *Torch* pede para erguer os braços como se estivesse carregando uma tocha; *Burn a Ride* é o gesto de pedir carona, *Disco* e *Fever* compõem uma dancinha básica estilo John Travolta, e por aí vai. Um passo executado corretamente rende um &#8220;nice&#8221; ou (se for muito bem feito) &#8220;flawless&#8221;, e no meio da música o momento *freestyle* deixa o jogador dançar à vontade (e filma para [constrangê-lo logo em seguida][9]).
 
-<img class="aligncenter size-full wp-image-5757" title="Dance Central (Kinect)" src="//chester.me/wp-content/uploads/2010/12/kinect.jpg" alt="Dance Central (Kinect)" width="512" height="288" />
+<img class="aligncenter size-full wp-image-5757" title="Dance Central (Kinect)" src="/wp-content/uploads/2010/12/kinect.jpg" alt="Dance Central (Kinect)" width="512" height="288" />
 
 Jogadores mais avançados (ou ousados) podem ignorar os símbolos e simplesmente imitar o dançarino na tela como se estivessem em frente a um espelho. Eu vou pelo caminho oposto: antes de jogar uma música, entro no [modo Break it Down][10], que ensina a dançar cada um dos passos isoladamente. É possível até treinar em câmera lenta aqueles em que você estiver mais enroscado. Com isso não tem desculpa: qualquer um pode jogar, independente de sua relação prévia com a balada.
 
@@ -36,8 +36,8 @@ Tenho também o [Dance Masters][13] &#8211; esse sim da Konami e planejado como 
 
  [1]: http://pt.wikipedia.org/wiki/Dance_Dance_Revolution
  [2]: http://pt.wikipedia.org/wiki/Pump_it_Up
- [3]: //chester.me/tapete.html
- [4]: //chester.me/ignition.html
+ [3]: /tapete.html
+ [4]: /ignition.html
  [5]: http://www.youtube.com/watch?v=p2qlHoxPioM
  [6]: http://www.dancecentral.com/
  [7]: http://en.wikipedia.org/wiki/Harmonix_Music_Systems

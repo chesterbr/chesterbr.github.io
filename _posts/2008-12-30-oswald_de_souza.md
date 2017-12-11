@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751450440
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="Zebrinha bizarra que anunciava resultados no Fantástico" src="//chester.me/archives/img/mt/2008/12/30/zebrinha.gif" width="87" height="111" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Quem tem umas primaveras a mais lembra bem deste nome &#8211; o &#8220;matemático Oswald de Souza&#8221; nunca aparecia na TV, mas a ele eram atribuídas estatísticas como a quantidade estimada de vencedores da loteria para um dado resultado.
+<span class="mt-enclosure mt-enclosure-image"><img title="Zebrinha bizarra que anunciava resultados no Fantástico" src="/archives/img/mt/2008/12/30/zebrinha.gif" width="87" height="111" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Quem tem umas primaveras a mais lembra bem deste nome &#8211; o &#8220;matemático Oswald de Souza&#8221; nunca aparecia na TV, mas a ele eram atribuídas estatísticas como a quantidade estimada de vencedores da loteria para um dado resultado.
 
 Curiosamente, nem no [IME][1] sabia-se quem o cara era, e eu sempre imaginei se isso não era apenas um personagem inventado pela produção do programa ou outra esquisitice do gênero.
 

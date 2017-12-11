@@ -4,12 +4,12 @@ layout: post
 comments: true
 permalink: /archives/2011/01/revolution-in-the-valley-the-insanely-great-story-of-how-the-mac-was-made.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2011/01/51+MmbKBC1L._SL154.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/01/51+MmbKBC1L._SL154.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
   - 1751447681
 categories:
 ---
-[<img class="alignleft size-full wp-image-5820" title="Revolution in the Valley: How the Mac Was Made" src="//chester.me/wp-content/uploads/2011/01/51+MmbKBC1L._SL154.jpg" alt="" width="154" height="154" />][1]Antes de se tornar objeto da admiração de uns e desinteresse/suspeita de outros, a Apple passou por três fases bem definidas: a &#8220;[era de ouro][2]&#8221; em que o Apple II e o Macintosh original foram criados; a queda em parafuso rumo à irrelevância; e a volta por cima. O papel evidente de [Steve Jobs][3] nas fases virtuosas alavanca o culto em torno de sua pessoa  a um ponto que fica difícil separar a verdade do mito, valorizando qualquer testemunho de quem esteve mais próximo.
+[<img class="alignleft size-full wp-image-5820" title="Revolution in the Valley: How the Mac Was Made" src="/wp-content/uploads/2011/01/51+MmbKBC1L._SL154.jpg" alt="" width="154" height="154" />][1]Antes de se tornar objeto da admiração de uns e desinteresse/suspeita de outros, a Apple passou por três fases bem definidas: a &#8220;[era de ouro][2]&#8221; em que o Apple II e o Macintosh original foram criados; a queda em parafuso rumo à irrelevância; e a volta por cima. O papel evidente de [Steve Jobs][3] nas fases virtuosas alavanca o culto em torno de sua pessoa  a um ponto que fica difícil separar a verdade do mito, valorizando qualquer testemunho de quem esteve mais próximo.
 
 [Revolution in the Valley: The Insanely Great Story of How the Mac Was Made][4] é um livro que reúne dúzias de histórias sobre o fim da primeira fase, isto é, sobre a criação do Macintosh. Boa parte delas veio do site [Folklore.org: Macintosh Stories][5], organizado pelo autor &#8211; ninguém menos que [Andy Hertzfeld][6], que escreveu boa parte do sistema operacional original do Mac.
 
@@ -34,5 +34,5 @@ Também é interessante observar os papéis significativos que &#8220;notórios 
  [11]: http://folklore.org/ProjectView.py?characters=Burrell%20Smith
  [12]: http://www.woz.org/
  [13]: http://www.kare.com/portfolio.html
- [14]: //chester.me/archives/2006/01/a_ilustradora_d.html
+ [14]: /archives/2006/01/a_ilustradora_d.html
  [15]: http://twitter.com/mcastelo

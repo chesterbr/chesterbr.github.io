@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2005/12/descomplicando.html/
 categories:
 ---
-<img title="s5.jpg" src="//chester.me/archives/img/s5.jpg" width="256" height="187" align="right" style="margin-left:2px" border="1" />Assunto sério, pra variar: o [S5][1] é uma maneira de criar apresentações no estilo Powerpoint, só que é baseado em uma mistura bem bolada de tecnologias de browser (XHTML, CSS e JavaScript).
+<img title="s5.jpg" src="/archives/img/s5.jpg" width="256" height="187" align="right" style="margin-left:2px" border="1" />Assunto sério, pra variar: o [S5][1] é uma maneira de criar apresentações no estilo Powerpoint, só que é baseado em uma mistura bem bolada de tecnologias de browser (XHTML, CSS e JavaScript).
 
 Isso permite que uma única página contenha tanto a versão &#8220;slideshow&#8221; quanto a versão imprimível da apresentação. Recomendo dar uma olhada na [apresentação de introdução][2] &#8211; além de mostrar a que veio o brinquedo, ela demonstra como é fácil navegar e alternar entre slideshow e texto.
 

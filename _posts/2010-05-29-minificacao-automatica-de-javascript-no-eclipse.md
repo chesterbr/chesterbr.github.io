@@ -4,7 +4,7 @@ layout: post
 comments: true
 permalink: /archives/2010/05/minificacao-automatica-de-javascript-no-eclipse.html/
 onswipe_thumb:
-  - '//chester.me/wp-content/plugins/onswipe/thumb/thumb.php?src=//chester.me/wp-content/uploads/2010/05/builder.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/05/builder.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
 ---
 *Esse post mostra como configurar o Eclipse/Aptana para gerar uma versão compacta e unificada dos .js do seu projeto sempre que você salvar um deles &#8211; um lance que eu tentei [explicar em 140 caracteres][1], mas [não deu muito certo][2]&#8230;*
@@ -35,7 +35,7 @@ A questão é: quando chamar esse script? Idealmente, eu queria que ele rodasse 
 6.  Em *Build Options*, deixei as opções conforme o screenshot abaixo (clique para ampliar):
 
 <p style="text-align: center;">
-  <a href="//chester.me/wp-content/uploads/2010/05/builder.png"><img class="size-medium wp-image-3984  aligncenter" title="Opções do Builder (clique para ampliar)" src="//chester.me/wp-content/uploads/2010/05/builder-300x245.png" alt="Opções do Builder (clique para ampliar)" width="300" height="245" /></a>
+  <a href="/wp-content/uploads/2010/05/builder.png"><img class="size-medium wp-image-3984  aligncenter" title="Opções do Builder (clique para ampliar)" src="/wp-content/uploads/2010/05/builder-300x245.png" alt="Opções do Builder (clique para ampliar)" width="300" height="245" /></a>
 </p>
 
 O pulo-do-gato (alguém ainda fala isso?) é acionar o *Specify working set of relevant resources*, e, usando o botão ao lado, marcar **apenas** os scripts que serão colados/minificados &#8211; caso contrário ele vai ficar rodando o script o tempo todo.
