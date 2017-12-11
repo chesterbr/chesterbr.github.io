@@ -7,7 +7,7 @@ dsq_thread_id:
   - 1751447346
 categories:
 ---
-<img src=/img/blig/croc.jpg align="left" border=2>Ah, o que seria de nós sem os amigos bizarros? Por indicação de <a href="http://www.stoneagescanners.com/edu/1p.htm" >um deles</a> comprei a <a href="http://www.crocodilo.com.br">Crocodilo</a>, uma revista de humor e quadrinhos sem um gênero muito definido, mas que pega forte no lado trash.
+<img src="img/blig/croc.jpg"align="left" border="2">Ah, o que seria de nós sem os amigos bizarros? Por indicação de <a href="http://www.stoneagescanners.com/edu/1p.htm" >um deles</a> comprei a <a href="http://www.crocodilo.com.br">Crocodilo</a>, uma revista de humor e quadrinhos sem um gênero muito definido, mas que pega forte no lado trash.
 
 Títulos como &#8220;Origami do Sexo&#8221;, &#8220;Bin Laden Pornô&#8221; e &#8220;A Febre dos Mariachis Iugoslavos&#8221; dão o tom da publicação. Fosse um site, seria mais um entre muitos. Mas pra colocar na banca precisa de coragem, e a Conrad parece que resolveu encarar.
 

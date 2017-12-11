@@ -13,4 +13,4 @@ Um dia eu escrevo com mais seriedade sobre o assunto &#8211; agora eu só quero 
 
 
 
-<table width=100% border=0 cellspacing=0 cellpadding=0>
+<table width="100"% border=0 cellspacing=0 cellpadding=0>

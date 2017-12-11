@@ -5,7 +5,7 @@ comments: true
 permalink: /archives/2002/02/o-pai-do-ecstasy.html/
 categories:
 ---
-<img src='/img/blig/n-1.jpg' hspace=4 align="left" height=112 width=150 border=0>Já nos anos 80 Angeli abria os olhos da petizada (na impagável sessão de cartas da *Chiclete com Banana*) para o fato de que a apologia às &#8220;drogas&#8221;, independente de ser correta ou não, já era algo extremamente esgotado e sem sentido, e que o assunto fora tratado à exaustão nos anos 60 e 70.
+<img src="/img/blig/n-1.jpg" hspace="4" align="left" height="112" width="150" >Já nos anos 80 Angeli abria os olhos da petizada (na impagável sessão de cartas da *Chiclete com Banana*) para o fato de que a apologia às &#8220;drogas&#8221;, independente de ser correta ou não, já era algo extremamente esgotado e sem sentido, e que o assunto fora tratado à exaustão nos anos 60 e 70.
 
 Hoje em dia o debate evoluiu. Pode-se ver isto quando o tema maconha é tratado na mídia (chegando ao ponto de se falar em uso medicinal e questionar sua posição em relação ao álcool na &#8220;escala&#8221; dos entorpecentes), mas dificilmente encontra-se alguém que queira abrir o debate sobre as drogas mais pesadas (exceto, claro, os direitões truculentos de plantão, quando pedem urugência para repressão policial ao &#8220;tóchico&#8221;).
 

@@ -11,7 +11,7 @@ O livro superou todas as minhas expectativas. Eu, que me julgava uma pessoa info
 
 Tal constatação é o ponto de partida para um raio-x detalhado de tudo o que Michael Moore vê de podre nos EUA de hoje &#8211; indo dos republicanos aos democratas, mas sem deixar de passar por certas atitutdes mesquinhas do povo americano, e mesmo pelo candidato da &#8220;terceira opção&#8221;, que Moore apoiou praticamente até o fim da eleição. Mesmo que seja difícil concordar com tudo o que o autor diz, o espírito é incontestável.
 
-<img src=/img/blig/tirosemcolumbine.jpg align="left" border=2>Já o filme tem alguns aspectos interessantes &#8211; a começar por ser um caso raro de documentário de longa metragem sem efeito sonífero. Assim como o livro, ele parte de um fato isolado (o massacre ocorrido na escola em Columbine) para abordar questões mais amplas envolvendo armas e o povo americano.
+<img src="img/blig/tirosemcolumbine.jpg"align="left" border="2">Já o filme tem alguns aspectos interessantes &#8211; a começar por ser um caso raro de documentário de longa metragem sem efeito sonífero. Assim como o livro, ele parte de um fato isolado (o massacre ocorrido na escola em Columbine) para abordar questões mais amplas envolvendo armas e o povo americano.
 
 Mas há uma diferença fundamental: no filme, Moore não assume o tom panfletário do livro. Sua opinião só se faz perceber quando ele mesmo se torna objeto de estudo. Na maior parte do tempo, o filme mostra os diversos lados de cada questão &#8211; claro, qualquer pessoa com um mínimo de bom-senso percebe o recado, mas isso fica a critério do espectador.
 

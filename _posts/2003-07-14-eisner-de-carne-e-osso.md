@@ -13,4 +13,4 @@ O começo deixa um pouco a desejar &#8211; tanto o cenário quanto o elo entre a
 
 
 
-<table width=100% border=0 cellspacing=0 cellpadding=0>
+<table width="100"% border=0 cellspacing=0 cellpadding=0>

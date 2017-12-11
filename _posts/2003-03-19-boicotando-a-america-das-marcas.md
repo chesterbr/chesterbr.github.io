@@ -5,7 +5,7 @@ comments: true
 permalink: /archives/2003/03/boicotando-a-america-das-marcas.html/
 categories:
 ---
-<img src='/img/blig/bandeira_adbusters.jpg' align="left" border=0 hspace=2>O <a href="http://adbusters.org/information/foundation/" >Adbusters</a> é uma espécie de ONG anti-consumismo, famosa por suas campanhas como o <a href="http://www.wired.com/news/culture/0,1284,56489,00.html" >Buy Nothing Day</a> (Dia de Não Comprar Nada). Algumas pessoas me chamaram a atenção para a campanha mais recente deles, a <a href="http://adbusters.org/campaigns/boycott_america/" >Boycott Brand America</a> (algo como &#8220;Boicote a América das Marcas&#8221;).
+<img src="/img/blig/bandeira_adbusters.jpg" align="left"  hspace="2">O <a href="http://adbusters.org/information/foundation/" >Adbusters</a> é uma espécie de ONG anti-consumismo, famosa por suas campanhas como o <a href="http://www.wired.com/news/culture/0,1284,56489,00.html" >Buy Nothing Day</a> (Dia de Não Comprar Nada). Algumas pessoas me chamaram a atenção para a campanha mais recente deles, a <a href="http://adbusters.org/campaigns/boycott_america/" >Boycott Brand America</a> (algo como &#8220;Boicote a América das Marcas&#8221;).
 
 Esta campanha estimula as pessoas a diminuirem ou cortarem completamente o consumo de produtos de *griffes* americanas (tais como Coca-Cola, McDonald&#8217;s e Nike), na tentativa de passar um recado contra a guerra no Iraque através da única parte do corpo em que o governo e a elite americanos ainda têm alguma sensibilidade: o bolso.
 

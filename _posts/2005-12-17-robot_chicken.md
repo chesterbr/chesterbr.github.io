@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2005/12/robot_chicken.html/
 categories:
 ---
-<img title="Abertura de Robot Chicken" src="/archives/img/robotchicken.jpg" width="150" height="113" align="left" style="margin-right:2px" border=1 />Quando você junta um maníaco por bonequinhos (ok, ok, *action figures*) e um animador com um pé forte no stop motion, sai um lance como [Robot Chicken][1], que deve aparecer em breve no Cartoon Network, via Adult Swim.
+<img title="Abertura de Robot Chicken" src="/archives/img/robotchicken.jpg" width="150" height="113" align="left" style="margin-right:2px" border="1" />Quando você junta um maníaco por bonequinhos (ok, ok, *action figures*) e um animador com um pé forte no stop motion, sai um lance como [Robot Chicken][1], que deve aparecer em breve no Cartoon Network, via Adult Swim.
 
 Pra dar uma idéia, estão circulando alguns clipes ([este][2] e [este][3]) no Google Video. O segmento da corrida é divertido, mesmo que seja apenas por reunir ícones tão distantes quanto os Dukes de Hazzard e os irmãos Mario.
 

@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2006/05/uncyclopedia_e.html/
 categories:
 ---
-<img title="Tiozinho servindo um gregão" src="/archives/img/churrasco_grego.jpg" width="250" height="160" align="left" style="margin-right:2px" border=1/>A [Uncyclopedia][1] surgiu como um contraponto cômico da [Wikipedia][2] &#8211; ali, o critério é a paródia e a falta de conteúdo. O resultado cômico nem sempre é incrível, embora verbetes como [Java][3], [AAAAAAAAA!][4] e o dos [gatinhos][5] (aqueles que Deus mata toda vez que você se masturba) tenham lá o seu valor humorístico.
+<img title="Tiozinho servindo um gregão" src="/archives/img/churrasco_grego.jpg" width="250" height="160" align="left" style="margin-right:2px" border="1"/>A [Uncyclopedia][1] surgiu como um contraponto cômico da [Wikipedia][2] &#8211; ali, o critério é a paródia e a falta de conteúdo. O resultado cômico nem sempre é incrível, embora verbetes como [Java][3], [AAAAAAAAA!][4] e o dos [gatinhos][5] (aqueles que Deus mata toda vez que você se masturba) tenham lá o seu valor humorístico.
 
 O que ajuda é que os brasileiros vêm ao resgate &#8211; verbetes como como [Didi Mocó][6] incentivaram a criação da [Desciclopédia][7], contraparte em língua portuguesa da Uncyclopedia (da mesma forma que a [Wikipédia][8] para a Wikipedia). Verbetes como [churrasco grego][9] e [orkut][10] mostram que a galera promete. Como na Wikipedia, todo mundo pode meter a mão &#8211; só que aqui é como no jornalismo cão e na oposição: quanto pior, melhor.
 

@@ -5,7 +5,7 @@ comments: true
 permalink: /archives/2003/07/papo-serio-com-visual-nem-tanto-sobre-seguranca-de-redes.html/
 categories:
 ---
-<img src=/img/blig/chester_serginho.jpg align="left" border=0>O Último Segundo publicou um <a href="http://ultimosegundo.ig.com.br/useg/economia/mundovirtual/artigo/0,,1259617,00.html" >artigo</a> que eu escrevi comentando os riscos da boataria e do alarmismo quando o assunto é segurança de redes.
+<img src="img/blig/chester_serginho.jpg"align="left" >O Último Segundo publicou um <a href="http://ultimosegundo.ig.com.br/useg/economia/mundovirtual/artigo/0,,1259617,00.html" >artigo</a> que eu escrevi comentando os riscos da boataria e do alarmismo quando o assunto é segurança de redes.
 
 O artigo até é interessante, e a oportunidade de publicar na imprensa séria é ótima, mas o que me ganhou a semana foi o fato de terem acionado um dos melhores ilustradores que eu já conheci, o &#8220;Serginho&#8221; Guilherme Filho, que mandou muito bem na ilustração ao lado. Matou a pau, Serginho!
 
@@ -15,4 +15,4 @@ Ah, vale lembrar que, além de ilustrar, o cara é músico das bandas <a href="h
 
 
 
-<table width=100% border=0 cellspacing=0 cellpadding=0>
+<table width="100"% border=0 cellspacing=0 cellpadding=0>

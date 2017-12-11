@@ -7,7 +7,7 @@ robotsmeta:
   - index,follow
 categories:
 ---
-<img src="/img/blig/programasexo.jpg" border=1 align="right" alt="cena do programa de TV: a apresentadora agita o público, enquanto a participante 'mete as caras' na sua 'tarefa'.">(**ATENÇÃO**: os links deste artigo são impróprios para escritório)
+<img src="/img/blig/programasexo.jpg" border="1" align="right" alt="cena do programa de TV: a apresentadora agita o público, enquanto a participante 'mete as caras' na sua 'tarefa'.">(**ATENÇÃO**: os links deste artigo são impróprios para escritório)
 
 Tudo começa quando, estupefato, um amigo me envia o link para este <a href="http://muchosucko.com/1278/Jeugd-in-Japan" >vídeo</a>, no qual várias garotas japonesas masturbam-se e fazem sexo livremente em público, supostamente com qualquer um que estivesse passando pelo local. Não tem o menor jeito de armação, parece mesmo que algumas garotas toparam fazer essas loucuras na frente da câmera.
 
