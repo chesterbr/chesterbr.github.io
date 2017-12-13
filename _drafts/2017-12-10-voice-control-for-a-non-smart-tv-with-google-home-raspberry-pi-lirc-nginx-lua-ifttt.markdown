@@ -2,7 +2,7 @@
 layout: post
 title: "Voice control for a non-smart TV (with Google Home, a Raspberry Pi, LIRC, nginx, Lua and IFTTT)"
 date: 2017-12-12 12:00
-og_image:
+og_image: /img/2017/12/multi_led.jpg
 description: "Teaching voice tricks to an old TV and sound bar requires some hacking, but pays off nicely."
 comments: true
 categories:
