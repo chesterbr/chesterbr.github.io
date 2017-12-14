@@ -14,7 +14,7 @@ Despite my privacy concerns, I could not resist the [low price](https://mobilesy
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/S36R4uajkzA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></center>
 
-In a nutshell: IFTTT turns Google Home commands into HTTPS requests towards a Raspberry Pi. There, nginx triggers some Lua code that runs LIRC, which generates IR signals into a transistor that amplifies them to two IR LEDs. Complicated, but it works!
+In a nutshell: IFTTT turns Google Home commands into HTTPS requests towards a Raspberry Pi. There, nginx triggers some Lua code that runs LIRC, which generates IR signals into a transistor that amplifies them to two IR LEDs. Complicated, but works!
 
 <!--more-->
 
