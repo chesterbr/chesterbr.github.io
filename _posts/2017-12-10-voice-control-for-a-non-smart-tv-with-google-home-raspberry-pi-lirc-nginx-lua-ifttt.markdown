@@ -20,27 +20,27 @@ In a nutshell: IFTTT turns Google Home commands into HTTPS requests towards a Ra
 
 ### Hardware: Raspberry Pi + IR LED (+ a few extras)
 
-TVs with HDMI-CEC [can be controlled and input-switched](https://support.google.com/googlehome/answer/7498991?hl=en-CA) by Google Home via ChromeCast. Mine doesn't, so I resorted to something that could duplicate the (IR) light signals emitted the remote control.
+TVs with HDMI-CEC [can be controlled and input-switched](https://support.google.com/googlehome/answer/7498991?hl=en-CA) by Google Home via ChromeCast. Mine doesn't, so I resorted to something that could duplicate the (IR) light signals sent by the remote control.
 
-Sure, I could just add an [IR LED](https://www.creatroninc.com/product/lte-5208-infrared-emitter-940nm/?search_query=lte-5208&results=3) to an Arduino or a Raspberry Pi (with a resistor, just like we do with regular LEDs on those ["blinking LED" tutorials](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)). But I liked [this simple circuit](http://www.raspberry-pi-geek.com/Archive/2015/10/Raspberry-Pi-IR-remote) that strengthens the signal just by adding a transistor and second resistor, and went with it for my initial breadboard experiment:
+Sure, I could just add an [IR LED](https://www.creatroninc.com/product/lte-5208-infrared-emitter-940nm/?search_query=lte-5208&results=3) to an Arduino or a Raspberry Pi (with a resistor, just like we do with regular LEDs on those ["blinking LED" tutorials](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)). But [this simple circuit](http://www.raspberry-pi-geek.com/Archive/2015/10/Raspberry-Pi-IR-remote) strengthens the signal just by adding a transistor and second resistor. I liked that, and went with it for my initial breadboard experiment:
 
 ![initial prototype](/img/2017/12/prototype.jpg){: .center }
 
-Once I realized that I also wanted to control my sound bar, the transistor paid off: I just add a second LED in parallel, and it worked with decent signal strength.
+Once I realized I also wanted to control the sound bar, the amplifier helped: just added a second LED in parallel, and it worked just as well as the single one, no changes needed to the circuit.
 
-The final version had the components soldered on a tiny piece of protoboard, small enough to fit inside the Raspberry Pi case. The IR LEDs were soldered to 22 AWG black wire, which stays in place when twisted and blends well with the black TV and sound bar.
+The final version was  soldered on a tiny piece of protoboard - small enough to fit inside the Raspberry Pi case. The IR LEDs were connected with 22 AWG black wire, which stays in place when twisted, and blends well with the black TV and sound bar.
 
 ![final, multi-led version](/img/2017/12/multi_led.jpg){: .center }
 
 ### IR programming: LIRC
 
-One reason I chose a Raspberry Pi over an Arduino was [LIRC](http://www.lirc.org/), an open-source IR remote control software. It took some time to install, because most [tutorials](http://alexba.in/blog/2013/01/06/setting-up-lirc-on-the-raspberrypi/) don't include the ([Raspbian](https://www.raspberrypi.org/downloads/raspbian/)-specific) step of editing `boot/config.txt`. The following line must be uncommented and the pin must be the one connected to the 10K resistor:
+One reason I chose a Raspberry Pi over an Arduino was [LIRC](http://www.lirc.org/), an open-source IR remote control software. Took some time to install because most [tutorials](http://alexba.in/blog/2013/01/06/setting-up-lirc-on-the-raspberrypi/) don't include the ([Raspbian](https://www.raspberrypi.org/downloads/raspbian/)-specific) step of editing `boot/config.txt`, in which the following line must be uncommented and point to the pin connected to the 10K resistor:
 
 ```
 dtoverlay=lirc-rpi,gpio_out_pin=22
 ```
 
-Another hurdle: LIRC's [remotes database](http://lirc-remotes.sourceforge.net/) did not include either my TV or my sound bar, so I had to create configuration files for them.
+Another hurdle: LIRC's [remotes database](http://lirc-remotes.sourceforge.net/) did not include either my TV or my sound bar. Had to create configuration files for them.
 
 To do so, I added an infrared receiver ([TSOP38238](https://www.adafruit.com/product/157)) to another pin (pinout [here](http://www.raspberry-pi-geek.com/Archive/2014/03/Controlling-your-Pi-with-an-infrared-remote)), adding it as a `gpio_in_pin` at all places that I previously added the IR led as `gpio_out_pin`.
 
