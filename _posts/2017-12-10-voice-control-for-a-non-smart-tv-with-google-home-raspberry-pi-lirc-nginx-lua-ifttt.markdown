@@ -164,7 +164,7 @@ With this, an HTTPS POST message containing the `secret-key` and the `action` tr
 It can be tested with `curl`:
 
 ```
-curl -d "secret-key=some_generated_secret&cmd=soundbar_volume_up" https://my.domain/remote
+curl -d "secret-key=some_generated_secret&action=tv_power" https://my.domain/remote
 ```
 
 ### Putting it all together: IFTTT
