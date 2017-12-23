@@ -26,11 +26,6 @@ O maior balde de água fria mesmo foi perceber que não é possível usar tapete
 
 Tirando isso, é um jogaço. Seguem o teaser oficial e um cara dancando na E3, só para dar o gostinho:
 
-<div style="text-align: center;">
-  </p> <p>
-    </div>
-  </p>
-
  [1]: http://pt.wikipedia.org/wiki/Dance_Dance_Revolution
  [2]: http://wii.ign.com/articles/760/760878p1.html
  [3]: http://www.youtube.com/watch?v=zkPjpiU67Ls
