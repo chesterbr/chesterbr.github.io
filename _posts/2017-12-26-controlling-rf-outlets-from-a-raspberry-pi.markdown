@@ -25,7 +25,7 @@ I mostly followed [Kurt Tomilinson's tutorial](https://blog.kurttomlinson.com/po
 - Wire GND on transmitter and receiver to any GND pin on the RPi;
 - Wire VCC on transmitter and receiver to any 5V pin on the RPi;
 - Wire the remaining transmitter pin (DATA) to RPi pin 11 (BCM 17) and either of the receiver remaining pins (they are connected) to RPi pin 13 (BCM 27);
-- Solder a 17.3cm wire (I used AWG 22, anything stiff will do) to the receiver as an antenna.
+- Solder a 17.3cm wire (I used AWG 22, anything stiff will do) to the transmitter as an antenna.
 
 ![prototype](/img/2017/12/rf_prototype.jpg){: .center }
 
