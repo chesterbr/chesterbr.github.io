@@ -29,7 +29,7 @@ I mostly followed [Kurt Tomilinson's tutorial](https://blog.kurttomlinson.com/po
 
 ![prototype](/img/2017/12/rf_prototype.jpg){: .center }
 
-For software: we need to compile [NinjaBlocks' 433Utils](https://github.com/ninjablocks/433Utils) so we have two utilities: `RFSniffer` (to learn the codes for each button on the remote) and `codesend` (to send those codes to the outlets at our will). The tutorial shows how to do that, but I added a couple twists:
+Software-wise, we need to compile [NinjaBlocks' 433Utils](https://github.com/ninjablocks/433Utils) so we have two utilities: `RFSniffer` (to learn the codes for each button on the remote) and `codesend` (to send those codes to the outlets at our will). The tutorial shows how to do that, but I added a couple twists:
 
 - Instead of building the [WiringPi](http://wiringpi.com/) library, we can install it from a package;
 - Instead of running utilities as root (with `sudo`) we can add the users that need to run them to the `gpio` group.
