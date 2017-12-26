@@ -54,7 +54,7 @@ I already had a web server set up to securely run [Lua](http://www.lua.org/) cod
 
 ```lua
 light = function(which, state)
-  // no, those aren't my codes :-)
+  -- no, those aren't my codes :-)
   codes_on = { 5538945, 2436560, 4296666, 8345444, 0212408 }
   codes_off = { 7152607, 1929488, 4714537, 8798718, 1585774 }
   if state == "on" then
