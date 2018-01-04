@@ -26,7 +26,7 @@ Those boards aren't as sturdy or portable as traditional printed circuit boards,
 
 The first step was to position the 6507 on the breadboard - easy, yet I managed to mess up. I aligned the 6507 first pins with the numbered tracks, which sounds smart, but leaves little space to work on the first/last pins. If you are trying this, put the chip closer to the center and save yourself the trouble.
 
-The connections are roughly the same as Barton's project, but translated to the 6507 [pin layout](http://www.datasheetcatalog.com/datasheets_pdf/U/M/6/5/UM6507.shtml). 5V power goes to pin 4 of the 6507, and ground goes to pin 2. There is no IRQ or NMI, so you only need two 3K resistors coming from 5V - one ending on the reset input (pin 1) and another on RDY (pin 4).
+The connections are roughly the same as Barton's project, but translated to the 6507 [pin layout](http://www.datasheetcatalog.com/datasheets_pdf/U/M/6/5/UM6507.shtml). 5V power goes to pin 4 (VCC) of the 6507, and ground goes to pin 2 (GND). There is no IRQ or NMI, so you only need two 3K resistors coming from 5V - one ending on the reset input (pin 1) and another on RDY (pin 3).
 
 Also following him, I added a push button between the ground and the reset pin, so I could (re-)start the processor at will. The 6507 seems to work without that, but it didn't hurt. But I also added a second push button between ground and RDY - this one is more interesting, you'll see later why.
 
