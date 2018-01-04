@@ -32,7 +32,7 @@ Also following him, I added a push button between the ground and the reset pin, 
 
 Still on his footsteps, I added the decoupling capacitor (a 100nF, 20V non-polarized ceramic) close to the power pin, to ensure clean power to the chip. Finally, I hard-wired the binary value `11101010` to the data pins, by connecting 18, 19, 20, 22 and 24 (the `1`s) to 5V and pins 21, 23 and 25 (the `0`s) to ground. It sounds like an arbitrary value, but it will _also_ make sense later. For now, just keep in mind that this makes CPU "believe" it is connected to a ROM chip where every single byte is `11101010` (or `0xEA` in hexadecimal).
 
-The Arduino wiring consisted in matching the 6507 address lines to Arduino pins 0-12 (so we can see what address the CPU is trying to read or write), and Arduino pin 13 to ∅₀ (clock input). Here is the finished job (there is also a [higher-resolution picture](/img/2017/09/6507_full.jpg)):
+Here is the finished job (there is also a [higher-resolution picture](/img/2017/09/6507_full.jpg)):
 
 ![](/img/2017/09/6507.jpg){: .center }
 
@@ -45,7 +45,7 @@ You may notice the other two Atari chips above (should have labeled them "SOON" 
 - Generate a clock pulse (an impractically sluggish one for real usage, but great for our experience);
 - Monitor the address lines, feeding the results to a trusty PC (or Mac), so we can check which memory address the CPU is trying to read.
 
-I changed his code to read all 13 address bits on the 6507 (using Arduino's digital pins 0-12) and send the clock pulse via Arduino digital pin 13 (so I could "see" the clock pulses on my board's built-in LED, which is hard-wired to that pin).
+I changed his code to read all 13 address bits on the 6507 (using Arduino's digital pins 0-12, wired to the same-numbered 6507 address lines) and send the clock pulse via Arduino digital pin 13 (so I could "see" the clock pulses on my board's built-in LED, which is hard-wired to that pin).
 
 ### Playing
 
