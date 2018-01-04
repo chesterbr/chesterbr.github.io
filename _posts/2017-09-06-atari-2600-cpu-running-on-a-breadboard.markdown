@@ -36,7 +36,7 @@ The Arduino wiring consisted in matching the 6507 address lines to Arduino pins 
 
 ![](/img/2017/09/6507.jpg){: .center }
 
-**UPDATE**: It may be a bit confusing, so I transcribed it to a [Fritzing (.fzz) drawing](https://github.com/chesterbr/chesterbr.github.io/raw/master/img/2017/09/6507_memory_walk.fzz):
+**UPDATE**: It may be a bit confusing, so I transcribed it to a [Fritzing (.fzz) drawing](/img/2017/09/6507_memory_walk.fzz):
 
 ![](/img/2017/09/6507_memory_walk.png){: .center }
 
