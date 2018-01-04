@@ -32,9 +32,13 @@ Also following him, I added a push button between the ground and the reset pin, 
 
 Still on his footsteps, I added the decoupling capacitor (a 100nF, 20V non-polarized ceramic) close to the power pin, to ensure clean power to the chip. Finally, I hard-wired the binary value `11101010` to the data pins, by connecting 18, 19, 20, 22 and 24 (the `1`s) to 5V and pins 21, 23 and 25 (the `0`s) to ground. It sounds like an arbitrary value, but it will _also_ make sense later. For now, just keep in mind that this makes CPU "believe" it is connected to a ROM chip where every single byte is `11101010` (or `0xEA` in hexadecimal).
 
-Here is the finished job (there is also a [higher-resolution picture](/img/2017/09/6507_full.jpg)):
+The Arduino wiring consisted in matching the 6507 address lines to Arduino pins 0-12 (so we can see what address the CPU is trying to read or write), and Arduino pin 13 to ∅₀ (clock input). Here is the finished job (there is also a [higher-resolution picture](/img/2017/09/6507_full.jpg)):
 
 ![](/img/2017/09/6507.jpg){: .center }
+
+**UPDATE**: It may be a bit confusing, so I transcribed it to a [Fritzing (.fzz) drawing](/img/2017/09/6507_memory_walk.fzz):
+
+![](/img/2017/09/6507_memory_walk.png){: .center }
 
 You may notice the other two Atari chips above (should have labeled them "SOON" 😎) and, more important, an Arduino wired to the breadboard. It has two functions:
 
