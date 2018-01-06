@@ -32,13 +32,9 @@ Also following him, I added a push button between the ground and the reset pin, 
 
 Still on his footsteps, I added the decoupling capacitor (a 100nF, 20V non-polarized ceramic) close to the power pin, to ensure clean power to the chip. Finally, I hard-wired the binary value `11101010` to the data pins, by connecting 18, 19, 20, 22 and 24 (the `1`s) to 5V and pins 21, 23 and 25 (the `0`s) to ground. It sounds like an arbitrary value, but it will _also_ make sense later. For now, just keep in mind that this makes CPU "believe" it is connected to a ROM chip where every single byte is `11101010` (or `0xEA` in hexadecimal).
 
-Here is the finished job (there is also a [higher-resolution picture](/img/2017/09/6507_full.jpg)):
+Here is the first version of the finished job. It isn't super easy to follow (even in [higher resolution](/img/2017/09/6507_full.jpg), but check the UPDATE session below for a cleaner version and a drawing):
 
 ![](/img/2017/09/6507.jpg){: .center }
-
-**UPDATE**: Building from description may be a bit confusing (I even found a couple errors as I re-read it), so here is the [Fritzing (.fzz) drawing](/img/2017/09/6507_memory_walk.fzz):
-
-![](/img/2017/09/6507_memory_walk.png){: .center }
 
 You may notice the other two Atari chips above (should have labeled them "SOON" 😎) and, more important, an Arduino wired to the breadboard. It has two functions:
 
@@ -46,6 +42,8 @@ You may notice the other two Atari chips above (should have labeled them "SOON" 
 - Monitor the address lines, feeding the results to a trusty PC (or Mac), so we can check which memory address the CPU is trying to read.
 
 I changed his code to read all 13 address bits on the 6507 (using Arduino's digital pins 0-12, wired to the same-numbered 6507 address lines) and send the clock pulse via Arduino digital pin 13 (so I could "see" the clock pulses on my board's built-in LED, which is hard-wired to that pin).
+
+![solder-less breadboard ](/img/2017/09/breadboard.jpg){: .right }
 
 ### Playing
 
@@ -172,3 +170,13 @@ Anyway, I *think* the next steps should be:
 - Adding the TIA (likely the most complex part, given it will have to output the video signal somehow)
 
 Feasible? We'll see, we'll see.
+
+### UPDATE
+
+Building from description may be a bit confusing, so I made a [Fritzing (.fzz) drawing](/img/2017/09/6507_memory_walk.fzz):
+
+![](/img/2017/09/6507_memory_walk_bb.png){: .center }
+
+From that drawing, I rebuilt the experiment to weed out the last errors (🙏 ). Using shorter pieces of wire (except for the NOP and the Arduino connection, which will be removed as I add the other chips) and proper colors (red/blue for the 5V/GND connections, for example) resulted in a cleaner build:
+
+![cleaner version of the 6507 memory walk on a breadboard](/img/2017/09/6507_v2.jpg){: .center }
