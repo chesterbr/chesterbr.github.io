@@ -43,11 +43,11 @@ redirect_from: "/micros.html/"
 
   <tr>
     <td width="80" valign="top">
-      <a href="/micros_antigos.html"><img src="/img/micros/icone_antigos.jpg" border="1" alt="" /></a>
+      <a href="/micros_antigos"><img src="/img/micros/icone_antigos.jpg" border="1" alt="" /></a>
     </td>
 
     <td valign="top">
-      Outros <a href="/micros_antigos.html">micros e videogames antigos</a> que já passaram na minha mão.
+      Outros <a href="/micros_antigos">micros e videogames antigos</a> que já passaram na minha mão.
     </td>
   </tr>
 
