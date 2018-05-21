@@ -14,9 +14,9 @@ This was a rough year for me, so I haven't done much regarding hobby projects. B
 
 Unlike the Wii U (which had convenient plug-in stick units), the Pro Controller ones are soldered, so basic (de-)soldering skills are needed. On the plus side, the electronics aren't nearly as crammed - plus you aren't risking an irreplaceable part of the system, so as long as you used a soldering iron before, it can be done.
 
-The [replacement stick](https://ebay.to/2IACLf6) will take some time to arrive. Use it to  watch [someone taking the controller apart](https://www.youtube.com/watch?v=FRX-C7kjy4Y) so you know what to expect.
+The [replacement stick](https://ebay.to/2IACLf6) will take some time to arrive. Use it to  watch [someone taking the controller apart](https://www.youtube.com/watch?v=FRX-C7kjy4Y), so you know what to expect when it's your turn.
 
-First step: remove the handles (one screw each) and the back transparent plate (four screws) screws, getting access to the battery compartment. Then, remove the battery and the three screws (two on the top, one below), jiggle a bit and you'll separate the top part from the bottom.
+When the time comes: remove the handles (one screw each) and the back transparent plate (four screws) screws, getting access to the battery compartment. Then, remove the battery and the three screws (two on the top, one below), jiggle a bit and you'll separate the top part from the bottom.
 
 You are halfway done, but careful here: the two parts are connected by a tiny flat cable (which you don't want to damage). Disconnect it from the bottom (so it stays out of your way during the soldering work). Important: **don't use any tools**, just your finger and don't force it. See [this video](https://www.youtube.com/watch?v=C9PwK9eGrCY) and/or search for "how to open/close a ZIF connector".
 
@@ -34,4 +34,4 @@ Solder the new stick, then apply the reverse steps. Don't forget to put the flat
 
 [![click to enlarge](/img/2018/05/joystick_2.jpg){: .center }](/img/2018/05/joystick_2_l.jpg)
 
-The white screws go on the back plate, all other screws are the black ones (didn't check the handles, since the screws stayed in place). Take your time and you should have the controller working just as new, for just a few bucks and a bit of time (which you'd be wasting on a game anyway).
+The white screws go on the back plate, all other screws are the black ones (didn't check the handles, since the screws stayed in place). Be gentle, and you should have the controller working just like new, for just a few bucks and a bit of time (which you'd be wasting on a game anyway if the controller wasn't busted 😛).
