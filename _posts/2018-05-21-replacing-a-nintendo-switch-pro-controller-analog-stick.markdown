@@ -8,7 +8,7 @@ comments: true
 categories:
 ---
 
-This was a rough year for me, so I haven't done much regarding hobby projects. But a couple BFFs' had a Switch Pro Controller intermittently failing in one direction. I [saw this before on a Wii U](https://chester.me/archives/2016/02/wii-u-gamepad-left-analog-stick-replacement/), so I offered to repair when I had the chance.
+This was a rough year for me, so I haven't done much regarding hobby projects. But my BFFs had a Switch Pro Controller intermittently failing in one direction. I [saw this before on a Wii U](https://chester.me/archives/2016/02/wii-u-gamepad-left-analog-stick-replacement/), so I offered to repair when I had the chance.
 
 <!--more-->
 
