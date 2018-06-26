@@ -70,7 +70,7 @@ twitter_tweet_button: true
 google_analytics_tracking_id: UA-3152571-1
 
 # Facebook Like
-facebook_like: true
+facebook_like: false
 
 # Custom
 fb_app_id: 248802565130842
