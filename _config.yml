@@ -64,7 +64,8 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: chesterbr
-twitter_tweet_button: true
+twitter_tweet_button: false
+twitter_follow_button: false
 
 # Google Analytics
 google_analytics_tracking_id: UA-3152571-1
