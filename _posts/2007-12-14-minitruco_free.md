@@ -41,8 +41,8 @@ Screenshots:
   <a href="/minitruco"><img border="0" alt="veja esta página em português" src="/img/brflag.gif" /><br />Esta página em Português</a>
 </p></p>
 
- [1]: /m/deploy/miniTruco.jar
- [2]: /m/deploy/miniTruco.jad
+ [1]: /deploy/miniTruco.jar
+ [2]: /deploy/miniTruco.jad
  [3]: https://github.com/chesterbr/minitruco-j2me/blob/master/miniTruco/res/regras_en.txt
  [4]: https://github.com/chesterbr/minitruco-j2me/blob/master/miniTruco/res/instrucoes_en.txt
  [5]: http://www.gnu.org/copyleft/gpl.html
