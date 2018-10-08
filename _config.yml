@@ -73,9 +73,6 @@ google_analytics_tracking_id: UA-3152571-1
 # Facebook Like
 facebook_like: false
 
-# Custom
-fb_app_id: 248802565130842
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
