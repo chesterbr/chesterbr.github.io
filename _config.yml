@@ -16,7 +16,7 @@
 title: chester's blog
 email: cd@pobox.com
 author: Chester (Carlos Duarte do Nascimento)
-simple_search: //google.com/search
+simple_search: //duckduckgo.com
 subscribe_rss: http://feeds.feedburner.com/chesterbr
 #description: >- # this means to ignore newlines until "baseurl:"
 #  technology, travel, comics, books, math, web, software and random thoughts
@@ -68,13 +68,10 @@ twitter_tweet_button: false
 twitter_follow_button: false
 
 # Google Analytics
-google_analytics_tracking_id: UA-3152571-1
+# google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
-
-# Custom
-fb_app_id: 248802565130842
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
