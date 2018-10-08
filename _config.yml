@@ -68,7 +68,7 @@ twitter_tweet_button: false
 twitter_follow_button: false
 
 # Google Analytics
-google_analytics_tracking_id: UA-3152571-1
+# google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
