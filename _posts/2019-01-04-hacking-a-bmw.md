@@ -15,7 +15,7 @@ And when "the man" abuses its power, hacking ensues...
 
 The car's [on-board diagnostics (OBD)](https://en.wikipedia.org/wiki/On-board_diagnostics) port can be used to configure all sorts of settings - as long as you have the proper equipment. Enter [BimmerCode](http://www.bimmercodeapp.com), a smart app that allows a smartphone to read/change those settings through an [OBD adapter](http://www.bimmercodeapp.com/adapter/) - a dongle that plugs into the port and connects to the phone via Bluetooth.
 
-_**Fair warning**: there must be a dozen ways that you may render your car unusable by changing those settings (names suggest they affect things like the engine and fuel injection). Don't do anything unless you are confident **and** can afford to have the car towed and fixed by those same dealers that wanted to charge you for enabling the software in the first place..._
+_**Fair warning**: there must be a dozen ways in which you can render your car unusable by changing those settings (names suggest they affect things like the engine and fuel injection). Don't do anything unless you are confident **and** can afford to have the car towed and fixed by those same dealers that wanted to charge you for enabling the software in the first place..._
 
 ![Console OBD slot and dongle](/img/2019/01/bmw-console-obd-slot.jpg)
 
