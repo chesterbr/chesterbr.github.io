@@ -39,4 +39,6 @@ Regarding the last item: the pods are kept closed by thin rubber bands, which te
 
 Took me a few weeks get used to the extra work, but I'm happy with the result: still convenient, yet cheaper, near-endlessly-varied and environmentally-responsible coffee!
 
+**UPDATE:** Since I wrote this, I learned a couple things aboug grinding and avoiding leaks, so check out [the new post](({% link _posts/2019-02-01-more-tips-on-reusable-coffee-pods-in-keurig-coffee-makers.md %})).
+
 ![poorly-scanned Cafe Cup instructions ](/img/2017/07/cafe-cup-instructions-leaflet.jpg){: .center }
