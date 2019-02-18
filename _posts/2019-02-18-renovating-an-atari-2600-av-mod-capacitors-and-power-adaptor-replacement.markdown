@@ -16,6 +16,8 @@ The console generates a TV signal, which the TV has to tune in just like a norma
 
 That quirky setup led me to make the popular A/V conversion ("mod") - and, while at it, replace the power adaptor (with one that I can actually keep on the wall without fear of burning down the house) and capacitors (something that [should be done](https://antiqueradio.org/recap.htm) to any vintage electronics that you want to keep humming).
 
+<!--more-->
+
 There are [different types](http://www.cheeptech.com/2600mods/2600mods.shtml) of of mods, varying in how they mix (or split) the video and audio signal and what sort of output they generate. I opted to get an A/V output from the signals mixed by the Atari board (but before they get modulated into a TV signal), with the video one amplified by a single transistor and a couple resistors.
 
 I based my mod on [this version](http://blog.tynemouthsoftware.co.uk/2015/02/atari-2600-composite-video-modification.html), which throws in a third 75Ω resistor that adjusts the impedance. Following the schematics there, I aligned the components like this (transistor is a 2N3904, flat side up; resistors are, from left to right, 75Ω, 3K3Ω and 2K2Ω):
