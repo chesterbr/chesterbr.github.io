@@ -2,7 +2,7 @@
 layout: post
 title: "Renovating an Atari 2600 (AV mod + capacitor/power adaptor replacement)"
 date: 2019-02-18 12:10
-og_image: /img/2019/02/atar.jpg
+og_image: /img/2019/02/atari.jpg
 description: "Giving this venerable dark beauty a bit of love for improved audio, video and fun."
 comments: true
 categories:
