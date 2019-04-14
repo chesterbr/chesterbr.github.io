@@ -10,7 +10,7 @@ categories:
 
 A while ago I built a couple inexpensivehacks that added [voice-command to my tv]({% post_url 2017-12-10-voice-control-for-a-non-smart-tv-with-google-home-raspberry-pi-lirc-nginx-lua-ifttt %}) and then [to my lights]({% post_url 2017-12-26-controlling-rf-outlets-from-a-raspberry-pi %}) using a Raspberry Pi, Google Home Mini, infrared and RF radio. Since then, I added other things, which prompted me to move the hacks into the popular [Home Assistant](https://www.home-assistant.io/) home hub software.
 
-With so much of my routine depending on that setup, backup became a concern. I'd do the occasional copy of the SD card, but that isn't a good long-term solution. Ideally, I wanted to be able to rebuild my setup easily should the card get corrupt, slow or just tainted by my ongoing hacks.
+With so much of my routine depending on that setup, backup became a concern. I'd do the occasional copy of the SD card, but that isn't a good long-term solution. Ideally, I wanted to rebuild my setup easily, should the card get corrupt, slow or just wrecked by my ongoing hacking.
 
 ![](/img/2019/04/raspberry-pi-with-ir-blaster-rf-transmitter.jpg){: .center }
 
