@@ -61,8 +61,8 @@ The automatic Home Assistant updates are appealing, but with my solution, I can 
 
 ### Wait, so you do things on the Pi _without_ Ansible? Won't your changes be overwritten when you run it?
 
-**Oh yes I do!** With gusto - the main point of having a custom-made solution (other than cost and security) is tinkering. Ansible makes me confident that I can rebuild the whole thing quickly if I screw up badly, but yes, that requires me to keep the Ansible file up-to-date.
+**Oh yes I do!** With gusto. The main point of having a custom-made solution (other than cost and security) is tinkering. Ansible makes me confident that I can rebuild the whole thing quickly if I screw up, but yes, that requires me to keep the Ansible file up-to-date.
 
-That's is easier than it sounds: once I'm happy with any changes, I just type `history` and figure which steps (installed packages, changed config files) are _really_ needed, and add those to the playbook. Run it a few times, undo some changes and check that it does nothing when changes are already there and that's it.
+That's actually easier than it sounds: once I'm happy with my changes, I type `history` and figure which steps (installed packages, changed config files) are _really_ needed, and add those to the playbook. Run it a few times, undo some changes, check that it does nothing when changes are already there... and that's it.
 
 If the change was super complex and I'm afraid I forgot something, I can always run the playbooks against a fresh card, pop it in and kick the tires - it's a great opportunity to get a fresh, snappy OS install for my tiny computer!
