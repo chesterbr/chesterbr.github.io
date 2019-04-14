@@ -65,4 +65,4 @@ The automatic Home Assistant updates are appealing, but with my solution, I can 
 
 That's actually easier than it sounds: once I'm happy with my changes, I type `history` and figure which steps (installed packages, changed config files) are _really_ needed, and add those to the playbook. Run it a few times, undo some changes, check that it does nothing when changes are already there... and that's it.
 
-If the change was super complex and I'm afraid I forgot something, I can always run the playbooks against a fresh card, pop it in and kick the tires - it's a great opportunity to get a fresh, snappy OS install for my tiny computer!
+If the change was super complex and/or I'm afraid I forgot something, I can always run the playbooks against a fresh card, pop it in and kick the tires - it's a great opportunity to get a fresh, snappy OS install for my tiny computer!
