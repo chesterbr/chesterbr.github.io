@@ -8,7 +8,7 @@ comments: true
 categories:
 ---
 
-A while ago I built a couple inexpensivehacks that added [voice-command to my tv]({% post_url 2017-12-10-voice-control-for-a-non-smart-tv-with-google-home-raspberry-pi-lirc-nginx-lua-ifttt %}) and then [to my lights]({% post_url 2017-12-26-controlling-rf-outlets-from-a-raspberry-pi %}) using a Raspberry Pi, Google Home Mini, infrared and RF radio. Since then, I added other things, which prompted me to move the hacks into the popular [Home Assistant](https://www.home-assistant.io/) home hub software.
+A while ago I built a couple inexpensive hacks that added [voice-command to my tv]({% post_url 2017-12-10-voice-control-for-a-non-smart-tv-with-google-home-raspberry-pi-lirc-nginx-lua-ifttt %}) and then [to my lights]({% post_url 2017-12-26-controlling-rf-outlets-from-a-raspberry-pi %}) using a Raspberry Pi, Google Home Mini, infrared and RF radio. Since then, I added other things, which prompted me to move the hacks into the popular [Home Assistant](https://www.home-assistant.io/) home hub software.
 
 With so much of my routine depending on that setup, backup became a concern. I'd make an occasional copy of the SD card with `dd`, but that isn't a good long-term solution. Ideally, I wanted to rebuild my setup easily, should the card get corrupt, slow or just wrecked by my ongoing hacking.
 
