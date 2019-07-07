@@ -3,7 +3,7 @@ layout: post
 title: "Fixing a loose Nintendo Switch Joy-Con"
 date: 2019-07-06 21:00
 og_image: "/img/2019/06/joycon_replacement.jpg"
-description: "Replacing a tiny latch on the Switch controller fixes it when it snaps out of the console during gameplay."
+description: "Joy-Con snapping out of the console during gameplay? Replacing a tiny latch on the controller fixes that."
 comments: true
 categories:
 ---
