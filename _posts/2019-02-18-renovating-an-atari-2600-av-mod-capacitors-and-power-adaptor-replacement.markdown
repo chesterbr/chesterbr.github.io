@@ -28,19 +28,19 @@ There are ready-made circuit boards, but I just cut a piece of protoboard. Hint:
 
 ![](/img/2019/02/av-mod-front.jpg){: .center }
 
-The layout reduced the number of connections, so I could just throw an extra gob of solder over the terminals before cutting to make them. Maybe I could have used a little _less_ solder, but heh, it worked.
+The layout reduced the number of connections, so I could just throw an extra gob of solder over the terminals before cutting to make the jumper connections. Maybe I could have used a little _less_ solder, but heh, it worked.
 
 ![](/img/2019/02/av-mod-back.jpg){: .center }
 
-You need to pick up Video In signal and the +5V/GND from the Atari board. Mine was a Rev 16, which has those three right on the connector of the RF box. That box had to be removed anyone - but totally worth it for freeing some space to put the board on.
+You need to pick up _Video In_ and _+5V_/_GND_ from the Atari board. Mine was a Rev 16, which has those three right on the connector of the RF box. That box had to be removed anyway, and doing so opened some space for the protoboard.
 
 ![](/img/2019/02/audio-out.jpg){: .center }
 
-Audio comes straight from the Atari board into the inner part of the audio jack. I strongly recommend checking [this PDF mod assembly guide](http://www.coolretroprojects.com/Atari_2600_AV_Mod_Installation_Guide.pdf) to figure out where to pick it up in your particular model/board revision.
+Audio comes straight from the Atari board into the inner part of the audio jack. I strongly recommend checking this [mod assembly guide](http://www.coolretroprojects.com/Atari_2600_AV_Mod_Installation_Guide.pdf) to figure out where to pick it up in your particular model/board revision.
 
 ![](/img/2019/02/av-rear-connectors.jpg){: .center }
 
-The guide also helps figuring out which components to remove in order to reduce interference. I was able to test before removing anything from the board (just disconnected the RF box, something easy to revert if it did't work). I just removed one resistor (R209) and one transistor (Q202).
+The guide also helps figuring out which components to remove in order to reduce interference. I was able to test before removing anything from the board (just disconnected the RF box, something easy to revert if it did't work). I just cut one resistor (R209) and one transistor (Q202).
 
 This is a good moment to replace the capacitors. Again, each model has its own set, but [this thread](http://atariage.com/forums/topic/262206-cap-and-vr-kit-specifications-replacement-locations-for-the-2600-variants/) has it figured out. I could not find a bulky C243 (guess the technology for eletrolytics improved), but stretching the legs on the modern one allowed me to solder it.
 
