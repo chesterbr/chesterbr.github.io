@@ -40,7 +40,7 @@ Splitting things like that (and using MQTT as the glue) means I don't have to wr
 
 I got a new [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3/) for the project (my other Arduino clones/models lacked the memory requirements for OpenMQTTGateway). Since it needs to send the events to the network, I added an [Ethernet Shield](https://www.amazon.ca/dp/B00HG82V1A/ref=pe_3034960_236394800_TE_dp_1), and for RF I used my newest [Long Range 433Mhz RF Receiver module](https://www.dx.com/p/open-smart-long-range-433mhz-rf-wireless-transceiver-kit-for-arduino-2004619#.XT5sQCUpCtE). The long range and built-in antenna made this my receiver of choice over the [more popular](https://www.dx.com/p/rf-transmitter-receiver-module-433mhz-wireless-link-kit-w-spring-antennas-for-arduino-2057011#.XT5tMiUpCtF) RF modules - and it's just as cheap as those.
 
-By bending the data output pin on the RF receiver a little bit, the receiver can be inserted directly on the shield, just matching the VCC and GND pins with the 5V and GND holes (respectively). The data pin can be then connected to Arduino digital input 3 hole with a small [breadboard jumper wire](https://www.dx.com/p/diy-male-to-female-dupont-breadboard-jumper-wires-black-multi-color-40-pcs-10cm-2045521#.XT5t8yUpCtE).
+By bending the data output pin on the RF receiver a little bit, the receiver can be inserted directly on the shield, just matching the VCC and GND pins with 5V and GND on the board (respectively). The data pin can be then connected to Arduino digital input 3 with a small [breadboard jumper wire](https://www.dx.com/p/diy-male-to-female-dupont-breadboard-jumper-wires-black-multi-color-40-pcs-10cm-2045521#.XT5t8yUpCtE).
 
 The final result is a bit taller than I wished, but hey, no soldering required:
 
@@ -94,7 +94,9 @@ Here are the changes I made to [User_config.h](https://github.com/1technophile/O
 #define valueAsASubject true
 ```
 
-Uploading a sketch with those changes will make the Arduino connect to your broker. If you still have `mosquitto_sub -t \# -v` open, you should see something like:
+Uploading a sketch with those changes will make the Arduino connect to your broker (Serial Monitor on the IDE will help you debugging; fiddle with baud speed until you see text instead of garbage).
+
+If you still have `mosquitto_sub -t \# -v` open, you should see something like:
 
 ```
 home/OpenMQTTGateway/LWT online
@@ -207,8 +209,9 @@ How cool is that? Not at all? Well... _I_ find it cool. 🤓
 
 ### Possible improvements
 
-I'm quite happy with the results, but some things might be improved:
+I'm quite happy with the results so far, but here are some things that could be improved:
 
+- Maybe I could bend the two pins and keep the data one straight, fitting the RF module in parallel with the other boards and reducing the height. On the other hand, this mount keeps the antenna high... decisions, decisions. 🤔
 - The sensors aren't bad for their price, but I found that often batteries can get displaced (depending on how you hang the sensor's main unit). If I keep working with those, I may consider some adaptation to the case (for now, some tape did the trick).
 - The Arduino + Ethernet shield are a good option if you have them lying around. But an [ESP8266](https://en.wikipedia.org/wiki/ESP8266) would likely be a better choice, with its built-in Wi-Fi, small size and [ridiculous price](https://www.dx.com/p/nodemcu-lua-esp8266-wifi-development-board-2607279#.XUD5JCUpCtE).
 - I use the Raspberry Pi to control [my TV with an IR blaster](https://chester.me/archives/2017/12/voice-control-for-a-non-smart-tv-with-google-home-raspberry-pi-lirc-nginx-lua-ifttt/) and [lights using 433MHz RF outlets](https://chester.me/archives/2017/12/controlling-rf-outlets-from-a-raspberry-pi/), which require some software setup that often breaks as Raspbian and Home Assistant get updates. Maybe I could offload those functions to the Arduino (or ESP8266).
