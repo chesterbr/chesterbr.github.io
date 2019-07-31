@@ -156,7 +156,7 @@ Once you restart, the sensors should be available in your Home Assistant main da
 
 ![](/img/2019/06/home_assistant_sensors.png){: .center }
 
-The page updates dynamically, so you should see them flip as you wet the sensors, then go back after 10s (or how many you set the `off_delay` above):
+The page updates dynamically, so you should see them flip as you wet the sensors, then go back after 10s (or how long you set the `off_delay` above):
 
 ![](/img/2019/06/home_assistant_sensors_wet.png){: .center }
 
