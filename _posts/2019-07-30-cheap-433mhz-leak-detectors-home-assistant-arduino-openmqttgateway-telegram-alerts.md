@@ -127,6 +127,7 @@ The trigger was tempting for my goal (getting notifications on my computer/phone
 
 Just add these values to `configuration.yaml`, one `-` session for each sensor (replacing "11111111", "22222222", etc. with the `VALUE`s from `mosquitto_sub` or `RFSniffer`):
 
+<!-- {% raw %} -->
 ```yaml
 binary_sensor:
   - platform: mqtt
@@ -147,6 +148,7 @@ binary_sensor:
     name: Some Other Leak Sensor
     ...
 ```
+<!-- {% endraw %} -->
 
 Once you restart, the sensors should be available in your Home Assistant main dashboard. I manually config mine, so I built a nice little card with them:
 
