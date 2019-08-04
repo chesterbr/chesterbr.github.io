@@ -117,7 +117,7 @@ First thing is to make Home Assistant aware of your new broker. You can do it on
 
 ```yaml
 mqtt:
-  broker: IP_ADDRESS_BROKER
+  broker: localhost
 ```
 
 That will make Home Assistant subscribe to the broker, but you need to expose the events. There are two ways:
