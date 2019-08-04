@@ -32,7 +32,7 @@ Eventually, I realized it is more of a divide-and-conquer approach, with these p
 
 Splitting things like that (and using MQTT as the glue) means I don't have to write _any_ new software:
 
-- [Moskitto](https://mosquitto.org/) is an MQTT broker that runs on the Pi and requires no configuration at all.
+- [Mosquitto](https://mosquitto.org/) is an MQTT broker that runs on the Pi and requires no configuration at all.
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) transforms Arduino-compatible devices in monitors for all sorts of inputs (including our 433Mhz RF), publishing  their signals as MQTT events into a broker.
 - Home Assistant has an [MQTT integration](https://www.home-assistant.io/components/mqtt/) that, once properly configured, consumes events from a broker and exposes them as [sensors](https://www.home-assistant.io/components/sensor/).
 
