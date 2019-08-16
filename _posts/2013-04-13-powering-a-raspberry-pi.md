@@ -13,9 +13,7 @@ The [Raspberry Pi][1] is powered through an standard micro-USB conector. That is
 
 I thought I had it covered with my [iPad charger][2] and its [juicy 2.1A][3], but the video below shows that voltage also plays a role (and that the iPad charger doesn&#8217;t really deliver in that respect):
 
-<div style="text-align: center;">
-  <iframe width="560" height="315" frameborder="0" allowfullscreen="" src="http://www.youtube.com/embed/XX3kiRUf7mg"></iframe>
-</div>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/XX3kiRUf7mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 [USB specs][4] say you should have 5V ± 0.25V from a source, and the Pi also expects that, so I bought a $9 KDL-5100A at my [electronics parts supplier][5]. It is physically identical to [the FY0501000 linked on the video][6], and indeed, performed better than the iPad charger&#8230; but still below 4.75.
 
