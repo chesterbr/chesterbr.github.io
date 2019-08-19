@@ -11,6 +11,8 @@ Dynamic DNS providers like [DynDNS](https://dyn.com/dns/) or [Duck DNS](https://
 
 One problem that I was having with them: the custom URL did not work _inside_ my network, just outside. That happens because my router does not support [NAT loopback](https://en.wikipedia.org/wiki/Network_address_translation#NAT_loopback), blocking any requests from the internal network to the external IP (which is what my custom domain points to).
 
+<!--more-->
+
 On a computer, it is easy to fix. Let's assume your custom domain is `foobar.duckdns.org`, and the _internal_ IP (the one you configured the router to forward a given port to) is 1.2.3.4 (replace in all commands here). Adding a line like this to `/etc/hosts` (and commenting it out if the computer ever leaves the house) does it:
 
 ```
