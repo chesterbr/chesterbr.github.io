@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/chesterbr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chester.me
+  * I am chesterbr (https://keybase.io/chesterbr) on keybase.
+  * I have a public key with fingerprint B26F 1A11 370A CB21 35B5  6469 1B8A C8B8 3B04 9C92
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015016a0b28552a5c78ff891806789b5ae1815f5771ac5cf6c05ab7e1cb0b9c5630a",
+      "fingerprint": "b26f1a11370acb2135b564691b8ac8b83b049c92",
+      "host": "keybase.io",
+      "key_id": "1b8ac8b83b049c92",
+      "kid": "01015016a0b28552a5c78ff891806789b5ae1815f5771ac5cf6c05ab7e1cb0b9c5630a",
+      "uid": "fe848a2d7ec1e2cae70ecc63d60f6900",
+      "username": "chesterbr"
+    },
+    "merkle_root": {
+      "ctime": 1570814903,
+      "hash_meta": "ad0231beb4989f2cdc2ef7cb82c8d02719ce15bc7083973544be8b29b8f8e7f4",
+      "seqno": 8018891
+    },
+    "revoke": {
+      "sig_ids": [
+        "c2deb355a134f5cb62598ee4af22b5c228d53778a63d187346369397442292fb0f"
+      ]
+    },
+    "service": {
+      "hostname": "chester.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1570814905,
+  "expire_in": 157680000,
+  "prev": "18011b81f024d316131ad9f36f54a34b416ad7d7b64412a3b99814f54a1ef567",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMK0AnicrVNbaFxFGN602tZtShN8UCgBPXhBumnnemZmMQoNPhQrQgVR2ridmTOT
+PdnsnvWck61p3FIKmipF8qKWCrW2JA9GihSKtKEgvSR4aYsBJSrFQiulqdZiMKUP
+XuYsiig+Oi/D/PP93//93/xzZtXSXL5t8d3m3Nz4U1faPjs1NJTrOzh1fMRTUTDs
+FUe8imltZjAwSVqqhIFX9AAEkALoS6AQpxRJqhm3lgvIgc+4UFQayCG1lDEoNdXW
+14BKxQzUCiihqY+B9AqeDWv9Jq7HYS11tAr5FkoIMQNSKwQxVdQnvoCKS80VxwoQ
+oQVyieUoyTKcOCUTsy6MXMwdSi15/4H/n3UPteis4YRLFDCjoUFaGgaM1j4OfGB9
+AUAGTExck1Xj0LrsDDSxir1mwauauDJoSnEUpZm7Og0zDKQMcEgEwK5DmZRLVZNK
+lyoDgDBURhHBhUU60MhYphVHmrsrBoU2kCrtsrFgmBKiDFdIKG65YZY4IYl5sRZ5
+RQ4gd+06BbFpRBWTFU/Cfudb4hW3eBoFRmFKJcTEUq18RAU3hkiLkKIaIR5QzBiX
+rknIGSY+9oUrSQhCAlkFrNfXzIrFjVC3yLOH+qcB69yh4NXjKI10NOji5TStJ8XM
+lXS4ngG3G1X6k6KkwlrghsRlNEychFHNueSQ/zaMFjzzUj2MTSmstcI+B25ldUwj
+GwnXuBsLaAEiAYY+xFAGwmLfUiIxUcQNRcACpnxCIJJYCeF4s0toLPXZ3w4i5HTK
+fsfpfKvJdCg2XvPUx1vvyLXlc8vuXJL9nlz+ro6//lRzfvnvmzbyC1OvNX4+tOfp
+xyy+veHVgUdWLrm95Z4Hxva//NXwT/ej9vFzo+8HZN/ijd57WWFu9tB9zZ0LrGvy
+evfi9C3BJsc6Jg/XP0g3XVs6ADc/d7G749tXQPVkD/2199mpzmPLe/eu3fzLwNfb
+v3vvwFvztw6ujV5Y8N4kx2XF73/988PX8dXxFasfGvtydb7t9J7ZlUefrMYbpnu6
+dpzx2qe/XzVx4rc1M/zy40e7d2+d6Ju/tPD284Ndd6+4vPedgbPBzavdj3a2i53f
+fPGh/XTXjWPFZy5t6/xx19kfrpxcduDI1M2R8+fWjD6Yv5hMzFXUxk8e3vdR2V4L
+Zy6ceGI2Pj/zxvr1+0d39+z4A1AKhNk=
+=fga1
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chesterbr
+
+==================================================================
