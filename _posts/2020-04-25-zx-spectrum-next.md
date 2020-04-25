@@ -10,7 +10,7 @@ categories:
 
 The [ZX Spectrum Next](https://www.kickstarter.com/projects/1835143999/zx-spectrum-next) was a Kickstarter-backed initiative aiming to recreate the iconic ZX Spectrum using FPGA and lots of ingenuity. I am a bit too Marie-Kondo-ed for physical retrocomputing these days, and, on top of that, have been skeptical of such projects (for [good reasons](https://vintageisthenewold.com/failed-campaign-recreated-zx-spectrum-backers-unlikely-to-get-their-devices/)).
 
-However, this one had names like Victor Trucco (one of the most respected Brazilian retrocomputing hackers) and Rick Dickinson (industrial designer behind several Sinclair computer cases, who sadly passed away before it was finished) behind it, so in May 2017 I gave it a shot and backed the campaign in exchange for a unit.
+However, this one had names like [Victor Trucco](https://www.victortrucco.com/) (one of the most respected Brazilian retrocomputing hackers) and [Rick Dickinson](https://www.theregister.co.uk/2018/04/26/rick_dickinson_dies/) (industrial designer behind several Sinclair computer cases, who sadly passed away before it was finished) behind it, so in May 2017 I gave it a shot and backed the campaign in exchange for a unit.
 
 Expected to ship January 2018, it was delayed for more than two years, but for good reasons: the people behind the project would not accept anything but the best quality, continuously pressuring manufacturers to go on-spec. And it was worht the wait - the computer is sturdy and gorgeous:
 
