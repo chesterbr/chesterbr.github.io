@@ -20,7 +20,7 @@ Embora o jogo não use (nem de longe) os recursos dos PCs modernos, os e-mails q
 
 ### Jogue no Navegador
 
-Graças ao [PCjs][10] (© 2012-2013 por [@jeffpar][8]</a>), você pode jogar sem sair desta página, guardando o ponto onde está e até os saves! Ao menos no Firefox, roda 100%:
+Graças ao [PCjs][10] (© 2012-2013 por [@jeffpar][8]), você pode jogar sem sair desta página, guardando o ponto onde está e até os saves! Ao menos no Firefox, roda 100%:
 
 <button type="button" onClick="i=document.getElementById('iframe_epaminondas'); i.height='530px'; i.src='/epaminondas/'; i.scrollIntoView();" >Clique Aqui Para Abrir o Jogo!</button>
 
