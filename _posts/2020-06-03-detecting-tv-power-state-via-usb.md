@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Detecting TV power state via USB"
-date: 2019-06-03 19:00
 og_image: /img/2020/06/tv-usb-esp.png
 description: "Making Home Assistant turn a non-CEC TV on/off based on Chromecast usage required it to know if the TV is on or off. Here is how I did it."
 comments: true
