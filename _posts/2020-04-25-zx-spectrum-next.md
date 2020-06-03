@@ -30,7 +30,7 @@ In Brazil (where, at the time, it was legal to clone any foreign computer) we ha
 
 (I _did_ eventually own a ZX Spectrum +2 as a retrocomputing enthusiast, but that's [another story](https://chester.me/spectrumplus2/) entirely. Back to the ZX Spectrum Next!)
 
-### Packaging, Manulal and Unboxing
+### Packaging and Manual (also: unboxing video 🙈)
 
 Computer boxes at that time were neitehr the unimaginative packaging of typical PCs, nor the sterile whiteness of Apple ones. They used to showcase what the computer could do, and the Next goes with that idea, but with a modern look. I loved it.
 
