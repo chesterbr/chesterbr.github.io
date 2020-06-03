@@ -3,7 +3,7 @@ layout: post
 title: "Detecting TV power state via USB"
 date: 2019-06-03 19:00
 og_image: /img/2020/06/tv-usb-esp.png
-description: "Making hake Home Assistant turn a \"dumb\" TV on/off based on Chromecast usage"
+description: "Making hake Home Assistant turn a non-CEC TV on/off based on Chromecast usage"
 comments: true
 categories:
 ---
