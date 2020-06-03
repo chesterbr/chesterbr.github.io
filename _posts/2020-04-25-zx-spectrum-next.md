@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "ZX Spectrum Next"
-date: 2020-04-25 23:45
 description: "I got a new computer. Or is it a 38 years old one?"
 comments: true
 og_image: /img/2020/04/next_large.jpg
