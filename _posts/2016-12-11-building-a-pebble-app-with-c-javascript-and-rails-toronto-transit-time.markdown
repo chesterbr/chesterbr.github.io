@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Building a Pebble app with C, JavaScript and Rails (Toronto Transit Time)"
-date: 2016-12-11 22:20
 comments: true
 og_image: /img/2016/12/banner.png
 categories:

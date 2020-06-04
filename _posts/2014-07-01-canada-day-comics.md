@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Canada Day Comics"
-date: 2014-07-01 15:30
 comments: true
 og_image: /img/2014/07/canada_bubble.png
 categories:

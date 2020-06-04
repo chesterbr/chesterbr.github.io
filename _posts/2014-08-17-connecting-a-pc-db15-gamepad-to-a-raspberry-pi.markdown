@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Connecting a PC (DB15) Gamepad to a Raspberry Pi"
-date: 2014-08-17 01:20
 comments: true
 og_image: /img/2014/08/final.jpg
 categories:

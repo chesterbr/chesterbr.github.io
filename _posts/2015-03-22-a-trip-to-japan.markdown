@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A Trip To Japan"
-date: 2015-03-30 22:50
 comments: true
 og_image: /img/2015/03/map.jpg
 categories:

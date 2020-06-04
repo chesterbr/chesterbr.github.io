@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "2048 2600: The 2048 game for the Atari 2600"
-date: 2014-03-25 00:54
 comments: true
 og_image: /img/2014/03/2048-2600.png
 categories:

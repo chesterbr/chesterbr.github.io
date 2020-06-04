@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "London, Paris and Reykjavík: A One-Week Vacation"
-date: 2013-11-10 23:35
 comments: true
 categories:
 ---

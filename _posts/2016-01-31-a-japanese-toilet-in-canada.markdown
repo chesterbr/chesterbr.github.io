@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A Japanese Toilet in Canada"
-date: 2016-01-31 15:24
 comments: true
 og_image: /img/2016/01/remote.jpg
 description: How I managed to install a Jetsons-style washlet in my apartment's small washroom.

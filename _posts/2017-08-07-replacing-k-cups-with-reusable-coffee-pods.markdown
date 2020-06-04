@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Replacing K-Cup®s with reusable coffee pods"
-date: 2017-08-07 18:02
 comments: true
 categories:
 description: "This post isn't about electronics or software hacks, but touches something that often fuels the former ones: coffee! ☕️"

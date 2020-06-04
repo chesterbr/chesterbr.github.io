@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Day Job - A Story of Chasing Dreams"
-date: 2013-10-20 21:22
 comments: true
 categories:
 ---

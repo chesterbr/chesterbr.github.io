@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Five Canadian provinces in fifteen days"
-date: 2015-09-27 17:59
 comments: true
 og_image: /img/2015/09/map.png
 description: "As part of my current sabbatical, I decided to learn more about Canada. This is a wrap-up on this 6-city, 5-province trip"

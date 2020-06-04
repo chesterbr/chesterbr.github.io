@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Running ruby2600 in a browser with Opal"
-date: 2014-02-16 21:58
 comments: true
 og_image: /img/2014/02/ruby2600_fb_logo.png
 categories:

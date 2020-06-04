@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Atari 2600 CPU running on a breadboard"
-date: 2017-09-09 04:00
 og_image: /img/2017/09/6507.jpg
 description: "First step of an ambitious idea: rebuilding an Atari on a solderless breadboard, mostly so I can poke it with a stick. Or a multimeter."
 comments: true

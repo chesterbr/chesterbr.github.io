@@ -2,7 +2,6 @@
 layout: post
 title: "Things I learned about investing in charities in Canada"
 description: "It takes some time to figure out how to make the best use of the time and money invested in charity. Here are a few (Canada-specific) things I learned."
-date: 2016-12-30 12:30
 og_image: /img/2016/12/kindness.jpg
 comments: true
 categories:

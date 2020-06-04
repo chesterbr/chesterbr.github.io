@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Toronto Mini Maker Faire 2013"
-date: 2013-09-21 22:26
 comments: true
 categories:
 ---

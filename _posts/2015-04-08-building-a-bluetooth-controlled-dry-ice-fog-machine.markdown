@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Building a Bluetooth-Controlled Dry Ice Fog Machine"
-date: 2015-04-08 02:00
 comments: true
 og_image: /img/2015/03/fog_dry_ice.jpg
 categories:

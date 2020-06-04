@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Fixing Screen Tear on a Pebble Classic With... Toilet Paper!"
-date: 2015-11-18 22:57
 comments: true
 og_image: /img/2015/11/tearing.jpg
 description: Just fixed my first-gen Pebble with this unusual choice of padding material.

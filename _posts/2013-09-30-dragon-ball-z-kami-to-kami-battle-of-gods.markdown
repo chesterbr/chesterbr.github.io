@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Dragon Ball Z: Kami to Kami (Battle of Gods)"
-date: 2013-09-30 00:05
 comments: true
 categories:
 ---
