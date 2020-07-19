@@ -2,7 +2,7 @@
 layout: post
 title: "Building a classic XBox to USB adapter (to use a RedOctane Ignition DDR mat to a computer)"
 og_image: "/img/2020/07/box-final.jpg"
-description: "This is the best DDR pad money can buy. With some wiring, the groove continues in 2020!"
+description: "This is the best DDR pad you could have back in the days. With some wiring, the groove continues in 2020!"
 comments: true
 categories:
 ---
