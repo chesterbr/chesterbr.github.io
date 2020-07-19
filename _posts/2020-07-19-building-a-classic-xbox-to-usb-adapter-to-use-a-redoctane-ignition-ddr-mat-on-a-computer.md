@@ -32,7 +32,7 @@ I was going to solder them together and tape (like the video), but it seemed too
 
 ![Durepoxy is great. And nowhere to be found in Canada. It is likely a health hazard](/img/2020/07/protoboard-on-box.jpg){: .center }
 
-Ugly, I know, but sturdy. Once I closed the box, some cleanup and finish with electrical tape, it looked much better:
+Ugly, I know, but sturdy. Once the box was closed, had some cleanup and electrical tape finished, it looked much better:
 
 ![Noice](/img/2020/07/box-final.jpg){: .center }
 
