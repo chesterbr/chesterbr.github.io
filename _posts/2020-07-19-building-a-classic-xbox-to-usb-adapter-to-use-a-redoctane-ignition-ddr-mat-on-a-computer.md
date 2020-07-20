@@ -45,3 +45,5 @@ With that set, I downloaded [Stepmania](https://github.com/stepmania/stepmania/r
 !["Let's MAX, I mean... who do you verb Stepmania?"](/img/2020/07/mat-and-stepmania.jpg){: .center }
 
 P.S.: If you can't find the original XBox breakaway cable, [this page](https://www.instructables.com/id/Clean-and-EASY-convert-original-Xbox-controller-to/) says an XBox 360 one (which is already USB on the other end) will do, as long as you sand the connector a bit to make it fit on the mat/controller. I'm curious to try that.
+
+Photos: [Raquel Camargo](http://raquelcamargo.com/pt/)
