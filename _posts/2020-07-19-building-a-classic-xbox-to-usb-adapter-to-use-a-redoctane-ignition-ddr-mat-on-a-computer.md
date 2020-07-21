@@ -36,13 +36,15 @@ Ugly, I know, but sturdy. Once the box was closed, had some cleanup and electric
 
 ![Noice](/img/2020/07/box-final.jpg){: .center }
 
-As for the software, I used this [macOS XBox Controller Driver](https://sourceforge.net/projects/xhd/). To test it (and Mac controllers in general), I recommend [Controllers Lite](https://apps.apple.com/ca/app/controllers-lite/id673660806?mt=12):
+As for the software, I used this [macOS XBox Controller Driver](https://sourceforge.net/projects/xhd/). To test it (and Mac controllers in general), I recommend [Controllers Lite](https://apps.apple.com/ca/app/controllers-lite/id673660806?mt=12).
 
 ![Controllers lite - my adaptor works \o/](/img/2020/07/controllers-lite.png){: .center }
 
 With that set, I downloaded [Stepmania](https://github.com/stepmania/stepmania/releases), addded some songs from the usual places, and spent a great afternoon playing! 🕺
 
 !["Let's MAX, I mean... who do you verb Stepmania?"](/img/2020/07/mat-and-stepmania.jpg){: .center }
+
+A positive surprise was that no remapping was needed: Controllers Lite shows the arrows registering both as axis and button presses, and StepMania recognizes the arrows as it should, the A/B buttons as OK/back, and even the cancellation shortcuts with select+start.
 
 P.S.: If you can't find the original XBox breakaway cable, [this page](https://www.instructables.com/id/Clean-and-EASY-convert-original-Xbox-controller-to/) says an XBox 360 one (which is already USB on the other end) will do, as long as you sand the connector a bit to make it fit on the mat/controller. I'm curious to try that.
 
