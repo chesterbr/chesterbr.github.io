@@ -1,0 +1,14 @@
+notes for the motion sensor
+super doccumentação do sensor:
+http://qqtrading.com.my/pir-motion-sensor-module-hc-sr501
+
+https://github.com/1technophile/OpenMQTTGateway/pull/442
+
+TODO: PR the docs change:
+https://github.com/1technophile/OpenMQTTGateway/issues/306#issuecomment-520673067
+
+video with the 3v3 volt tip
+https://www.youtube.com/watch?v=2HbbQIqJHoE
+
+100uf cap hint: https://www.reddit.com/r/esp8266/comments/8n18ti/nodemcu_with_a_pir_motion_sensor_hcsr501_has/
+seems like 220nf on chip also works: https://redfox314.tweakblogs.net/blog/16895/esp8266-and-hc-sr501-false-positives
