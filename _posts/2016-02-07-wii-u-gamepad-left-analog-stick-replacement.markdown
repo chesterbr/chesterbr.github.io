@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Wii U Gamepad (Left) Analog Stick Replacement"
-date: 2016-02-07 20:12
 comments: true
 og_image: /img/2016/02/gamepad_open.jpg
 description: No need to buy a new Gamepad (or Wii U) if an analog stick isn't working properly.

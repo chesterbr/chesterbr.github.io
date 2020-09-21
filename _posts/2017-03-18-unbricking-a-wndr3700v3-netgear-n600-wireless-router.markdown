@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Unbricking a WNDR3700v3 (NETGEAR N600) wireless router"
-date: 2017-03-18 21:37
 comments: true
 categories:
 ---

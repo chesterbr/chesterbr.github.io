@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Going from WordPress to Octopress"
-date: 2013-09-15 14:51
 comments: true
 published: true
 categories:

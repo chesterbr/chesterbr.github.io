@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Replacing a Nintendo Switch Pro Controller Analog Stick"
-date: 2018-05-21 19:50
 og_image: /img/2018/05/joystick_2_l.jpg
 description: "It seems analog sticks are the first thing to fail in controllers nowadays. Here is how I replaced mine."
 comments: true

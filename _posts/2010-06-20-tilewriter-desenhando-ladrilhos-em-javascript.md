@@ -114,7 +114,7 @@ tilewriter.<span style="color: #660066;">drawRow</span><span style="color: #0099
     <br /><br /><br /><br /><br />
   </p>
 
-  <div id="div_tk90x_baixo" style="border:2px solid black;width:192px;margin-left:auto; margin-right:auto;">
+  <div id="div_tk90x_baixo" style="border:0px solid black;width:192px;margin-left:auto; margin-right:auto;display:inline-block">
   </div>
 </div>
 

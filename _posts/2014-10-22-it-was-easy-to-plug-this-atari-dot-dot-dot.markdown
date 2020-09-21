@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "It was easy to plug this Atari in..."
-date: 2014-10-22 19:56
 comments: true
 og_image: /img/2014/10/atari.jpg
 categories:

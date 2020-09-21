@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Dollar Shave Club: A Test Drive"
-date: 2013-10-02 22:20
 comments: true
 categories:
 ---

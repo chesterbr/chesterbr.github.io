@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Touring Portugal"
-date: 2016-06-06 00:37
 og_image: /img/2016/06/coimbra.jpg
 description: A great place for Brazilian expats to visit, but actually enjoyable by anyone!
 comments: true

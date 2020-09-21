@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Controlling RF outlets from a Raspberry Pi"
-date: 2017-12-26 00:10
 og_image: /img/2017/12/rf_prototype.jpg
 description: "For less than $100, my Google Home lets me talk to my floor lamps - even though they aren't very bright 🥁"
 comments: true

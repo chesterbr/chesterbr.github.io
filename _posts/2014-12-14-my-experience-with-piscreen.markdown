@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "My Experience With PiScreen"
-date: 2014-12-14 19:42
 comments: true
 og_image: https://farm8.staticflickr.com/7534/16019992942_1ea99dba61.jpg
 categories:

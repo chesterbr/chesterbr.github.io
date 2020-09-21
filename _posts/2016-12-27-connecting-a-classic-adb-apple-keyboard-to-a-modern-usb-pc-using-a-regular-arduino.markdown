@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Connecting a classic (ADB) Apple keyboard to a modern (USB) PC using a regular Arduino"
-date: 2016-12-27 05:00
 comments: true
 og_image: /img/2016/12/front.jpg
 categories:

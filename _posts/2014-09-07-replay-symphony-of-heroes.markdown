@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "rePLAY: Symphony of Heroes"
-date: 2014-09-07 15:24
 comments: true
 og_image: http://photos-a.ak.instagram.com/hphotos-ak-xaf1/10693530_1481489188774880_442815106_n.jpg
 categories:

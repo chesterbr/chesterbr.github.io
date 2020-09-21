@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Building bash from source (Shellshock mitigation for Ubuntu 13.04 and other unsupported distros)"
-date: 2014-09-25 09:51
 comments: true
 og_image: /img/2014/09/tmnt.png
 categories:

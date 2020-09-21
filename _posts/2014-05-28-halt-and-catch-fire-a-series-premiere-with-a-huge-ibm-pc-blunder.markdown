@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Halt and Catch Fire: a series premiere with a huge IBM PC blunder"
-date: 2014-05-28 01:31
 comments: true
 og_image: /img/2014/05/debug.png
 categories:

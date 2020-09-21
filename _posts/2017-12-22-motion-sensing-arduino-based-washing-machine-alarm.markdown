@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Motion-sensing, Arduino-based Washing Machine Alarm"
-date: 2017-12-22 22:00
 og_image: /img/2017/12/w_alarm_final.jpg
 description: "Soft end-of-cycle sound = wrinkled clothes. Arduino to the rescue!"
 comments: true

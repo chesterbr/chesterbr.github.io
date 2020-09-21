@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Fixing a loose Nintendo Switch Joy-Con"
-date: 2019-07-06 21:00
 og_image: "/img/2019/06/joycon_replacement.jpg"
 description: "Joy-Con sliding out of the console during gameplay? Replacing a tiny latch on the controller fixes that."
 comments: true

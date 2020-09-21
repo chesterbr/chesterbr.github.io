@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "TEDxToronto 2013"
-date: 2013-09-29 09:28
 comments: true
 categories:
 ---
