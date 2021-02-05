@@ -178,4 +178,10 @@ Building from description may be a bit confusing, so I made a [Fritzing (.fzz) d
 
 From that drawing, I rebuilt the experiment to weed out the last errors (🙏 ). Using shorter pieces of wire (except for the NOP and the Arduino connection, which will be removed as I add the other chips) and proper colors (red/blue for the 5V/GND connections, for example) resulted in a cleaner build:
 
+### ERRATA
+
+A few years later, I've rebuilt this in order to figure out the next steps. And I noticed the last couple bits were always unstable, because it turns out [you should not use Arduino pins 0 and 1 if you are dumping serial output](https://www.arduino.cc/en/reference/board). I am not sure how I managed to make this work, but I've changed the program and wiring to use only pins 2-12 for monitoring the address (meaning we won't monitor all the pins, but it won't matter for the final project).
+
+I will publish the updated program (it needs a cleanup anyway) when I get to part 2, this is just so anyone trying this doesn't get (too) confused
+
 ![cleaner version of the 6507 memory walk on a breadboard](/img/2017/09/6507_v2.jpg){: .center }
