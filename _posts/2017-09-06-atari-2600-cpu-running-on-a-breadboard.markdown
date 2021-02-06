@@ -186,42 +186,39 @@ A few years later, I've rebuilt this in order to figure out the next steps. And,
 
 I was having a hard time uploading the monitor for the second time, _and_ noticed the last couple bits were a bit unstable. It turns out [you should not use Arduino pins 0 and 1 if you are dumping serial output](https://www.arduino.cc/en/reference/board).
 
-I am not sure how I managed to make this work before, but I've changed the circuit to only monitor the lower 11 bits of the 13 bit address bus (which is enough to see the walk just like above). Here is the updated the monitor program (cleaned it up a bit as well):
+I am not sure how I managed to make this work before (maybe I was using a compatible board that did not reserve those bits for serial I/O), but I've changed the circuit to instead use pins 2-14, where "14" is actually analog pin A0 (which can be used as digital), and pin A5 for the clock.
+
+I've also rewrote the monitor program, cleaning it up a quite a bit and printing actual ROM addresses:
 
 ```c
-// Turns an Arduino into a 10Hz clock generator and a monitor for an 11-bit address bus
-//
-// It is intended for a 6507, which has a 13-bit bus, but we don't have enough pins
-// on the Arduino (unless we turn off serial I/O, which defeats the monitoring purpose)
-//
-// Copyright 2019 Carlos Duarte Do Nascimento (@chesterbr), licensed under https://opensource.org/licenses/MIT
-// Based on original work © David Barton (http://www.plingboot.com/2015/10/homebrew-6502-part-2/), under permission.
-
-#define CLOCK 13
+// Turns an Arduino into a 10Hz clock generator (on pin A5)
+// and a monitor for a 13-bit address bus (on pins 2-14, where 14=A0)
 
 void setup() {
-  pinMode(CLOCK, OUTPUT);
+  pinMode(A5, OUTPUT);
   Serial.begin(115200);
 }
 
 void loop() {
-  digitalWrite(CLOCK, LOW);
-  delay(100);
-  digitalWrite(CLOCK, HIGH);
-  word address_value = 0;
-  Serial.print("Address: ");
-  for(int bit = 10; bit >= 0; bit--) {
-    int bit_value = digitalRead(bit + 2);
-    Serial.print(bit_value);
-    address_value += bit_value * pow(2, bit);
+  // Clock pulse
+  digitalWrite(A5, LOW);
+  delay(50);
+  digitalWrite(A5, HIGH);
+  delay(50);
+
+  // Print current address assuming Atari ROM (higher bits all 1s)
+  word address_value = 0b1110000000000000;
+  for(int bit = 0; bit <= 12; bit++) {
+    address_value += digitalRead(bit + 2) * pow(2, bit);
   }
-  Serial.print(" : 0x");
+  Serial.print(address_value, BIN);
+  Serial.print(" = 0x");
   Serial.println(address_value, HEX);
 }
 ```
 
-On the board, just skip Arduino pins 0 and 1, wiring pin 2 to address line 0, pin 3 to address line 1, etc., all up to pin 12 (pin 13 is the one we use for clock generation). Here is the the fixed [Fritzing (.fzz) drawing](/img/2017/09/6507_memory_walk_11_pin.fzz):
+On the board, just skip Arduino pins 0 and 1, wiring pin 2 to CPU A0, pin 3 to CPU A1, ..., pin 13 to CPU A11, then pin A0 to CPU A12. Then wire pin A5 to CPU clock. Or just follow the fixed [Fritzing (.fzz) drawing](/img/2017/09/6507_memory_walk_final.fzz):
 
-![](/img/2017/09/6507_memory_walk_11_pin_bb.png){: .center }
+![](/img/2017/09/6507_memory_walk_final_bb.png){: .center }
 
 
