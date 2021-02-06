@@ -186,7 +186,7 @@ A few years later, I've rebuilt this in order to figure out the next steps. And,
 
 I was having a hard time uploading the monitor for the second time, _and_ noticed the last couple bits were a bit unstable. It turns out [you should not use Arduino pins 0 and 1 if you are dumping serial output](https://www.arduino.cc/en/reference/board).
 
-I am not sure how I managed to make this work before (maybe I was using a compatible board that did not reserve those bits for serial I/O), but I've changed the circuit to instead use pins 2-14, where "14" is actually analog pin A0 (which can be used as digital), and pin A5 for the clock.
+I am not sure how I managed to make this work before (maybe I was using a compatible board that did not reserve those pins for serial I/O), but I've changed the circuit to instead use pins 2-14, where "14" is actually analog pin A0 (which can be used as digital), and pin A5 for the clock.
 
 I've also rewrote the monitor program, cleaning it up a quite a bit and printing actual ROM addresses:
 
@@ -220,5 +220,7 @@ void loop() {
 On the board, just skip Arduino pins 0 and 1, wiring pin 2 to CPU A0, pin 3 to CPU A1, ..., pin 13 to CPU A11, then pin A0 to CPU A12. Then wire pin A5 to CPU clock. Or just follow the fixed [Fritzing (.fzz) drawing](/img/2017/09/6507_memory_walk_final.fzz):
 
 ![](/img/2017/09/6507_memory_walk_final_bb.png){: .center }
+
+It seems to work all right now. I still get a couple odd results (notably, `0xFFFB` and `0xFFFC` instead of `0xFFFC` and 0xFFFD` read when I press the RESET button, and the last ROM address being skipped), but they may be either 650x oddities, or imperfections from this monitor status. Still, that puts me back on track to continue building up towards the Atari.
 
 
