@@ -52,7 +52,7 @@ Starting with the breadboard from the [first post]({% link _posts/2017-09-06-ata
 
 One thing to notice: the Atari schematics refer to data pins as `D1`-`D8`, whereas 6507 names them `D0`-`D7` (starting from 0 like the address pins, and also like bits are usually assigned). But at least they are aligned on the chip, so it wasn't (much) confusing.
 
-Another thing to pay attention: for some reason (probably due to their role as "chip select" pins, will talk about that in future posts), `A10` and `A11` are flipped on the connector - the sequence, looking left-to-right from outside the console, is `A8`, `A9`, `A11`, `A10` and `A12`
+Another thing to pay attention: for some reason, `A10` and `A11` are flipped on the connector - the sequence, looking left-to-right from outside the console, is `A8`, `A9`, `A11`, `A10` and `A12`. Remember to flip them as you connect the wires.
 
 Speaking of pins, the previous method of monitoring the address lines worked fine when addresses were just growing sequentially, but monitoring an actual program this way was too difficult, so I switched to monitoring the data lines instead, which would show the actual ROM bytes as they were requested by the CPU for execution.
 
