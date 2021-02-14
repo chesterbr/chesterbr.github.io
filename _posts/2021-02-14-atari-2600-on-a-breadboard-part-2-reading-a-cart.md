@@ -62,7 +62,7 @@ Here is the updated drawing, with the Arduino connected to the data lines, and t
 
 ### Monitoring
 
-The test program generates a (slow - 10Hz) clock pulse, so the processor runs, and prints the hex value from the data bus in the Arduino IDE serial monitor (set the speed to 115200). It is _much_ smaller than the original code, and several issues (such as use of serial I/O pins and wonky binary conversion) were fixed.
+The test program generates a (slow - 10Hz) clock pulse to keep the processor running. At each pulse, it prints the hex value from the data bus in the Arduino IDE serial monitor (set the speed to 115200). It is _much_ smaller than the original code, and several issues (such as use of serial I/O pins and wonky binary conversion) were fixed.
 
 ```c
 // Turns an Arduino into a 10Hz clock generator (on pin A5)
