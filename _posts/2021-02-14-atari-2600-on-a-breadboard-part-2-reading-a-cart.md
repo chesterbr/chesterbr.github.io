@@ -54,7 +54,7 @@ One thing to notice: the Atari schematics refer to data pins as `D1`-`D8`, where
 
 Another thing to pay attention: for some reason, `A10` and `A11` are flipped on the connector - the sequence, looking left-to-right from outside the console, is `A8`, `A9`, `A11`, `A10` and `A12`. Remember to flip them as you connect the wires.
 
-Speaking of pins, the previous method of monitoring the address lines worked fine when addresses were just growing sequentially, but monitoring an actual program this way was too difficult, so I switched to monitoring the data lines instead, which would show the actual ROM bytes as they were requested by the CPU for execution.
+Speaking of pins, the previous method of monitoring the address lines worked fine when addresses were just growing sequentially, but monitoring an actual program this way was too difficult, so I switched to wiring the Arduino to the data lines instead. That will show the actual ROM bytes as they were requested by the CPU for execution (as long as we tweak the monitoring program, which I had to do anyway, see below).
 
 Here is the updated drawing, with the Arduino connected to the data lines, and the cart connected to data and address. I included the power connections as well, so everything needed is there. I recommend opening the [drawing file](/img/2021/02/6507-and-cart.fzz/) on [Fritzing](https://fritzing.org/), which has the pin names on the cart connector (it's ugly, I know - first time I customized a part in the software).
 
