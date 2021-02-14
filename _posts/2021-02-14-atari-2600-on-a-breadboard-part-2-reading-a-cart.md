@@ -56,7 +56,7 @@ Another thing to pay attention: for some reason, `A10` and `A11` are flipped on 
 
 Speaking of pins, the previous method of monitoring the address lines worked fine when addresses were just growing sequentially, but monitoring an actual program this way was too difficult, so I switched to wiring the Arduino to the data lines instead. That will show the actual ROM bytes as they were requested by the CPU for execution (as long as we tweak the monitoring program, which I had to do anyway, see below).
 
-Here is the updated drawing, with the Arduino connected to the data lines, and the cart connected to data and address. I included the power connections as well, so everything needed is there. I recommend opening the [.fzz file](/img/2021/02/6507-and-cart.fzz/) on [Fritzing](https://fritzing.org/), which has the pin names on the cart connector (it's ugly, I know - first time I customized a part in the software).
+Here is the updated drawing, with the Arduino connected to the data lines, and the cart connected to data and address. I included the power connections as well, so everything needed is there. I recommend opening the [.fzz file](/img/2021/02/6507-and-cart.fzz/) on [Fritzing](https://fritzing.org/), which has the pin names on the cart connector (it doesn't resemble the connector a lot, I know; but it's the first time I customized a part in the software).
 
 ![Drawing of 6507, cart and Arduino](/img/2021/02/6507-and-cart_bb.png){: .center }
 
