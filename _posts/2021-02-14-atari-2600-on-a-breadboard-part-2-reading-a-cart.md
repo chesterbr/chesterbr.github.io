@@ -83,7 +83,7 @@ void loop() {
   digitalWrite(A5, LOW);
   delay(50);
 
-  // Print current data bus (pins 2-10)
+  // Print current data bus (pins 2-9)
   int data_value = 0;
   int power_of_two = 1;
   for(int bit = 0; bit <= 7; bit++) {
