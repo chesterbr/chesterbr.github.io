@@ -2,7 +2,7 @@
 layout: post
 title: "Atari 2600 on a breadboard, part II: reading a cart"
 og_image: /img/2021/02/6507-cart-breadboard-messy.jpg
-description: "Back to building an Atari from scratch, let's run some real code - direct from a cartridge!"
+description: "Back to building an Atari from scratch, let's run some real code - direct from a cart!"
 comments: true
 categories:
 ---
