@@ -1,6 +1,6 @@
 # chesterbr.github.io
 
-My blog and personal website, powered by GitHub Pages / Jekyll and canonically served at https://chester.me.
+My blog / personal website, powered by GitHub Pages / Jekyll and canonically served at https://chester.me.
 
 It used to be Octopress-based (and before that WordPress, and before that Movable Type... turtles all the way down to BLiG, a custom-made system from the ISP/Portal I worked on in 2002).
 
