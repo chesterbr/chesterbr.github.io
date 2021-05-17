@@ -9,7 +9,7 @@ categories:
 
 ### Previously...
 
-A _long_ time ago I grabbed the three chips from a broken Atari 2600 (Jr.), to see if I could build an Atari with them on a [solder-less "breadboard"](https://www.youtube.com/watch?v=mE33WpRWrXs). My first attempt ([post here]({% link _posts/2017-09-06-atari-2600-cpu-running-on-a-breadboard.markdown %})) was to drive the CPU with an Arduino, which showed the silly chip advancing through what it believes to be memory, but is actually just a single "no operation" (`NOP`) hard-wired instruction:
+A _long_ time ago I grabbed the three chips from a broken Atari 2600 (Jr.), to see if I could build an Atari with them on a [solder-less "breadboard"](https://www.youtube.com/watch?v=mE33WpRWrXs). My first attempt ([post here]({% link _posts/2017-09-06-atari-2600-cpu-running-on-a-breadboard.markdown %})) was to drive the CPU with an Arduino, which showed the chip advancing through what it believes to be memory, but is actually just a single "no operation" (`NOP`) hard-wired instruction:
 
 ![cleaner version of the 6507 memory walk on a breadboard](/img/2021/02/6507-nop.jpg){: .center }
 
