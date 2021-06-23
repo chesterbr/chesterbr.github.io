@@ -8,6 +8,8 @@ As a result of those migrations, there are lots of loose files and redirect shen
 
 ### Quick reminders
 
+- `rvm install 2.7.3`, `gem install bundler` and `bundle` are enough to set up Codespaces (and anywhere with rbenv)
+
 - [Jekyll Blogging instructions](https://jekyllrb.com/docs/step-by-step/08-blogging/), because I always forget that stuff.
 
-- `bundle exec jekyll --incremental` will start the server with reasonably fast rebuilds.
+- `bundle exec jekyll server --incremental` will start the server with reasonably fast rebuilds.
