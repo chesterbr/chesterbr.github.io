@@ -12,4 +12,4 @@ As a result of those migrations, there are lots of loose files and redirect shen
 
 - [Jekyll Blogging instructions](https://jekyllrb.com/docs/step-by-step/08-blogging/), because I always forget that stuff.
 
-- `bundle exec jekyll server --incremental` will start the server with reasonably fast rebuilds.
+- `rvm use 2.7.3` and `bundle exec jekyll server --incremental` will start the server with reasonably fast rebuilds.
