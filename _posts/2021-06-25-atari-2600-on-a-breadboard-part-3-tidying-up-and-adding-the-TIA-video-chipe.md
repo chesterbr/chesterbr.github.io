@@ -15,6 +15,8 @@ After seeing [Ben Eater's beautiful breadboard computers](https://eater.net/) I 
 
 ![cart, before and after](/img/2021/06/before-and-after-cart.jpg){: .center }
 
+<!--more-->
+
 Armed with that and [Ben's video with tips](https://www.youtube.com/watch?v=PE-_rJqvDhQ), I rewired everything I had (minus the "pause" button, as it will be replaced on the next step). Other than the Arduino (which is temporary), everything is now nice, tidy and color-coded (data is yellow, addresses are green, +5V is red and ground is blue):
 
 ![clean board with cpu and cart connector](/img/2021/06/cleaner-board-with-cpu-and-cart.jpg){: .center }
