@@ -25,12 +25,16 @@ Armed with that and [Ben's video with tips](https://www.youtube.com/watch?v=PE-_
 
 The Television Interface Adapter (TIA) is the only custom chip on the Atari. It was designed to generate the video and audio signals, and to reduce costs, it has nearly no video memory, requiring programmers to sync their code with the TV signal - with microssecond precision. To aid in that task, the TIA controls the 6507 CPU in two ways:
 
-- It provides the CPU clock, by "dividing" its input clock by 3, that is: for every three pulses that the TIA receives from the clock crystal (for now, in our case, from the Arduino), it sends one pulse to the CPU
+- It provides the CPU clock, by "dividing" its input clock by 3, that is: for every three pulses that the TIA receives from the clock crystal (for now, in our case, from the Arduino), it sends one pulse to the CPU.
 - When the software writes to the `WSYNC` address, the TIA halts the CPU (using the `RDY` pin) until the current scanline in the video finishes drawing.
+
+![illustration adapted from Racing The Beam](/img/2021/06/sync-signal.jpg){: .center }
 
 For that magic to work, we need to connect the 6507 clock pins (`ø0` and `ø2`; the later is an output that seems to help keeping things in sync) and the `RDY` pin to their matching TIA pins (keeping the pull-up resitor); we'll also connect the `R/W` pin between them (so the TIA can know whether the 6507 wants to read or write to it).
 
 And, of course, connect the data pins (`D0-D7`) and the lower address pins (`A0-A5`), so the data can flow from/to the proper addresses. Finally, connect two address pins and two fixed voltages to the "chip selector" TIA pins (`CS0-CS3`), so TIA knows when the CPU is talking to it (as opposed to the cart or the other upcoming chip).
+
+![Atari 2600 Schematics](/img/2021/06/schematics.jpg){: .center }
 
 I found some TIA pin descriptions online, but they had a few incorrections; so I guided myself mostly on the [original schematics](/img/2021/06/schematics.jpg) and built this table for TIA-to-CPU connections:
 
@@ -130,4 +134,4 @@ Anyway, this more than proves that our TIA is up and running!
 
 ### Next
 
-You may wonder why I don't plug this on the TV, given I have a video chip. We're missing a couple things that I plan to add on the next post, in which I expect to finally hook up the TV!
+One may wonder why I don't plug this on the TV, given there is a video chip. We're missing a couple things that I plan to add on the next post, in which I expect to finally generate some image!
