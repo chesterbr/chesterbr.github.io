@@ -7,7 +7,10 @@ comments: true
 categories:
 ---
 
-In the previous post, I had the CPU, cartridge and TIA wired and tested, but still needed the Arduino to make them tick and check the resuts. All those hex numbers were fun to dbug, but let's get to the real deal: plugging it to the TV.
+In the [previous post](https://chester.me/archives/2021/06/atari-2600-on-a-breadboard-part-3-tidying-up-and-adding-the-TIA-video-chipe/), I had the CPU, cartridge and TIA wired and tested, but still needed the Arduino to make them tick and check the resuts. All those hex numbers were fun to debug, but let's get to the real deal: plugging it to the TV.
+
+<!--more-->
+
 ### Clock
 In order to show the image of a game on a TV set, the video chip (TIA) needs to generate 60 frames (screens) per second, which, in turn, requires its clock to receive 3,579,545 "pulses" per second. What makes that magic work is a  [crystal oscilator](https://en.wikipedia.org/wiki/Crystal_oscillator), and fortunately that particular frequency (3.579545 Mhz) is so common in TV-related applications that one can easily [buy such a crystal online](https://www.walmart.ca/en/ip/3-x-3-579545-MHz-Crystal-Oscillator-HC-49S-Low-Profile/7DRO8USL2ETL).
 
