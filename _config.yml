@@ -84,3 +84,6 @@ facebook_like: false
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+jekyll_admin:
+  homepage: "posts"
