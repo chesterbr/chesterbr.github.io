@@ -42,7 +42,7 @@ The Atari 2600 does so by generating an RF (antenna) signal, which was complicat
 )](/img/2021/07/color-chart.png
 )
 
-Modern-day Atari owners often install a "composite mod" on their consoles: a small circuit that extracts and combines the signals mentioned above from the Atari main board. I tried using [http://www.cheeptech.com/2600mods/2600mods.shtml](http://), but they all depend partially on existing components on the Atari board.
+Modern-day Atari owners often install a "composite mod" on their consoles: a small circuit that extracts and combines the signals mentioned above from the Atari main board. I tried using [a few mods](http://www.cheeptech.com/2600mods/2600mods.shtml), but they all depend partially on existing components on the Atari board.
 
 I found a [circuit](https://atariage.com/forums/topic/215414-composite-av-from-tia-chip/?do=findComment&comment=3065838) on the AtariAge forum (based on [a chroma/luma one from the Atari FAQ](https://www.atariage.com/2600/faq/index.html?SystemID=2600#composite)) that includes the Atari parts (the ones on the blue border). It's slightly more complex than others, but was the only one that generated  _anything_ on my TV.
 
