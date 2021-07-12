@@ -8,6 +8,9 @@ categories: []
 ---
 
 Now that I [got Hello, World! running](/archives/2021/07/atari-2600-on-a-breadboard-part-iv-clock-composite-video-hello-world/), I feel confident this project may actually succeed! 😅 The next step is to run an actual game, which requires wiring the last chip (and, due to the poor video I have so far, a sound circuit).
+
+<!--more-->
+
 ### Adding RIOT
 MOS's catalog included several support chips compatible with its successful 6502 "family" of CPUs (of which our Atari's [6507](https://en.wikipedia.org/wiki/MOS_Technology_6507) is a member). Atari picked the [6532](https://en.wikipedia.org/wiki/MOS_Technology_6532) to supply the missing pieces (**R**AM, **I**nput/**O**utput channels and **T**imers) that give this chip the nickname "RIOT".
 
