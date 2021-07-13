@@ -35,11 +35,11 @@ Incredibly, this setup worked first time (notwithstanding the video). One can he
 
 Unfortunately, I can't still get a good composite video image. Tried every composite circuit under the sun, results are still wonky. The best I got so far was with the circuit mentioned on the [last post](/archives/2021/07/atari-2600-on-a-breadboard-part-iv-clock-composite-video-hello-world/), only replacing a resistor that was a bit out-of-range:
 
-<!-- picture of image -->
+![](/img/2021/07/pacman-so-so.jpg)
 
-In fact, only one of my TVs got me any image at all (as previously mentioned, modern TVs are more picky with the signals they get). People often get around that running the signal through a VCR, but I had a much smaller option: this  [composite-to-HDMI converter](https://www.amazon.ca/Caxico-RCACVS-Composite-Converter-Blue-Ray/dp/B011E6GRPU).
+In fact, only one of my TVs got me any image at all (as previously mentioned, modern TVs are more picky with the signals they get). People often get around that running the signal through a VCR, but I had a much smaller option: this  [composite-to-HDMI converter](https://www.amazon.ca/Caxico-RCACVS-Composite-Converter-Blue-Ray/dp/B011E6GRPU). It's not as tolerant as the VCR (or a tube TV), but it picks up even this bad signal, and was quite cheap when I bought it.
 
-<!-- picutre of AV HDMI converter -->
+![](/img/2021/07/upscaler.jpg)
 
 ### Next
 I guess I should now add a joystick and SELECT/START (either a connector, or some push buttons, depending on what I have on my drawer), then fix the video (assuming it's not a TIA defect). Then I'll transcribe all the things back to a Fritzing drawing (so anyone - including myself in the future -  can reproduce), and I guess I will be done with this experiment.
