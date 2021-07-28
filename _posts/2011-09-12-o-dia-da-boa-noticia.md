@@ -3,6 +3,7 @@ title: O Dia da Boa Notícia
 layout: post
 comments: true
 permalink: /archives/2011/09/o-dia-da-boa-noticia.html/
+og_image: /wp-content/uploads/2011/09/ig2001_thumb.png
 onswipe_thumb:
   - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/09/ig2001.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 dsq_thread_id:
