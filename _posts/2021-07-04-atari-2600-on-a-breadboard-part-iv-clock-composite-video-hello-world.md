@@ -7,6 +7,16 @@ comments: true
 categories:
 ---
 
+* [Part I: CPU (6507)](/archives/2017/09/atari-2600-cpu-running-on-a-breadboard/)
+* [Part II: Cartridge](/archives/2021/02/atari-2600-on-a-breadboard-part-2-reading-a-cart/)
+* [Part III: TIA (Video chip)](/archives/2021/06/atari-2600-on-a-breadboard-part-3-tidying-up-and-adding-the-TIA-video-chipe/)
+* Part IV: Clock and Composite Video
+* [Part V: RIOT (RAM, I/O, Timer) and Audio](/archives/2021/07/atari-2600-on-a-breadboard-part-v-riot-and-audio-and-running-actual-games/)
+* [Part VI: Joystick, switches, fixes and wrapping up](/archives/2021/09/atari-2600-on-a-breadboard-part-vi-fixing-the-video-adding-a-joystick-and-wrapping-up/)
+
+
+### TV Time
+
 In the [previous post](https://chester.me/archives/2021/06/atari-2600-on-a-breadboard-part-3-tidying-up-and-adding-the-TIA-video-chipe/), I had the CPU, cartridge and TIA wired and tested, but still needed the Arduino to make them tick and check the resuts. All those hex numbers were fun to debug, but let's get to the real deal: plugging it to the TV.
 
 <!--more-->

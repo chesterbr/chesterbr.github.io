@@ -7,6 +7,16 @@ comments: true
 categories:
 ---
 
+* Part I: CPU (6507)
+* [Part II: Cartridge](/archives/2021/02/atari-2600-on-a-breadboard-part-2-reading-a-cart/)
+* [Part III: TIA (Video chip)](/archives/2021/06/atari-2600-on-a-breadboard-part-3-tidying-up-and-adding-the-TIA-video-chipe/)
+* [Part IV: Clock and Composite Video](/archives/2021/07/atari-2600-on-a-breadboard-part-iv-clock-composite-video-hello-world/)
+* [Part V: RIOT (RAM, I/O, Timer) and Audio](/archives/2021/07/atari-2600-on-a-breadboard-part-v-riot-and-audio-and-running-actual-games/)
+* [Part VI: Joystick, switches, fixes and wrapping up](/archives/2021/09/atari-2600-on-a-breadboard-part-vi-fixing-the-video-adding-a-joystick-and-wrapping-up/)
+
+
+### Introduction
+
 A year ago, Ben Heck [hand-soldered an Atari 2600 on a protoboard](https://www.youtube.com/watch?v=QoBcrZJA4TI) (and, as usual, [turned that into a portable console](https://www.youtube.com/watch?v=21qZKo0f280)). The idea of manually re-assembling the console for which I had already hacked together a [game](https://github.com/chesterbr/2048-2600) and an  [emulator](https://github.com/chesterbr/2048-2600) sounded **very** exciting (and educational) for me.
 
 The show crew always publishes schematics for his projects, so while I waited for that, I started de-soldering the chips and cartrige conector (and a few extra components, why not?) from an old [Atari Jr.](http://www.atarimuseum.com/videogames/consoles/2600/atari2600jr.html) board I had lying around. De-soldering is *hard*, but eventually it was done:
