@@ -160,3 +160,5 @@ We print the value on the data bus once per clock cycle - since instructions tak
 ### Next steps
 
 Hope I don't take as long as I did this time to continue with this experiment. I wonder if I can add the TIA at some capacity without going with a full speed clock (which will be hard to monitor without an oscilloscope, so I'm deferring as much as I can). I'll see as I tinker. Stay tuned!
+
+* [Part III: TIA (Video chip)](/archives/2021/06/atari-2600-on-a-breadboard-part-3-tidying-up-and-adding-the-TIA-video-chipe/)

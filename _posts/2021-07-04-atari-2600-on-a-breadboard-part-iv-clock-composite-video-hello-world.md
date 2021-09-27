@@ -91,3 +91,5 @@ Anyway, I **finally** got to the first milestone I envisioned where I started th
 Even with the fixed circuit, the image is a bit unstable, colors are wrong and there is an odd bar on the right. But instead of debugging these, I'll add the RIOT (the last chip), which should allow me to run actual games and fine-tune the circuit.
 
 I also want to update the Fritzing sketches with all those circuits once I settle them (so anyone wanting to rebuild a custom Atari can have a more readable starting point), add or build a controller... we'll see!
+
+* [Part V: RIOT (RAM, I/O, Timer) and Audio](/archives/2021/07/atari-2600-on-a-breadboard-part-v-riot-and-audio-and-running-actual-games/)

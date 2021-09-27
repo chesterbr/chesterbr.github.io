@@ -53,3 +53,5 @@ In fact, only one of my TVs got me any image at all (as previously mentioned, mo
 
 ### Next
 I guess I should now add a joystick and SELECT/START (either a connector, or some push buttons, depending on what I have on my drawer), then fix the video (assuming it's not a TIA defect). Then I'll transcribe all the things back to a Fritzing drawing (so anyone - including myself in the future -  can reproduce), and I guess I will be done with this experiment.
+
+* [Part VI: Joystick, switches, fixes and wrapping up](/archives/2021/09/atari-2600-on-a-breadboard-part-vi-fixing-the-video-adding-a-joystick-and-wrapping-up/)

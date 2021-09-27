@@ -143,3 +143,5 @@ Anyway, this more than proves that our TIA is up and running!
 ### Next
 
 One may wonder why I don't plug this on the TV, given there is a video chip. We're missing a couple things that I plan to add on the next post, in which I expect to finally generate some image!
+
+* [Part IV: Clock and Composite Video](/archives/2021/07/atari-2600-on-a-breadboard-part-iv-clock-composite-video-hello-world/)

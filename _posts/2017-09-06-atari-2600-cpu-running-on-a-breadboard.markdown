@@ -233,4 +233,6 @@ On the board, just skip Arduino pins 0 and 1, wiring pin 2 to CPU A0, pin 3 to C
 
 It seems to work all right now. I still get a couple odd results (notably, `0xFFFB` and `0xFFFC` instead of `0xFFFC` and 0xFFFD` read when I press the RESET button, and the last ROM address being skipped), but they may be either 650x oddities, or imperfections from this monitor. Still, that puts me back on track to continue building up towards the Atari.
 
+* [Part II: Cartridge](/archives/2021/02/atari-2600-on-a-breadboard-part-2-reading-a-cart/)
+
 
