@@ -72,7 +72,7 @@ Below is the final board (and [here](/img/2021/09/board-large.jpg) is a larger p
 
 Wires are somewhat color-coded: red/blue for power/ground, yellow for data lines, green for address lines, white for logic signals (clock, chip select, read/write, etc.) and black for input/output devices (audio/video/controller).
 
-[![](/img/2021/09/board.jpg)](/img/2021/09/board-large.jpg){: .center }
+[![](/img/2021/09/board.jpg){: .center }](/img/2021/09/board-large.jpg)
 
 ### Final considerations
 
@@ -81,6 +81,8 @@ My main motivation for this project was the fact that I wanted to reproduce [Ben
 My plan was to create drawings of the breadboard on Fritzing as I progressed, so anyone wanting to rebuild an Atari could do so without resorting to the circuit diagram. And I did it on the fist few parts, but at certain point, it became impossible - the drawing got too complicated and Fritzing started to crash.
 
 Anyway, after tackling the project in small steps, I learned enough about electronics and the Atari to understand the diagram - and finally saw why Ben did not find it necessary to publish anything else.
+
+![](/img/2021/09/diagramas-sm.jpg){: .center }
 
 So if you want to (re)build your ow your Atari, be it soldered or on a breadboard, you can either follow the diagram like Ben, or, if it's too complicated, just go step by step.
 
