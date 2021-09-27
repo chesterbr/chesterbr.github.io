@@ -12,7 +12,7 @@ Given that, I jumped at the opportunity of watching the premiere of [Day Job][2]
 
 How realistic? Well, after the event we had the opportunity of watching a Q&A with the film's director and the three entrepreneurs, which pretty much backed the film depiction. It is yet unclear how/when the movie will be distributed, but I'd keep an eye if I had not already seen it.
 
-<center> <a href="http://www.flickr.com/photos/chesterbr/10394330935/" title="Day Job Premiere Screening - Q&amp;A by chesterbr, on Flickr"><img src="//farm4.staticflickr.com/3669/10394330935_66f25611f0.jpg" width="500" height="334" alt="Day Job Premiere Screening - Q&amp;A"></a> </center>
+<center> <a data-flickr-embed="true" href="https://www.flickr.com/photos/chesterbr/10394330935/" title="Day Job Premiere Screening - Q&amp;A"><img src="https://live.staticflickr.com/3669/10394330935_f7449d39ee_z.jpg" width="640" height="427" alt="Day Job Premiere Screening - Q&amp;A"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> </center>
 
 [1]: http://publicbeta.co/12-documentaries-which-capture-startup-life/
 [2]: http://www.dayjobdoc.com/
