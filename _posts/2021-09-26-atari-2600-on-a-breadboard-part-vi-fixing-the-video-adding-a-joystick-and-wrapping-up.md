@@ -64,7 +64,7 @@ I also got a pair of RCA jacks for breadboards from Omega MCU Systems - they hav
 
 With that setup, all my carts worked pretty well - including the Harmony Cart, that allowed me to test all sorts of games; including modern homebrew!
 
-Below is the final board (and [here](/img/2021/09/board-large.jpg) is a larger version). It required connecting three breadboards together:
+Below is the final board (and [here](/img/2021/09/board-large.jpg) is a larger photo). It required connecting three breadboards together:
 
 - Bottom board has the 6507 CPU and the cart connector
 - Middle board has the TIA, clock, sound and RIOT (the later in the opposite direction to simplify the data lines coming from the cartridge)
