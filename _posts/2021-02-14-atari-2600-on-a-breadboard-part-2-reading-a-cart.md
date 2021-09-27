@@ -7,6 +7,14 @@ comments: true
 categories:
 ---
 
+* [Part I: CPU (6507)](/archives/2017/09/atari-2600-cpu-running-on-a-breadboard/)
+* Part II: Cartridge
+* [Part III: TIA (Video chip)](/archives/2021/06/atari-2600-on-a-breadboard-part-3-tidying-up-and-adding-the-TIA-video-chipe/)
+* [Part IV: Clock and Composite Video](/archives/2021/07/atari-2600-on-a-breadboard-part-iv-clock-composite-video-hello-world/)
+* [Part V: RIOT (RAM, I/O, Timer) and Audio](/archives/2021/07/atari-2600-on-a-breadboard-part-v-riot-and-audio-and-running-actual-games/)
+* [Part VI: Joystick, switches, fixes and wrapping up](/archives/2021/09/atari-2600-on-a-breadboard-part-vi-fixing-the-video-adding-a-joystick-and-wrapping-up/)
+
+
 ### Previously...
 
 A _long_ time ago I grabbed the three chips from a broken Atari 2600 (Jr.), to see if I could build an Atari with them on a [solder-less "breadboard"](https://www.youtube.com/watch?v=mE33WpRWrXs). My first attempt ([post here]({% link _posts/2017-09-06-atari-2600-cpu-running-on-a-breadboard.markdown %})) was to drive the CPU with an Arduino, which showed the chip advancing through what it believes to be memory, but is actually just a single "no operation" (`NOP`) hard-wired instruction:
@@ -152,3 +160,5 @@ We print the value on the data bus once per clock cycle - since instructions tak
 ### Next steps
 
 Hope I don't take as long as I did this time to continue with this experiment. I wonder if I can add the TIA at some capacity without going with a full speed clock (which will be hard to monitor without an oscilloscope, so I'm deferring as much as I can). I'll see as I tinker. Stay tuned!
+
+* [Part III: TIA (Video chip)](/archives/2021/06/atari-2600-on-a-breadboard-part-3-tidying-up-and-adding-the-TIA-video-chipe/)

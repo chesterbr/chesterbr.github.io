@@ -6,7 +6,7 @@ instructions() {
     echo " or edit files in http://localhost:4000/admin"
     echo "=============================================="
 }
-rbenv install
+rbenv install --skip-existing
 bundle
 bundle exec jekyll build
 instructions &

@@ -7,6 +7,14 @@ comments: true
 categories:
 ---
 
+* [Part I: CPU (6507)](/archives/2017/09/atari-2600-cpu-running-on-a-breadboard/)
+* [Part II: Cartridge](/archives/2021/02/atari-2600-on-a-breadboard-part-2-reading-a-cart/)
+* Part III: TIA (Video chip)
+* [Part IV: Clock and Composite Video](/archives/2021/07/atari-2600-on-a-breadboard-part-iv-clock-composite-video-hello-world/)
+* [Part V: RIOT (RAM, I/O, Timer) and Audio](/archives/2021/07/atari-2600-on-a-breadboard-part-v-riot-and-audio-and-running-actual-games/)
+* [Part VI: Joystick, switches, fixes and wrapping up](/archives/2021/09/atari-2600-on-a-breadboard-part-vi-fixing-the-video-adding-a-joystick-and-wrapping-up/)
+
+
 ### Tidying Up
 
 In the previous posts I made the CPU work on the breadboard, then added a cartridge connector, all using [jump wires](https://en.wikipedia.org/wiki/Jump_wire) - which can be easily reconnected, labeled, etc., but have a downside: they disconnect easily. Coupled with the equally flimsy cart connector, all my attempts at moving on with the project would result in failures.
@@ -135,3 +143,5 @@ Anyway, this more than proves that our TIA is up and running!
 ### Next
 
 One may wonder why I don't plug this on the TV, given there is a video chip. We're missing a couple things that I plan to add on the next post, in which I expect to finally generate some image!
+
+* [Part IV: Clock and Composite Video](/archives/2021/07/atari-2600-on-a-breadboard-part-iv-clock-composite-video-hello-world/)

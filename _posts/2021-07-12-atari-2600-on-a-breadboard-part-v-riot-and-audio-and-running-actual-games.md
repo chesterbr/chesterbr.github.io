@@ -7,6 +7,16 @@ comments: true
 categories: []
 ---
 
+* [Part I: CPU (6507)](/archives/2017/09/atari-2600-cpu-running-on-a-breadboard/)
+* [Part II: Cartridge](/archives/2021/02/atari-2600-on-a-breadboard-part-2-reading-a-cart/)
+* [Part III: TIA (Video chip)](/archives/2021/06/atari-2600-on-a-breadboard-part-3-tidying-up-and-adding-the-TIA-video-chipe/)
+* [Part IV: Clock and Composite Video](/archives/2021/07/atari-2600-on-a-breadboard-part-iv-clock-composite-video-hello-world/)
+* Part V: RIOT (RAM, I/O, Timer) and Audio
+* [Part VI: Joystick, switches, fixes and wrapping up](/archives/2021/09/atari-2600-on-a-breadboard-part-vi-fixing-the-video-adding-a-joystick-and-wrapping-up/)
+
+
+### After Hello World
+
 Now that I [got Hello, World! running](/archives/2021/07/atari-2600-on-a-breadboard-part-iv-clock-composite-video-hello-world/), I feel confident this project may actually succeed! 😅 The next step is to run an actual game, which requires wiring the last chip (and, due to the poor video I have so far, a sound circuit).
 
 <!--more-->
@@ -43,3 +53,5 @@ In fact, only one of my TVs got me any image at all (as previously mentioned, mo
 
 ### Next
 I guess I should now add a joystick and SELECT/START (either a connector, or some push buttons, depending on what I have on my drawer), then fix the video (assuming it's not a TIA defect). Then I'll transcribe all the things back to a Fritzing drawing (so anyone - including myself in the future -  can reproduce), and I guess I will be done with this experiment.
+
+* [Part VI: Joystick, switches, fixes and wrapping up](/archives/2021/09/atari-2600-on-a-breadboard-part-vi-fixing-the-video-adding-a-joystick-and-wrapping-up/)
