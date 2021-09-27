@@ -49,7 +49,7 @@ The original schematics shows a 4.7µf capacitor alongside a pull-up resistor do
 I already had the pull-up resistor, but did not have that exact value. Doesn't matter: a higher value will delay power-on by a non-humanly-measurable factor, so I threw in a 100µf, and now the Atari turns on consistently whenever I power it. For good measure, I added the equivalent circuit for the RIOT (6532), since it also shows on the schematics:
 
 ![reset](/img/2021/09/reset.png){: .center }
-### Fixing the vertical alignment
+### Display vertical alignment
 
 In previous posts, I tried several composite circuit variations, but I'd always get a scrolling image, like the TV wasn't able to figure out when each frame ("screen") started. After a lot of head-scratching, I _finally_ found the issue: TIA pin 6 (BLK), the "Vertical Blank Output" - that is, the signal that is output at the beginning of every frame of an Atari game, is not connected anywhere.
 
