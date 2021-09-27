@@ -52,8 +52,6 @@ You may notice the other two Atari chips above (should have labeled them "SOON" 
 
 I changed his code to read all 13 address bits on the 6507 (using Arduino's digital pins 0-12, wired to the same-numbered 6507 address lines) and send the clock pulse via Arduino digital pin 13 (so I could "see" the clock pulses on my board's built-in LED, which is hard-wired to that pin).
 
-![solder-less breadboard ](/img/2017/09/breadboard.jpg){: .right }
-
 ### Playing
 
 When I turned it on, I only got garbage.
@@ -98,7 +96,7 @@ Honestly, I'd expect it to read the RESET vector (`0xFFFC` and `0xFFFD`). But th
 
 In our breadboard, the CPU will *always* read the value `0xEA` (because we wired its data bus to its binary value of `11101010`, remember?). So it assumes our "game" actually starts at the address `0xEAEA` (`1110101011101010`), and starts reading code from there.
 
-Once again, keep in minde we only have 13 bits on the address lines, so the actual address becomes `0000101011101010`, or `0x0AEA`:
+Once again, keep in mind we only have 13 bits on the address lines, so the actual address becomes `0000101011101010`, or `0x0AEA`:
 
 ```
 Lower address bus : 0101011101010 : 0xAEA
