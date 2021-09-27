@@ -80,7 +80,7 @@ My main motivation for this project was the fact that I wanted to reproduce [Ben
 
 My plan was to create drawings of the breadboard on Fritzing as I progressed, so anyone wanting to rebuild an Atari could do so without resorting to the circuit diagram. And I did it on the fist few parts, but at certain point, it became impossible - the drawing got too complicated and Fritzing started to crash.
 
-Anyway, after tackling the project in small steps, I learned enough about electronics and the Atari to understand the diagram - and finally saw why Ben did not find it necessary to publish anything else.
+Anyway, after tackling the project in small steps (and looking at other diagrams, partial circuits, articles and discussions), I learned enough about electronics and the Atari 2600 to grasp its original diagram - and finally understood why Ben did not find it necessary to publish anything else.
 
 ![](/img/2021/09/diagramas-sm.jpg){: .center }
 
