@@ -46,7 +46,7 @@ That happens because the [65xx family of processors doesn't have a built-in star
 
 The original schematics shows a 4.7µf capacitor alongside a pull-up resistor do the job of triggering the reset once the capacitor charges, which not only ensures the proper initialization, but also gives time for the CPU to start its work at optimal power level.
 
-I already had the pull-up resistor, but did not have that exact value. Doesn't matter: a higher value will delay power-on by a non-humanly-measurable factor, so I threw in a 100µf, and now the Atari turns on consistently whenever I power it. For good measure, I added the equivalent circuit for the RIOT (6532), since it also shows on the schematics:
+I had the pull-up resistor in my drawer, but not the capacitor at that exact value. Didn't matter: a higher value just delays power-on by a non-humanly-measurable factor, so I threw in the 100µf I had. Now the Atari turns on consistently whenever I power it. For good measure, I added the equivalent circuit for the RIOT (6532), since it also shows up on the schematics:
 
 ![reset](/img/2021/09/reset.png){: .center }
 ### Display vertical alignment
