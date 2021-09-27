@@ -32,7 +32,7 @@ Directions are handled by RIOT pins 12-15 (PA4-PA7), so I just connected them to
 I did not connect the buttons for a player 2, but it would be the same thing, using using RIOT pins 8-11 (PA0-PA3)  and TIA pin 35 (I5). I _did_ have to add the pull-up resistor to the TIA pin, otherwise player 2 would fire constantly. Likewise I don't care about the paddle pins, so I just added capacitors to TIA pins 37-40 to avoid spurious signals.
 ### Console Switches
 
-The Atari 2600 had quite a few switches on the console: two difficulty switches (one for each player), a color/black-and-white, a *Game Select* and a *Game Reset* . They are all handled by a subset of RIOT pins PB0-PB7.
+The Atari 2600 had quite a few switches on the console: two *difficulty* switches (one for each player), *TV Type*, *Game Select* and *Game Reset* . They are all handled by a subset of RIOT pins PB0-PB7.
 
 For this experiment, I only needed Game Reset to play, so I added a push button between that one (pin 24/PB0) and ground, with a (debouncing?) cap like in the original schematics, and let all the others open. It's the leftmost black button seen on the picture above.
 
