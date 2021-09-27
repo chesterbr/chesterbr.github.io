@@ -57,7 +57,7 @@ For some odd reason, it doesn't appear on the [Atari schematics](/img/2021/06/sc
 
 ![Vertical fix](/img/2021/09/pacman-vertical-fix.jpg){: .center }
 
-I also got a pair of RCA jacks for breadboards from Omega MCU Systems - they have [breadboard connectors for all sorts of things](http://oms.onebytecpu.com/catalog/breadboard-connectors.php), making much sturdier connections to the outside world.
+I also got a pair of RCA jacks for breadboards from Omega MCU Systems - they have [breadboard connectors for all sorts of things](http://oms.onebytecpu.com/catalog/breadboard-connectors.php), making connections to the outside world much sturdier.
 
 ![RCA jacks for breadboards](/img/2021/09/rca-jacks.jpeg){: .center }
 ### Wrapping it up
