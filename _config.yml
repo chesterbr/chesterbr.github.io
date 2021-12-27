@@ -46,6 +46,7 @@ titlecase: true       # Converts page and post titles to titlecase
 markdown: kramdown
 theme: minima
 plugins:
+  # - jekyll-admin
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-paginate
@@ -85,5 +86,5 @@ facebook_like: false
 #   - vendor/gems/
 #   - vendor/ruby/
 
-jekyll_admin:
-  homepage: "posts"
+# jekyll_admin:
+#   homepage: "posts"

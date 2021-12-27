@@ -12,7 +12,7 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
-  gem "jekyll-admin"
+  # gem "jekyll-admin", github: "chesterbr/jekyll-admin" #, branch: "chesterbr/bump-sinatra-and-rake"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
