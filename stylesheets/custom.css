@@ -4,3 +4,10 @@ table tr:nth-child(even) { background-color: #f7f7f7; }
 table th, table td { padding: 10px 15px; }
 table th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }
 table td { border: 1px solid #e8e8e8; }
+
+/** poor person's dark theme (based on an idea from https://twitter.com/caffo/status/1344071181083811840) */
+@media
+ (prefers-color-scheme: dark) {
+    html { filter: invert(1); }
+    hgroup, img { filter: invert(1); }
+}
