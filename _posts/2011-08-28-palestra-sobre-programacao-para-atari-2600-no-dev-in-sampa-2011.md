@@ -15,7 +15,7 @@ O [Dev in Sampa][1] é um evento bacana, por conta do *blend* muito equilibrado 
 
 Das palestras que eu vi, destaco o [@shiota][6] [despertando o lado designer dos programadores][7], o convite do [@klauswuestefeld][8] a [repensar o compartilhamento de informações][9] e o [@qmx][10] [destrinchando a JVM][11]. E dessa vez eu também palestrei, falando sobre **[Programação para Atari 2600][12]**:
 
-<p style="text-align:center"><div id="__ss_9029368" style="width: 595px;margin-left:30px; text-align:center"><iframe src="http://www.slideshare.net/slideshow/embed_code/9029368" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="595" height="497"></iframe></div></p>
+<p style="text-align:center"><div id="__ss_9029368" style="width: 595px;margin-left:30px; text-align:center"><iframe src="//www.slideshare.net/slideshow/embed_code/9029368" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="595" height="497"></iframe></div></p>
 
 Foi uma palestra bastante difícil de encaixar no tempo, porque a proposta era habilitar o público a compreender a totalidade de um [programa &#8220;Hello, World!&#8221; para Atari][13], e para isso foi preciso mostrar os elementos básicos do chip de vídeo TIA (usando jogos clássicos para mostrar como eram aplicados) e também dar uma visão rápida do Assembly 6502/6507. Mas o pessoal curtiu, o que me deixou **MUITO** feliz. :-)
 
