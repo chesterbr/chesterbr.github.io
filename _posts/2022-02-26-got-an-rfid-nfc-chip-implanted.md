@@ -18,6 +18,8 @@ I didn't want to limit myself to a single technology (or to go with two implants
 
 There are some limitations: its NFC can't be used for payments (like, for example, the [Walletmor](https://dangerousthings.com/product/walletmor/)), and the RFID can't emulate super advanced security, or hold multiple tags, but the combination is enough for a lot of uses, plus it's a field-tested set of chips that should be operational for years and years, so I chose it.
 
+<!--more-->
+
 ### The implant process
 
 Now that I knew what implant I wanted, the issue was how to get it implanted. Being quite afraid of something going wrong, I would prefer to get a physician to do it, but I didn't feel like bothering my family doctor with a non-elective procedure during a pandemic.
