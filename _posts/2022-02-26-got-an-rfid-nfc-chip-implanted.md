@@ -24,7 +24,7 @@ There are some limitations: its NFC can't be used for payments (like, for exampl
 
 Now that I knew what implant I wanted, the issue was how to get it implanted. Being quite afraid of something going wrong, I would prefer to get a physician to do it, but I didn't feel like bothering my family doctor with a non-elective procedure during a pandemic.
 
-After some digging, I found the [Installation Partners](https://dangerousthings.com/partners/) section on the Dangerous Things website, which led me to [Midway Tattoo and Piercing](https://www.midwaytattoo.com/), a studio in Kensington, Toronto (where else?), where Matt Graziano kindly gave me a quote and scheduled a date.
+After some digging, I found the [installation partners](https://dangerousthings.com/partners/) section on the Dangerous Things website, which led me to [Midway Tattoo and Piercing](https://www.midwaytattoo.com/), a studio in Kensington (where else?), Toronto where Matt Graziano kindly gave me a quote and scheduled a date.
 
 I won't lie: I was quite afraid, but Matt - a biohacker himself who was quite excited with his (literally) shiny [xSIID NFC + LED implant](https://dangerousthings.com/product/xsiid/) - put me at ease. The entire procedure took a couple minutes, and honestly, was nearly painless (just a bit of blood). I even managed to film it with the other hand:
 
@@ -32,7 +32,7 @@ I won't lie: I was quite afraid, but Matt - a biohacker himself who was quite ex
 
 ### I'm a cyborg, here is my card
 
-Well, the beauty of NExT is flexibility. Its high-frequency NTAG216 chip allows me to store several different classes of data (not unlike, say, a QR code) and have it accessed by any NFC-enabled phones when I touch them at the right spot, and it's the easiest thing to do, so I tried it first.
+The beauty of NExT is flexibility: its high-frequency NTAG216 chip allows me to store several different classes of data (not unlike, say, a QR code) and have it accessed by any NFC-enabled phones when I touch them at the right spot, and it's the easiest thing to do, so I tried it first.
 
 There are several Android and iOS apps that allow writing NFC data to the chip; I already had [NFC Tools PRO](https://play.google.com/store/apps/details?id=com.wakdev.nfctools.pro&hl=pt&gl=US), so I used it to store a [Linktree](https://linktr.ee/) address, turning my hand into a virtual business card:
 
@@ -40,13 +40,13 @@ There are several Android and iOS apps that allow writing NFC data to the chip; 
 
 ### Hacking actual buildings
 
-That is fun (although NFC support in phones on the wild is hit-and-miss, at least here in Canada). Anyway, The low-frequency T5577 RFID chip allows some other types of interesting applications, and the one I **really** wanted was to get rid of my building's access fob.
+The URL sending thing was fun (although NFC support in phones on the wild is hit-and-miss, at least here in Canada), but the other part of the dual chip (the low-frequency T5577) allows some other interesting applications, including the one I **really** wanted: getting rid of building access "fobs".
 
-My kit came with the [Proxmark 3 Easy](https://www.proxmark.com/proxmark-3-hardware/proxmark-3-easy). The board is a somwewhat outdated member of the [Proxmark platform of open-source RFID hacking tools](https://en.wikipedia.org/wiki/Proxmark3), but very useful nonetheless for reading, writing and cracking several typesof RFID tags.
+Contrary to the NTAG216 (which can be programmed with any smartphone with NFC), specialized hardware is needed to read the fobs and write them on the T5577. My kit came with the [Proxmark 3 Easy](https://www.proxmark.com/proxmark-3-hardware/proxmark-3-easy), a somwewhat outdated member of the [Proxmark platform of open-source RFID hacking tools](https://en.wikipedia.org/wiki/Proxmark3), but very useful nonetheless for reading, writing and cracking several types of RFID devices.
 
 ![Proxmark3 Easy](/img/2022/02/proxmark3.jpg){: .center }
 
-Using it requires a client on your computer and a matching firmware on the board. There are several builds of those around, and my board came with ["Iceman"](https://github.com/RfidResearchGroup/proxmark3), one of the most feature-complete, but in a really old version, so I first had to update it, which requires building the client and firmware. Here is how I did it:
+Using it requires a client on your computer and a matching firmware on the board. There are several builds of those around - my board came with an old version of ["Iceman"](https://github.com/RfidResearchGroup/proxmark3), one of the most feature-complete builds, but in a really old version. Updating it requires downloading and compiling the client and firmware as a set. Here is how I did that:
 
 ```bash
 git clone https://github.com/RfidResearchGroup/proxmark3
@@ -56,11 +56,13 @@ cp Makefile.platform.sample Makefile
 make clean && make all
 ```
 
-Any errors here are fixable by searching the web (for example, I had to do a [small fix to my Homebrew-installed openssl](https://stackoverflow.com/a/45196185/64635)). Once you build it, you can update the board's bootloader (recommended) with `./pm3-flash-bootrom`. It requires putting the board into bootloader mode by pressing its single button while plugging to the computer (my version was so old that I had to keep it pressed through the process).
+Any errors here can be fixed with web searching (for example, I had to do a [small fix to my Homebrew-installed openssl](https://stackoverflow.com/a/45196185/64635)). When that is done, it's a good idea to start by upgrading the board's bootloader with `./pm3-flash-bootrom`. It requires putting the board into bootloader mode, by pressing its single button while plugging to the computer. My version was so old that I had to keep it pressed through the process, otherwise it was quick and easy.
 
 ![Me and Matt. Who said chips are the mark of the beast? His shop is decorated in the opposite direction... I think!](/img/2022/02/matt.jpg){: .right }
 
-Once your bootloader is on a decent version, you use the same process (plug the board while pressing the button, but now you can release it) to update the firmware, just now running `./pm3-flash-fullimage`. Once _that_ is done, you can invoke `./pm3` to call the client - it will connect to the board, and the fun begins!
+Once the bootloader is on a decent version, the same process (plugging the board while pressing the button, but now you can release it) can be used to update the firmware, just now running `./pm3-flash-fullimage`.
+
+With the board fully updated, typing `./pm3` invokes the client - which will detect the board, connect to it, and that's where the fun begins!
 
 [These videos](https://dangerousthings.com/product/proxmark3-easy/) go a long way showing how to navigate the client menus; the most useful commands I learned are `lf search` and `hf search`, that try to read things on the LF (RFID) and HF (NFC) antennas, respectively. If they identify a tag, they will suggest further commands.
 
@@ -72,23 +74,23 @@ With the right numbers in hand, you can use `lf io clone --vn xx --fn yy --cn CN
 
 ![Measuring it and getting ready](/img/2022/02/measuring.jpg){: .left }
 
-Just be careful and notice the version and facility numbers are hexadecimal and need to be converted to decimal before using them. I not only made that mistake, but also wrote my tag in too close proximity to the original fob, so both my hand and the fob got the wrong info and were being rejected by the building on the first attempt 🤦‍♂️.
+Just be careful and notice the version and facility numbers are hexadecimal - **they need to be converted to decimal** before applying. I topped that with also writing the original fob (they are often writable!) with the wrong info; getting both hand and fob rejected by the building on the first attempt 🤦‍♂️.
 
-Fortunately I keep a long scrollback on my terminal, so I was able to figure out the difference and fix the mess. Lesson learned: **save the info returned** by `lf search` (`[+] IO Prox - XSF(XX)YY:ZZZZZ, Raw: NNNNNNNNNNNNNNNN (ok)`); the last number is a hash of the others, so you can use it to verify the tag.
+Fortunately I keep a long scrollback on my terminal, so I was able to figure out the change and fix the mess. Lesson learned: **save the info returned** by `lf search` - in particular, the `[+] IO Prox - XSF(XX)YY:ZZZZZ, Raw: NNNNNNNNNNNNNNNN (ok)` line. The last number is a composition of the others, so you can use it to verify the tag.
 
-Anyway, once that was sorted out, I was able to access my building with nothing but my bare hands:
+Anyway, with that sorted out, I was able to record the implant with the correct information, and then access my building just with my bare hand~s~:
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@chesterbr/video/7069206986822356229" data-video-id="7069206986822356229" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@chesterbr" href="https://www.tiktok.com/@chesterbr">@chesterbr</a> Used a Proxmark 3 Easy to copy the building fob to the NExT chip in my hand <a title="biohacking" target="_blank" href="https://www.tiktok.com/tag/biohacking">#biohacking</a> <a title="rfid" target="_blank" href="https://www.tiktok.com/tag/rfid">#RFID</a> <a title="nfc" target="_blank" href="https://www.tiktok.com/tag/nfc">#NFC</a> <a title="dangerousthings" target="_blank" href="https://www.tiktok.com/tag/dangerousthings">#dangerousthings</a> <a target="_blank" title="♬ original sound - Chester" href="https://www.tiktok.com/music/original-sound-7069206970661948166">♬ original sound - Chester</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 ### Other applications
 
-I feel like I just scratched the surface on what can be done with this dual chip implant. My bundle included a couple fobs and these cool hacking tools:
+That was all cool, yet feels like I just scratched the surface on what can be done with this dual chip implant. My bundle included (among other things) these cool hacking tools:
 
-- [xEM Access Controller](https://dangerousthings.com/product/xac-v2/) is a board that memorizes fobs (including the implant) and can trigger your own hardware to build an an access management system or anything else
+- [xEM Access Controller](https://dangerousthings.com/product/xac-v2/) is a board that memorizes fobs (including the implant) and can trigger your own hardware to build an an access management system or anything else.
 - [KBR1](https://dangerousthings.com/product/kbr1/) is a module that "types" any RFID tag's id on a computer, Raspberry Pi or anything that recognizes a USB keyboard
 - [RFID diagnostic card](https://dangerousthings.com/product/rdc/) can identify tag readers as low frequency (LF) or high frequency (HF), so you know which chip to use.
 
-I am tempted to use it somehow to open my apartment's door, but I am not sure whether the security that can be had with these technologies is good enough (the building fobs are ridiculously easy to copy, that I can attest). On the other *hand* 🥁, it's not like a regular key can't be easily copied too, so I'll ponder that possibility.
+I am tempted to use some of this stuff to to open my apartment's door (since I already have an electronic lock securely linked to a [Home Assistant](https://www.home-assistant.io/)-controlled Raspberry Pi), but I am not sure how safe that would be (building fobs are ridiculously easy to copy, as seen above). On the other *hand* 🥁, it's not like a regular key can't be trivially copied too. Have to think about it.
 
 ### Should I do it?
 
