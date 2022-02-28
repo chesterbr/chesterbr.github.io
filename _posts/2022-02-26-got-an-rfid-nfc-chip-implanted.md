@@ -8,7 +8,7 @@ comments: true
 
 ### RFID + NFC = NExT implant
 
-Two cool technologies that I've been wanting to play with are [NFC](https://en.wikipedia.org/wiki/Near-field_communication) (which is used in mobile phones for contactless payments and contact exchanges) and [RFID](https://en.wikipedia.org/wiki/Radio-frequency_identification) (which is used in tags that identify/track objects, building access cards and other things). There are rings and cards that let you interact with readers everyhere, but implants are getting practical enough that I decided to give them a go!
+[NFC](https://en.wikipedia.org/wiki/Near-field_communication) (the tech used in mobile phones for contactless payments and contact exchanges) and [RFID](https://en.wikipedia.org/wiki/Radio-frequency_identification) (used in product identification/tracking, building access cards and [many other things](https://internetofthingsagenda.techtarget.com/definition/RFID-radio-frequency-identification)) are found everywhere these days. I played a little bit with [cheap tags](https://www.amazon.ca/gp/product/B088QW9274/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) that can be used to interact with phones, but implants are getting more practical, so I decided to give one of them a go!
 
 _(I know, I know: technically, NFC is a set of protocols built upon a subset of the RFID ones, but I'm going with the commonplace usage of the terms: "RFID" for the unregulated "low frequency" 120-150 kHz tags that use all sorts of proprietary protocols, "NFC" for the "high frequency" 13.56 Mhz devices using specifically NFC)_
 
