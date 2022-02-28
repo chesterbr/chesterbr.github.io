@@ -92,6 +92,6 @@ I am tempted to use it somehow to open my apartment's door, but I am not sure wh
 
 ### Should I do it?
 
-The idea of upgrading one's body with cybernetic parts is mesmerizing, I must admit. Surely, I'm not lifting cars like [The Six Million Dollar Man](https://www.imdb.com/title/tt0071054/), but mine didn't cost nowhere near that mark (which, to be fair, [would be more like 34 Million these days](https://www.in2013dollars.com/us/inflation/1974?amount=6000000)), and I'm having my share of fun with it.
+The idea of upgrading one's body with cybernetic parts is mesmerizing, I must admit. Surely, I'm not lifting cars like [The Six Million Dollar Man](https://www.imdb.com/title/tt0071054/), but mine didn't cost anywhere near that mark (which, to be fair, [would be more like 34 Million these days](https://www.in2013dollars.com/us/inflation/1974?amount=6000000)), and I'm having my share of fun with it.
 
 RFID readers and fob cards/stickers/[rings](https://dangerousthings.com/product/magic-ring/) can be bought online, and are cheaper and less risky than and implant - but those can always be lost. Implant or no implant, there is a lot of fun to be had with NFC/RFID things.
