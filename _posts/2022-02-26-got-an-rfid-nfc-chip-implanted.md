@@ -8,11 +8,11 @@ comments: true
 
 ### RFID + NFC = NExT implant
 
-The two cool technologies that I wanted to play with are [NFC](https://en.wikipedia.org/wiki/Near-field_communication) (which is used in mobile phones for contactless payments and contact exchanges) and [RFID](https://en.wikipedia.org/wiki/Radio-frequency_identification) (which is used in tags that identify/track objects, building access cards and other things)
+Two cool technologies that I've been wanting to play with are [NFC](https://en.wikipedia.org/wiki/Near-field_communication) (which is used in mobile phones for contactless payments and contact exchanges) and [RFID](https://en.wikipedia.org/wiki/Radio-frequency_identification) (which is used in tags that identify/track objects, building access cards and other things). There are rings and cards that let you interact with readers everyhere, but implants are getting practical enough that I decided to give them a go!
 
 _(I know, I know: technically, NFC is a set of protocols built upon a subset of the RFID ones, but I'm going with the commonplace usage of the terms: "RFID" for the unregulated "low frequency" 120-150 kHz tags that use all sorts of proprietary protocols, "NFC" for the "high frequency" 13.56 Mhz devices using specifically NFC)_
 
-I didn't want to limit myself to a single technology (or to go with two implants), but Dangerous Things (yes, that's the company name) sells the [NExT](https://dangerousthings.com/product/next/): an implant with both an [RFID chip](https://github.com/RfidResearchGroup/proxmark3/blob/master/doc/T5577_Guide.md#t5577-overview) (that can simulate - or "clone" - fobs and tags on the wild) and an [NFC chip](https://www.nxp.com/products/rfid-nfc/nfc-hf/ntag-for-tags-labels/ntag-213-215-216-nfc-forum-type-2-tag-compliant-ic-with-144-504-888-bytes-user-memory:NTAG213_215_216) (which can store 888 bytes of data, accessible to any NFC reader I touch, including smartphones).
+I didn't want to limit myself to a single technology (or to go with two implants), but [Dangerous Things](https://dangerousthings.com/) (yes, that's the company name 😅) sells the [NExT](https://dangerousthings.com/product/next/): an implant with both an [RFID chip](https://github.com/RfidResearchGroup/proxmark3/blob/master/doc/T5577_Guide.md#t5577-overview) (that can simulate - or "clone" - fobs and tags on the wild) and an [NFC chip](https://www.nxp.com/products/rfid-nfc/nfc-hf/ntag-for-tags-labels/ntag-213-215-216-nfc-forum-type-2-tag-compliant-ic-with-144-504-888-bytes-user-memory:NTAG213_215_216) (which can store 888 bytes of data, accessible to any NFC reader I touch, including smartphones).
 
 ![The contraption used to inject it (after the fact) and some specs](/img/2022/02/needle_and_specs.jpg){: .center }
 
