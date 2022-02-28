@@ -87,7 +87,7 @@ Anyway, with that sorted out, I was able to record the implant with the correct 
 That was all cool, yet feels like I just scratched the surface on what can be done with this dual chip implant. My bundle included (among other things) these cool hacking tools:
 
 - [xEM Access Controller](https://dangerousthings.com/product/xac-v2/) is a board that memorizes fobs (including the implant) and can trigger your own hardware to build an an access management system or anything else.
-- [KBR1](https://dangerousthings.com/product/kbr1/) is a module that "types" any RFID tag's id on a computer, Raspberry Pi or anything that recognizes a USB keyboard
+- [KBR1](https://dangerousthings.com/product/kbr1/) is a module that "types" any RFID tag's id on a computer, Raspberry Pi or anything that recognizes a USB keyboard; could be used for a more software-based access control system.
 - [RFID diagnostic card](https://dangerousthings.com/product/rdc/) can identify tag readers as low frequency (LF) or high frequency (HF), so you know which chip to use.
 
 I am tempted to use some of this stuff to to open my apartment's door (since I already have an electronic lock securely linked to a [Home Assistant](https://www.home-assistant.io/)-controlled Raspberry Pi), but I am not sure how safe that would be (building fobs are ridiculously easy to copy, as seen above). On the other *hand* 🥁, it's not like a regular key can't be trivially copied too. Have to think about it.
