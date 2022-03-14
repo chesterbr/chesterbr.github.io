@@ -218,8 +218,8 @@ void loop() {
   word address_value = 0b1110000000000000;
   for(int bit = 0; bit <= 12; bit++) {
     address_value += digitalRead(bit + 2) * pow(2, bit);
-    // EDIT: that code was buggy - you should probably replace
-    //       the line above with the one below (thanks, Palako!)
+    // EDIT: that code was printing an odd result - you may have better luck
+    //       replacing the line above with the one below (thanks, Palako!)
     // address_value |= (digitalRead(bit+2) << bit);
   }
   Serial.print(address_value, BIN);
@@ -232,7 +232,7 @@ On the board, just skip Arduino pins 0 and 1, wiring pin 2 to CPU A0, pin 3 to C
 
 ![](/img/2017/09/6507_memory_walk_final_bb.png){: .center }
 
-It seems to work all right now. I still get a couple odd results (notably, `0xFFFB` and `0xFFFC` instead of `0xFFFC` and `0xFFFD` read when I press the RESET button, and the last ROM address being skipped), but they may be either 650x oddities, or imperfections from this monitor (**EDIT:** it was indeed an error on the monitor code, see Palako's comment below). Still, that puts me back on track to continue building up towards the Atari.
+It seems to work all right now. I still get a couple odd results (notably, `0xFFFB` and `0xFFFC` instead of `0xFFFC` and `0xFFFD` read when I press the RESET button, and the last ROM address being skipped), but they may be either 650x oddities, or imperfections from this monitor (**EDIT:** it may have been indeed an error on the monitor code, see Palako's comment below). Still, that puts me back on track to continue building up towards the Atari.
 
 * [Part II: Cartridge](/archives/2021/02/atari-2600-on-a-breadboard-part-2-reading-a-cart/)
 
