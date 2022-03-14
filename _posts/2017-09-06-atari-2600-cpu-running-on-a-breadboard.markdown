@@ -218,6 +218,9 @@ void loop() {
   word address_value = 0b1110000000000000;
   for(int bit = 0; bit <= 12; bit++) {
     address_value += digitalRead(bit + 2) * pow(2, bit);
+    // EDIT: that code was buggy - you should probably replace
+    //       the line above with the one below (thanks, Palako!)
+    // address_value |= (digitalRead(bit+2) << bit);
   }
   Serial.print(address_value, BIN);
   Serial.print(" = 0x");
