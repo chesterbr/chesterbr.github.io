@@ -12,7 +12,7 @@ Judging by how much of my life I spent reading *manga*, watching *anime* and *to
 
 After a daunting half-day flight and timezone shift, we spent a couple days in Osaka, followed by a 9-day [travel package][1001] that took us to Koyasan, Hiroshima, Kyoto, Hakone, and finally Tokyo - where we had five more days of hectic fun.
 
-Our adventures included a sleepover on a Buddhist monastery, volcano-boiled eggs, giant robots, purification rituals, a deer-populated sacred island, bullet trains, psychedelic dances, a manga museum and much more.
+Our adventures included a sleepover on a Buddhist monastery, volcano-boiled eggs, giant robots, purification rituals, a deer-populated sacred island, bullet trains, psychedelic dances, a manga museum and - why not - ear channel violation.
 
 <!--more-->
 
