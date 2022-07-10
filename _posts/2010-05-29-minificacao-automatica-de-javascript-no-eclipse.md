@@ -23,7 +23,7 @@ Só que fazer isso &#8220;na mão&#8221; toda hora é muito chato. É possível 
 
 Eu precisava de um caminho intermediário, para o qual não escaparia de criar um script que automatiza o trabalho. Como já estava com a &#8220;mão suja de graxa Python&#8221;, eu chamei [esse][8] port do [JsMin][9] num [script bem simples][10], e troquei no HTML vários scripts externos por um só, que carrega em paralelo com outros elementos da página, reduzindo bastante o tempo de carga inicial.
 
-*(Isso **não** é regra. Nunca assuma, sempre meça. Existem ótimas ferramentas para fazer isso, sendo as minhas prediletas a aba *net* do [Firebug][11] e sua equivalente embutida no menu &#8220;Developer&#8221; do Chrome.)*
+*(Isso **não** é regra. Nunca assuma, sempre meça. Existem ótimas ferramentas para fazer isso, sendo as minhas prediletas a aba *Network* das ferramentas de desenvolvimento dos browsers modernos)*
 
 A questão é: quando chamar esse script? Idealmente, eu queria que ele rodasse quando eu salvasse um dos scripts envolvidos (e **só** quando eu fizesse isso). Felizmente o Eclipse/Aptana possibilita isso, e é fácil:
 
