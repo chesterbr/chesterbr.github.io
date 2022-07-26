@@ -10,7 +10,7 @@ comments: true
 
 [NFC](https://en.wikipedia.org/wiki/Near-field_communication) (the tech used in mobile phones for contactless payments and contact exchanges) and [RFID](https://en.wikipedia.org/wiki/Radio-frequency_identification) (used in product identification/tracking, building access cards and [many other things](https://internetofthingsagenda.techtarget.com/definition/RFID-radio-frequency-identification)) are found everywhere these days. I played a little bit with [cheap tags](https://www.amazon.ca/gp/product/B088QW9274/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) that can be used to interact with phones, but implants are getting more practical, so I decided to give one of them a go!
 
-_(I know, I know: technically, NFC is a set of protocols built upon a subset of the RFID ones, but I'm going with the commonplace usage of the terms: "RFID" for the unregulated "low frequency" 120-150 kHz tags that use all sorts of proprietary protocols, "NFC" for the "high frequency" 13.56 Mhz devices using specifically NFC)_
+_(I know, I know: technically, NFC "is" RFID - or, specifically, is a set of protocols built upon a subset of the RFID ones, but I'm going with the commonplace usage of the terms: "RFID" for the unregulated "low frequency" 120-150 kHz tags that use all sorts of proprietary protocols, "NFC" for the "high frequency" 13.56 Mhz devices using specifically NFC)_
 
 I didn't want to limit myself to a single technology (or to go with two implants), but [Dangerous Things](https://dangerousthings.com/) (yes, that's the company name 😅) sells the [NExT](https://dangerousthings.com/product/next/): an implant with both an [RFID chip](https://github.com/RfidResearchGroup/proxmark3/blob/master/doc/T5577_Guide.md#t5577-overview) (that can simulate - or "clone" - fobs and tags on the wild) and an [NFC chip](https://www.nxp.com/products/rfid-nfc/nfc-hf/ntag-for-tags-labels/ntag-213-215-216-nfc-forum-type-2-tag-compliant-ic-with-144-504-888-bytes-user-memory:NTAG213_215_216) (which can store 888 bytes of data, accessible to any NFC reader I touch, including smartphones).
 
@@ -22,7 +22,7 @@ There are some limitations: its NFC can't be used for payments (like, for exampl
 
 ### The implant process
 
-Now that I knew what implant I wanted, the issue was how to get it implanted. Being quite afraid of something going wrong, I would prefer to get a physician to do it, but I didn't feel like bothering my family doctor with a non-elective procedure during a pandemic.
+Now that I knew what implant I wanted, the issue was how to get it implanted. Being quite afraid of something going wrong, I would prefer to get a physician to do it, but I didn't feel like bothering my family doctor with an elective procedure during a pandemic.
 
 After some digging, I found the [installation partners](https://dangerousthings.com/partners/) section on the Dangerous Things website, which led me to [Midway Tattoo and Piercing](https://www.midwaytattoo.com/), a studio in Kensington (where else?), Toronto where Matt Graziano kindly gave me a quote and scheduled a date.
 
