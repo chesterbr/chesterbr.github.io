@@ -10,6 +10,8 @@ After years of living in single-room condos, we decided to try a more spacious, 
 
 Sure, I could make it ring louder, but it would be annoying for anyone on the lower floor. And I also want to automate other hurdles related to package delivery, so I decided to first get the  doorbell to ring into my [Home Assistant](https://www.home-assistant.io/) setup (where I can trigger all sorts of automations).
 
+<!--more-->
+
 ### ACϟDC 🤘
 
 The easiest thing would be to replace the front door pushbutton with a four-contact one (so it would close the doorbell circuit and mine); but this being a rental discourages me from doing outdoors modifications; instead I got my trusty multimeter to pry into the doorbell, and found that when the doorbell rings, a ~12V AC current flows through the exposed contacts.
