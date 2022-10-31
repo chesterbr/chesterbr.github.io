@@ -34,7 +34,6 @@ Before progressing further, I decided to test the circuit above on a breadboard,
 
 ```c
 void setup() {
-  Serial.begin(9600);
   pinMode(2, INPUT_PULLUP);
   pinMode(13, OUTPUT);
 }
