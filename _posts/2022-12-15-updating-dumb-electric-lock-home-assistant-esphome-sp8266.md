@@ -55,14 +55,13 @@ You'll need to supply power to the ESP8266. This time I didn't have an outlet ne
 
 ### Automations
 
-Now the sky is the limit. I could, for example, just unlock the door from any automation by adding an action like this:
+Now the sky is the limit. I could, for example, just unlock the door from any automation by adding an action like this (no need to turn the switch off, as the configuration above does that automatically):
 
 ```yaml
 action:
   - service: switch.turn_on
     target:
       entity_id: switch.porta_da_casa
-mode: single
 ```
 
 I actually did a more complex setup: since I also have a smart lock controlled by Home Assistant on the internal door, I created an "I'm home" button on the UI that unlocks both the front and the internal door (which can even be linked to Siri/Google Assistant/etc. so I can just say "Hey Siri, I'm Home" and enter).
