@@ -38,12 +38,12 @@ switch:
     icon: "mdi:door"
 ```
 
-The relay is configured by GPIO5 pin, and the `on_turn_on` section is what makes it behave as a push button: it doesn't matter what turns it on in Home Assistant (UI, automations, etc), it will turn itself off automatically after the specified interval (4 seconds). During that time, the electric lock buzzes, signaling the visitor that they can enter.
+The relay is configured by GPIO5 pin, and the `on_turn_on` section is what makes it behave as a push button: it doesn't matter what turns it on in Home Assistant (user interface, automations, etc), it will turn itself off automatically after the specified interval (4 seconds). During that time, the electric lock buzzes, signaling the visitor that they can enter.
 
 ### Putting it on the wall
 
 ![UI button](/img/2022/12/ui.png){: .right }
-Once you add that script, add that switch to the "Overview" page. It shows up as a switch. When you click/touch the UI, you should hear a "click" on the relay, and, after 4s, another "click".
+Once you write ESPHome to the board with the configuration above, you can add that switch to any card on the "Overview" page (if your Home Assistant isn't set up to automatically add new switches). When you click/touch the virtual button to turn it on, you should hear a "click" on the relay, and, after 4s, another "click" as the virtual button returns to the "off" position.
 
 Using the conductivity test on a multimeter, double-check that the "NC" and middle pin only connect when the button is pressed. Those pins are the ones you should connect to the doorbell button, without disconnecting the wires already there (so the manual button continues to work).
 
@@ -71,4 +71,4 @@ I've also created an "incoming delivery" switch that I can turn on when I'm expe
 
 ![automation](/img/2022/12/automation.png){: .center }
 
-I'm considering to hook this [Mail and Packages Integration](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) to automatically turn on that switch in the days I'm expecting a delivery, but I first need to ensure it works with my deliveries. In any case, this setup is already pretty robust and easy to customize, so I'm really happy with it.
+I'm considering to hook this [Mail and Packages Integration](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) to automatically turn on that switch in days I'm expecting a delivery, but I first need to ensure it works with the emails sent by Canadian retailers. In any case, this setup is pretty robust and easy to customize, all done for a ridiculously low price. I'm pretty happy with it!
