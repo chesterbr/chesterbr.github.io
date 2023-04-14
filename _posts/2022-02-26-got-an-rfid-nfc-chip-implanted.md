@@ -46,15 +46,9 @@ Contrary to the NTAG216 (which can be programmed with any smartphone with NFC), 
 
 ![Proxmark3 Easy](/img/2022/02/proxmark3.jpg){: .center }
 
-Using it requires a client on your computer and a matching firmware on the board. There are several builds of those around - my board came with an old version of ["Iceman"](https://github.com/RfidResearchGroup/proxmark3), one of the most feature-complete builds, but in a really old version. Updating it requires downloading and compiling the client and firmware as a set. Here is how I did that:
+Using it requires a client on your computer and a matching firmware on the board. There are several builds of those around - my board came with an old version of ["Iceman"](https://github.com/RfidResearchGroup/proxmark3), one of the most feature-complete builds, but in a really old version. Updating it requires downloading and compiling the client and firmware as a set.
 
-```bash
-git clone https://github.com/RfidResearchGroup/proxmark3
-cd proxmark3
-cp Makefile.platform.sample Makefile
-# at this point, edit Makefile.platform, uncommenting PLATFORM=PM3GENERIC (by removing the trailing #) and commenting any other PLATFORM=... line
-make clean && make all
-```
+**EDIT:** previously this required some file editing; now you just follow the instructions to get the dependencies (e.g., [these](https://github.com/RfidResearchGroup/proxmark3/blob/master/doc/md/Installation_Instructions/Mac-OS-X-Homebrew-Installation-Instructions.md#homebrew-mac-os-x-developer-installation) for macOS), then `make` as usual.
 
 Any errors here can be fixed with web searching (for example, I had to do a [small fix to my Homebrew-installed openssl](https://stackoverflow.com/a/45196185/64635)). When that is done, it's a good idea to start by upgrading the board's bootloader with `./pm3-flash-bootrom`. It requires putting the board into bootloader mode, by pressing its single button while plugging to the computer. My version was so old that I had to keep it pressed through the process, otherwise it was quick and easy.
 
