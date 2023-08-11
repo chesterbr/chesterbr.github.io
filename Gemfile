@@ -19,4 +19,4 @@ end
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Ruby 3.0 does not include webrick anymore
-# gem 'webrick'
+gem 'webrick'
