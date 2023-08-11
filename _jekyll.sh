@@ -6,7 +6,8 @@ instructions() {
     echo " or edit files in http://localhost:4000/admin"
     echo "=============================================="
 }
-rbenv install --skip-existing
+# Uncomment if needed (codespaces shoud supply a Ruby)
+# rbenv install --skip-existing
 bundle
 bundle exec jekyll build
 bundle exec jekyll serve --livereload --verbose --incremental
