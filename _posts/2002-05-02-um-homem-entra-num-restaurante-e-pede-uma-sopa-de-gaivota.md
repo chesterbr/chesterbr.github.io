@@ -19,14 +19,16 @@ A brincadeira é velhíssima, mas estou falando dela porque hoje eu descobri que
 
 Claro que não tem a menor graça ler aqui, o legal é aplicar a brincadeira. Por isso, não coloquei muitas (pra não estragar a diversão dos mais afoitos) &#8211; a idéia é que você aprenda duas ou três para usar com os amigos, certamente alguém vai conhecer outra e você passa ao papel de &#8220;perguntador&#8221;.
 
-Aí vai:<ul class=mensagem>
+Aí vai:
 
-*   Um homem entra num restaurante e pede uma sopa de gaivota. Ele prova a sopa, pega uma faca e se mata. (<a href="#" onclick="alert('O homem estava num cruzeiro com sua mulher, quando uma explosão afundou o navio e o cegou. Ele foi resgatado por um grupo num bote. O grupo afirmava que sua mulher havia falecido. Eles ficaram com fome, e tudo o que tinham pra comer era o cadáver da mulher. Como o homem estava cego, disseram a ele que o que comiam era uma sopa de gaivota. Em terra firme, ele foi ao restaurante, e, ao provar a verdadeira sopa de gaivota, deduziu o ocorrido e suicidou-se.')">explicação</a>)
-*   Um homem mora no 14o. andar de um prédio. Sempre que faz sol, ele usa as escadas para subir até seu apartamento. Quando chove, ele usa o elevador. (<a href="#" onclick="alert('O homem era um anão, e não alcançava os botões do elevador. Em dias chuvosos, ele lembrava de trazer o guarda-chuva quando saía, e usava-o para apertar os botões. Em dias de sol, era obrigado a usar a escada.')">explicação</a>)
-*   Um homem faz uma viagem de trem até a capital, voltando alguns dias depois. No meio da viagem de volta, ele se mata (<a href="#" onclick="alert('O homem era cego. Ele foi à cidade fazer uma cirurgia pra curar a cegueira. Na viagem de volta, ele passou por um túnel longo, e pensou que estava cego novamente, ficou revoltado e se matou.')">explicação</a>)</ul>
+* Um homem entra num restaurante e pede uma sopa de gaivota. Ele prova a sopa, pega uma faca e se mata. (<a href="#" onclick="alert('O homem estava num cruzeiro com sua mulher, quando uma explosão afundou o navio e o cegou. Ele foi resgatado por um grupo num bote. O grupo afirmava que sua mulher havia falecido. Eles ficaram com fome, e tudo o que tinham pra comer era o cadáver da mulher. Como o homem estava cego, disseram a ele que o que comiam era uma sopa de gaivota. Em terra firme, ele foi ao restaurante, e, ao provar a verdadeira sopa de gaivota, deduziu o ocorrido e suicidou-se.')">explicação</a>)
+* Um homem mora no 14o. andar de um prédio. Sempre que faz sol, ele usa as escadas para subir até seu apartamento. Quando chove, ele usa o elevador. (<a href="#" onclick="alert('O homem era um anão, e não alcançava os botões do elevador. Em dias chuvosos, ele lembrava de trazer o guarda-chuva quando saía, e usava-o para apertar os botões. Em dias de sol, era obrigado a usar a escada.')">explicação</a>)
+* Um homem faz uma viagem de trem até a capital, voltando alguns dias depois. No meio da viagem de volta, ele se mata (<a href="#" onclick="alert('O homem era cego. Ele foi à cidade fazer uma cirurgia pra curar a cegueira. Na viagem de volta, ele passou por um túnel longo, e pensou que estava cego novamente, ficou revoltado e se matou.')">explicação</a>)
+
 A minha predileta eu deixo sem resposta, quem quiser saber me procure pessoalmente (ou ainda: que tal tentar jogar por e-mail? Será que dá certo?):<ul class=mensagem>
 
-*   Um homem está morto no meio de um deserto, nu, com um palito na mão.</ul>
+* Um homem está morto no meio de um deserto, nu, com um palito na mão.
+
 Explique!!! :-)
 
 **UPDATE**: veja mais dessas charadas no [Geniusland][1]
