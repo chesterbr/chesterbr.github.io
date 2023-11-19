@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
+# Use the same Bundler across the board
+gem "bundler", "2.4.10"
+
 # This keeps a GitHub-friendly Jekyll (I think)
 gem "github-pages", group: :jekyll_plugins
 
