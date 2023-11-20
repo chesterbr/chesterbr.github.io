@@ -146,7 +146,7 @@ Whatever you choose, make sure you restore the backups when provisioning a new s
 
 All my server configuration is [published on GitHub](https://github.com/chesterbr/chester-ansible-configs). It may sound reckless, but [good security should never be done by obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity); instead, it gives the good guys a chance to alert me about bad practices, while not showing much that the bad guys couldn't find out by themselves.
 
-Things that should actually be kept secret can be stored in [Ansible Vault](https://docs.ansible.com/ansible/latest/user_guide/vault.html), which encrypts them with a password that you supply when running the playbooks, or in [GitHub Secrets](https://docs.github.com/en/actions/reference/encrypted-secrets), that are only visible to the repository owner.
+Things that should actually be kept secret can be stored in [Ansible Vault](https://docs.ansible.com/ansible/latest/user_guide/vault.html), which encrypts them with a password that you supply when running the playbooks, or in some service like [GitHub Secrets](https://docs.github.com/en/actions/reference/encrypted-secrets), that are only visible to the repository owner (but they require some GitHub Actions gymnastics for provisioning into a server, which is why I currently stay with Ansible Vault).
 
 ### Final thoughts
 
