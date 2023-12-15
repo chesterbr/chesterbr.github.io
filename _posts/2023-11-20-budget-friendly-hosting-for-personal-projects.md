@@ -148,8 +148,7 @@ Whatever you choose, make sure you restore the backups when provisioning a new s
 
 Things that should actually be kept secret can be stored in [Ansible Vault](https://docs.ansible.com/ansible/latest/user_guide/vault.html), which encrypts them with a password that you supply when running the playbooks, or in some service like [GitHub Secrets](https://docs.github.com/en/actions/reference/encrypted-secrets), that are only visible to the repository owner (but they require some GitHub Actions gymnastics for provisioning into a server, which is why I currently stay with Ansible Vault).
 
-### Final thoughts
+### Final thought
 
-This isn't a universal guide on how to host personal projects - but rather a description of how have been doing it (which I may update as I find or remember other interesting things), and how other people can do it too.
-
+This isn't a universal guide on how to host personal projects - but rather a description of how have been doing it (which I may update as I find or remember other interesting things), and how other people can do it too. The dynamics of hosting change all the time; the main thing is to design and iterate around them, automating just enough so that you don't need to keep an eye on it. That's what worked for me so far!
 
