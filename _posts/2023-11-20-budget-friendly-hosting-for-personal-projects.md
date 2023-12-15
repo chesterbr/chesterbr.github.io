@@ -150,6 +150,6 @@ Things that should actually be kept secret can be stored in [Ansible Vault](http
 
 ### Final thoughts
 
-This isn't a universal guide on how to host personal projects - but rather a description of how I do it (which I may update as I find or remember other interesting things), and how you can do it too. Hope it helps you to get started, and I'd love to hear your thoughts on it!
+This isn't a universal guide on how to host personal projects - but rather a description of how have been doing it (which I may update as I find or remember other interesting things), and how other people can do it too.
 
 
