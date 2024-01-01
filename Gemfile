@@ -1,10 +1,12 @@
 source "https://rubygems.org"
 
-# Use the same Bundler across the board
-gem "bundler", "2.4.10"
+gem "bundler"
 
-# This keeps a GitHub-friendly Jekyll (I think)
-gem "github-pages", group: :jekyll_plugins
+# Ruby 3.3 compatible Jekyll
+gem "jekyll", "~> 3.9.4"
+
+# This gem is required for GitHub Pages
+gem "kramdown-parser-gfm"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima"
