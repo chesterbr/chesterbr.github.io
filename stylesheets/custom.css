@@ -11,3 +11,8 @@ table td { border: 1px solid #e8e8e8; }
     html { filter: invert(1); }
     hgroup, img { filter: invert(1); }
 }
+
+/** Ensure floating images don't spill into the follow-up article on index/feeds */
+article {
+    clear: both;
+}
