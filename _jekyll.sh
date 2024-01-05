@@ -10,6 +10,6 @@ instructions() {
 # rbenv install --skip-existing
 bundle
 bundle exec jekyll build
-bundle exec jekyll serve --livereload --verbose --incremental
+bundle exec jekyll serve
 # instructions &
 # bundle exec jekyll serve --incremental
