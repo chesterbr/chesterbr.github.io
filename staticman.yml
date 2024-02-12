@@ -16,7 +16,7 @@ comments:
   branch: "main"
 
   # Text to use as the commit message or pull request title. Accepts placeholders.
-  commitMessage: "Staticman comment by {fields.name} on {options.slug}"
+  commitMessage: "Staticman comment by {fields.name} on {options.id}"
 
   # (*) REQUIRED
   #
