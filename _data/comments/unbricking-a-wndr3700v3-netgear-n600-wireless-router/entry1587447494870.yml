@@ -1,0 +1,9 @@
+_id: 4883536870
+_parent: http://chester.me/archives/2017/03/unbricking-a-wndr3700v3-netgear-n600-wireless-router/
+replying_to_uid: '4883261062'
+message: '<p>No it’s not the same method as tftp! This method worked on my bricked v3 when i flashed to latest freshtomato! I plugged my pc to the switch and the router to the switch and run the nmrpflash with command and it worked!</p>'
+name: 'Albert'
+email: 'b62bb4f50650c3d77e30519a5e4d25f4'
+hp: ''
+date: 1587447494
+            

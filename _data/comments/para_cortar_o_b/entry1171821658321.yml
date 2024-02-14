@@ -1,0 +1,9 @@
+_id: 1039934321
+_parent: http://chester.me/archives/2007/01/para_cortar_o_b.html
+replying_to_uid: ''
+message: '<p>René,</p><p></p><p></p><p>Já usei o Cpuidle no passado, e o que ele faz (executar a instrução HLT do processador quando ele não está em uso) de fato ajuda na redução de temperatura quando não há uso intensivo do processador (ou mesmo quando há, mas muito intercalado com I/O).</p><p></p><p></p><p>Entretanto, versões modernas de Windows (NT/2000/XP/Vista) já executam este procedimento - basta que a BIOS ACPI seja reconhecida (conforme o FAQ do Cpuidle em <a href="http://www.cpuidle.de/works.php" rel="nofollow noopener" title="http://www.cpuidle.de/works.php">http://www.cpuidle.de/works.php</a> ), e isto certamente deve ocorrer em motherboards/CPUs feitas nos últimos 10 anos (ACPI foi especificado em 1996).</p><p></p><p></p><p>O Linux (caso do meu micro) também executa esta instrução quando está em idle, e não depende de ACPI, pois verifica se a instrução HLT está presente durante a inicialização, cf.: <a href="http://tinyurl.com/ytjv3l" rel="nofollow noopener" title="http://tinyurl.com/ytjv3l">http://tinyurl.com/ytjv3l</a> ).</p>'
+name: 'Chester'
+email: '4aedc3bea326ae3e2fe3a49b10e73457'
+hp: ''
+date: 1171821658
+            

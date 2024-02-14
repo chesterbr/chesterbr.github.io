@@ -1,0 +1,9 @@
+_id: 1039935200
+_parent: http://chester.me/archives/2007/02/timefix.html
+replying_to_uid: ''
+message: '<p>Olhando no <a href="http://catalina.sh" rel="nofollow noopener" title="catalina.sh">catalina.sh</a> do Tomcat 6.0.14, vejo que todas as possibilidades de execução são do tipo:</p><p></p><p></p><p>    exec "$_RUNJAVA" $JAVA_OPTS $CATALINA_OPTS \<br><br>...<br><br>org.apache.catalina.startup.Bootstrap "$@" start</p><p></p><p></p><p>Desta forma, o passo 2 consiste em substituir todas as ocorrências de "org.apache.catalina.startup.Bootstrap" por "timefix org.apache.catalina.startup.Bootstrap" (sem as aspas).</p><p></p><p></p><p>O passo 1 você até pode fazer em algum ponto do arquivo, mas eu vi que ele chama um <a href="http://setclasspath.sh" rel="nofollow noopener" title="setclasspath.sh">setclasspath.sh</a> (que limpa o classpath antes de construí-lo). Desta forma, o mais limpinho parece ser colocar no final deste arquivo a linha</p><p></p><p></p><p>    export CLASSPATH=$CLASSPATH:/xyz/timefix-1.0.jar</p><p></p><p></p><p>(/xyz é o lugar onde o jar foi colocado, altere conforme o seu caso)</p><p></p><p></p><p>Veja se rolou e dê um toque. Abraço!</p>'
+name: 'Chester'
+email: '4aedc3bea326ae3e2fe3a49b10e73457'
+hp: ''
+date: 1194389799
+            

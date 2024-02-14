@@ -1,0 +1,9 @@
+_id: 1039935215
+_parent: http://chester.me/archives/2007/02/timefix.html
+replying_to_uid: ''
+message: '<p>Legal... claro, a JSR-310 é um negócio *bem* mais sério que esse fix (embora ele seja usado em mais de um grande provedor de Terra Brasilis ;-) ). Eu tenho um certo otimismo com relação a isso - particularmente se sair algo tão amigável quanto o Joda Time.</p><p></p><p></p><p>Aliás, eu só não fui mais a fundo no Joda Time na prática pelo simples fato de que é quase impossível convencer todos os envolvidos em um projeto grande a trocar algo tão fundamental quanto o suporte a datas por uma solução não-oficial. Nesse sentido JSRs como esta vêm muito a calhar!</p>'
+name: 'Chester'
+email: '4aedc3bea326ae3e2fe3a49b10e73457'
+hp: ''
+date: 1174345017
+            

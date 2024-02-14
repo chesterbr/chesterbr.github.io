@@ -1,0 +1,9 @@
+_id: 1039938630
+_parent: http://chester.me/archives/2008/12/oswald_de_souza.html
+replying_to_uid: ''
+message: '<p>Me gustareda si me lo pterimen, hacer una breve explicacif3n para los usuarios que no saben el por que este ataque se realiza sobre redes bajo un router o un switch y no en maquinas interconectadas con un hub ya que es una duda que muchos pueden tener.Resulta que en una red con un hub no hareda falta ya que un hub es un dispositivo  tonto  que no diferencia a una maquina de otra. Para que quede mas claro: Si por ejemplo nos encontramos en una red formada por cuatro ordenadores (a, b, c, d) interconectados con un hub y deseamos mandar un paquete del equipo  a  al equipo  d  el hub al no saber diferenciar una maquina de otra mandare1 el paquete a todos los ordenadores porque supone que las me1quinas que no estaban esperando ese paquete lo rechazare1n(Por un momento imaginaos en una oficina con un hub lo que podreda pasar si dejamos un sniffer puesto durante un par de horas  ).Ahora bien en una red con swith o con router tenemos que  engaf1ar  a las me1quinas porque este dispositivo si que diferencia una me1quina de otra (Posee una tabla con unas entradas donde figura la direccif3n Mac y la direccif3n ip de cada dispositivo conectado a la red) y las me1quinas de la propia red tambie9n poseen tabla arp y de esta manera ambos saben  quien es quien  dentro de la red por lo cual a la hora de enviar informacif3n a trave9s de la red solo llega al destino en concreto.Realizando un ataque Man in the middle a una maquina en determinada le estaremos diciendo algo ased como  Ey que yo soy la maquina que buscas envedame ese paquete a mi .Espero que haya quedado claro a los usuarios que tengan dudas y espero no haberme enrollado demasiado. Si hay algfan error me lo comente1is. Un saludo a todos.</p>'
+name: 'Daniel'
+email: '4aedc3bea326ae3e2fe3a49b10e73457'
+hp: ''
+date: 1353330908
+            

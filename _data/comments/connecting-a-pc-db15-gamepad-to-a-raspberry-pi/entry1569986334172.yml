@@ -1,0 +1,9 @@
+_id: 4636749172
+_parent: http://chester.me/archives/2014/08/connecting-a-pc-db15-gamepad-to-a-raspberry-pi/
+replying_to_uid: ''
+message: '<p>I am trying to build a robot using raspberry pi somewhat similar to line follower. I was wondering if it is possible to connect ns joy con to raspberry pi and use them to send signal to robot. I searched a lot and found pybluez might be helpful. But not sure how to use it to read signal from joy con connected to raspberry pi using bluetooth. Any advice.</p>'
+name: 'Payam Rastogi'
+email: 'b0b29555e59b9d2e8ea692ef8d914454'
+hp: ''
+date: 1569986334
+            

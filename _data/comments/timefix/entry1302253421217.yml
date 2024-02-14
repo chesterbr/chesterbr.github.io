@@ -1,0 +1,9 @@
+_id: 1039935217
+_parent: http://chester.me/archives/2007/02/timefix.html
+replying_to_uid: '1039935182'
+message: '<p>E o meu sistema deficiente de notificações da época me fez não responder a tempo. Sim, deve funcionar independente do caminho. Sobre o "permission denied" abaixo, tente um chmod dando direito de leitura para qualquer usuário (não deve gerar um issue de segurança, o arquivo é público mesmo).</p>'
+name: 'Chester'
+email: '4aedc3bea326ae3e2fe3a49b10e73457'
+hp: ''
+date: 1302253421
+            
