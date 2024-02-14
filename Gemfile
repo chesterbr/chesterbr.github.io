@@ -25,3 +25,6 @@ end
 
 # Ruby 3.0 does not include webrick anymore
 gem 'webrick'
+
+# This is used by the custom plugin sanitize_html, needed for the comment system
+gem 'sanitize'
