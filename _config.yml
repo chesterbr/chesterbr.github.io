@@ -53,10 +53,6 @@ plugins:
   - jekyll-sitemap
 permalink: /archives/:year/:month/:title/
 
-# Disqus Comments
-disqus_short_name: chesterbr
-disqus_show_comment_count: true
-
 # Github repositories
 github_user: chesterbr
 github_repo_count: 5
