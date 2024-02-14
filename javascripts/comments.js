@@ -45,6 +45,9 @@
     $('.js-modal-title').text(title);
     $('.js-modal-text').html(message);
     $('body').addClass('show-modal');
+    setTimeout(function () {
+      document.getElementById("comment-form-modal").scrollIntoView();
+    }, 500);
   }
 })(jQuery);
 
