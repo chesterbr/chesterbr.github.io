@@ -1,0 +1,9 @@
+_id: 1039937828
+_parent: http://chester.me/archives/2008/04/minitruco_313_m.html
+replying_to_uid: ''
+message: '<p>Sobre os tipos de bluetooth do mini truco...</p><p></p><p></p><p>o celular da LG Cookie KP500 e 570 não aparecem a função bluettoh no menu.<br><br>Vi em um de seus blogs que só aparece essa função se tiver JSR 82...<br><br>Gostaria de entender mais... segue as caracterisitcas de bluettoh que tem nesse modelo:<br><br>Supported JSRs     <br><br>· JSR 75 PDA Optional Packages: File Connection, PIM <br><br>· JSR 120 WMA 1.0: SMS <br><br>· JSR 135 MMAPI 1.1 (Audio): AAC, MIDI, MP3 <br><br>· JSR 135 MMAPI 1.1 (Image): JPG, PNG <br><br>· JSR 135 MMAPI 1.1 (Video): 3GP <br><br>· JSR 135 MMAPI 1.1 (Feature Set): Audio Playback, Video Playback <br><br>· JSR 184 Mobile 3D Graphics API<br><br>· JSR 185 Java Technology for the Wireless Industry (JTWI)<br><br>· JSR 205 WMA 2.0 </p><p></p><p></p><p>seria possível um esclarecimento se nao vai rodar mesmo por nao possuir JSR 82..<br><br>ou se esse JSR 185 é mais atual (pois tem relação com java..<br><br>desculpe aignorancia.. nao entendo nda mesmo..</p><p></p><p></p><p>só to muito triste, pois sou viciada nesse jogo.. e infelizmente nesse modelo o bluetooth nao roda...<br><br>bjus</p>'
+name: 'Letícia'
+email: '4aedc3bea326ae3e2fe3a49b10e73457'
+hp: ''
+date: 1239503577
+            

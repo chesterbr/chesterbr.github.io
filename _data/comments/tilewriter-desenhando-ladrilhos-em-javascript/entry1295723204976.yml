@@ -1,0 +1,9 @@
+_id: 1039936976
+_parent: http://chester.me/archives/2010/06/tilewriter-desenhando-ladrilhos-em-javascript.html
+replying_to_uid: ''
+message: '<p>Pois é! Na real, qualquer browser que tenha um JavaScript não muito jurássico e suporte a criação dinâmica de uma quantidade relativamente grande de elementos de bloco (um por pixel/azulejo) consegue renderizar.</p><p>Se um dia eu voltar a esse projeto, talvez tente reduzir a quantidade de elementos pra deixar mais leve (embora eu realmente espere que a tag canvas do HTML5 torne isso obsoleto).</p>'
+name: 'Chester'
+email: '4aedc3bea326ae3e2fe3a49b10e73457'
+hp: ''
+date: 1295723204
+            

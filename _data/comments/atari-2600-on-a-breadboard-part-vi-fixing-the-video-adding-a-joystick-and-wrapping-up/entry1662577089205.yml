@@ -1,0 +1,9 @@
+_id: 5972625205
+_parent: https://chester.me/archives/2021/09/atari-2600-on-a-breadboard-part-vi-fixing-the-video-adding-a-joystick-and-wrapping-up/
+replying_to_uid: '5969574998'
+message: '<p>Not that I know of - the Atari 7800 technically replaced the CPU with a 65c02(-ish); but it had to be kept at the same speed for compatibility; any such replacement would also have the same constraint (as the timing would be tight); so it''s hard to see an advantage in such a replacement.</p>'
+name: 'chesterbr'
+email: '3a49ee98333d753103cf708e40d36984'
+hp: ''
+date: 1662577089
+            

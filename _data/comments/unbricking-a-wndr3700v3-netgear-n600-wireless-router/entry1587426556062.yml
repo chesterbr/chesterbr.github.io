@@ -1,0 +1,9 @@
+_id: 4883261062
+_parent: http://chester.me/archives/2017/03/unbricking-a-wndr3700v3-netgear-n600-wireless-router/
+replying_to_uid: '4883029337'
+message: '<p>ah, good to hear! I have tried that on mine, but unfortunately, TFTP was busted (I confirmed it was the problem because, after the complicated procedure, TFTP worked normally). Glad you don''t have to go through that (although it _is_ fun to use TTY on a less-inaccessible port :-D ). All the best, and thanks for sharing!</p>'
+name: 'chesterbr'
+email: '3a49ee98333d753103cf708e40d36984'
+hp: ''
+date: 1587426556
+            

@@ -1,0 +1,9 @@
+_id: 1039936917
+_parent: http://chester.me/archives/2010/07/fisl-11-cruzalinhas-e-ig-code-golf.html
+replying_to_uid: ''
+message: '<p>E em Python :)</p><p>#q1<br>a=[0]<br>exec"a+=[sum(a[:-1])+1];"*input()<br>print`a`[4:-1]</p><p>#q2<br>a=raw_input().replace('' '','''').lower()<br>print ('''',u''n\xe3o \xe9'')[a!=a[::-1]]+u''pal\xedndromo''<br>for x,y in sorted((a.count(x),x)for x in set(a))[::-1]:print''%i: %s''%(x,y)</p><p>#q3<br>import struct as s,socket as o<br>a,b=raw_input().split()<br>k=lambda t:bin(s.unpack(''!I'',o.inet_aton(t))[0])<br>i=k(a)<br>m=k(b)<br>print"%s /%i"%(o.inet_ntoa(s.pack("!I",int(i,2)|~int(m,2))),32-m[:0:-1].count(''0''))</p><p>#q4<br>a,b=raw_input().split()<br>exec''a,b=set([%s]),set([%s])''%(a,b)<br>print`sorted(a&amp;b)`[1:-1]</p><p>#q5<br>import os<br>print sum(dict(p=1,c=3,b=3,t=5,a=10,r=50).get(x,0)for x in <a href="http://os.read" rel="nofollow noopener" title="os.read">os.read</a>(0,99))</p><p>ou <a href="http://pastebin.com/Et882MTV" rel="nofollow noopener" title="http://pastebin.com/Et882MTV">http://pastebin.com/Et882MTV</a> se quebrar</p>'
+name: '@ikkebr'
+email: '4aedc3bea326ae3e2fe3a49b10e73457'
+hp: ''
+date: 1280180039
+            

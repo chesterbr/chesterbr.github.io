@@ -1,0 +1,9 @@
+_id: 3520945631
+_parent: http://chester.me/archives/2017/03/unbricking-a-wndr3700v3-netgear-n600-wireless-router/
+replying_to_uid: ''
+message: '<p>I finally got my 3700 V3 debricked.  I used the same method as Chester (thanks, Chester!  This helped a lot.).  However, even though I definitely have the V3 version of this router (Broadcom chipset), my PC board is very different than the one in Chester''s picture, and that threw me off.  Although I have that same 6-pin connector (or rather, 6 holes where a connector would go) as Chester''s board, much else is different; my 6-pin connector is labeled J14.  I tried connecting to those same holes as Chester did with no luck.</p><p>I finally found after some more googling that the four "pads" (labeled JP1)  next to the 6-pin J14 are the connector I needed.  There are no holes; you simply solder pins or wires on top of each pad.  It should be much easier, actually, to solder to those pads than Chester had to do with those tiny holes.</p><p>By trial and error, I figured out the pin assignments of JP1 (these pins aren''t numbered on the board, but I am numbering them thus: where pin 1 is closest to the outside edge of the board, pin 4 is closest to the inside):</p><p>1. RXD   2. TXD  3. GND 4. VCC</p><p>Connect 1/RXD to the TXD pin on your serial port, and connect 2/TXD to the RXD pin on your serial port.  Connect 3/GND to GND.  Don''t connect 4/VCC.  So you have to solder only three pins to the top of the board.</p><p>I bought my little USB serial port off eBay for 99 cents from a place in Hong Kong - took less than two weeks to get to me by mail.  It came with the cables as well - very handy.</p>'
+name: 'Andrew'
+email: '4aedc3bea326ae3e2fe3a49b10e73457'
+hp: ''
+date: 1505609834
+            

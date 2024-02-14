@@ -1,0 +1,9 @@
+_id: 1040448970
+_parent: http://chester.me/archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi.html
+replying_to_uid: '1039937099'
+message: '<p>Both are small-scale "computers", but with different capabilities and focuses:</p><p>The Arduino has a simple microcontroller, which runs (relatively) simple code usually built on a PC for a specific task. Its strong point is interfacing with electronics: it has several ports that can act as input, output or oscilators for digital and analog components. If you need programmable "brains" for an electronics project (e.g., controlling a robot/LEDs, reading sensors, reacting to them), it is a wise choice, due to the lower price and sturdiness.</p><p>The Raspberry Pi has a full-fledged ARM CPU (not unlike the ones found on smartphones), which means it can run a Linux system and work as a cheap/low-power computer. It also has general I/O, but not as flexible or heavy-duty (electronically-wise) than Arduino''s. On the other hand, it has standard PC connectors like HDMI, Ethernet and USB and way more computing power and RAM (256-512KB), making it suitable to work as a media center, a smart network device or the controller/computer board for more complex projects.</p><p>If you compare the specs (<a href="http://arduino.cc/en/Main/arduinoBoardUno" rel="nofollow noopener" title="http://arduino.cc/en/Main/arduinoBoardUno">http://arduino.cc/en/Main/a...</a> vs <a href="http://en.wikipedia.org/wiki/Raspberry_Pi#Specifications)" rel="nofollow noopener" title="http://en.wikipedia.org/wiki/Raspberry_Pi#Specifications)">http://en.wikipedia.org/wik...</a> you''ll see that difference in CPU, RAM, etc.</p>'
+name: 'chester'
+email: '4aedc3bea326ae3e2fe3a49b10e73457'
+hp: ''
+date: 1374821710
+            

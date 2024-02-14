@@ -1,0 +1,9 @@
+_id: 1039938610
+_parent: http://chester.me/archives/2008/12/oswald_de_souza.html
+replying_to_uid: ''
+message: '<p>Heh, relaxa, eu entendo se você estiver tendo um certo "inconformismo" com a coisa: vi muito aluno que chegava no 3o. semestre na USP e anda não se conformava com a aparente contradição.</p><p>Vamos lá:</p><p>- Sim, a chance de cada número do dado é a mesma (1/6);</p><p>- Sim, como no exemplo do globo e das sequências, a chance de sair um resultado não-repetido *qualquer* é maior que a chance de sair umr repetido qualqquer, pois temos 6 resultados repetidos (1,1,1,1,1,1; 2,2,2,2,2,2; ...; 6,6,6,6,6,6) para (se não me engano, estou calculando correndo :-P ) 46650 resultados não-repetidos (6^6 resultados totais, menos os 6 repetidos);</p><p>maaaaaaaas...</p><p>- Assim como no exemplo do globo e das sequências, a chance de um resultado particular não-repetido (ex.: 3,4,2,1,3,6) é a *mesma* chance de um resultado particular repetido (ex.: 6,6,6,6,6,6).</p><p>Novamente, você precisa esclarecer melhor a pergunta: se quer saber se tem mais chances de ver um não-repetido (a resposta é sim, é bem mais provável que você veja um não-repetido) ou se quer saber se um resultado em particular não-repetido tem mais chances que um repetido (a resposta é não: os dois têm a mesma chance de 1/(6x6x6x6x6x6) )</p><p>A segunda pergunta é da mesma natureza (embora também precise ficar um pouco mais clara em termos do que vocÊ quer dizer com "dez vezes cada número). Mas em qualquer interpretação continua valendo o fato: resultado individual é uma coisa, agrupamentos são outra.</p>'
+name: 'Chester'
+email: '4aedc3bea326ae3e2fe3a49b10e73457'
+hp: ''
+date: 1262923357
+            

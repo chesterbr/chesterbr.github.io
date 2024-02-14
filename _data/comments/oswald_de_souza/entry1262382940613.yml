@@ -1,0 +1,9 @@
+_id: 1039938613
+_parent: http://chester.me/archives/2008/12/oswald_de_souza.html
+replying_to_uid: ''
+message: '<p>Fabiano,</p><p>Aqui não é o Oswald, mas como matemático talvez eu possa te ajudar com essa questão. Ela é compreensível: a estatística de colégio nos diz que a chance é a mesma para qualquer jogo, mas ninguém lembra de ter visto sequências nos resultados, né?</p><p>Antes de tudo, o professor do colegial não estava errado: a probabilidade de um sorteio particular em sequência, como, por exemplo, o 01,02,03,04,05,06 é a mesma de um sorteio não-sequencial, tal como o 08,15,26,37,44,51. Não faz diferença, para as suas chances, apostar na primeira ou na segunda.</p><p>O que causa a FALSA impressão de que é muito mais difícil ganhar com uma sequência é que existem apenas 55 possíveis jogos em sequência: 01,02,03,04,05,06; 02,03,04,05,06,07; ... ; 55,56,57,58,59,60 - *muito* menos do que a quantidade de jogos não-sequenciais possíveis (pouco mais de 50 milhões).</p><p>Pra ilustrar: imagine que você sorteasse uma bola de dentro de um saco, e esse saco tivesse 55 bolas pretas e uns 50 milhões de bolas brancas (é, um saco bem grande :-)). Claro que qualquer um apostaria a própria vida que a bola que vai sair é branca! Acontece que a pergunta que a loteria te faz não é "qual a cor da bola que vai?", e sim "qual é *a* bola que vai sair?". A cor, isto é, se o jogo é sequência ou não, se torna irrelevante.</p><p>Resumindo: é muito mais provável você ver nos resultados uma não-sequência do que uma sequência - e isso vai dar a idéia (errada) de que uma não-sequência tem mais chances. Pode jogar sequência ou não-sequência que o resultado é o mesmo.</p><p>Feliz 2010!</p>'
+name: 'Chester'
+email: '4aedc3bea326ae3e2fe3a49b10e73457'
+hp: ''
+date: 1262382940
+            

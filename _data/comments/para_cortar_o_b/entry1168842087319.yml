@@ -1,0 +1,9 @@
+_id: 1039934319
+_parent: http://chester.me/archives/2007/01/para_cortar_o_b.html
+replying_to_uid: ''
+message: '<p>Outra dica legal, que tb está no link indicado, é usar diodos em série...</p><p></p><p></p><p>Cada diodo causa uma diminuição de 0.6 Volts, entao vc consegue velocidades intermediárias.</p><p></p><p></p><p>Por exemplo, se colocar 5 diodos em série, a tensão de 12V cai 3V (5*0.6), ficando em 9V.</p><p></p><p></p><p>Já fiz isso, funciona OK e é menos agressivo que cair para 5V (que é mais que a metade, isso altera torque, etc)...</p>'
+name: 'Alexandre K Higuchi'
+email: '4aedc3bea326ae3e2fe3a49b10e73457'
+hp: ''
+date: 1168842087
+            
