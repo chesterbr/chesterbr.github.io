@@ -15,7 +15,7 @@ For years, I filled that gap with [Disqus](https://disqus.com/) - a service that
 
 A comment system isn't a very complicated app, but it would be another database that I'd have to care for, and a departure from Jekyll's static generation model that served me so well. The ideal solution would be to store comments in the same place I store posts: a trusty GitHub repository. Jekyll can read data files to show the comments, and all I needed was to host an app somewhere that would create those files when a new comment is written.
 
-I almost wrote that app myself, but [Eduardo Bouças](https://eduardoboucas.com/about/) wrote and kindly shared [Staticman](https://staticman.net/), which does precisely that. Sure, I still had to host/configure it, adapt the blog to send it the comments (and read them from the repository files), and migrate the old comments from Disqus. These things combined took me a couple days, so I thought I'd share the process here.
+I almost coded that app myself, but [Eduardo Bouças](https://eduardoboucas.com/about/) wrote and kindly shared [Staticman](https://staticman.net/), which does precisely that. Sure, I still had to host/configure it, adapt the blog to send it the comments (and read them from the repository files), and migrate the old comments from Disqus. These things combined took me a couple days, so I thought I'd share the process here.
 
 <!--more-->
 
