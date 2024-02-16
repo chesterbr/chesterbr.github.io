@@ -27,9 +27,9 @@ It's a good idea to first familiarize oneself with [how Staticman works](https:/
 
 If you want to moderate the comments (like I do), it can create a pull request instead of merging the data directly. You review the pull request and merge it to approve, or discard to reject - a very familiar environment for most programmers these days. It supports other git providers such as GitLab, but I'll focus on GitHub.
 
-You will need to host it somewhere. It's a lightweight, database-less Node.js app, so there are lots of options and not a lot of configuration involved. My choice is a DigitalOcean droplet (you can check my [recent blog post on cost-effective hosting](/archives/2023/11/budget-friendly-hosting-for-personal-projects) for details]).
+You will need to host it somewhere. It's a lightweight, database-less Node.js app, so there are lots of options and not a lot of configuration involved. My choice is a DigitalOcean droplet (you can check my [recent blog post on cost-effective hosting](/archives/2023/11/budget-friendly-hosting-for-personal-projects) for details).
 
-The [official instructions](https://staticman.net/docs/getting-started) are clear once you figure the moving parts: your server will contain two RSA keys (a GitHub API key so the server can act on your behalf) and a private key that I suppose is used to store local secrets.
+The [official instructions](https://staticman.net/docs/getting-started) are clear once you figure the moving parts. Your server will contain two RSA keys: a GitHub API key so the server can act on your behalf), and a private key that (I suppose) is used to store local secrets.
 
 A few gotchas I ran into:
 
@@ -53,19 +53,19 @@ You will know it is working when a post results in a pull request on your blog's
 
 Again I borrowed a lot from Avglinux's example, fixing a couple issues with the threaded replies and adjusting to my blog's style. I also replaced the Liquid [`strip_html` filter](https://shopify.github.io/liquid/filters/strip_html/) with [a custom one](https://github.com/chesterbr/chesterbr.github.io/blob/main/_plugins/sanitize_html.rb) that sanitizes it instead, so I can allow some HTML tags alongside the Markdown, while still keep the blog safe from JavaScript injection, [cross-site scripting attacks](https://owasp.org/www-community/attacks/xss/) and the like.
 
-[This PR](https://github.com/chesterbr/chesterbr.github.io/pull/72) contains all the code mentioned above; feel free to peruse and copy any of the them; possibly checking the latest versions as this post gets older.
+[This PR](https://github.com/chesterbr/chesterbr.github.io/pull/72) contains all the code mentioned above; feel free to peruse and copy any of them; possibly checking the latest versions as this post gets older.
 
 ### Migrating comments from Disqus to Staticman
 
 With this in place, all that was left to do was to migrate the comments from Disqus.
 
-Disqus allows you to [export](http://disqus.com/admin/discussions/export/) the comments in an XML file (documented [here](https://help.disqus.com/en/articles/1717164-comments-export)), but in order to import them, a conversion is needed. I found a few recipes ([1](https://blog.arkey.fr/2022/10/16/moving-from-disqus-to-giscus/), [2](https://asp.net-hacker.rocks/2018/11/19/github-comments.html), [3](https://gist.github.com/evert/3332e6cc73848aefe36fd9d0a30ac390), [4](https://blog.riemann.cc/2021/12/27/jekyll-import-disqus-comments-for-staticman/)) online, but none of those worked for me, so I threw together [some JavaScript code](https://gist.github.com/chesterbr/6368adb7530f6d582046a5d93a4d4a49) that does the job:
+Disqus allows you to [export](http://disqus.com/admin/discussions/export/) the comments to an XML file (documented [here](https://help.disqus.com/en/articles/1717164-comments-export)), but in order to import them anywhere else, a conversion is needed. I found a few recipes ([1](https://blog.arkey.fr/2022/10/16/moving-from-disqus-to-giscus/), [2](https://asp.net-hacker.rocks/2018/11/19/github-comments.html), [3](https://gist.github.com/evert/3332e6cc73848aefe36fd9d0a30ac390), [4](https://blog.riemann.cc/2021/12/27/jekyll-import-disqus-comments-for-staticman/)) online, but none of those worked for me, so I threw together [some JavaScript code](https://gist.github.com/chesterbr/6368adb7530f6d582046a5d93a4d4a49) that does the job:
 
 {% gist 6368adb7530f6d582046a5d93a4d4a49 %}
 
 You can just run it, making the needed adjustments for your `staticman.yml` configuration (e.g., if you changed the filename structure or added other fields that you want to import or generate) and put the generated `comments` directory under your `_data` directory in your blog's repository, like I did [here](https://github.com/chesterbr/chesterbr.github.io/pull/69/files).
 
-The code documents some of the shenanigans I found (odd terminology, invalid characters, etc.). It's worth noticing that not every bit of information needed by Staticman is available in the XML, so a few trade-offs were made:
+The code documents some of the shenanigans I found (odd terminology, invalid characters, etc.). It's worth noticing that not every bit of information needed by Staticman is available in the XML, so a few choices were made:
 
 - I kept the comment `_id` as its original Disqus ID (instead of generating a UUID, which would change the values at each migration run and require an extra lookup for comment replies). Doing so made the `replying_to_uid` field odd, but it will correctly point to the `_id` of the comment being replied to, and Staticman is fine with that.
 
