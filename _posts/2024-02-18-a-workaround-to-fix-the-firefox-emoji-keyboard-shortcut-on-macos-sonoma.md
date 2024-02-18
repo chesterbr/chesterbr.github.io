@@ -113,17 +113,17 @@ if ((nsCocoaFeatures::OnMontereyOrLater()) &&
 }
 ```
 
-It turns out that doing this on the right place fixes not only the "flashing" bug, but the "e" one as well, because the later is also being processed twice, but `fn/🌐` being such a [special](https://github.com/qmk/qmk_firmware/issues/2179) key on the Mac, sometimes the second occurrence loses the `fn`, acting as the `e` key being pressed right after the `fn/🌐`+``e`. That's why I do the check to Monterey or later (after confirming that the "e" bug was introduced in Monterey, and the "flashing" one in Sonoma).
+It turns out that doing this on the right place fixes not only the "flashing" bug, but the "e" one as well, because the later is also being processed twice, but `fn/🌐` being such a [special](https://github.com/qmk/qmk_firmware/issues/2179) key on the Mac, sometimes the second occurrence loses the `fn`, acting as the `e` key being pressed right after the `fn/🌐`+`e`. That's why I only apply the check to Monterey or later (after confirming that the "e" bug was introduced in Monterey, and the "flashing" one in Sonoma).
 
 !["Person with a hammer hitting a keyboard"](/img/2024/02/hammer-keyboard.jpeg){: .right }
 
-Of course it took me several attempts to get to those, and Mozilla developers kindly gave me feedback and pointed me towards the right direction at every step. At the end, we had a [patch](https://phabricator.services.mozilla.com/D193328) that fully fixed both problems, addressing performance concerns with the traversal.
+Of course it took me quite some time and learning to get there, and the true heroes are the Mozilla developers who kindly gave me feedback and pointed me towards the right direction at every step. At the end, we had a [patch](https://phabricator.services.mozilla.com/D193328) that fully fixed both problems, addressing all performance and compatibility concerns with the traversal.
 
-However, those same Mozilla developers reasoned it would be better to prevent the event from trickling down at all instead of catching it on the `TextInputHandler` (and catch any system shortcut events, not just the emoji picker one), and wrote a [different](https://phabricator.services.mozilla.com/D195016) patch in that direction.
+However, those same Mozilla developers reasoned it would be better to prevent the event from trickling down at all instead of catching it on the `TextInputHandler` (and catch _any_ system shortcut events, not just the emoji picker one, which would avoid the need to traverse menus altogether), and wrote a [different](https://phabricator.services.mozilla.com/D195016) patch in that direction.
 
-I was happy with that: I learned a lot, helped raising awareness and researching towards the cleanest solution, and the bug would soon be fixed for good. But a couple months passed, Firefox got a few major version updates, yet the keyboard shortcut was still broken!
+I was happy with that: I learned a lot, helped raising awareness and researching towards the cleanest solution, and - most important - the bug would soon be fixed for good. But a couple months passed, Firefox got a few major version updates, yet the keyboard shortcut was still broken!
 
-So I [asked](https://bugzilla.mozilla.org/show_bug.cgi?id=1855346#c43) around, and it seems the  cleaner patch fixes the flashing issue, but not the "e" bug. They are actively working on a second patch for that, and will release both together - which is technically the best approach, but will take a while to be available for Firefox + Mac users.
+So I [asked](https://bugzilla.mozilla.org/show_bug.cgi?id=1855346#c43) around, and it seems the  cleaner patch fixes the "flashing" issue, but **not** the "e" bug. They are actively working on a second patch for that, and will release both together - which is technically the best approach, but will take a while to be available for Firefox + Mac users.
 
 ### What are my options?
 
@@ -131,9 +131,9 @@ If you are affected by this bug, you can:
 
 1. **Wait for the official fix**. This is the simplest and safest option, but considering the [release calendar](https://whattrainisitnow.com/calendar/), my best guess is that a fix won't come before Firefox 125 (due April 16).
 
-2. **Apply my patch to the Firefox source code and build it**. This is also very safe: you don't need to trust anyone but Mozilla, since you are using their code (which you already trust as a Firefox user) and my patch (which is public and you can review). But it requires familiarity with the command line and *a lot* of time to compile the browser.
+2. **Apply my patch to the Firefox source code and build it**. This is also very safe: you don't need to trust anyone but Mozilla, since you are using their code (which you already trust as a Firefox user) and my patch (which is public and you can review). But it requires familiarity with the command line and _a lot_ of time to compile the browser.
 
-3. **Download and install EmojiFox**, that is, Firefox Nightly/Unofficial with my patch applied. This is the easiest option, but you have to trust me, and it's not an official release, so it won't auto-update and you should throw it away as soon as the official fix is released.
+3. **Download and install EmojiFox**, that is, Firefox Nightly/Unofficial with my patch applied. The downsides: you have to trust me and it won't auto-update - you should throw it away as soon as the official fix is released.
 
 ### Applying the patch
 
@@ -142,13 +142,13 @@ First step is to download and build Firefox on macOS by following the [official 
 - You should *not* select [artifact builds](https://firefox-source-docs.mozilla.org/contributing/build/artifact_builds.html) when asked, as they are based on pre-built binaries and you need to build the binaries yourself.
 - Before running `./mach build`, you should add `ac_add_options --enable-release` to your `.mozconfig` file (and comment out any debug-related options, or pretty much anything but this one)
 
-First build and run it (it takes a few hours even on a beefy machine), and confirm the bug is still there. Then apply the patch with:
+`./mach build` takes a few hours, even on a beefy machine. Once you are running Nightly, confirm the bug is still there, then apply the patch with:
 
 ```sh
 curl -L https://phabricator.services.mozilla.com/D193328?download=true | patch
 ```
 
-and `./mach build` again (don't worry, it will be much faster, since it only recompiles the files that changed), then `./mach run` it again. You should see the bug fixed now:
+and `./mach build` again (don't worry, it will be much faster, since it only recompiles the files that changed), then `./mach run` again. You should see the bug fixed now:
 
 !["Emoji & Symbols" shortuct now opens the full or contextual panel](/img/2024/02/fix.gif){: .center }
 
@@ -194,7 +194,7 @@ I have been using Firefox 121 with this path since December, and recently re-app
   </div>
 </form>
 
-Open the file and drag EmojiFox to your Applications folder, as usual. But when you run the app, it will say it's from an unidentified developer (I don't do enough macOS development to justify the yearly USD 99 for a developer certificate).
+Open the file and drag EmojiFox to your Applications folder, as usual. But when you run the app, it will say it's from an unidentified developer (I currently don't do enough macOS development to justify the yearly USD 99 for an Apple Developer Program membership that would allow me to sign it).
 
 ![Dialog saying EmojiFox cannot be opened because the developer cannot be verified, with no option to override](/img/2024/02/cannot-be-opened.png){: .center }
 
