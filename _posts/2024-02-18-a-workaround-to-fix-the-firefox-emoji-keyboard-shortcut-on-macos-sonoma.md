@@ -204,6 +204,9 @@ The [trick](https://support.apple.com/en-ca/guide/mac-help/mh40616/mac) here is 
 
 Verify that both the `control`+`cmd`+`space` and `fn/🌐`+`e` shortcuts work as expected.
 
+!["Emoji & Symbols" shortuct on EmojiFox](/img/2024/02/emojifox.gif){: .center }
+
+
 ### Use your existing profile
 
 Regardless of whether you built or downloaded your fixed browser, you will want to bring your existing bookmarks, history, extensions, etc. to it, and the easy way to do that is to configure it to use your existing profile (instead of the one it just created).
