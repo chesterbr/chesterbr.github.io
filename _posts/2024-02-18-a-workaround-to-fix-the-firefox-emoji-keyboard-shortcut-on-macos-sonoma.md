@@ -6,15 +6,15 @@ description: "A macOS update broke the Firefox emoji keyboard shortcut, and the 
 comments: true
 ---
 
-macOS 14 (Sonoma) [broke](https://bugzilla.mozilla.org/show_bug.cgi?id=1855346) the "Emoji & Symbols" keyboard shortcuts (`fn`+`e` or `Control`+`Cmd`+`Space`) on Firefox: instead of opening, the emoji picker briefly flashes and disappears:
+macOS 14 (Sonoma) [broke](https://bugzilla.mozilla.org/show_bug.cgi?id=1855346) the "Emoji & Symbols" keyboard shortcuts (`fn/🌐`+`e` or `control`+`cmd`+`space`) on Firefox: instead of opening, the emoji picker briefly flashes and disappears:
 
 ![The "Emoji & Symbols" panel briefly flashes and disappears](/img/2024/02/emoji-flash.gif){: .center }
 
-If you use the "Edit... Emoji & Symbols" menu, the picker works - but it's annoying to reach out for the mouse whenever you need an emoji or special character! I thought such an inconvenient bug would be fixed quickly on a minor Firefox or macOS update, but months passed and it was still there, so I digged a bit and and came with a fix.
+If you use the "Edit... Emoji & Symbols" menu, the picker works - but it's annoying to reach out for the mouse whenever you need an emoji or special character! I thought such an inconvenient bug would be fixed quickly on a minor Firefox or macOS update, but months passed and the bug was still there.
 
-The fix also corrects a [secondary problem](https://bugzilla.mozilla.org/show_bug.cgi?id=1833923) with the `fn`+`e` shortcut (introduced in Monterey as a replacement for `Control`+`Cmd`+`Space`, which remained working): it works sometimes, but also writes the letter "e" where the cursor is, which is equally disturbing.
+Between annoyed and curious, I dug the [source code](https://firefox-source-docs.mozilla.org/contributing/directory_structure.html) a bit and wrote a [patch](https://phabricator.services.mozilla.com/D193328) that fixes it, and also a [secondary problem](https://bugzilla.mozilla.org/show_bug.cgi?id=1833923) with the `fn/🌐`+`e` shortcut (introduced in Monterey as a replacement/alternative for `control`+`cmd`+`space`): it works sometimes, but when it does, it also writes the letter "e" where the cursor is, which is equally irksome.
 
-For reasons that I will explain below, Mozilla did not accept the fix. They are working on another solution, but it will take a while to be released. Because of that, I decided to share some details about my fix here, alongside with instructions on to [apply the patch to the official Firefox source code](/archives/2024/02/a-workaround-to-fix-the-firefox-emoji-keyboard-shortcut-on-macos-sonoma/#applying-the-patch), or, if you trust me, [download my patched version](/archives/2024/02/a-workaround-to-fix-the-firefox-emoji-keyboard-shortcut-on-macos-sonoma/#downloading-emojifox) - which I dubbed "EmojiFox" to avoid confusion.
+For reasons that I will explain below, Mozilla did not accept the fix. They are working on another solution, but it will take a while to be released. Since [many people have the problem right now](https://web.archive.org/web/20240218153259/https://www.reddit.com/r/firefox/search/?q=emoji%20mac&restrict_sr=1&rdt=60658), I decided to share some details about my fix here, alongside with instructions for [applying the patch to the official Firefox source code](/archives/2024/02/a-workaround-to-fix-the-firefox-emoji-keyboard-shortcut-on-macos-sonoma/#applying-the-patch) or [downloading my patched version](/archives/2024/02/a-workaround-to-fix-the-firefox-emoji-keyboard-shortcut-on-macos-sonoma/#downloading-emojifox) - which I rebranded "EmojiFox" to avoid confusion and respect Mozilla's trademarks/license.
 
 <!--more-->
 
@@ -43,9 +43,9 @@ One thing that caught my attention was that this bug [also happened with Chrome]
      }
 ```
 
-It gives some hints on the cause of the problem: the app is processing the system shortcut event, instead of assuming the OS had already done it and wrapping things up. It seems that before Sonoma, that would cause no harm, but after it, it resulted in the shortcut triggering **twice**. Indeed, pressing the shortcut twice in quick succession in any other app cause the exact behavior of the bug.
+It gives some hints on the root cause: the app is forwarding the system shortcut event, instead of stopping it. It caused no harm before Sonoma, but after it, it results in the shortcut triggering **twice**, and the second trigger closes the picker. You can check it by pressing the shortcut twice in quick succession on any _other_ (non-buggy) app: it cause the exact behavior of the bug!
 
-With that in mind, I downloaded the [Firefox source code](https://hg.mozilla.org/mozilla-central). It's a quite large (albeit [well documented](https://firefox-source-docs.mozilla.org/)) codebase, but I didn't need to understand it all - just had to find a suitable place to stop the event processing. Finding that, I produced a [proof-of-concept](https://bugzilla.mozilla.org/show_bug.cgi?id=1855346#c16), which crudely detected the key combinations and stopped processing:
+With that in mind, I downloaded the [Firefox source code](https://hg.mozilla.org/mozilla-central) and started poking at it. It's a quite large (but [well documented](https://firefox-source-docs.mozilla.org/)) codebase, but I didn't need to understand it all - just had to find a suitable place to stop the event processing. Finding one, I produced a [proof-of-concept](https://bugzilla.mozilla.org/show_bug.cgi?id=1855346#c16), which crudely detected the key combinations and abruptly stopped processing:
 
 ```objc
 if (((anEvent.modifierFlags & NSEventModifierFlagControl) &&
@@ -58,7 +58,7 @@ if (((anEvent.modifierFlags & NSEventModifierFlagControl) &&
 break;
 ```
 
-That worked, but wouldn't be much useful because users can redefine the emoji keyboard shortcut, so the only way to figure out whether an event is the shortcut I want to prevend is to go through the menus and find one that matches the event keys _and_ triggers the action of opening the emoji picker. Chrome already had [code](https://source.chromium.org/chromium/chromium/src/+/main:ui/base/cocoa/nsmenuitem_additions.mm;l=128-279;drc=28154a6fbbcaa037ae8692d96bc114286c57f6c7) for that, so I had to add something equivalent to Firefox:
+That worked, but wouldn't be much useful because users can redefine the emoji keyboard shortcut, so the only way to figure out whether an event is the shortcut I want to prevent is to go through the menus and find one that matches the event keys _and_ triggers the action of opening the emoji picker. Chrome already had [code](https://source.chromium.org/chromium/chromium/src/+/main:ui/base/cocoa/nsmenuitem_additions.mm;l=128-279;drc=28154a6fbbcaa037ae8692d96bc114286c57f6c7) for that, so I had to add something equivalent to Firefox:
 
 ```objc
 // Determines whether the key event matches the shortcut assigned to the Emoji &
@@ -100,7 +100,7 @@ static bool IsKeyEventEmojiAndSymbols(NSEvent* event, NSMenu* menu) {
 }
 ```
 
-(a nice bonus of doing that was discovering how Apple managed to replace `Ctrl`+`Cmd`+`Space` with `fn`+`e` on the menu, yet the old shortcut still worked: they keep **two** menu items, but the `Ctrl`+`Cmd`+`Space` one is hidden)
+(a nice bonus of doing that was discovering how Apple managed to replace `control`+`cmd`+`space` with `fn/🌐`+`e` on the menu, yet the old shortcut still worked: they keep **two** menu items for "Emoji & Symbols", but the one linked to the `control`+`cmd`+`space` shortcut is hidden)
 
 With that in place, the fix is as simple as Chrome's:
 
@@ -113,15 +113,17 @@ if ((nsCocoaFeatures::OnMontereyOrLater()) &&
 }
 ```
 
-It turns out that doing this on the right place fixes not only the "flashing" bug, but the "e" one as well, because the later is also being processed twice, but `fn` being such a special key on the Mac, the second occurrence loses it, and just works as the `e` key being pressed. That's why I apply it to Monterey or later (it seems that the "e" bug was introduced in Monterey, and the "flashing" one in Sonoma).
+It turns out that doing this on the right place fixes not only the "flashing" bug, but the "e" one as well, because the later is also being processed twice, but `fn/🌐` being such a [special](https://github.com/qmk/qmk_firmware/issues/2179) key on the Mac, sometimes the second occurrence loses the `fn`, acting as the `e` key being pressed right after the `fn/🌐`+``e`. That's why I do the check to Monterey or later (after confirming that the "e" bug was introduced in Monterey, and the "flashing" one in Sonoma).
 
 !["Person with a hammer hitting a keyboard"](/img/2024/02/hammer-keyboard.jpeg){: .right }
 
-Of course it took me several attempts to get to those, and Mozilla developers kindly gave me feedback and pointed me to the right direction at every step. But at the end we had a [patch](https://phabricator.services.mozilla.com/D193328) that fully fixed both problems, addressing performance concerns with the traversal.
+Of course it took me several attempts to get to those, and Mozilla developers kindly gave me feedback and pointed me towards the right direction at every step. At the end, we had a [patch](https://phabricator.services.mozilla.com/D193328) that fully fixed both problems, addressing performance concerns with the traversal.
 
-However, those same Mozilla developers reasoned it would be better to prevent the event from trickling down at all instead of catching it on the `TextInputHandler`, and wrote a [different](https://phabricator.services.mozilla.com/D195016) patch in that direction.
+However, those same Mozilla developers reasoned it would be better to prevent the event from trickling down at all instead of catching it on the `TextInputHandler` (and catch any system shortcut events, not just the emoji picker one), and wrote a [different](https://phabricator.services.mozilla.com/D195016) patch in that direction.
 
-I was happy with that at first: I learned a lot, and the bug would soon be fixed for good. But a couple months passed, Firefox got a few major version updates, yet the keyboard shortcut was still broken. So I [asked](https://bugzilla.mozilla.org/show_bug.cgi?id=1855346#c43) around, and it seems their patch fixes the flashing issue, but not the "e" bug, so they actively working on a second patch for that, and will release both together - which is technically the best approach, but will take a while to be released.
+I was happy with that: I learned a lot, helped raising awareness and researching towards the cleanest solution, and the bug would soon be fixed for good. But a couple months passed, Firefox got a few major version updates, yet the keyboard shortcut was still broken!
+
+So I [asked](https://bugzilla.mozilla.org/show_bug.cgi?id=1855346#c43) around, and it seems the  cleaner patch fixes the flashing issue, but not the "e" bug. They are actively working on a second patch for that, and will release both together - which is technically the best approach, but will take a while to be available for Firefox + Mac users.
 
 ### What are my options?
 
@@ -160,11 +162,11 @@ That will generate a `.dmg` file in your `obj-x86_64-apple-darwin23.1.0/dist` fo
 
 ### Downloading EmojiFox
 
-I have been using Firefox 121 with this path since December, and recently re-applied it to the nightly build of Firefox 124. You can download this patched version (which I dubbed "EmojiFox") as long as you keep in mind that:
+I have been using Firefox 121 with this path since December, and recently re-applied it to the nightly build of Firefox 124. You can download this patched version (which I rebranded as "EmojiFox") as long as you keep in mind that:
 
 - I (Chester) do not represent Mozilla, and this is **not** a Mozilla/Firefox official release.
 - This software will **not** auto-update, and I don't intend to release new versions (by the time it gets old, we should have the proper fix on official Firefox). It's a workaround that you should throw away and go back to default Firefox as soon as a fixed version is released. Always keep your browser updated!
-- I am not responsible for any damage caused by the patched version.
+- Neither I, nor Mozilla, nor anyone is responsible for any damage caused by the patched version.
 - Per [Mozilla Public License](https://www.mozilla.org/en-US/MPL/) terms, my source code changes are available [here](https://phabricator.services.mozilla.com/D193328) ([raw diff](https://phabricator.services.mozilla.com/D193328?download=true)).
 
 <style>
@@ -176,17 +178,18 @@ I have been using Firefox 121 with this path since December, and recently re-app
     display: block;
     border: 2px solid;
     padding-top: 16px;
-    width: 500px;
+    padding-right: 16px;
+    width: fit-content;
     margin: 10px auto 10px auto;
   }
 </style>
 <form style="padding-bottom:12px">
   <input type=checkbox id="emojifox-agree-with-terms-checkbox" />
-  <label for="emojifox-agree-with-terms-checkbox"><strong>I read and agree with the terms above</strong> (click to show download links)</label>
+  <label for="emojifox-agree-with-terms-checkbox"><strong>I <u>read</u> and <u>agree</u> with the terms above</strong> (click to show download links)</label>
   <div id="emojifox-download-div">
     <ul>
-      <li><a href="/download/EmojiFox-124.0a1.en-US.mac.x86_64.dmg">Download EmojiFox 124 for Intel Macs</a></li>
-      <li><a href="/download/EmojiFox-124.0a1.en-US.mac.arm64.dmg">Download EmojiFox 124 for Apple Silicon Macs</a></li>
+      <li><a href="/download/EmojiFox-124.0a1.en-US.mac.x86_64.dmg">Download EmojiFox 124.0a1 for Intel Macs</a></li>
+      <li><a href="/download/EmojiFox-124.0a1.en-US.mac.arm64.dmg">Download EmojiFox 124.0a1 for Apple Silicon Macs</a></li>
     </ul>
   </div>
 </form>
@@ -199,7 +202,7 @@ The [trick](https://support.apple.com/en-ca/guide/mac-help/mh40616/mac) here is 
 
 ![Aslo a dialog saying EmojiFox cannot be opened because the developer cannot be verified, with but now it has an Open button](/img/2024/02/cannot-verify.png){: .center }
 
-Verify that both the `Control`+`Cmd`+`Space` and `fn`+`e` shortcuts work as expected.
+Verify that both the `control`+`cmd`+`space` and `fn/🌐`+`e` shortcuts work as expected.
 
 ### Use your existing profile
 
