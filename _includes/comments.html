@@ -21,10 +21,12 @@
   </div>
   {% endif %}
 
-  <!-- New comment form -->
+  <!-- New comment form - temporarily disabled -->
+  {% comment %}
   <div id="respond" class="comment__new">
     {% include comment_form.html %}
   </div>
+  {% endcomment %}
 </section>
 
 <script src="{{ root_url }}/javascripts/comments.js" type="text/javascript"></script>
