@@ -280,7 +280,6 @@ PLATFORMS
   x86_64-linux-android
 
 DEPENDENCIES
-  bundler
   github-pages
   webrick
 
