@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: chester's blog
 email: cd@pobox.com
+repository: chesterbr/chesterbr.github.io
 author: Chester (Carlos Duarte do Nascimento)
 simple_search: //duckduckgo.com
 subscribe_rss: http://feeds.feedburner.com/chesterbr
