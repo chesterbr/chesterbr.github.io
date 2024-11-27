@@ -307,7 +307,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  webrick
 
 BUNDLED WITH
    2.5.5
