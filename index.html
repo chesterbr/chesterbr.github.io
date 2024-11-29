@@ -43,7 +43,7 @@
           "Programador há mais de 30 anos - e adoro fazer isso até hoje!",
           "Trabalhei em empresas de todos os tamanhos, como iG, Apontador, Shopify e GitHub.",
           'Criador do <a href="https://play.google.com/store/apps/details?id=me.chester.minitruco">miniTruco</a>, um jogo de cartas para celular bastante popular.',
-          'Mais detalhes no <a href="https://www.linkedin.com/in/chesterbr/">meu LinkedIn</a> e projetos de código no <a href="https://github.com/chesterbr">meu GitHub</a>.'
+          'Mais detalhes no <a href="https://www.linkedin.com/in/chesterbr/">LinkedIn</a> e projetos de código no <a href="https://github.com/chesterbr">GitHub</a> e no <a href="/blog/">meu blog</a>.'
         ],
         confirmMessage: "Este lugar é tóxico; só entro pra ver DMs e menções.\n\nSugiro o Mastodon ou Instagram para interações em redes sociais. Ainda deseja prosseguir?"
       };
@@ -53,6 +53,7 @@
       const userLang = langParam || navigator.language;
 
       if (userLang.startsWith("pt")) {
+        document.querySelector(".about-text").style.maxWidth = "750px";
         document.documentElement.lang = "pt-BR";
         document.getElementById("greeting").innerHTML = translationsPt.greeting;
         document.getElementById("intro").innerHTML = translationsPt.intro;
@@ -305,7 +306,7 @@ I suggest Mastodon or Instagram for social media interactions. Do you still want
         </li>
         <li data-bullet="👔">
           More details on <a href="https://www.linkedin.com/in/chesterbr/">LinkedIn</a> and code projects on <a
-            href="https://github.com/chesterbr">GitHub</a>.
+            href="https://github.com/chesterbr">GitHub</a> and on <a href="/blog/">my blog</a>.
         </li>
       </ul>
     </div>
