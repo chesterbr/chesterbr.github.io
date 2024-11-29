@@ -1,5 +1,315 @@
----
-layout: null
----
+<!DOCTYPE html>
+<html lang="en">
 
-here will be my custom home page
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Carlos Duarte Do Nascimento (Chester)</title>
+  <link href="/fontawesome/css/fontawesome.css" rel="stylesheet" />
+  <link href="/fontawesome/css/brands.css" rel="stylesheet" />
+  <link href="/fontawesome/css/solid.css" rel="stylesheet" />
+  <link href="/flag-icons/css/flag-icons.min.css" rel="stylesheet" />
+
+  <!--
+    This intends to be a minimalistic page that can be statically hosted and quickly loaded/edited,
+    therefore the inline JavaScript and CSS - otherwise I'd put them in their own files).
+
+    JavaScript is only used for translating the page to Brazilian Portuguese (if needed) and warning
+    the user about Twitter/X's toxicity. If it is not available, the page will still work, just
+    remaining in English and navigating directly to the site.
+
+    This work is licensed under Creative Commons Attribution 4.0 International License. See:
+    https://creativecommons.org/licenses/by/4.0/
+
+    FontAwesome (public) and flag-icons are used under their respective licenses. See:
+    - https://fontawesome.com/license/free
+    - https://github.com/lipis/flag-icons?tab=MIT-1-ov-file
+  -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const translationsPt = {
+        greeting: "Olá! Eu sou o Chester",
+        intro: "Meu nome é Carlos, mas a maioria das pessoas me chama de Chester. Minha paixão é criar e aperfeiçoar produtos de software que resolvem problemas, trazem felicidade e melhoram vidas.",
+        aboutMe: "Sobre mim",
+        aboutMeItems: [
+          'Adoro videogames e quadrinhos, mas evito seus <a href="https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)">cantos</a> <a href="https://en.wikipedia.org/wiki/Comicsgate">tóxicos</a>.',
+          'Escrevo de vez em quando sobre software, eletrônica e outros temas no <a href="https://chester.me">meu blog</a>.',
+          "Defendo a justiça social, me desconstruindo todos os dias.",
+          '"Chester" vem do <a href="https://youtu.be/sPZ8Xxh1vK4?si=hOu66SLMLDTacv4F&t=65">Chester McTech</a>, personagem do desenho <a href="https://pt.wikipedia.org/wiki/Beverly_Hills_Teens">Turma da Pesada</a>.',
+          "Brasileiro de berço, italiano por herança, canadense por escolha."
+        ],
+        aboutWork: "Sobre meu trabalho",
+        aboutWorkItems: [
+          "Programador há mais de 30 anos - e adoro fazer isso até hoje!",
+          "Trabalhei em empresas de todos os tamanhos, como iG, Apontador, Shopify e GitHub.",
+          'Criador do <a href="https://play.google.com/store/apps/details?id=me.chester.minitruco">miniTruco</a>, um jogo de cartas para celular bastante popular.',
+          'Mais detalhes no <a href="https://www.linkedin.com/in/chesterbr/">meu LinkedIn</a> e projetos de código no <a href="https://github.com/chesterbr">meu GitHub</a>.'
+        ],
+        confirmMessage: "Este lugar é tóxico; só entro pra ver DMs e menções.\n\nSugiro o Mastodon ou Instagram para interações em redes sociais. Ainda deseja prosseguir?"
+      };
+
+      const urlParams = new URLSearchParams(window.location.search);
+      const langParam = urlParams.get('lang');
+      const userLang = langParam || navigator.language;
+
+      if (userLang.startsWith("pt")) {
+        document.documentElement.lang = "pt-BR";
+        document.getElementById("greeting").innerHTML = translationsPt.greeting;
+        document.getElementById("intro").innerHTML = translationsPt.intro;
+        document.getElementById("twitter-link").setAttribute("data-confirm-message", translationsPt.confirmMessage);
+        document.getElementById("about-me-title").innerHTML = translationsPt.aboutMe;
+
+        const aboutMeItems = document.querySelectorAll("#about-me-items li");
+        translationsPt.aboutMeItems.forEach((item, index) => {
+          if (aboutMeItems[index]) aboutMeItems[index].innerHTML = item;
+        });
+
+        document.getElementById("about-work-title").innerHTML = translationsPt.aboutWork;
+
+        const aboutWorkItems = document.querySelectorAll("#about-work-items li");
+        translationsPt.aboutWorkItems.forEach((item, index) => {
+          if (aboutWorkItems[index]) aboutWorkItems[index].innerHTML = item;
+        });
+      }
+    });
+
+    document.addEventListener("DOMContentLoaded", function () {
+      const twitterLink = document.getElementById("twitter-link");
+      twitterLink.addEventListener("click", function (event) {
+        event.preventDefault();
+
+        const confirmMessage = twitterLink.getAttribute("data-confirm-message");
+        const proceed = confirm(confirmMessage);
+        if (proceed) {
+          window.open(this.href, '_blank');
+        }
+      });
+    });
+  </script>
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=PT+Sans&family=PT+Sans+Caption:wght@400;700&display=swap");
+
+    body {
+      margin: 0;
+      font-family: "PT Sans", sans-serif;
+      background-color: white;
+      color: #333;
+      padding-top: 150px;
+    }
+
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: stretch;
+      padding: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .profile-box {
+      flex: 1;
+      min-width: 375px;
+      max-width: 375px;
+      background-color: rgb(56, 206, 229);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 20px;
+      text-align: center;
+      box-sizing: border-box;
+      position: relative;
+    }
+
+    .profile-box img {
+      width: 220px;
+      height: 220px;
+      border-radius: 50%;
+      position: absolute;
+      top: -110px;
+    }
+
+    .profile-box h3 {
+      font-family: "PT Sans Caption", sans-serif;
+      font-size: 1.85em;
+      margin-top: 100px;
+      margin-bottom: 10px;
+      color: white;
+    }
+
+    .profile-box p {
+      font-family: "PT Sans", sans-serif;
+      font-size: 1em;
+      margin: 0 0 20px;
+    }
+
+    .icon-links {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-top: auto;
+    }
+
+    .icon-links a {
+      color: white;
+      font-size: 1.5em;
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+
+    .icon-links a:hover {
+      color: #333;
+    }
+
+    .about-text {
+      flex: 2;
+      max-width: 650px;
+      min-width: 460px;
+      padding-left: 20px;
+      padding-right: 20px;
+      box-sizing: border-box;
+      font-family: "Montserrat", sans-serif;
+      font-size: 1em;
+      line-height: 1.5;
+    }
+
+    .about-text h1 {
+      margin-top: 10px;
+      margin-bottom: .1em;
+      font-size: 1.5em;
+    }
+
+    .about-text ul {
+      padding-left: 0;
+      margin: 0;
+      list-style: none;
+      margin-bottom: 1em;
+    }
+
+    .about-text li {
+      position: relative;
+      padding-left: 1.5em;
+      margin-left: 0;
+    }
+
+    .about-text li::before {
+      content: attr(data-bullet);
+      position: absolute;
+      left: 0;
+      top: 0;
+      font-size: 1em;
+      line-height: 1.5;
+    }
+
+    .language-switch {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+    }
+
+    .language-switch a {
+      margin: 0 5px;
+      font-size: 1.5em;
+      color: #333;
+      text-decoration: none;
+    }
+
+    .language-switch a:hover {
+      color: #000;
+    }
+
+    @media (max-width: 880px) {
+      .container {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .profile-box {
+        max-width: 100%;
+        width: 100%;
+      }
+
+      .about-text {
+        max-width: 100%;
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="language-switch">
+    <a href="/?lang=en"><span class="fi fi-gb"></span></a>
+    <a href="/?lang=pt"><span class="fi fi-br"></span></a>
+  </div>
+  <div class="container">
+    <div class="profile-box">
+      <img src="img/root-profile-photo.jpg" alt="My profile photo" />
+      <h3 id="greeting">Hello! I'm Chester</h3>
+      <p id="intro">
+        My name is Carlos, though most people call me Chester. I’m passionate about creating and
+        refining software products that solve problems, bring happiness, and improve lives.</p>
+      <div class="icon-links">
+        <a href="https://linkedin.com/in/chesterbr" target="_blank" title="LinkedIn"><i
+            class="fa-brands fa-linkedin"></i></a>
+        <a href="https://github.com/chesterbr" target="_blank" title="GitHub"><i class="fa-brands fa-github"></i></a>
+        <a href="mailto:cd@pobox.com" target="_blank" title="E-mail"><i class="fa-solid fa-envelope"></i></a>
+        <a href="https://instagram.com/chester_br" target="_blank" title="Instagram"><i
+            class="fa-brands fa-instagram"></i></a>
+        <a href="https://ursal.zone/@chesterbr" target="_blank" title="Mastodon"><i
+            class="fa-brands fa-mastodon"></i></a>
+        <a href="https://twitter.com/chesterbr" target="_blank" title="Twitter / X / whatever it's named this week"
+          id="twitter-link" data-confirm-message="This place is toxic; I only check it for DMs and mentions.
+
+I suggest Mastodon or Instagram for social media interactions. Do you still want to proceed?">
+          <i class="fa-brands fa-twitter"></i>
+        </a>
+        <a href="/blog/" target="_blank" title="chester's blog"><i class="fa-solid fa-blog"></i></a>
+      </div>
+    </div>
+    <div class="about-text">
+      <h1 id="about-me-title">About me</h1>
+      <ul id="about-me-items">
+        <li data-bullet="👾">
+          Love video games and comics - but avoid their <a
+            href="https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)">toxic</a> <a
+            href="https://en.wikipedia.org/wiki/Comicsgate">corners</a>.
+        </li>
+        <li data-bullet="🖋">
+          <a href="https://chester.me">Blog</a> occasionally about software, electronics, and more.
+        </li>
+        <li data-bullet="💪">
+          Advocate for social justice, working on my biases daily.
+        </li>
+        <li data-bullet="📺">
+          "Chester" comes from <a href="https://www.youtube.com/watch?v=hamimmdHzUo">Chester McTech</a> in the <a
+            href="https://en.wikipedia.org/wiki/Beverly_Hills_Teens">Beverly Hills Teens</a> cartoon.
+        </li>
+        <li data-bullet="🌎">
+          Brazilian by birthright, Italian by heritage, Canadian by choice.
+        </li>
+      </ul>
+      <h1 id="about-work-title">About my work</h1>
+      <ul id="about-work-items">
+        <li data-bullet="🤓">
+          Computer programmer for 30+ years - and still loving it!
+        </li>
+        <li data-bullet="💼">
+          Worked with companies of all sizes, including GitHub and Shopify.
+        </li>
+        <li data-bullet="♠️">
+          Creator of <a href="https://play.google.com/store/apps/details?id=me.chester.minitruco">miniTruco</a>, a
+          mobile card game quite popular in Brazil.
+        </li>
+        <li data-bullet="👔">
+          More details on <a href="https://www.linkedin.com/in/chesterbr/">LinkedIn</a> and code projects on <a
+            href="https://github.com/chesterbr">GitHub</a>.
+        </li>
+      </ul>
+    </div>
+  </div>
+</body>
+
+</html>
