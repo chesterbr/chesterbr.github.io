@@ -82,7 +82,7 @@
         const confirmMessage = twitterLink.getAttribute("data-confirm-message");
         const proceed = confirm(confirmMessage);
         if (proceed) {
-          window.open(this.href, '_blank');
+          window.location.href = this.href;
         }
       });
     });
@@ -253,21 +253,21 @@
         My name is Carlos, though most people call me Chester. I’m passionate about creating and
         refining software products that solve problems, bring happiness, and improve lives.</p>
       <div class="icon-links">
-        <a href="https://linkedin.com/in/chesterbr" target="_blank" title="LinkedIn"><i
+        <a href="https://linkedin.com/in/chesterbr" title="LinkedIn"><i
             class="fa-brands fa-linkedin"></i></a>
-        <a href="https://github.com/chesterbr" target="_blank" title="GitHub"><i class="fa-brands fa-github"></i></a>
-        <a href="mailto:cd@pobox.com" target="_blank" title="E-mail"><i class="fa-solid fa-envelope"></i></a>
-        <a href="https://instagram.com/chester_br" target="_blank" title="Instagram"><i
+        <a href="https://github.com/chesterbr" title="GitHub"><i class="fa-brands fa-github"></i></a>
+        <a href="mailto:cd@pobox.com" title="E-mail"><i class="fa-solid fa-envelope"></i></a>
+        <a href="https://instagram.com/chester_br" title="Instagram"><i
             class="fa-brands fa-instagram"></i></a>
-        <a href="https://ursal.zone/@chesterbr" target="_blank" title="Mastodon"><i
+        <a href="https://ursal.zone/@chesterbr" title="Mastodon"><i
             class="fa-brands fa-mastodon"></i></a>
-        <a href="https://twitter.com/chesterbr" target="_blank" title="Twitter / X / whatever it's named this week"
+        <a href="https://x.com/chesterbr" title="Twitter / X / whatever it's named this week"
           id="twitter-link" data-confirm-message="This place is toxic; I only check it for DMs and mentions.
 
 I suggest Mastodon or Instagram for social media interactions. Do you still want to proceed?">
           <i class="fa-brands fa-twitter"></i>
         </a>
-        <a href="/blog/" target="_blank" title="chester's blog"><i class="fa-solid fa-blog"></i></a>
+        <a href="/blog/" title="chester's blog"><i class="fa-solid fa-blog"></i></a>
       </div>
     </div>
     <div class="about-text">
