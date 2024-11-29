@@ -14,14 +14,17 @@
     This intends to be a minimalistic page that can be statically hosted and quickly loaded/edited,
     therefore the inline JavaScript and CSS - otherwise I'd put them in their own files).
 
-    JavaScript is only used for translating the page to Brazilian Portuguese (if needed) and warning
-    the user about Twitter/X's toxicity. If it is not available, the page will still work, just
-    remaining in English and navigating directly to the site.
+    For that same reason I'm going with the basics: HTML, CSS, and JavaScript - the later only being
+    used for translating the page to Brazilian Portuguese (if needed) and warning the user about
+    Twitter/X. If it is not available, the page gracefully falls back to English and no warning.
 
     This work is licensed under Creative Commons Attribution 4.0 International License. See:
     https://creativecommons.org/licenses/by/4.0/
 
-    FontAwesome (public) and flag-icons are used under their respective licenses. See:
+    The design is inspired by a few pages and templates from different places, but otherwise created
+    from scratch, hennce no particular attribution. LMK if you think I should credit someone.
+
+    Font Awesome (public) and flag-icons are used under their respective licenses. See:
     - https://fontawesome.com/license/free
     - https://github.com/lipis/flag-icons?tab=MIT-1-ov-file
   -->
@@ -45,7 +48,8 @@
           'Criador do <a href="https://play.google.com/store/apps/details?id=me.chester.minitruco">miniTruco</a>, um jogo de cartas para celular bastante popular.',
           'Mais detalhes no <a href="https://www.linkedin.com/in/chesterbr/">LinkedIn</a> e projetos de código no <a href="https://github.com/chesterbr">GitHub</a> e no <a href="/blog/">meu blog</a>.'
         ],
-        confirmMessage: "Este lugar é tóxico; só entro pra ver DMs e menções.\n\nSugiro o Mastodon ou Instagram para interações em redes sociais. Ainda deseja prosseguir?"
+        snarkyTwitterTitle: "Twitter / X / seja lá como se chama esta semana",
+        twitterConfirmMessage: "Este lugar é tóxico; só entro pra ver DMs e menções.\n\nSugiro o Mastodon ou Instagram para interações em redes sociais. Ainda deseja prosseguir?"
       };
 
       const urlParams = new URLSearchParams(window.location.search);
@@ -57,7 +61,8 @@
         document.documentElement.lang = "pt-BR";
         document.getElementById("greeting").innerHTML = translationsPt.greeting;
         document.getElementById("intro").innerHTML = translationsPt.intro;
-        document.getElementById("twitter-link").setAttribute("data-confirm-message", translationsPt.confirmMessage);
+        document.getElementById("twitter-link").setAttribute("data-confirm-message", translationsPt.twitterConfirmMessage);
+        document.getElementById("twitter-link").setAttribute("title", translationsPt.snarkyTwitterTitle);
         document.getElementById("about-me-title").innerHTML = translationsPt.aboutMe;
 
         const aboutMeItems = document.querySelectorAll("#about-me-items li");
@@ -79,8 +84,8 @@
       twitterLink.addEventListener("click", function (event) {
         event.preventDefault();
 
-        const confirmMessage = twitterLink.getAttribute("data-confirm-message");
-        const proceed = confirm(confirmMessage);
+        const twitterConfirmMessage = twitterLink.getAttribute("data-confirm-message");
+        const proceed = confirm(twitterConfirmMessage);
         if (proceed) {
           window.location.href = this.href;
         }
