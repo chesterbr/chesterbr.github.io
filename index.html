@@ -1,3 +1,8 @@
+---
+title: Carlos Duarte Do Nascimento (Chester)
+description_p1: I build and improve software to solve problems, bring joy, and improve lives — and also simply because I love coding.
+description_p2: A curious, compassionate, and thoughtful autistic person who supports fairness, inclusion, and dignity for all.
+---
 <!DOCTYPE html>
 <html lang="en">
 
@@ -23,23 +28,23 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Carlos Duarte Do Nascimento (Chester)</title>
+  <title>{{ page.title }}</title>
   <link href="/fontawesome/css/fontawesome.css" rel="stylesheet" />
   <link href="/fontawesome/css/brands.css" rel="stylesheet" />
   <link href="/fontawesome/css/solid.css" rel="stylesheet" />
   <link href="/flag-icons/css/flag-icons.min.css" rel="stylesheet" />
 
-  <meta property="og:title" content="Carlos Duarte Do Nascimento (Chester)" />
+  <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:description"
-    content="I build and improve software to solve problems, bring joy, and improve lives — and also simply because I love coding.\n\nA curious, compassionate, and thoughtful autistic person who supports fairness, inclusion, and dignity for all." />
+    content="{{ page.description_p1 }}\n\n{{ page.description_p2 }}" />
   <meta property="og:image" content="https://chester.me/img/root-profile-photo.jpg" />
   <meta property="og:url" content="https://chester.me" />
   <meta property="og:type" content="website" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Carlos Duarte Do Nascimento (Chester)" />
+  <meta name="twitter:title" content="{{ page.title }}" />
   <meta name="twitter:description"
-    content="I build and improve software to solve problems, bring joy, and improve lives — and also simply because I love coding.\n\nA curious, compassionate, and thoughtful autistic person who supports fairness, inclusion, and dignity for all." />
+    content="{{ page.description_p1 }}\n\n{{ page.description_p2 }}" />
   <meta name="twitter:image" content="https://chester.me/img/root-profile-photo.jpg" />
   <meta name="twitter:url" content="https://chester.me" />
 
@@ -57,7 +62,7 @@
           'Meu nome real é Carlos Duarte Do Nascimento.',
           'O apelido vem do <a href="https://youtu.be/sPZ8Xxh1vK4?si=hOu66SLMLDTacv4F&t=65">Chester McTech</a>, do desenho <a href="https://pt.wikipedia.org/wiki/Beverly_Hills_Teens">Turma da Pesada</a>.',
         ],
-        aboutWork: "Sobre meu trabalho",
+        aboutWork: "Código e Trabalho",
         aboutWorkItems: [
           "Programador há mais de 30 anos - e adoro fazer isso até hoje!",
           "Trabalhei em empresas de todos os tamanhos, como iG, Apontador, Shopify e GitHub.",
@@ -271,9 +276,9 @@
       <img src="img/root-profile-photo.jpg" alt="My profile photo" />
       <h3 id="greeting">Hello! I'm Chester</h3>
       <p id="intro-p1">
-        I build and improve software to solve problems, bring joy, and improve lives — and also simply because I love coding.
+        {{ page.description_p1 }}
         </p><p id="intro-p2">
-        A curious, compassionate, and thoughtful autistic person who supports fairness, inclusion, and dignity for all.</p>
+        {{ page.description_p2 }}</p>
       <div class="icon-links">
         <a href="https://linkedin.com/in/chesterbr" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
         <a href="https://github.com/chesterbr" title="GitHub"><i class="fa-brands fa-github"></i></a>
