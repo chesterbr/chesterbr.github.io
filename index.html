@@ -31,7 +31,7 @@
 
   <meta property="og:title" content="Carlos Duarte Do Nascimento (Chester)" />
   <meta property="og:description"
-    content="I build and improve software to solve problems, bring joy, improve lives — and also simply because I love coding." />
+    content="I build and improve software to solve problems, bring joy, and improve lives — and also simply because I love coding.\n\nA curious, compassionate, and thoughtful autistic person who supports fairness, inclusion, and dignity for all." />
   <meta property="og:image" content="https://chester.me/img/root-profile-photo.jpg" />
   <meta property="og:url" content="https://chester.me" />
   <meta property="og:type" content="website" />
@@ -39,7 +39,7 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Carlos Duarte Do Nascimento (Chester)" />
   <meta name="twitter:description"
-    content="I build and improve software to solve problems, bring joy, improve lives — and also simply because I love coding." />
+    content="I build and improve software to solve problems, bring joy, and improve lives — and also simply because I love coding.\n\nA curious, compassionate, and thoughtful autistic person who supports fairness, inclusion, and dignity for all." />
   <meta name="twitter:image" content="https://chester.me/img/root-profile-photo.jpg" />
   <meta name="twitter:url" content="https://chester.me" />
 
@@ -47,11 +47,11 @@
     document.addEventListener("DOMContentLoaded", function () {
       const translationsPt = {
         greeting: "Olá! Eu sou o Chester",
-        intro: "Crio e melhoro software para resolver problemas, trazer alegria, melhorar vidas — e também apenas porque amo programar.",
+        introP1: "Crio e melhoro software para resolver problemas, trazer alegria, melhorar vidas — e também simplesmente porque adoro programar.",
+        introP2: "Um autista curioso, compassivo e reflexivo que apoia a justiça, a inclusão e a dignidade para todas as pessoas.",
         aboutMe: "Sobre mim",
         aboutMeItems: [
-          "Brasileiro de berço, italiano por herança, canadense por escolha.",
-          "Defendo a justiça social, me desconstruindo todos os dias.",
+          "Brasileiro de nascença, italiano por herança, canadense por escolha.",
           'Adoro videogames e quadrinhos, mas evito seus <a href="https://pt.wikipedia.org/wiki/Gamergate">redutos</a> mais <a href="https://super.abril.com.br/cultura/o-que-e-o-comicsgate-movimento-contra-a-diversidade-nos-quadrinhos/">tóxicos</a>.',
           'Escrevo de vez em quando sobre software, eletrônica e outros temas no <a href="/blog/">meu blog</a>.',
           'Meu nome real é Carlos Duarte Do Nascimento.',
@@ -77,7 +77,8 @@
         document.querySelector(".about-text").style.maxWidth = "750px";
         document.documentElement.lang = "pt-BR";
         document.getElementById("greeting").innerHTML = translationsPt.greeting;
-        document.getElementById("intro").innerHTML = translationsPt.intro;
+        document.getElementById("intro-p1").innerHTML = translationsPt.introP1;
+        document.getElementById("intro-p2").innerHTML = translationsPt.introP2;
         document.getElementById("twitter-link").setAttribute("data-confirm-message", translationsPt.twitterConfirmMessage);
         document.getElementById("twitter-link").setAttribute("title", translationsPt.snarkyTwitterTitle);
         document.getElementById("about-me-title").innerHTML = translationsPt.aboutMe;
@@ -269,8 +270,10 @@
     <div class="profile-box">
       <img src="img/root-profile-photo.jpg" alt="My profile photo" />
       <h3 id="greeting">Hello! I'm Chester</h3>
-      <p id="intro">
-        I build and improve software to solve problems, bring joy, improve lives — and also simply because I love coding.</p>
+      <p id="intro-p1">
+        I build and improve software to solve problems, bring joy, and improve lives — and also simply because I love coding.
+        </p><p id="intro-p2">
+        A curious, compassionate, and thoughtful autistic person who supports fairness, inclusion, and dignity for all.</p>
       <div class="icon-links">
         <a href="https://linkedin.com/in/chesterbr" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
         <a href="https://github.com/chesterbr" title="GitHub"><i class="fa-brands fa-github"></i></a>
@@ -292,9 +295,6 @@ I suggest Mastodon or Instagram for social media interactions. Do you still want
         <li data-bullet="🌎">
           Brazilian by birthright, Italian by heritage, Canadian by choice.
         </li>
-        <li data-bullet="💪">
-          Advocate for social justice, working on my biases daily.
-        </li>
         <li data-bullet="👾">
           Love video games and comics - but avoid their most <a
             href="https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)">toxic</a> <a
@@ -307,7 +307,7 @@ I suggest Mastodon or Instagram for social media interactions. Do you still want
           My actual name is Carlos Duarte do Nascimento.
         </li>
         <li data-bullet="📺">
-          The nickname comes from <a href="https://www.youtube.com/watch?v=hamimmdHzUo">Chester McTech</a> in the <a
+          Nickname comes from <a href="https://www.youtube.com/watch?v=hamimmdHzUo">Chester McTech</a> in the <a
             href="https://en.wikipedia.org/wiki/Beverly_Hills_Teens">Beverly Hills Teens</a> cartoon.
           <br />
         </li>
