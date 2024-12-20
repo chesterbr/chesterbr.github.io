@@ -9,7 +9,5 @@ instructions() {
 # Uncomment if needed (codespaces shoud supply a Ruby)
 # rbenv install --skip-existing
 bundle
-bundle exec jekyll serve
+bundle exec jekyll serve --incremental
 # instructions &
-# bundle exec jekyll build
-# bundle exec jekyll serve --incremental
