@@ -117,13 +117,25 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
   </script>
   <style>
     @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=PT+Sans&family=PT+Sans+Caption:wght@400;700&display=swap");
-
+  
     body {
       margin: 0;
       font-family: "PT Sans", sans-serif;
       background-color: white;
       color: #333;
       padding-top: 150px;
+    }
+  
+    a:link,
+    a:visited {
+      color: #0056b3;
+      text-decoration: none;
+    }
+
+    a:hover,
+    a:focus {
+      color: #003f7f;
+      text-decoration: underline;
     }
 
     .container {
@@ -135,7 +147,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       max-width: 1200px;
       margin: 0 auto;
     }
-
+  
     .profile-box {
       flex: 1;
       max-width: 375px;
@@ -149,7 +161,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       box-sizing: border-box;
       position: relative;
     }
-
+  
     .profile-box img {
       width: 220px;
       height: 220px;
@@ -157,7 +169,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       position: absolute;
       top: -110px;
     }
-
+  
     .profile-box h3 {
       font-family: "PT Sans Caption", sans-serif;
       font-size: 1.85em;
@@ -165,13 +177,14 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       margin-bottom: 10px;
       color: white;
     }
-
+  
     .profile-box p {
       font-family: "PT Sans", sans-serif;
       font-size: 1em;
       margin: 0 0 20px;
+      color: black;
     }
-
+  
     .icon-links {
       display: flex;
       gap: 10px;
@@ -179,18 +192,18 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       flex-wrap: wrap;
       margin-top: auto;
     }
-
+  
     .icon-links a {
       color: white;
       font-size: 1.5em;
       text-decoration: none;
       transition: color 0.3s;
     }
-
+  
     .icon-links a:hover {
       color: #333;
     }
-
+  
     .about-text {
       flex: 2;
       max-width: 700px;
@@ -201,26 +214,26 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       font-size: 1em;
       line-height: 1.5;
     }
-
+  
     .about-text h1 {
       margin-top: 10px;
       margin-bottom: .1em;
       font-size: 1.5em;
     }
-
+  
     .about-text ul {
       padding-left: 0;
       margin: 0;
       list-style: none;
       margin-bottom: 1em;
     }
-
+  
     .about-text li {
       position: relative;
       padding-left: 1.5em;
       margin-left: 0;
     }
-
+  
     .about-text li::before {
       content: attr(data-bullet);
       position: absolute;
@@ -229,38 +242,84 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       font-size: 1em;
       line-height: 1.5;
     }
-
+  
     .language-switch {
       position: absolute;
       top: 20px;
       right: 20px;
     }
-
+  
     .language-switch a {
       margin: 0 5px;
       font-size: 1.5em;
       color: #333;
       text-decoration: none;
     }
-
+  
     .language-switch a:hover {
       color: #000;
     }
-
+  
     @media (max-width: 880px) {
       .container {
         flex-direction: column;
         align-items: flex-start;
       }
-
+  
       .profile-box {
         max-width: 100%;
         width: 100%;
       }
-
+  
       .about-text {
         max-width: 100%;
         width: 100%;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #121212;
+        color: #e0e0e0;
+      }
+
+      a:link,
+      a:visited {
+        color: #90caf9;
+      }
+
+      a:hover,
+      a:focus {
+        color: #64b5f6;
+        text-decoration: underline;
+      }
+
+      .profile-box {
+        background-color: #1e88e5;
+      }
+
+      .profile-box h3 {
+        color: #f0f0f0;
+      }
+
+      .icon-links a {
+        color: #e0e0e0;
+      }
+
+      .icon-links a:hover {
+        color: #90caf9;
+      }
+
+      .language-switch a {
+        color: #e0e0e0;
+      }
+
+      .language-switch a:hover {
+        color: #ffffff;
+      }
+
+      .about-text ul li::before {
+        color: #90caf9;
       }
     }
   </style>
