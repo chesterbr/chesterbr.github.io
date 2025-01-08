@@ -16,6 +16,8 @@ Between annoyed and curious, I dug the [source code](https://firefox-source-docs
 
 For reasons that I will explain below, Mozilla did not accept the fix. They are working on another solution, but it will take a while to be released. Since [many people have the problem right now](https://www.reddit.com/r/firefox/search/?q=emoji%20mac&restrict_sr=1&rdt=60658), I decided to share some details about my fix here, alongside with instructions for [applying the patch to the official Firefox source code](/archives/2024/02/a-workaround-to-fix-the-firefox-emoji-keyboard-shortcut-on-macos-sonoma/#applying-the-patch) or [downloading my patched version](/archives/2024/02/a-workaround-to-fix-the-firefox-emoji-keyboard-shortcut-on-macos-sonoma/#downloading-emojifox) - which I rebranded "EmojiFox" to avoid confusion and respect Mozilla's trademarks/license.
 
+**UPDATE:** In January 7th, 2025, Mozilla released Firefox 134, which contains the aforementioned fix (and they were kind enough to mention the work described here on the [beta release notes](https://www.mozilla.org/en-US/firefox/134.0beta/releasenotes/) ❤️). I strongly recoomend that you just update your browser instead of donwnolading the outdated build below, and swittch back to the official release if you are still using mine. I'm keeping the downloadable file here for historical purposes only.
+
 <!--more-->
 
 ### Finding and fixing the bug
@@ -168,6 +170,7 @@ I have been using Firefox 121 with this path since December, and recently re-app
 - This software will **not** auto-update, and I don't intend to release new versions (by the time it gets old, we should have the proper fix on official Firefox). It's a workaround that you should throw away and go back to default Firefox as soon as a fixed version is released. Always keep your browser updated!
 - Neither I, nor Mozilla, nor anyone is responsible for any damage caused by the patched version.
 - Per [Mozilla Public License](https://www.mozilla.org/en-US/MPL/) terms, my source code changes are available [here](https://phabricator.services.mozilla.com/D193328) ([raw diff](https://phabricator.services.mozilla.com/D193328?download=true)).
+- **As of Jan 7, 2025, the bug is fixed on the official release**. **Do not use this one**. It is here for historical reasons only.
 
 <style>
   #emojifox-download-div {
