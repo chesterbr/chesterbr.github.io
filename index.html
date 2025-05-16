@@ -7,23 +7,23 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
 <html lang="en">
 
 <!--
-    This intends to be a minimalistic page that can be statically hosted and quickly loaded/edited,
-    therefore the inline JavaScript and CSS - otherwise I'd put them in their own files).
+  This intends to be a minimalistic page that can be statically hosted and quickly loaded/edited,
+  therefore the inline JavaScript and CSS - otherwise I'd put them in their own files).
 
-    For that same reason I'm going with the basics: HTML, CSS, and JavaScript - the later only being
-    used for translating the page to Brazilian Portuguese (if needed) and warning the user about
-    Twitter/X. If it is not available, the page gracefully falls back to English and no warning.
+  For that same reason I'm going with the basics: HTML, CSS, and JavaScript - the later only being
+  used for translating the page to Brazilian Portuguese (if needed) and warning the user about
+  Twitter/X. If it is not available, the page gracefully falls back to English and no warning.
 
-    This work is licensed under Creative Commons Attribution 4.0 International License. See:
-    https://creativecommons.org/licenses/by/4.0/
+  This work is licensed under Creative Commons Attribution 4.0 International License. See:
+  https://creativecommons.org/licenses/by/4.0/
 
-    The design is inspired by a few pages and templates from different places, but otherwise created
-    from scratch, hennce no particular attribution. LMK if you think I should credit someone.
+  The design is inspired by a few pages and templates from different places, but otherwise created
+  from scratch, hennce no particular attribution. LMK if you think I should credit someone.
 
-    Font Awesome (public) and flag-icons are used under their respective licenses. See:
-    - https://fontawesome.com/license/free
-    - https://github.com/lipis/flag-icons?tab=MIT-1-ov-file
-  -->
+  Font Awesome (public) and flag-icons are used under their respective licenses. See:
+  - https://fontawesome.com/license/free
+  - https://github.com/lipis/flag-icons?tab=MIT-1-ov-file
+-->
 
 <head>
   <meta charset="UTF-8" />
@@ -35,16 +35,14 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
   <link href="/flag-icons/css/flag-icons.min.css" rel="stylesheet" />
 
   <meta property="og:title" content="{{ page.title }}" />
-  <meta property="og:description"
-    content="{{ page.description_p1 }}\n\n{{ page.description_p2 }}" />
+  <meta property="og:description" content="{{ page.description_p1 }}\n\n{{ page.description_p2 }}" />
   <meta property="og:image" content="https://chester.me/img/root-profile-photo.jpg" />
   <meta property="og:url" content="https://chester.me" />
   <meta property="og:type" content="website" />
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ page.title }}" />
-  <meta name="twitter:description"
-    content="{{ page.description_p1 }}\n\n{{ page.description_p2 }}" />
+  <meta name="twitter:description" content="{{ page.description_p1 }}\n\n{{ page.description_p2 }}" />
   <meta name="twitter:image" content="https://chester.me/img/root-profile-photo.jpg" />
   <meta name="twitter:url" content="https://chester.me" />
 
@@ -54,6 +52,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
         greeting: "Olá! Eu sou o Chester",
         introP1: "Crio e melhoro software para resolver problemas, trazer alegria, melhorar vidas — e também simplesmente porque adoro programar.",
         introP2: "Um autista curioso, empático e atencioso que apoia a justiça, a inclusão e a dignidade para todas as pessoas.",
+        socialMediaTitle: "Redes sociais e contato",
         aboutMe: "Sobre mim",
         aboutMeItems: [
           "Brasileiro de nascença, italiano por herança, canadense por escolha.",
@@ -84,6 +83,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
         document.getElementById("greeting").innerHTML = translationsPt.greeting;
         document.getElementById("intro-p1").innerHTML = translationsPt.introP1;
         document.getElementById("intro-p2").innerHTML = translationsPt.introP2;
+        document.getElementById("social-media-title").innerHTML = translationsPt.socialMediaTitle;
         document.getElementById("twitter-link").setAttribute("data-confirm-message", translationsPt.twitterConfirmMessage);
         document.getElementById("twitter-link").setAttribute("title", translationsPt.snarkyTwitterTitle);
         document.getElementById("about-me-title").innerHTML = translationsPt.aboutMe;
@@ -117,7 +117,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
   </script>
   <style>
     @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=PT+Sans&family=PT+Sans+Caption:wght@400;700&display=swap");
-  
+
     body {
       margin: 0;
       font-family: "PT Sans", sans-serif;
@@ -125,7 +125,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       color: #333;
       padding-top: 150px;
     }
-  
+
     a:link,
     a:visited {
       color: #0056b3;
@@ -147,7 +147,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       max-width: 1200px;
       margin: 0 auto;
     }
-  
+
     .profile-box {
       flex: 1;
       max-width: 375px;
@@ -161,7 +161,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       box-sizing: border-box;
       position: relative;
     }
-  
+
     .profile-box img {
       width: 220px;
       height: 220px;
@@ -169,22 +169,38 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       position: absolute;
       top: -110px;
     }
-  
+
     .profile-box h3 {
       font-family: "PT Sans Caption", sans-serif;
       font-size: 1.85em;
       margin-top: 100px;
-      margin-bottom: 10px;
-      color: white;
+      margin-bottom: 0;
+      color: #222831;
     }
-  
+
+    .profile-box h4 {
+      font-family: "PT Sans", sans-serif;
+      font-size: 0.85em;
+      margin: 0;
+      margin-bottom: 10px;
+      color: #222831;
+    }
+
+
     .profile-box p {
       font-family: "PT Sans", sans-serif;
       font-size: 1em;
       margin: 0 0 20px;
       color: black;
     }
-  
+
+    .profile-box p.social-media-title {
+      font-family: "PT Sans", sans-serif;
+      font-size: 1em;
+      margin: 0;
+      color: white;
+    }
+
     .icon-links {
       display: flex;
       gap: 10px;
@@ -192,18 +208,18 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       flex-wrap: wrap;
       margin-top: auto;
     }
-  
+
     .icon-links a {
       color: white;
       font-size: 1.5em;
       text-decoration: none;
       transition: color 0.3s;
     }
-  
+
     .icon-links a:hover {
       color: #333;
     }
-  
+
     .about-text {
       flex: 2;
       max-width: 700px;
@@ -214,26 +230,26 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       font-size: 1em;
       line-height: 1.5;
     }
-  
+
     .about-text h1 {
       margin-top: 10px;
       margin-bottom: .1em;
       font-size: 1.5em;
     }
-  
+
     .about-text ul {
       padding-left: 0;
       margin: 0;
       list-style: none;
       margin-bottom: 1em;
     }
-  
+
     .about-text li {
       position: relative;
       padding-left: 1.5em;
       margin-left: 0;
     }
-  
+
     .about-text li::before {
       content: attr(data-bullet);
       position: absolute;
@@ -242,35 +258,35 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       font-size: 1em;
       line-height: 1.5;
     }
-  
+
     .language-switch {
       position: absolute;
       top: 20px;
       right: 20px;
     }
-  
+
     .language-switch a {
       margin: 0 5px;
       font-size: 1.5em;
       color: #333;
       text-decoration: none;
     }
-  
+
     .language-switch a:hover {
       color: #000;
     }
-  
+
     @media (max-width: 880px) {
       .container {
         flex-direction: column;
         align-items: flex-start;
       }
-  
+
       .profile-box {
         max-width: 100%;
         width: 100%;
       }
-  
+
       .about-text {
         max-width: 100%;
         width: 100%;
@@ -334,10 +350,16 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
     <div class="profile-box">
       <img src="img/root-profile-photo.jpg" alt="My profile photo" />
       <h3 id="greeting">Hello! I'm Chester</h3>
+      <h4>(Carlos Duarte Do Nascimento)</h4>
       <p id="intro-p1">
         {{ page.description_p1 }}
-        </p><p id="intro-p2">
-        {{ page.description_p2 }}</p>
+      </p>
+      <p id="intro-p2">
+        {{ page.description_p2 }}
+      </p>
+      <p class="social-media-title" id="social-media-title">
+        Social media and contact
+      </p>
       <div class="icon-links">
         <a href="https://linkedin.com/in/chesterbr" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
         <a href="https://github.com/chesterbr" title="GitHub"><i class="fa-brands fa-github"></i></a>
@@ -347,7 +369,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
         <a href="https://x.com/chesterbr" title="Twitter / X / whatever it's named this week" id="twitter-link"
           data-confirm-message="This place is toxic; I only check it for DMs and mentions.
 
-I suggest Mastodon or Instagram for social media interactions. Do you still want to proceed?">
+          I suggest Mastodon or Instagram for social media interactions. Do you still want to proceed?">
           <i class="fa-brands fa-twitter"></i>
         </a>
         <a href="/blog/" title="chester's blog"><i class="fa-solid fa-blog"></i></a>
@@ -389,7 +411,8 @@ I suggest Mastodon or Instagram for social media interactions. Do you still want
           mobile card game quite popular in Brazil.
         </li>
         <li data-bullet="💾">
-          Retrocomputing enthusiast; wrote an Atari VCS <a href="https://github.com/chesterbr/ruby2600">emulator</a> and a <a href="https://github.com/chesterbr/2048-2600">game</a>.
+          Retrocomputing enthusiast; wrote an Atari VCS <a href="https://github.com/chesterbr/ruby2600">emulator</a> and
+          a <a href="https://github.com/chesterbr/2048-2600">game</a>.
         </li>
         <li data-bullet="👔">
           More details on <a href="https://www.linkedin.com/in/chesterbr/">LinkedIn</a>; code projects on <a
