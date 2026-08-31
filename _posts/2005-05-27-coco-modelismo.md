@@ -23,7 +23,7 @@ categories:
 Não consegui confirmar se é sério mesmo ou se é brincadeira &#8211; mas em qualquer um dos casos a idéia é hilária. Se alguém quiser arriscar, eles aceitam PayPal. Eu até compraria, mas dificilmente teria presença de espírito suficiente para usar&#8230;
 
 <div class="podcast">
-  <a href="/archives/podcast/pdC-2005-05-27.mp3">podcast</a>
+  <a class="dead-link" title="este link morreu" href="/archives/podcast/pdC-2005-05-27.mp3">podcast</a><span class="dead-link-mark">†</span>
 </div></p>
 
  [1]: http://www.stoneagescanners.com/edu/

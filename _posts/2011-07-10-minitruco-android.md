@@ -29,7 +29,7 @@ A única coisa do miniTruco original que ficou para o futuro foi o *multiplayer*
 
  [1]: https://market.android.com/details?id=me.chester.minitruco
  [2]: http://github.com/chesterbr/minitruco-android
- [3]: /archives/category/portfolio
+ [3]: https://github.com/chesterbr?tab=repositories
  [4]: http://baniverso.com
  [5]: https://twitter.com/#!/gcmeireles
  [6]: http://br.linkedin.com/pub/leonardo-sellani/9/687/973

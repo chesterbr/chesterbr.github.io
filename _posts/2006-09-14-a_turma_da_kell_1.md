@@ -26,6 +26,6 @@ Curiosidade: o autor ([Alenômio][3]) é de Birigüi (alguém mais lembrou de [C
  [1]: http://www.stoneagescanners.com/golpe
  [2]: http://alenonimo.com.br/kelly/
  [3]: http://alenonimo.com.br/eu/
- [4]: /200305.html#post_3358298
+ [4]: /archives/2003/05/sigam-me-os-bonzinhos.html/
  [5]: http://pt.wikipedia.org/wiki/Turma_da_Tina
  [6]: /archives/2005/05/wapsi_square.html

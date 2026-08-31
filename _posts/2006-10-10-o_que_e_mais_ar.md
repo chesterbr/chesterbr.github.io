@@ -23,4 +23,4 @@ Triste.
   <img title="Notícia 'Google compra YouTube por US$ 1.65 bi', com quadrinho '2,1 bilhões de reais foram concedidos à Brasil Telecom pelo BNDES em outubro de 2007'" src="/archives/img/gootube_brt.png" width="655" height="506" />
 </center>
 
- [2]: /200210.html#post_1044931
+ [2]: /archives/2002/10/por-que-lula-uma-outra-visao.html/

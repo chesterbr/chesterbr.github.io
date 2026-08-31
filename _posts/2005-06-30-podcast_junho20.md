@@ -19,4 +19,4 @@ categories:
 Minha primeira tentativa de fazer um podcast consistiu na simples leitura de textos que eu publicava. Ficou meio ruim: além de ser meio enroscado lidar com vários arquivos, o mais interessante aqui são os links &#8211; e quem está ouvindo um podcast geralmente está longe do micro.
 
 Assim, resolvi fazer um apanhado mensal dos assuntos que rolaram, sem entrar em muitos detalhes &#8211; quem se interessar por algo vem aqui e confere os detalhes. Vamos ver no que dá.
-<span class="podcast"><a href="/archives/podcast/pdC-200506.mp3" />podcast</a></span>
+<span class="podcast"><a class="dead-link" title="este link morreu" href="/archives/podcast/pdC-200506.mp3">podcast</a><span class="dead-link-mark">†</span></span>

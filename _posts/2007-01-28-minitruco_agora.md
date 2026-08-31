@@ -23,4 +23,4 @@ Fico feliz ao constatar a popularidade do jogo: apenas no boca-a-boca (e no Goog
 
  [1]: /minitruco
  [2]: http://code.google.com/p/minitruco/
- [3]: /m/docs/index.html
+ [3]: https://github.com/chesterbr/minitruco-android/blob/main/docs/documentacao-para-desenvolvimento.md

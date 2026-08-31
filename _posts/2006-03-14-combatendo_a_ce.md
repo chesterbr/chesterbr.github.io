@@ -13,7 +13,6 @@ categories:
 
 A sacada está no fato de não ser nem um proxy público, nem um mirror: trata-se de um simples script PHP que recupera o conteúdo do Boing Boing on-the-fly e repassa para os solicitantes como se tivesse vindo do redistribuidor &#8211; o que burla filtros de URL.
 
-Como é fácil de instalar, dezenas de pessoas já colaboraram com sua banda disponível. Eu mesmo resolvi entrar na onda instalando o distribuidor [aqui][2] no meu site. Vamos ver se aguenta&#8230;
+Como é fácil de instalar, dezenas de pessoas já colaboraram com sua banda disponível. Eu mesmo resolvi entrar na onda instalando o distribuidor <a class="dead-link" title="este link morreu" href="/dbb.php">aqui</a><span class="dead-link-mark">†</span> no meu site. Vamos ver se aguenta&#8230;
 
  [1]: http://www.boingboing.net/2006/03/14/distributed_boingboi.html
- [2]: /dbb.php

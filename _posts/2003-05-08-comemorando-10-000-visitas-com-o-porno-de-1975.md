@@ -14,4 +14,4 @@ O resultado final é tão bizarro e hilário que, em comemoração aos 10.000 vi
 
 Não deixe de conferir as fotonovelas (se alguém entender a da página 28 me explique, eu boiei até agora). E quem diria que em 1975 já existia o Instituto Universal Brasileiro (pág. 18/19), com a **mesma** propaganda safada das revistas de hoje.
 
- [1]: /gep.html
+ [1]: /gep/

@@ -19,4 +19,4 @@ dsq_thread_id:
 categories:
 ---
 Segue (um pouco atrasado) o apanhado geral do que rolou no mês.
-<span class="podcast"><a href="/archives/podcast/pdC-200507.mp3" />podcast</a></span>
+<span class="podcast"><a class="dead-link" title="este link morreu" href="/archives/podcast/pdC-200507.mp3">podcast</a><span class="dead-link-mark">†</span></span>

@@ -9,7 +9,7 @@ categories:
 
 ### A Hack is Born
 
-You never know what you'll find at [Active Surplus](8) - a must-go Mecca for electronics enthusiasts in Toronto ([pics][9]). Last week, I stumbled upon a box full of PC gamepads - at $2.50 each!
+You never know what you'll find at [Active Surplus][8] - a must-go Mecca for electronics enthusiasts in Toronto ([pics][9]). Last week, I stumbled upon a box full of PC gamepads - at $2.50 each!
 
 They used an old connector (see below) that would require an USB adapter, but I had a better idea: connecting them to a [Raspberry Pi][17]. Bought one (discounted to $2) and hacking ensued.
 

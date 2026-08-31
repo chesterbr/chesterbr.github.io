@@ -13,6 +13,6 @@ Respeito quem usa, mas pra mim masturbação é coisa séria: o que diabos a pes
 
 <noscript>
   <center>
-    <a href="anteriores_noscript.php">Notas Anteriores</a>
+    <a class="dead-link" title="este link morreu" href="/anteriores_noscript.php">Notas Anteriores</a><span class="dead-link-mark">†</span>
   </center>
 </noscript>

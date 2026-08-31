@@ -29,3 +29,17 @@ a.dead-link {
 .dead-link-mark {
     color: #888;
 }
+
+/** Simple thumbnail grid for image galleries (e.g. /gep/) */
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    justify-content: center;
+}
+.gallery img {
+    display: block;
+    height: 120px;
+    width: auto;
+    border: 1px solid #ddd;
+}

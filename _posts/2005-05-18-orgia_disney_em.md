@@ -21,8 +21,7 @@ Em 1960 e bolinha, Wally Wood (um desenhista da MAD da época em que MAD era coi
 
 Eu sempre achei que isso fosse lenda, mas não só é sério como existe uma versão colorida (o original era preto-e-branco). Se as crianças já estiverem **bem** longe da sala, e você tiver curosidade, aqui estão [o original em preto-e-branco][2] e <a href="http://www.boingboing.net/images/wally\_wood.gif" target="_blank">o colorido em tamanho grande</a>.<div class=podcast>
 
-[podcast][3]</div></p>
+<a class="dead-link" title="este link morreu" href="/archives/podcast/pdC-2005-05-18.mp3">podcast</a><span class="dead-link-mark">†</span></div></p>
 
  [1]: http://en.wikipedia.org/wiki/The_Disneyland_Memorial_Orgy
  [2]: http://www.illegal-art.org/print/popups/orgy.html
- [3]: /archives/podcast/pdC-2005-05-18.mp3

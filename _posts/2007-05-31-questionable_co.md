@@ -23,6 +23,6 @@ Como bônus, observar o o [processo de ilustração][5] do cara é divertido &#8
 
  [1]: http://www.questionablecontent.net/
  [2]: /archives/2005/06/pbf_e_diesel_sw_1.html
- [3]: /200211.html#post_1439952
+ [3]: /archives/2002/11/e-de-menina-mas-eu-gosto.html/
  [4]: /archives/2004/11/pvp.html
  [5]: http://www.questionablecontent.net/tutorial.php

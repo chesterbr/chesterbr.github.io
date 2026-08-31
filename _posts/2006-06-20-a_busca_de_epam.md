@@ -118,7 +118,7 @@ Eu costumava desenhar na mão, mas usando uma planilha eletrônica moderna foi p
 
 ### Dicas apelativas <font color="red">(SPOILER &#8211; vai estragar algumas surpresas)</font>
 
-Essas dicas não chegam a entregar a solução do jogo, mas sugerem o caminho. É mais para o caso de você realmente enroscar em algum ponto. Caso prefira, pode [me mandar um e-mail][5] falando de onde você enroscou, e eu tentarei ajudar da melhor forma possível.
+Essas dicas não chegam a entregar a solução do jogo, mas sugerem o caminho. É mais para o caso de você realmente enroscar em algum ponto. Caso prefira, pode <a class="dead-link" title="este link morreu" href="/fale.html">me mandar um e-mail</a><span class="dead-link-mark">†</span> falando de onde você enroscou, e eu tentarei ajudar da melhor forma possível.
 
 #### Mapa 1 (Escritório):
 
@@ -147,10 +147,9 @@ Só o taxista pra te tirar daqui. E ele não fala a sua língua, então é preci
 Bastante coisa pra explorar. O mair importante é tirar o DJ da mesa, atraindo-o para longe. O truque é achar algo que interesse a ele, mas não bastará entregar de mão beijada. Em seguida, segredos serão revelados, mas o desafio final dependerá apenas de você. Esteja em ponto de bala!
 
  [1]: /download/epa15.zip
- [2]: /download/leiame_epa.html
+ [2]: /leiame-epaminondas/
  [3]: http://en.wikipedia.org/wiki/Akira_%28manga%29
  [4]: http://www.educacao.sp.gov.br/
- [5]: /fale.html
  [8]: http://twitter.com/jeffpar
  [9]: /download/epaminondas.img
  [10]: http://jsmachines.net/docs/pcjs/

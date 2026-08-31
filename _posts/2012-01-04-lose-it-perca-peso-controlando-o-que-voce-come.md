@@ -20,7 +20,7 @@ categories:
 
 Não sou nenhum caso de obesidade mórbida, mas desde uma ocasião em 2007 (na qual achei que ia morrer durante uma partida de DDR), comecei a cuidar melhor da alimentação e da saúde no geral. É possível fazer isso de várias formas, mas monitorar o peso é uma das mais objetivas. E é fácil de acompanhar: basta ter uma balança em casa (e por [menos de 50 mangos][3] dá pra comprar uma digital), e registrar todo dia em uma planilha.
 
-Com isso dá pra gerar um [gráfico][4] e pisar no freio da comida/acelerador da atividade física sempre que a curva sobe demais. Esta diligência não me impediu de fechar 2011 com uns oito a dez quilos acima do peso ideal, mas tenho certeza que estaria bem pior sem ela. E para matar esse peso extra nos próximos meses, me convenci de que, além de registrar o peso, era importante ter noção do que eu comia.
+Com isso dá pra gerar um <a class="dead-link" title="este link morreu" href="/gordo">gráfico</a><span class="dead-link-mark">†</span> e pisar no freio da comida/acelerador da atividade física sempre que a curva sobe demais. Esta diligência não me impediu de fechar 2011 com uns oito a dez quilos acima do peso ideal, mas tenho certeza que estaria bem pior sem ela. E para matar esse peso extra nos próximos meses, me convenci de que, além de registrar o peso, era importante ter noção do que eu comia.
 
 Novamente eu precisava de uma medida numérica, e para comida, estamos falando de calorias. Mas se já é complicado anotar/planilhar tudo o que se come (mesmo com celular e computador), saber o valor nutricional de cada coisa é ainda mais difícil. Não é à toa que vários websites e aplicativos surgiram para dar conta dessa missão, e o [Lose It!][5] foi o meu escolhido.
 
@@ -39,7 +39,6 @@ Críticas à parte, é um sistema **gratuito** que me atendeu muito bem. Estou r
  [1]: http://www.myfitnesspal.com/
  [2]: /wp-content/uploads/2012/01/loseit.png
  [3]: http://compare.buscape.com.br/proc_unico?id=7216&kw=balanca+digital
- [4]: /gordo
  [5]: http://loseit.com
  [6]: http://itunes.apple.com/us/app/lose-it!/id297368629?mt=8
  [7]: /wp-content/uploads/2012/01/loseit_site.png

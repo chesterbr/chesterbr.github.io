@@ -30,7 +30,7 @@ You need to get the timing right: too much and the machine can't push the water;
 
 ## Avoiding leaks
 
-I mentioned on the [original post](({% link _posts/2017-08-07-replacing-k-cups-with-reusable-coffee-pods.markdown %})) the importance of following the instructions, in order to prevent water from flowing from the top of the pod and spill in random directions. Even following those, leaks started to get more frequent - to the point I was considering a coffee maker replacement.
+I mentioned on the [original post]({% link _posts/2017-08-07-replacing-k-cups-with-reusable-coffee-pods.markdown %}) the importance of following the instructions, in order to prevent water from flowing from the top of the pod and spill in random directions. Even following those, leaks started to get more frequent - to the point I was considering a coffee maker replacement.
 
 The Keurig system works by having needles perforating the pod from top and bottom. The top needle doubles as the water injection system, and a rubber piece around it exerts pressure on the top of the pod - which creates an efficient seal in traditional pods, but reusables may require some extra pressure, and I suppose they may have deformed the rubber a bit.
 
