@@ -29,7 +29,7 @@ The piezo is easy to wire: (-) to Arduino GND, (+) to any Arduino digital pin (I
 
 The on-off switch is actually built in my battery holder (which is AA, not AAA as in the illustration). It serves a dual purpose: saving power when the circuit is not in use, and providing a simple way to to turn the alarm off when I tend to the clothes.
 
-[Tested](https://www.youtube.com/edit?o=U&video_id=DFl7gf34bgY) the idea using this prototype:
+<a class="dead-link" title="this link died" href="https://www.youtube.com/edit?o=U&video_id=DFl7gf34bgY">Tested</a><span class="dead-link-mark">†</span> the idea using this prototype:
 
 ![prototype](/img/2017/12/w_prototype.jpg){: .center }
 

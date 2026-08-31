@@ -22,7 +22,7 @@ Uma solução geral que minimiza esse problema é colocar os scripts indispensá
 
 Só que fazer isso &#8220;na mão&#8221; toda hora é muito chato. É possível ter uma [página dinâmica que executa essa tarefa][7], e outra idéia é inserir o procedimento no processo de build (se houver um). Ambas funcionam, mas a primeira gera uma preocupação adicional com cache (num conteúdo que até então era estático), e a segunda tira o dinamismo de salvar e testar imediatamente.
 
-Eu precisava de um caminho intermediário, para o qual não escaparia de criar um script que automatiza o trabalho. Como já estava com a &#8220;mão suja de graxa Python&#8221;, eu chamei [esse][8] port do [JsMin][9] num [script bem simples][10], e troquei no HTML vários scripts externos por um só, que carrega em paralelo com outros elementos da página, reduzindo bastante o tempo de carga inicial.
+Eu precisava de um caminho intermediário, para o qual não escaparia de criar um script que automatiza o trabalho. Como já estava com a &#8220;mão suja de graxa Python&#8221;, eu chamei [esse][8] port do [JsMin][9] num <a class="dead-link" title="este link morreu" href="https://github.com/chesterbr/cruzalinhas/blob/master/src/aux/build_all_scripts.py">script bem simples</a><span class="dead-link-mark">†</span>, e troquei no HTML vários scripts externos por um só, que carrega em paralelo com outros elementos da página, reduzindo bastante o tempo de carga inicial.
 
 *(isso **não** é regra. Nunca assuma, sempre meça. Existem ótimas ferramentas para fazer isso, sendo as minhas prediletas a aba Network das ferramentas de desenvolvimento dos browsers modernos)*
 
@@ -52,5 +52,4 @@ Se você fizer direitinho, sempre que salvar um script ou der um clean, build, e
  [7]: http://www.ataraxia.com.br/posts/otimizacao-em-php-parte-1-minify
  [8]: http://stackoverflow.com/questions/1199470/combine-javascript-files-at-deployment-in-python/1905612#1905612
  [9]: http://www.crockford.com/javascript/jsmin.html
- [10]: https://github.com/chesterbr/cruzalinhas/blob/master/src/aux/build_all_scripts.py
  [11]: http://getfirebug.com/

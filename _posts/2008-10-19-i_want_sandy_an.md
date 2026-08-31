@@ -23,7 +23,7 @@ My email inbox is the most valued piece of &#8220;virtual real estate&#8221; in 
 
 There is, however, a small crack in this routine: some emails do not require immediate action, but cannot be archived and forgotten either, and they keep lurking in my inbox, stealing bits of my attention every time I go there to check for new stuff or find higher-priority things to do.
 
-Enter [I Want Sandy][8], a web application that combines email and calendar in a very smart way. It allows me to literally time-shift email: I just forward it to her, with a subject such as &#8220;Remind me to read this tomorrow in the afternoon&#8221;, and the email comes back at the specified time (I can be as specific as I want &#8211; [she is quite good][9] at guessing the details when I get vague).
+Enter [I Want Sandy][8], a web application that combines email and calendar in a very smart way. It allows me to literally time-shift email: I just forward it to her, with a subject such as &#8220;Remind me to read this tomorrow in the afternoon&#8221;, and the email comes back at the specified time (I can be as specific as I want &#8211; <a class="dead-link" title="this link died" href="http://iwantsandy.com/examples/for/professionals">she is quite good</a><span class="dead-link-mark">†</span> at guessing the details when I get vague).
 
 This way I can keep in my inbox just the items to which I need to pay attention on the spot. Everything else vanishes and returns only when it is the proper time for it to be handled. And soon I started to using her to remind me of less-important things (after all, it&#8217;s just sending an email) &#8211; also uncluttering my iCal/Google Calendar.
 
@@ -47,7 +47,6 @@ Will it be a hit? Nobody knows. But it is a rare case of a real novel approach t
  [6]: http://www.43folders.com/izero
  [7]: http://en.wikipedia.org/wiki/Getting_Things_Done
  [8]: http://iwantsandy.com
- [9]: http://iwantsandy.com/examples/for/professionals
  [10]: http://iwantsandy.com/help/guide
  [11]: http://www.boingboing.net/2007/11/14/i-want-sandy-perfect.html
  [12]: http://www.amazon.com/exec/obidos/tg/detail/-/1591840880/qid=1116004151/sr=8-1/ref=sr_8_xs_ap_i1_xgl14?v=glance&s=books&n=507846

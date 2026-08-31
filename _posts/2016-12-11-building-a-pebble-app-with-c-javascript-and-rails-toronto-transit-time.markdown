@@ -11,7 +11,7 @@ categories:
 
 Earlier this year I was looking for an app that showed predictions for Toronto streetcars/buses on my [Pebble][2] smartwatch. To my surprise, I could not find a single one that worked the way I expected it to (or that worked at all, to be honest), so I decided to build my own.
 
-Little did I know that getting fast and reliable predictions on my wrist wasn't just a matter of writing C code on the watch - it also required code running on the phone *and* on a server. Totaly worth it: I use [Toronto Transit Time][23] almost daily - and I'm not the only one.
+Little did I know that getting fast and reliable predictions on my wrist wasn't just a matter of writing C code on the watch - it also required code running on the phone *and* on a server. Totaly worth it: I use <a class="dead-link" title="this link died" href="https://apps.getpebble.com/en_US/application/57315941c351ffcdf500000f">Toronto Transit Time</a><span class="dead-link-mark">†</span> almost daily - and I'm not the only one.
 
 This insight of the development process was originally intended to become a presentation for the likes of [PebbleTO][21], but given the uncertain future of Pebble (recently [acquired by FitBit][22]), I decided to just publish it here as a supplement to the application's [source code][20].
 
@@ -126,7 +126,7 @@ It turns out our app doesn't need to care about that. Why? Well, for very small 
 
 Wiring all that together was a fun exercise over all those topics - and in the end we now have an app that lists the stops and routes with a single button press in a couple seconds. Once the route is selected, predictions pop up just as fast, allowing us to make reasonable decisions on whether to go to the bus/streetcar stop or stay warm at the nearest Tim Hortons.
 
-Just as importantly, I played with things that aren't usually part of my days at [Shopify][19]: embedded devices, C, non-web JavaScript and geographic math hacks. The [source code][20] can, of course, be improved (I'd sure look C and JavaScript test frameworks, because these days I feel naked without tests), but can be used as a basis for likewise apps. That, of course, assuming Pebble's [new owners](https://www.fitbit.com) continue to use its operating system - it would be a waste if they just canned it. Let's wait and see.
+Just as importantly, I played with things that aren't usually part of my days at <a class="dead-link" title="this link died" href="https://jobs.lever.co/shopify?lever-via=eOVOUtKqCt">Shopify</a><span class="dead-link-mark">†</span>: embedded devices, C, non-web JavaScript and geographic math hacks. The [source code][20] can, of course, be improved (I'd sure look C and JavaScript test frameworks, because these days I feel naked without tests), but can be used as a basis for likewise apps. That, of course, assuming Pebble's [new owners](https://www.fitbit.com) continue to use its operating system - it would be a waste if they just canned it. Let's wait and see.
 
 [1]: https://apps.getpebble.com/en_US/application/53ccd8e4c187a5f77b00010f?section=watchapps
 [2]: https://en.wikipedia.org/wiki/Pebble_(watch)
@@ -146,11 +146,9 @@ Just as importantly, I played with things that aren't usually part of my days at
 [16]: https://en.wikipedia.org/wiki/Geographical_distance
 [17]: http://andrew.hedges.name/experiments/haversine/
 [18]: http://www.cs.nyu.edu/visual/home/proj/tiger/gisfaq.html
-[19]: https://jobs.lever.co/shopify?lever-via=eOVOUtKqCt
 [20]: https://github.com/chesterbr/toronto-transit-time
 [21]: https://www.meetup.com/PebbleTO/
 [22]: https://www.bloomberg.com/news/articles/2016-12-07/pebble-said-to-discuss-selling-software-assets-to-fitbit
-[23]: https://apps.getpebble.com/en_US/application/57315941c351ffcdf500000f
 [24]: http://webservices.nextbus.com/service/publicXMLFeed?a=ttc&command=predictions&r=504&s=5775
 [25]: http://webservices.nextbus.com/service/publicJSONFeed?a=ttc&command=predictions&r=504&s=5775
 [26]: https://en.wikipedia.org/wiki/Tim_Hortons

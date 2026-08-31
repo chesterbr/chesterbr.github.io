@@ -25,11 +25,11 @@ Como de costume, o [código-fonte][5] é livre ([licença MIT][6]), e esse post 
 
 <!--more-->O back-end da aplicação é escrito em [Python][7] e hospedado no [Google App Engine][8]. Ele disponibiliza um par de chamadas [AJAX][9]/[JSON][10] para o front-end: uma página HTML que usa o JQuery para acessar tanto esse back-end quanto a [API do Google Maps][11] (usada para desenhar os mapas/trajetos e buscar endereços).
 
-[Obter os dados de itinerário][12] não foi trivial, mas o principal desafio mesmo era fazer buscas geográficas. Explico: eu tenho, para cada linha, os pontos (latitude e longitude) que compõem a sequência de segmentos de reta que, conectados, representam seu trajeto. Uma busca consiste em descobrir quais dessas figuras cortam um determinado ponto (idealmente com alguma tolerância).
+<a class="dead-link" title="este link morreu" href="https://github.com/chesterbr/cruzalinhas/blob/master/src/sptscraper/sptscraper.py">Obter os dados de itinerário</a><span class="dead-link-mark">†</span> não foi trivial, mas o principal desafio mesmo era fazer buscas geográficas. Explico: eu tenho, para cada linha, os pontos (latitude e longitude) que compõem a sequência de segmentos de reta que, conectados, representam seu trajeto. Uma busca consiste em descobrir quais dessas figuras cortam um determinado ponto (idealmente com alguma tolerância).
 
 Calcular a distância entre o ponto e cada um dos segmentos de reta já estaria fora de questão se estivessemos falando de geometria euclidiana simples (e [não estamos][13]). Já que a idéia era ter alguma tolerância mesmo, eu poderia verificar se o ponto está na caixa que contém o segmento de reta (reduzindo a questão a uma quadra de [comparações de desigualdade][14]). Infelizmente, 4 comparações x cerca de 620 mil pontos ainda é **muita** coisa.
 
-A salvação da lavoura foi o [geohash][15] &#8211; essencialmente uma representação de uma área geográfica com precisão mais-ou-menos arbitrária (consulte o link para detahes, é um conceito genial). A [biblioteca de geohash que eu usei][16] permite &#8220;somar&#8221; dois geohashes e retornar o geohash da menor caixa que contém os dois pontos originais.
+A salvação da lavoura foi o [geohash][15] &#8211; essencialmente uma representação de uma área geográfica com precisão mais-ou-menos arbitrária (consulte o link para detahes, é um conceito genial). A <a class="dead-link" title="este link morreu" href="https://github.com/chesterbr/cruzalinhas/blob/master/src/sptscraper/geohash.py">biblioteca de geohash que eu usei</a><span class="dead-link-mark">†</span> permite &#8220;somar&#8221; dois geohashes e retornar o geohash da menor caixa que contém os dois pontos originais.
 
 Limitando essa caixa em 6 caracteres, ficamos com um [erro][17] menor que 1 Km &#8211; e esse erro é exatamente a margem de manobra que eu precisava. Observe que muitos dos segmentos caem na mesma caixa, logo, uma linha típica (que era composta de várias centenas de pontos/segmentos) acaba &#8220;participando&#8221; apenas de umas poucas dezenas de geohashes de caixa desse tipo.
 
@@ -58,11 +58,9 @@ Com isso tudo arrumado, a aplicação ganhou corpo suficiente para ir para o ar,
  [9]: http://en.wikipedia.org/wiki/Ajax_%28programming%29
  [10]: http://json.org
  [11]: http://code.google.com/apis/maps/
- [12]: https://github.com/chesterbr/cruzalinhas/blob/master/src/sptscraper/sptscraper.py
  [13]: http://www.movable-type.co.uk/scripts/latlong.html
  [14]: http://en.wikipedia.org/wiki/Inequality
  [15]: http://en.wikipedia.org/wiki/Geohash
- [16]: https://github.com/chesterbr/cruzalinhas/blob/master/src/sptscraper/geohash.py
  [17]: http://en.wikipedia.org/wiki/Geohash#Worked_example
  [18]: http://aleatory.clientsideweb.net/2009/11/28/google-app-engine-datastore-gotchas/
  [19]: http://labs.google.com/papers/bigtable.html

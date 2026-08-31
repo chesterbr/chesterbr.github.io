@@ -52,7 +52,7 @@ On my first run, the emulated game crashed straight after a few hundred CPU inst
 
 The specs revealed Opal missed [bit indexing][28] and had issues with peculiar cases of [array expansion][29] and [binary shift][30]. Those operations are seldom found in typical Ruby code, but are essential to ruby2600.
 
-Open-source to the rescue: [a few patches][27] to Opal fixed these problems (one of the tests even [made its way into Rubyspec][26]), leaving me with one last problem: integer division.
+Open-source to the rescue: [a few patches][27] to Opal fixed these problems (one of the tests even <a class="dead-link" title="this link died" href="https://github.com/rubyspec/rubyspec/pull/270">made its way into Rubyspec</a><span class="dead-link-mark">†</span>), leaving me with one last problem: integer division.
 
 Opal [translates all numeric classes][24] to JavaScript native numbers, which is great for performance and simplicity, but also makes it unable to tell `3 / 2` (=1) apart from `3.0 / 2` (=1.5). Had to wrap such divisions in `( ).to_i` - a bit of noise, but a small price for the awesomeness of cross-compilation.
 
@@ -60,7 +60,6 @@ Opal [translates all numeric classes][24] to JavaScript native numbers, which is
 [16]: https://github.com/opal/opal-rspec#readme
 [24]: http://opalrb.org/docs/generated_javascript/
 [25]: http://rubyspec.org/
-[26]: https://github.com/rubyspec/rubyspec/pull/270
 [27]: https://github.com/opal/opal/pulls/chesterbr?direction=desc&page=1&sort=created&state=closed
 [28]: http://www.ruby-doc.org/core-2.1.0/Fixnum.html#method-i-5B-5D
 [29]: http://www.ruby-doc.org/core-2.1.0/Array.html#method-i-5B-5D-3D

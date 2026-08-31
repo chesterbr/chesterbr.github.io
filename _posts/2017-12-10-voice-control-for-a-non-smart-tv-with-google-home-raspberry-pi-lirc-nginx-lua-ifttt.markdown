@@ -22,7 +22,7 @@ In a nutshell: IFTTT turns Google Home commands into HTTPS requests towards a Ra
 
 TVs with HDMI-CEC [can be controlled and input-switched](https://support.google.com/googlehome/answer/7498991?hl=en-CA) by Google Home via ChromeCast. Mine doesn't, so I resorted to something that could duplicate the (IR) light signals sent by the remote control.
 
-Sure, I could just add an [IR LED](https://www.creatroninc.com/product/lte-5208-infrared-emitter-940nm/?search_query=lte-5208&results=3) to an Arduino or a Raspberry Pi (with a resistor, just like we do with regular LEDs on those ["blinking LED" tutorials](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)). But [this simple circuit](http://www.raspberry-pi-geek.com/Archive/2015/10/Raspberry-Pi-IR-remote) strengthens the signal just by adding a transistor and second resistor. I liked that, and went with it for my initial breadboard experiment:
+Sure, I could just add an <a class="dead-link" title="this link died" href="https://www.creatroninc.com/product/lte-5208-infrared-emitter-940nm/?search_query=lte-5208&results=3">IR LED</a><span class="dead-link-mark">†</span> to an Arduino or a Raspberry Pi (with a resistor, just like we do with regular LEDs on those ["blinking LED" tutorials](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)). But [this simple circuit](http://www.raspberry-pi-geek.com/Archive/2015/10/Raspberry-Pi-IR-remote) strengthens the signal just by adding a transistor and second resistor. I liked that, and went with it for my initial breadboard experiment:
 
 ![initial prototype](/img/2017/12/prototype.jpg){: .center }
 

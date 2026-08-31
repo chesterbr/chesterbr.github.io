@@ -82,7 +82,7 @@ In the second day we hiked after more shrines at Itsukushima - or, as most peopl
 
 ![](/img/2015/03/miyajima_portal.jpg){: .center }
 
-The free-roaming deer are a side show. Very peaceful creatures, but keen to steal snacks from distracted tourists - not a huge problem for them, considering the abundance of food shops. Foodies can appreciate [*momiji manjyu*][303] with all sorts of yummy fillings, and eat while [watching][307] the curious baking machines.
+The free-roaming deer are a side show. Very peaceful creatures, but keen to steal snacks from distracted tourists - not a huge problem for them, considering the abundance of food shops. Foodies can appreciate [*momiji manjyu*][303] with all sorts of yummy fillings, and eat while <a class="dead-link" title="this link died" href="https://vine.co/u/1084638720658931712">watching</a><span class="dead-link-mark">†</span> the curious baking machines.
 
 ![](/img/2015/03/bani_deer.jpg){: .center }
 
@@ -93,7 +93,6 @@ The free-roaming deer are a side show. Very peaceful creatures, but keen to stea
 [304]: http://nagataya-okonomi.com/en/shop.html
 [305]: https://en.wikipedia.org/wiki/Children%27s_Peace_Monument
 [306]: http://www.japancentre.com/recipes/hiroshima-okonomiyaki
-[307]: https://vine.co/u/1084638720658931712
 
 ### Kyoto
 
@@ -166,7 +165,7 @@ For comics, action figures, cosplay stuff and the like, [Nanako Browadway][904] 
 
 ![](/img/2015/03/mandarake.jpg){: .center }
 
-An entire wall dedicated to [Osamu Tezuka][924] comics earned my respect (and lots of my money). They also had several of the [easy to read manga][920] recommendations I was looking for. If one needs encouragement to learn Japanese, this is the place.
+An entire wall dedicated to [Osamu Tezuka][924] comics earned my respect (and lots of my money). They also had several of the <a class="dead-link" title="this link died" href="http://japanesetease.net/easy-to-read-manga-for-japanese-beginners-vol-01/">easy to read manga</a><span class="dead-link-mark">†</span> recommendations I was looking for. If one needs encouragement to learn Japanese, this is the place.
 
 #### Robot Restaurant
 
@@ -219,7 +218,6 @@ She repeated the process on the other ear, finishing with a shoulder massage. In
 [917]: https://www.youtube.com/watch?v=QL1p1iGZYb8
 [918]: http://en.japantravel.com/photos/kitte-garden
 [919]: http://en.wikipedia.org/wiki/WonderSwan
-[920]: http://japanesetease.net/easy-to-read-manga-for-japanese-beginners-vol-01/
 [921]: http://en.wikipedia.org/wiki/Virtual_Boy
 [922]: http://www.shinjuku-robot.com/pc/?lng=en
 [923]: http://www.japan-talk.com/jt/new/tokyo-neighborhoods

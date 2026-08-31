@@ -18,7 +18,7 @@ Este post dá uma visão superficial das alternativas para desenvolvimento mais 
 Existem (pelo menos) três caminhos para construir aplicações para o iPhone:
 
 *   **iPhone Web Apps**
-    A idéia é usar tecnologias web (HTML, JavaScript, CSS, AJAX, server-side scripts, etc.), hospedando as aplicações remotamente e rodando via Mobile Safari. Existem [guidelines oficiais][2], livros (gostei [deste][3]) e pelo menos dois frameworks ([iUI][4] e [jPint][5]) que ajudam a tornar as aplicações web parecidas com as nativas &#8211; os [resultados][6] são surpreendentemente bons.
+    A idéia é usar tecnologias web (HTML, JavaScript, CSS, AJAX, server-side scripts, etc.), hospedando as aplicações remotamente e rodando via Mobile Safari. Existem <a class="dead-link" title="este link morreu" href="http://developer.apple.com/webapps/">guidelines oficiais</a><span class="dead-link-mark">†</span>, livros (gostei [deste][3]) e pelo menos dois frameworks ([iUI][4] e [jPint][5]) que ajudam a tornar as aplicações web parecidas com as nativas &#8211; os [resultados][6] são surpreendentemente bons.
 
     As desvantagens são as mesmas de qualquer aplicação web: acesso limitado ao sistema (dá pra saber se o fone está em pé ou deitado, fazer chamadas e acessar o Maps, mas não tem como ler o acelerômetro ou acionar o iPod, entre outras coisas) e a necessidade de estar online para usar a app (agravada no Brasil, onde a cobertura de WiFi é mais restrita e os planos de dados tornam caro usar o EDGE).
 
@@ -33,7 +33,7 @@ Existem (pelo menos) três caminhos para construir aplicações para o iPhone:
             O [Installer][9] é uma aplicação conhecida de que tem iPhone desbloqueado: ele permite localizar e instalar centenas de pacotes de software gratuito (boa parte sendo software livre). Estes programas são criados, em sua maioria, através do iphone-dev toolchain &#8211; um kit baseado em ferramentas livres para desenvolvimento UNIX (essencialmente gcc/make, usando [llvm][10] para viabilizar a [compilação cruzada][11]) e empacotados em um [formato que o Installer.app entende][12].
 
             A única restrição é que o usuário tem que ter um iPhone [desbloqueado][13]. Você também fica sujeito ao esquema de distribuição do Installer &#8211; um pequeno risco a correr, mas é razoável crer que continuará funcionando no futuro, e que será menos restrito que a proposta da Apple. </li> </ul>
-            Para começar a brincar eu optei pela terceira via. É um caminho meio tortuoso, já que é preciso baixar/compilar todo o software do qual o iphone-dev depende. Na real eu descobri (meio tardiamente) que é possível baixar o [toolchain pré-compilado para Mac OS X Leopard][14] &#8211; mas compilar ainda é o único caminho para quem usa Windows/Linux/Mac OS X Tiger.
+            Para começar a brincar eu optei pela terceira via. É um caminho meio tortuoso, já que é preciso baixar/compilar todo o software do qual o iphone-dev depende. Na real eu descobri (meio tardiamente) que é possível baixar o <a class="dead-link" title="este link morreu" href="http://www.zdziarski.com/iphone/">toolchain pré-compilado para Mac OS X Leopard</a><span class="dead-link-mark">†</span> &#8211; mas compilar ainda é o único caminho para quem usa Windows/Linux/Mac OS X Tiger.
 
             Teoricamente basta seguir o [passo-a-passo oficial][15] &#8211; na prática, a teoria é outra. Por exemplo, eu já tinha o llvm instalado via [DarwinPorts][16], mas a ferramenta exige uma versão em particular, então tive que desinstalar primeiro. Da mesma forma, para compilar o odcctools foi preciso prestar atenção ao [issue 31][17]. De fato, a [lista de issues][18] ajuda um bocado nessas horas.
 
@@ -43,7 +43,7 @@ Existem (pelo menos) três caminhos para construir aplicações para o iPhone:
 
             Um ponto que me assusta um pouco no passo-a-passo é um certo excesso de [sudo][24]. E não sei exatamente o que eu fiz de errado, mas algum desses passos sobrescreveu um arquivo de sistema do meu Mac (era um binário universal que passou a só ter o código ARM), deixando o micro inutilizado até que eu dei boot pelo DVD de instalação (nem o boot single-mode funcionava mais) e copiei o arquivo de volta. Esteja preparado para este tipo de problema.
 
-            A última parte (que é o build final dos binários) enroscou por conta de algum problema acontecido na criação dos headers. Até consegui concluir o processo copiando alguns .h do SDK beta do iPhone, mas ao tentar dar build das aplicações novos problemas eram encontrados. Solução: baixei o [toolchain pré-compilado][14] e copiei o diretório de headers dele sobre o meu.
+            A última parte (que é o build final dos binários) enroscou por conta de algum problema acontecido na criação dos headers. Até consegui concluir o processo copiando alguns .h do SDK beta do iPhone, mas ao tentar dar build das aplicações novos problemas eram encontrados. Solução: baixei o <a class="dead-link" title="este link morreu" href="http://www.zdziarski.com/iphone/">toolchain pré-compilado</a><span class="dead-link-mark">†</span> e copiei o diretório de headers dele sobre o meu.
 
             Com isso foi possível compilar um [hello world básico][25] e rodar no telefone. Ainda é preciso empacotar para o Installer, mas isso é uma segunda fase.
 
@@ -52,7 +52,6 @@ Existem (pelo menos) três caminhos para construir aplicações para o iPhone:
             **UPDATE:** O kit também funciona direitinho no Linux ([Ubuntu 8.04 num Eee PC][26]). Eu segui este outro [guia passo-a-passo][27] e a coisa rolou praticamente sem problemas (os poucos que tive estão documentados nos comentários do guia).
 
  [1]: http://www.coxacreme.com.br/2008/03/11/iphone/
- [2]: http://developer.apple.com/webapps/
  [3]: http://www.amazon.com/Professional-iPhone-iPod-touch-Programming/dp/0470251557
  [4]: http://code.google.com/p/iui/
  [5]: http://www.journyx.com/jpint/
@@ -64,7 +63,6 @@ Existem (pelo menos) três caminhos para construir aplicações para o iPhone:
  [11]: http://en.wikipedia.org/wiki/Cross_compiler
  [12]: http://iphone.nullriver.com/beta/
  [13]: http://www.techradar.com/news/audio/portable-audio/jailbreak-the-iphone-hacking-story-153739
- [14]: http://www.zdziarski.com/iphone/
  [15]: http://code.google.com/p/iphone-dev/wiki/Building
  [16]: http://darwinports.com/
  [17]: http://code.google.com/p/iphone-dev/issues/detail?id=31

@@ -40,7 +40,7 @@ Speaking of food: as expats, we did indulge in the occasional [Brazilian delicac
 - [Alma][18]: had the best - and most exquisite - bread service(¹) overall;
 - [Amorino Gelato][20]: not *really* local, but its delicious and eye-catching Rose-shaped ice cream suited the scenery;
 - [Cantinho do Avillez][15]/[Café Lisboa][16] (both belonging to the [same chef][17] (pt));
-- [Feel Rio][19] small place for Brazilian comfort food;
+- <a class="dead-link" title="this link died" href="https://www.zomato.com/grande-lisboa/feel-rio-baixa-lisboa">Feel Rio</a><span class="dead-link-mark">†</span> small place for Brazilian comfort food;
 - [Pastéis De Belém][101]: A particular variety of *pastel de nata* can only be found at this place. Its texture is unique and worth the long (but fast) line.
 - [Pastelaria Briosa][21]: The place with giant meringues.
 
@@ -69,7 +69,6 @@ Want to know more? Check my [pictures][22] or ask below!
 [16]: http://www.joseavillez.pt/en/cafe-lisboa
 [17]: http://www.cultuga.com.br/2012/09/entrevista-com-o-chef-jose-avillez/
 [18]: http://www.almalisboa.pt/
-[19]: https://www.zomato.com/grande-lisboa/feel-rio-baixa-lisboa
 [20]: http://www.amorino.com/us/shop/lisbon-augusta.68.html
 [21]: http://pastelariabriosa.pt/
 [22]: https://www.flickr.com/photos/chesterbr/albums/72157668512616920

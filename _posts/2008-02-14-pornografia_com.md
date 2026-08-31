@@ -21,10 +21,9 @@ categories:
 
 Pior é que esse lance de [yiffy art][2] (arte porn com híbridos homem-animal) está bombando já tem um tempo &#8211; em particular quando o Second Life começou a disponibilizar avatares com características animais, que, uma vez equipados com os [acessórios][3] corretos, faziam a alegria da galera deturpada. Aliás, se vacilar é só que sobrou no SL hoje.
 
-Apenas um adendo: o site mencionado no post, o [Yiffstar][4], não é apenas de dragon homo p0rn, e sim de yiffy art no geral. Boa parte do material é bem amador (em termos de arte), mas quem conseguir sublimar (ou curtir) o lance draco-homo-erótico deve dar uma olhada na [galeria do Patrick Reichel][5], que impressiona pela qualidade &#8211; ainda que dedicada a um tema tão bizarro.
+Apenas um adendo: o site mencionado no post, o <a class="dead-link" title="este link morreu" href="http://yiffstar.com/">Yiffstar</a><span class="dead-link-mark">†</span>, não é apenas de dragon homo p0rn, e sim de yiffy art no geral. Boa parte do material é bem amador (em termos de arte), mas quem conseguir sublimar (ou curtir) o lance draco-homo-erótico deve dar uma olhada na [galeria do Patrick Reichel][5], que impressiona pela qualidade &#8211; ainda que dedicada a um tema tão bizarro.
 
  [1]: http://mtv.uol.com.br/badalhoca/videos/um-cara-invadiu-meu-quarto-e-me-mostrou-fotos-de-drag%C3%B5es-se-enrabando
  [2]: http://en.wikipedia.org/wiki/Furry_fandom#Sex_and_furry_fandom
  [3]: http://www.secondlifeherald.com/slh/2006/04/genital_review_.html
- [4]: http://yiffstar.com/
  [5]: http://yiffstar.com/?action=authorsearch&#038;authorsearch=ReptileCynrik&#038;tabselected=gallery

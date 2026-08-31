@@ -14,7 +14,7 @@ onswipe_thumb:
 
     O problema é que não apenas as inscrições estavam esgotadas, mas no sábado eu estaria dando <a href="http://www.slideshare.net/chesterbr/google-appenginecpbr5">duas</a> <a href="http://www.slideshare.net/chesterbr/programao-para-atari-2600">palestras</a> na <a href="http://www.campus-party.com.br">Campus Party</a>. Mas valeria a pena aparecer no domingo, nem que fosse só para apertar a mão da pessoa responsável por tantas tardes agradáveis da minha infância. E o Ricbit deu um estímulo extra: como ele não mora mais em São Paulo, me mandou pelo correio um livro ilustrado para que ele pudesse autografar.
 
-    A <a href="http://baniverso.com/">Bani</a> topou a empreitada e lá fomos nós até o <a href="http://www.sescsp.org.br/sesc/busca/index.cfm?unidadesdirector=59">SESC Santo Amaro</a>. Não é exatamente perto de casa, mas tem o acesso facilitado por conta da linha Lilás do Metrô. Dica: a <a href="http://www.vademetro.com.br/largo-treze">Estação Largo 13</a> tem uma saída direta para o <a href="http://www.maisshoppinglargo13.com.br/">Mais Shopping Largo 13</a>. Atravessando este último, você sai na Amador Bueno, já quase do lado do SESC - cujas atrações merecem uma visita mais calma. Mas o foco neste dia era o Azulay.
+    A <a href="http://baniverso.com/">Bani</a> topou a empreitada e lá fomos nós até o <a class="dead-link" title="este link morreu" href="http://www.sescsp.org.br/sesc/busca/index.cfm?unidadesdirector=59">SESC Santo Amaro</a><span class="dead-link-mark">†</span>. Não é exatamente perto de casa, mas tem o acesso facilitado por conta da linha Lilás do Metrô. Dica: a <a href="http://www.vademetro.com.br/largo-treze">Estação Largo 13</a> tem uma saída direta para o <a class="dead-link" title="este link morreu" href="http://www.maisshoppinglargo13.com.br/">Mais Shopping Largo 13</a><span class="dead-link-mark">†</span>. Atravessando este último, você sai na Amador Bueno, já quase do lado do SESC - cujas atrações merecem uma visita mais calma. Mas o foco neste dia era o Azulay.
 
     <a href="http://www.flickr.com/photos/chesterbr/6867104357/in/set-72157629295427653"><img src="/wp-content/uploads/2012/02/bani_no_sesc.jpg" alt="Bani em frente a miniatura no SESC" title="Bani em frente a miniatura no SESC" width="500" height="375" class="aligncenter size-full wp-image-6798" /></a>
 
@@ -37,7 +37,7 @@ Se você cresceu nos anos 80, existe uma boa chance de ter assistido à [Turma d
 
 O problema é que não apenas as inscrições estavam esgotadas, mas no sábado eu estaria dando [duas][7] [palestras][8] na [Campus Party][9]. Mas valeria a pena aparecer no domingo, nem que fosse só para apertar a mão da pessoa responsável por tantas tardes agradáveis da minha infância. E o Ricbit deu um estímulo extra: como ele não mora mais em São Paulo, me mandou pelo correio um livro ilustrado para que ele pudesse autografar.
 
-A [Bani][10] topou a empreitada e lá fomos nós até o [SESC Santo Amaro][11]. Não é exatamente perto de casa, mas tem o acesso facilitado por conta da linha Lilás do Metrô. Dica: a [Estação Largo 13][12] tem uma saída direta para o [Mais Shopping Largo 13][13]. Atravessando este último, você sai na Amador Bueno, já quase do lado do SESC &#8211; cujas atrações merecem uma visita mais calma. Mas o foco neste dia era o Azulay.
+A [Bani][10] topou a empreitada e lá fomos nós até o <a class="dead-link" title="este link morreu" href="http://www.sescsp.org.br/sesc/busca/index.cfm?unidadesdirector=59">SESC Santo Amaro</a><span class="dead-link-mark">†</span>. Não é exatamente perto de casa, mas tem o acesso facilitado por conta da linha Lilás do Metrô. Dica: a [Estação Largo 13][12] tem uma saída direta para o <a class="dead-link" title="este link morreu" href="http://www.maisshoppinglargo13.com.br/">Mais Shopping Largo 13</a><span class="dead-link-mark">†</span>. Atravessando este último, você sai na Amador Bueno, já quase do lado do SESC &#8211; cujas atrações merecem uma visita mais calma. Mas o foco neste dia era o Azulay.
 
 [<img src="/wp-content/uploads/2012/02/bani_no_sesc.jpg" alt="Bani em frente a miniatura no SESC" title="Bani em frente a miniatura no SESC" width="500" height="375" class="aligncenter size-full wp-image-6798" />][14]
 
@@ -61,9 +61,7 @@ Enfim, o que mais eu poderia dizer? Os organizadores do SESC ficaram contentes c
  [8]: http://www.slideshare.net/chesterbr/programao-para-atari-2600
  [9]: http://www.campus-party.com.br
  [10]: http://baniverso.com/
- [11]: http://www.sescsp.org.br/sesc/busca/index.cfm?unidadesdirector=59
  [12]: http://www.vademetro.com.br/largo-treze
- [13]: http://www.maisshoppinglargo13.com.br/
  [14]: http://www.flickr.com/photos/chesterbr/6867104357/in/set-72157629295427653
  [15]: http://www.flickr.com/photos/chesterbr/sets/72157629295427653/
  [16]: http://www.flickr.com/photos/chesterbr/6867108371/in/set-72157629295427653/

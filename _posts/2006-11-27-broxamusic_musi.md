@@ -13,8 +13,7 @@ categories:
 ---
 <img title="BroxaMusic - impagável" src="/archives/img/broxaMusic-novos-classicos01.jpg" width="150" height="150" align="right" style="margin-left:2px" border="1" />Nunca assinou um Podcast? Sugestão, comece com [BroxaMusic][1] ([feed][2]) &#8211; uma seleção do que há de pior na música, sem fronteiras temporais.
 
-Quer uma amostra? Baixe o [episódio 1 da série Novos Clássicos][3] (mp3) e role de rir.
+Quer uma amostra? Baixe o <a class="dead-link" title="este link morreu" href="http://www.broxamusic.com.br/podpress_trac/web/14/0/broxaMusic-novos-classicos01.mp3">episódio 1 da série Novos Clássicos</a><span class="dead-link-mark">†</span> (mp3) e role de rir.
 
  [1]: http://www.broxamusic.com.br/
  [2]: http://feeds.feedburner.com/broxamusic
- [3]: http://www.broxamusic.com.br/podpress_trac/web/14/0/broxaMusic-novos-classicos01.mp3

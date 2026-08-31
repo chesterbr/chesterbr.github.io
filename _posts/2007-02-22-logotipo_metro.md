@@ -11,7 +11,7 @@ dsq_thread_id:
   - 1751444025
 categories:
 ---
-<img title="Logotipo do metrô: bacana, mas não justifica tudo isso)" src="/archives/img/metro.png" width="86" height="86" align="right" style="border-left:2px" />Por mais que eu respeite o trabalho de criação de logomarcas, não dá pra engolir as hipérboles que a explicação oficial do [significado do logotipo do Metrô de São Paulo][1] faz. O metrô tem um ícone muito eficiente, mas, depois dessa explicação, ele ficou muito menos simpático.
+<img title="Logotipo do metrô: bacana, mas não justifica tudo isso)" src="/archives/img/metro.png" width="86" height="86" align="right" style="border-left:2px" />Por mais que eu respeite o trabalho de criação de logomarcas, não dá pra engolir as hipérboles que a explicação oficial do <a class="dead-link" title="este link morreu" href="http://www.metro.sp.gov.br/empresa/marca/temarca.shtm">significado do logotipo do Metrô de São Paulo</a><span class="dead-link-mark">†</span> faz. O metrô tem um ícone muito eficiente, mas, depois dessa explicação, ele ficou muito menos simpático.
 
 Reproduzo na íntegra, essa merece:
 
@@ -39,5 +39,4 @@ Reproduzo na íntegra, essa merece:
 
 (dica do Willian, do [Vá de Bike][2])
 
- [1]: http://www.metro.sp.gov.br/empresa/marca/temarca.shtm
  [2]: http://freeride.blig.ig.com.br

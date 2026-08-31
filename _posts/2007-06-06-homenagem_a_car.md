@@ -19,7 +19,7 @@ Nos anos 50 e 60 proliferou no Brasil um gênero de material pornográfico que c
 
 A primeira denominação era mais comum em São Paulo, e supostamente remete à semelhança de formato entre as revistinhas e os livros de instrução religiosa conhecidos por este nome.
 
-Um dos autores mais populares deste meio era conhecido pelo pseudônimo de [Carlos Zéfiro][1]. Ele permaneceu anônimo até pouco antes de seu falecimento, no início dos anos 90, quando [revelou][2] seu nome verdadeiro (Alcides Aguiar Caminha) após um gaiato ter reclamado para si o privilégio, no melhor (ou pior) estilo [Tourist Guy Brasileiro][3].
+Um dos autores mais populares deste meio era conhecido pelo pseudônimo de [Carlos Zéfiro][1]. Ele permaneceu anônimo até pouco antes de seu falecimento, no início dos anos 90, quando [revelou][2] seu nome verdadeiro (Alcides Aguiar Caminha) após um gaiato ter reclamado para si o privilégio, no melhor (ou pior) estilo <a class="dead-link" title="este link morreu" href="http://www.wired.com/culture/lifestyle/news/2001/11/48397">Tourist Guy Brasileiro</a><span class="dead-link-mark">†</span>.
 
 Na década de 80 o Ota já tinha publicado o completo livro [O Quadrinho Erótico de Carlos Zéfiro][4], no qual o cartunista (famoso por seu trabalho na revista MAD e possuidor de cerca de 200 catecismos de Zéfiro), analisa vários aspectos da obra (e mostra algumas histórias completas). E o disco [Barulhinho Bom][5], da cantora Marisa Monte, era todo ilustrado com cenas de histórias do Zéfiro, isso já mais perto do final dos anos 90. Ou seja, a influência perdurou.
 
@@ -31,7 +31,6 @@ Isso tudo nos leva ao site que motivou este post, o [Homenagem a Carlos Zéfiro]
 
  [1]: http://pt.wikipedia.org/wiki/Carlos_Z%C3%A9firo
  [2]: http://www.ludmira.hpg.ig.com.br/galeriazefiro/ZefiroP02.htm
- [3]: http://www.wired.com/culture/lifestyle/news/2001/11/48397
  [4]: http://preco.buscape.com.br/mylivro_resposta.asp?isbn=850102404X&#038;data=06/06/2007&#038;dollar=1.93870&#038;eur=2.62151&#038;libra=3.86170&#038;dollarc=1.82466&#038;id=3482&#038;raiz=3482&#038;or=&#038;site_origem=11642&#038;auto=0&#038;pr=
  [5]: http://www.livrariasaraiva.com.br/produto/produto.dll/detalhe?pro_id=706952&#038;PAC_ID=6297
  [6]: http://www.terra.com.br/istoe/1847/artes/1847_prazer_liberado.htm

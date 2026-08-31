@@ -31,7 +31,7 @@ Uma vez feito isso tudo, é só colocar no aparelho. Com o meu adaptador, aparec
 
 É importante notar que apenas um chip fica ativo por vez, i.e., para usar o outro é preciso alternar pelo menu. Esta operação faz um &#8220;soft reset&#8221; no celular (o que é rápido em telefones comuns, mas em smartphones chega a irritar um pouco), e as ligações para o chip que está inativo caem na caixa postal. O manual diz que é possível contornar isto programando o desvio de chamada (não experimentei).
 
-Outra coisa importante: o adaptador **não** remove o &#8220;SIM Block&#8221; do seu celular, i.e., se você quer usar chips de operadoras distintas (como eu fiz) é preciso primeiro desvincular o celular da operadora (os detalhes legais/técnicos do desbloqueio dependem da operadora/marca/modelo &#8211; alguns permitem [desbloqueio por código][3], mas faça por sua conta e risco). Regra geral: se algum dos chips não funciona de antemão no aparelho, o adaptador não resolve a situação.
+Outra coisa importante: o adaptador **não** remove o &#8220;SIM Block&#8221; do seu celular, i.e., se você quer usar chips de operadoras distintas (como eu fiz) é preciso primeiro desvincular o celular da operadora (os detalhes legais/técnicos do desbloqueio dependem da operadora/marca/modelo &#8211; alguns permitem <a class="dead-link" title="este link morreu" href="http://www.peters1.dk/webtools/nokia/nokiaonline.php?sprog=pt_br">desbloqueio por código</a><span class="dead-link-mark">†</span>, mas faça por sua conta e risco). Regra geral: se algum dos chips não funciona de antemão no aparelho, o adaptador não resolve a situação.
 
 Caso você queira reverter a operação (e usar os chips separadamente), o adaptador acompanha dois suportes plásticos. Basta encaixar neles os chips recortados e você pode usá-los como fazia antes (a menos, claro, do aspecto estético &#8211; meio indiferente, já que o chip fica o tempo todo dentro do aparelho).
 
@@ -39,4 +39,3 @@ Fiz a brincadeira motivado pelas tarifas da outra operadora (e, claro, pela expe
 
  [1]: http://lista.mercadolivre.com.br/dual-sim
  [2]: http://duosim.com/
- [3]: http://www.peters1.dk/webtools/nokia/nokiaonline.php?sprog=pt_br

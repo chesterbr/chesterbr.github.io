@@ -14,7 +14,7 @@ categories:
 ---
 [<img class="alignright size-full wp-image-7294" style="padding: 0px; border: 1px solid black !important;" title="Foto Original por Deaf Dude (clique para ver)" src="/wp-content/uploads/2012/11/canada_parachute.jpg" alt="Foto Original por Deaf Dude (clique para ver)" width="300" height="323" />][1]Mudar de país envolve um monte de pequenos detalhes. Assim como fiz no [post sobre o processo do visto de trabalho][2], estou colocando neste os passos que dei ao chegar no Canadá até me considerar estabelecido: tirar documentos, abrir conta em banco, arrumar uma casa e coisas do gênero.
 
-Novamente vale avisar: esta informação **não é oficial**. Muito só se aplica a [temporary workers][3], ou só a quem vem pra Toronto, ou só pra quem é o Chester. Minha intenção é das melhores, mas você tem que avaliar as diferenças do seu caso e sempre [procurar][4] a** informação oficial e atualizada**.
+Novamente vale avisar: esta informação **não é oficial**. Muito só se aplica a <a class="dead-link" title="este link morreu" href="http://www.canadainternational.gc.ca/france/visas/work-other_travailler-autre.aspx?view=d">temporary workers</a><span class="dead-link-mark">†</span>, ou só a quem vem pra Toronto, ou só pra quem é o Chester. Minha intenção é das melhores, mas você tem que avaliar as diferenças do seu caso e sempre [procurar][4] a** informação oficial e atualizada**.
 
 <!--more-->
 
@@ -78,7 +78,6 @@ Como sempre, o governo vai te dar uma ajuda: o [Health Care Connect][22] é um p
 
  [1]: http://www.flickr.com/photos/the_bally/88840884/
  [2]: /archives/2012/09/a-saga-do-visto-de-trabalho-canadense.html
- [3]: http://www.canadainternational.gc.ca/france/visas/work-other_travailler-autre.aspx?view=d
  [4]: http://www.google.com
  [5]: http://www.hrsdc.gc.ca/eng/workplaceskills/foreign_workers/ei_tfw/lmi_tfw.shtml
  [6]: http://www.servicecanada.gc.ca/eng/sc/sin/index.shtml

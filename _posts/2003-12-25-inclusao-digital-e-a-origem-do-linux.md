@@ -8,7 +8,7 @@ categories:
 ---
 <img src="img/blig/softlivre.jpg"align="right" border="2" alt="Software Livre e Inclusão Digital">Uma das grandes virtudes da comunidade do software livre é seu primor pela excelência técnica. Infelizmente, este é o catalisador do que é possívelmente seu maior vício: a disposição que este pessoal tem para dizer bobagens sobre assuntos que pouco entendem &#8211; desde o software do concorrente até ética e geopolítica.
 
-Joel Spolsky demostrou um exemplo disto em sua brilhante <a href="http://www.joelonsoftware.com/articles/Biculturalism.html" >análise</a> do livro *The Art Of UNIX Programming*. É claro que não é preciso ir tão longe para perceber que, para cada insight inteligente que o Eric Raymond tem, ele diz umas cinco dúzias de <a href="http://armedndangerous.blogspot.com/2002\_10\_13\_armedndangerous\_archive.html#83175091" >abobrinhas</a>.
+Joel Spolsky demostrou um exemplo disto em sua brilhante <a href="http://www.joelonsoftware.com/articles/Biculturalism.html" >análise</a> do livro *The Art Of UNIX Programming*. É claro que não é preciso ir tão longe para perceber que, para cada insight inteligente que o Eric Raymond tem, ele diz umas cinco dúzias de <a class="dead-link" title="este link morreu" href="http://armedndangerous.blogspot.com/2002\_10\_13\_armedndangerous\_archive.html#83175091" >abobrinhas</a><span class="dead-link-mark">†</span>.
 
 Como de costume, Joel extrapolou o objetivo original, culminando em uma radiografia precisa das principais diferenças entre os desenvolvedores Windows e UNIX &#8211; e isto ajuda a entender melhor as motivações por trás dos usuários de cada um dos sistemas. O que veio em boa hora, já que eu estava lendo dois livros sobre o assunto:
 

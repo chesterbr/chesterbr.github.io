@@ -12,7 +12,7 @@ categories:
 ---
 The [Raspberry Pi][1] is powered through an standard micro-USB conector. That is great, since it allows you to use pretty much any phone charger you got lying around. Or at least one that supplies 700mA of current (maybe a bit more if you plug extra USB stuff on the Pi).
 
-I thought I had it covered with my [iPad charger][2] and its [juicy 2.1A][3], but the video below shows that voltage also plays a role (and that the iPad charger doesn&#8217;t really deliver in that respect):
+I thought I had it covered with my <a class="dead-link" title="this link died" href="http://www.amazon.com/Apple-iPad-Power-Adapter-MC359LL/dp/B004GIKW6Y/ref=sr_1_4?s=electronics&ie=UTF8&qid=1365826931&sr=1-4&keywords=a1357">iPad charger</a><span class="dead-link-mark">†</span> and its [juicy 2.1A][3], but the video below shows that voltage also plays a role (and that the iPad charger doesn&#8217;t really deliver in that respect):
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/XX3kiRUf7mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -135,7 +135,6 @@ Below is a wrap-up of my measurements (Wi-Fi and keyboard dongles plugged); reco
 **CLARIFICATION**: The [video][12] above is not mine. It was just the inspiration for my own measurements, so I included it for illustration purposes.
 
  [1]: http://en.wikipedia.org/wiki/Raspberry_Pi
- [2]: http://www.amazon.com/Apple-iPad-Power-Adapter-MC359LL/dp/B004GIKW6Y/ref=sr_1_4?s=electronics&ie=UTF8&qid=1365826931&sr=1-4&keywords=a1357
  [3]: https://discussions.apple.com/docs/DOC-3511
  [4]: http://en.wikipedia.org/wiki/Universal_Serial_Bus#Power
  [5]: http://www.creatroninc.com/

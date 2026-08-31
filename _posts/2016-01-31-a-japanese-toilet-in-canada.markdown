@@ -20,7 +20,7 @@ Surprisingly, [TOTO][4] (a popular Japanese manufacturer of those) is present in
 
 ![Everything I know about plumbing, I learned from these guys ](/img/2016/01/mario-plumbing.jpg){: .center }
 
-To be honest, before purchasing I checked the fit guides (for [old][10] and [new][11] models), so I could find which ones would work with my toilet. An important factor is the distance between the mounting holes and the tank - mine had the bare minimum, leaving almost no gap where one is supposed to exist. Worked for me, but keep such details in mind when picking yours.
+To be honest, before purchasing I checked the fit guides (for <a class="dead-link" title="this link died" href="https://assets.nationalbuildersupply.com/ul_pdfs/washlet-fit-chart.pdf">old</a><span class="dead-link-mark">†</span> and [new][11] models), so I could find which ones would work with my toilet. An important factor is the distance between the mounting holes and the tank - mine had the bare minimum, leaving almost no gap where one is supposed to exist. Worked for me, but keep such details in mind when picking yours.
 
 My lack of plumbing skills showed up early: the "T" device that splits the water between toilet and washlet didn't match the toilet's connector very well. So what did I do? I forced it. First mistake - it "chewed" the connector. Then I insisted (second error), turning the [float valve][7] and breaking the floating ball handle. Way to go, champ.
 
@@ -50,5 +50,4 @@ In the end, the cost (toilet, parts and tools) was around CAD 600. Installation 
 [7]: http://www.dictionaryofconstruction.com/definition/float-valve.html
 [8]: http://files2.appliancesconnection.com/attachments/D4f2221d26510b.pdf
 [9]: http://www.canadiantire.ca/en/pdp/brasscraft-ballcock-0635134p.html#.Vq2OmfH89PM
-[10]: https://assets.nationalbuildersupply.com/ul_pdfs/washlet-fit-chart.pdf
 [11]: http://www.totousa.com/sites/default/files/try-a-washlet/washlet-compatibility-chart.pdf

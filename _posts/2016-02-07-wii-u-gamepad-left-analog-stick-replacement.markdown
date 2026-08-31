@@ -23,7 +23,7 @@ You can [buy the replacement stick online][1] for less than $5 (but keep in mind
 Other than that, these are the tools you should have:
 
 - A Phillips screwdriver (for battery screws and white enclosure above controllers).
-- A [tri-wing][2] screwdriver. Tri-wing screws are common on Nintendo hardware - some people call them "trigram"; I usually go with "@#%@ing Nintendo Y-shaped screws no one has". Got mine [on Amazon][4], but [this one][5] is likely to ship faster.
+- A [tri-wing][2] screwdriver. Tri-wing screws are common on Nintendo hardware - some people call them "trigram"; I usually go with "@#%@ing Nintendo Y-shaped screws no one has". Got mine <a class="dead-link" title="this link died" href="http://www.amazon.ca/dp/B00KWRS3GY/ref=pe_386430_30332290_TE_3p_dp_i1">on Amazon</a><span class="dead-link-mark">†</span>, but [this one][5] is likely to ship faster.
 - Two [spudgers][3] - optional, but very useful to manipulate with the delicate parts. I purchased [this cheap kit][6] and enjoyed the extras.
 - A wire cutter - you won't actually cut wires, but it helps with the last connector (see below).
 
@@ -62,7 +62,6 @@ It was a bit scary to replace a Nintendo original component with such a cheap on
 [1]: http://www.ebay.com/itm/New-Analog-Stick-Replacement-with-PCB-for-Wii-U-Gamepad-Controller-Left-Side-/161874835828?ssPageName=ADME:X:AAQ:US:1123
 [2]: https://en.wikipedia.org/wiki/List_of_screw_drives#Tri-wing
 [3]: https://en.wikipedia.org/wiki/Spudger
-[4]: http://www.amazon.ca/dp/B00KWRS3GY/ref=pe_386430_30332290_TE_3p_dp_i1
 [5]: http://www.dx.com/p/trigram-screw-driver-for-nds-ndsl-and-wii-1887#.VrYcLfH8_Vo
 [6]: http://www.ebay.com/itm/381362920775
 [7]: https://www.ifixit.com/Guide/Recognizing+%26+Disconnecting+Cable+Connectors/25629

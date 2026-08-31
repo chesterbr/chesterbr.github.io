@@ -24,7 +24,7 @@ O bacana é ficar circulando no centro histórico &#8211; que consiste na área 
 
 Se estiver com fôlego, recomendo subir até o topo da [Igreja de Nossa Senhora (Frauenkirche)][10]. É uma bela caminhada, com degrais inclinados e rampa que não acaba mais. Mas vale a pena: de lá de cima você vê essencialmente toda a cidade.
 
-Enfim, o lance é se jogar pelas ruas sem planejar muito, e visitar os pontos interessantes que aparecerem. A [Münzgasse][11] era a minha rua favorita: tem opções bem variadas de comida, com mesas na calçada onde você pode acompanhar o movimento &#8211; fora que eu fiquei viciado no sorvete [dessa][12] barraquinha no final da rua. Recomendo muito passar um dia nessa cidade &#8211; foi um dos momentos mais agradáveis da viagem.
+Enfim, o lance é se jogar pelas ruas sem planejar muito, e visitar os pontos interessantes que aparecerem. A <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/3844318024/in/set-72157622106190874/">Münzgasse</a><span class="dead-link-mark">†</span> era a minha rua favorita: tem opções bem variadas de comida, com mesas na calçada onde você pode acompanhar o movimento &#8211; fora que eu fiquei viciado no sorvete <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/3844321564/in/set-72157622106190874/">dessa</a><span class="dead-link-mark">†</span> barraquinha no final da rua. Recomendo muito passar um dia nessa cidade &#8211; foi um dos momentos mais agradáveis da viagem.
 
  [1]: http://leoeurotrip.blogspot.com/
  [2]: http://www.flickr.com/photos/chesterbr/sets/72157622106190874/
@@ -36,5 +36,3 @@ Enfim, o lance é se jogar pelas ruas sem planejar muito, e visitar os pontos in
  [8]: http://en.wikipedia.org/wiki/Trams_in_Germany
  [9]: http://www.flickr.com/photos/chesterbr/3844317122/ "DSCN0082 by chesterbr, on Flickr"
  [10]: http://pt.wikipedia.org/wiki/Frauenkirche_Dresden
- [11]: http://www.flickr.com/photos/chesterbr/3844318024/in/set-72157622106190874/
- [12]: http://www.flickr.com/photos/chesterbr/3844321564/in/set-72157622106190874/

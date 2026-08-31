@@ -18,7 +18,7 @@ Uma dessas sacadas foi prestar atenção aos dias em que cada parque tem [Extra 
 
 Outro lance é ficar esperto com o [FastPass][18] . Não precisa radicalizar como eu e a Bani (lemos um [livro][19] no qual um dos assuntos é o fundamento estatístico dele), mas localize rapidamente as atrações indispensáveis que oferecem o FastPass, pegue o passe da que estiver mais cheia e vá para a fila de uma das outras, intercalando com atrações que tenham menos fila.
 
-Reservar restaurantes também é uma excelente idéia (e você pode fazer isso online aqui no Brasil mesmo). As reservas nos garantiram uma ótima experiência no [Wolfgang Puck][20] e no [Nine Dragons][21], mas tivemos que comer cedo e contar com a sorte para não pegar fila no [Pecos Bill Tall Tale Inn][22], no [Rainforest Café][23] e no [Sci-Fi Dine-In Theater][24] &#8211; esse último reproduz a experiência do cinema drive-in passando versões curtas dos filmes e desenhos dessa época. Mas foram todos ótimos, sempre com opções vegetarianas de respeito &#8211; só comi o peixe no Wolfgang Puck porque parecia (e era) bom.
+Reservar restaurantes também é uma excelente idéia (e você pode fazer isso online aqui no Brasil mesmo). As reservas nos garantiram uma ótima experiência no [Wolfgang Puck][20] e no [Nine Dragons][21], mas tivemos que comer cedo e contar com a sorte para não pegar fila no [Pecos Bill Tall Tale Inn][22], no <a class="dead-link" title="este link morreu" href="http://disneyworld.disney.go.com/dining/rainforest-cafe-downtown-disney/">Rainforest Café</a><span class="dead-link-mark">†</span> e no [Sci-Fi Dine-In Theater][24] &#8211; esse último reproduz a experiência do cinema drive-in passando versões curtas dos filmes e desenhos dessa época. Mas foram todos ótimos, sempre com opções vegetarianas de respeito &#8211; só comi o peixe no Wolfgang Puck porque parecia (e era) bom.
 
 As [fotos][25] estão online, como de costume, e com isso só me resta falar dos *rides*. Alguns chamam eles de &#8220;brinquedos&#8221;, mas eu prefiro traduzir como &#8220;atrações&#8221; ou mesmo o literal &#8220;passeios&#8221; &#8211; já que alguns são mais interessantes pela ambientação do que por qualquer aspecto lúdico. Ao invés de falar de cada um deles, resolvi usar o método do [Apontador][26] e dar de 1 a 5 estrelas a cada um dos que eu fui:
 
@@ -334,7 +334,7 @@ As [fotos][25] estão online, como de costume, e com isso só me resta falar dos
   </table>
 </div>
 
-Justiça seja feita: o Soarin quase mereceu um 6 (eu fui duas vezes e iria mais), e o Test Track não merecia nem existir: muita fila para uma atração chata, sem propósito e des-educativa (passa a idéia de que tecnologia é a solução para evitar acidentes de automóvel). Os fogos no final do dia no Magic Kingdom são imperdíveis e resumem bem a experiência. Ah, e só pra constar: os boatos sobre a [Sininho que desce &#8220;voando&#8221; do castelo][27] ser interpretada por um homem são [inconclusivos][28]. :-P
+Justiça seja feita: o Soarin quase mereceu um 6 (eu fui duas vezes e iria mais), e o Test Track não merecia nem existir: muita fila para uma atração chata, sem propósito e des-educativa (passa a idéia de que tecnologia é a solução para evitar acidentes de automóvel). Os fogos no final do dia no Magic Kingdom são imperdíveis e resumem bem a experiência. Ah, e só pra constar: os boatos sobre a [Sininho que desce &#8220;voando&#8221; do castelo][27] ser interpretada por um homem são <a class="dead-link" title="este link morreu" href="http://message.snopes.com/showthread.php?t=41253">inconclusivos</a><span class="dead-link-mark">†</span>. :-P
 
  [1]: http://www.flickr.com/photos/chesterbr/sets/72157625466196623/with/5258743472/
  [2]: /archives/2010/12/chester-em-san-francisco.html
@@ -358,9 +358,7 @@ Justiça seja feita: o Soarin quase mereceu um 6 (eu fui duas vezes e iria mais)
  [20]: http://disneyworld.disney.go.com/dining/wolfgang-puck-cafe/
  [21]: http://disneyworld.disney.go.com/dining/nine-dragons-restaurant/?closeDialog=mdvDialog
  [22]: http://www.urbanspoon.com/r/26/1456764/restaurant/Orlando/Disney-Lake-Buena/Pecos-Bill-Tall-Tale-Inn-and-Cafe-Lake-Buena-Vista
- [23]: http://disneyworld.disney.go.com/dining/rainforest-cafe-downtown-disney/
  [24]: http://disneyworld.disney.go.com/dining/sci-fi-dine-in-theater/?closeDialog=mdvDialog
  [25]: http://www.flickr.com/photos/chesterbr/sets/72157625466196623/
  [26]: http://www.apontador.com.br
  [27]: http://www.youtube.com/watch?v=UzQB6-733oI&feature=related#t=0m22
- [28]: http://message.snopes.com/showthread.php?t=41253

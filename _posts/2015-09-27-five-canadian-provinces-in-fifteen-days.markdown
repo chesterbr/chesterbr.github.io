@@ -10,7 +10,7 @@ categories:
 
 ![](/img/2015/09/map.png){: .right }
 
-Despite living in Canada for three years now, I didn't travel much outside the Great Toronto Area. My job at [VarageSale][1] and [Vanessa][2]'s at [Shopify][3] granted us a [fair][4] [share][5] [of trips][6] to their respective Montreal and Ottawa offices, but that still limits one's mental map to [Central Canada][7].
+Despite living in Canada for three years now, I didn't travel much outside the Great Toronto Area. My job at [VarageSale][1] and [Vanessa][2]'s at <a class="dead-link" title="this link died" href="https://jobs.lever.co/shopify?lever-via=eOVOUtKqCt">Shopify</a><span class="dead-link-mark">†</span> granted us a [fair][4] [share][5] [of trips][6] to their respective Montreal and Ottawa offices, but that still limits one's mental map to [Central Canada][7].
 
 As part of my current sabbatical, I decided to learn more about my new country, so I joined Vanessa on a 6-day plane trip to the east, then got plane tickets to Saskatoon and from Vancouver with nine days between them, forcing myself to figure out a bus/train path connecting the dots.
 
@@ -35,7 +35,7 @@ The [bus trip to Peggy's Cove][48] takes an hour, but is worth it for the [scene
 
 Right on the same harbour, we visited the [Canadian Museum of Immigration][51], failing the simulated citizenship test but learning how immigrants came to the country by literally reproducing their steps on their actual entry point. It is easy to get to Black Rock Beach by walking around [Point Plesant Park][52], but one can also take the bus.
 
-Had great food at [Chives][53] and [Gio][54], but a trusted Canadian [introduced me][43] to the [donair][74], noticing Halifax is its birthplace, so I should try it. Its debut restaurant (King Of Donair) still exists, but was [closed][44], so we hit a [generic][64] donair place. My verdict: it tastes great, but be prepared for a massive amount of meat and some mess (even if you use cutlery, which people usually don't).
+Had great food at [Chives][53] and [Gio][54], but a trusted Canadian [introduced me][43] to the [donair][74], noticing Halifax is its birthplace, so I should try it. Its debut restaurant (King Of Donair) still exists, but was <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/20614696953/in/album-72157658338047121/">closed</a><span class="dead-link-mark">†</span>, so we hit a [generic][64] donair place. My verdict: it tastes great, but be prepared for a massive amount of meat and some mess (even if you use cutlery, which people usually don't).
 
 ### St. John's, NL
 
@@ -53,21 +53,21 @@ A [half day guided tour][65] took us to the [easternmost point of North America]
 
 Saskatoon is a great place to spend a night and know a bit more about Praries colonization, all without leaving a urban setting. The most relevant [things][18] in the city are around the South Saskatchewan River, so I picked a [hotel][19] close to it, despite not being the best value for the money.
 
-I explored it in several ways: walking, on a [rented bike][25] and [by boat][24]. It was great to cross the bridges and explore the south side by bike, whereas the boat got boring (and cold) pretty quick. Regardless of transportation, Victoria Park and the Meewasin Trail have lots of pleasant surprises, from an [outdoor gym][27] to the walk-through geological map of the nearby regions, in which I previewed the upcoming trips:
+I explored it in several ways: walking, on a [rented bike][25] and [by boat][24]. It was great to cross the bridges and explore the south side by bike, whereas the boat got boring (and cold) pretty quick. Regardless of transportation, Victoria Park and the Meewasin Trail have lots of pleasant surprises, from an <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/21512206712/in/album-72157658761389972/">outdoor gym</a><span class="dead-link-mark">†</span> to the walk-through geological map of the nearby regions, in which I previewed the upcoming trips:
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/thOfybt1kjw" frameborder="0" allowfullscreen></iframe></center>
 
 Another must-visit: the (free) [Meewasin Interpretive Centre][23]. I entered it barely knowing how to spell the city's name, but left with a full historical and geographic background. If you can handle a second museum, the [Western Development Museum][28] is a great complement for a small bus trip and $10 admission. Car and model train enthusiasts will have a blast there. Otherwise, try the [Farmer's Market][21], but be sure to [pick a day][22] when farmers are actually there.
 
-Food: I had a more high-profile breakfast ([pecan + maple syrup bacon rolls][16]) at [Poached][17], and a more Canadian-style one with [three types of bacon][29] at [Park Cafe][30]. Could not find really "typical" food, but had a great gourmet experience at [Leyda's][39] and a pub-style bison burger on [Hudsons][40].
+Food: I had a more high-profile breakfast ([pecan + maple syrup bacon rolls][16]) at [Poached][17], and a more Canadian-style one with <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/21279684640/in/album-72157658761389972/">three types of bacon</a><span class="dead-link-mark">†</span> at [Park Cafe][30]. Could not find really "typical" food, but had a great gourmet experience at [Leyda's][39] and a pub-style bison burger on [Hudsons][40].
 
-Public transit worked fine (transfers are unlimited for 90 mins), but getting to the train station required a cab ride. The [app][31] helped a bit, but the driver required payment by cash, did his own route, complained about a [woman rights manifestation][42]... A good reminder on why I avoid cabs at all costs (nice lady from St John's doesn't count).
+Public transit worked fine (transfers are unlimited for 90 mins), but getting to the train station required a cab ride. The [app][31] helped a bit, but the driver required payment by cash, did his own route, complained about a <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/20938221274/in/album-72157658761389972/">woman rights manifestation</a><span class="dead-link-mark">†</span>... A good reminder on why I avoid cabs at all costs (nice lady from St John's doesn't count).
 
 ### Edmonton, AB
 
 ![](/img/2015/09/edmonton.jpg){: .center }
 
-Once again, I explored the riverside (this time the North Saskatchewan River). There are [Segway tours][33], but I just walked a bit, then headed to the [Royal Alberta Museum][34]. Its geological and natural exhibits are interesting, but my main focus was the [Aboriginal Culture gallery][35] (curiously sponsored by an [oil sands company][42]). Again I learned a lot of Canadian history - this time from an [Aboriginal peoples][75] perspective.
+Once again, I explored the riverside (this time the North Saskatchewan River). There are [Segway tours][33], but I just walked a bit, then headed to the [Royal Alberta Museum][34]. Its geological and natural exhibits are interesting, but my main focus was the [Aboriginal Culture gallery][35] (curiously sponsored by an <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/20938221274/in/album-72157658761389972/">oil sands company</a><span class="dead-link-mark">†</span>). Again I learned a lot of Canadian history - this time from an [Aboriginal peoples][75] perspective.
 
 Places to eat weren't a strong point. I enjoyed [Brits Fish and Chips][37] (it's fast-food-y, but good) and ate my second donair (which was as good as the one from Halifax), but that was it. I'm not a mall person, but checked the [largest shopping mall in North America][36], which at least allowed me to play DDR (ok, [In The Groove 2][38], but close enough) in yet another city (hint: the arcade near the food court is cheaper and has a wider music selection).
 
@@ -97,7 +97,6 @@ Brunch with my pal [Thea][72] at the sophisticated [Medina Cafe][59] and a pleas
 
 [1]: https://www.varagesale.com
 [2]: http://baniverso.com/
-[3]: https://jobs.lever.co/shopify?lever-via=eOVOUtKqCt
 [4]: https://www.flickr.com/photos/chesterbr/albums/72157646447566786
 [5]: https://www.flickr.com/photos/chesterbr/albums/72157632322432856
 [6]: https://www.flickr.com/photos/chesterbr/albums/72157632672354625
@@ -120,9 +119,7 @@ Brunch with my pal [Thea][72] at the sophisticated [Medina Cafe][59] and a pleas
 [23]: http://meewasin.com/visitors/meewasin-valley-centre/
 [24]: http://www.theprairielily.com/
 [25]: http://www.bikeuniverse.net/
-[27]: https://www.flickr.com/photos/chesterbr/21512206712/in/album-72157658761389972/
 [28]: http://wdm.ca/stoon.html
-[29]: https://www.flickr.com/photos/chesterbr/21279684640/in/album-72157658761389972/
 [30]: http://www.parkcafe.ca/
 [31]: https://www.gatalabs.com/
 [32]: http://www.comfortinnedmonton.com/
@@ -135,9 +132,7 @@ Brunch with my pal [Thea][72] at the sophisticated [Medina Cafe][59] and a pleas
 [39]: http://www.leydas.ca/
 [40]: http://hudsonscanadaspub.com/location/saskatoon/
 [41]: http://edmontonjournal.com/news/local-news/edmonton-officials-oppose-uber-regulating-own-drivers
-[42]: https://www.flickr.com/photos/chesterbr/20938221274/in/album-72157658761389972/
 [43]: https://www.facebook.com/chesterbr/posts/10153164852626915?comment_id=10153165180396915
-[44]: https://www.flickr.com/photos/chesterbr/20614696953/in/album-72157658338047121/
 [45]: https://en.wikipedia.org/wiki/Citadel_Hill_%28Fort_George%29
 [46]: https://vine.co/v/etW5txJFOE7
 [47]: https://twitter.com/halifaxnoongun

@@ -12,7 +12,7 @@ categories:
 ---
 A confusing situation happens on Twitter whenever people you follow talk to people you don&#8217;t. Twitter &#8220;fixed&#8221; it by hiding such conversations from your timeline &#8211; but that gives you \*less\* information when you wanted a bit more.
 
-With that in mind, I created this feed (using the awesome [Y! Pipes][1]) that gets all the tweets related to an user (i.e., everything that the user wrote and all the replies he/she got): <http://pipes.yahoo.com/chesterbr/tweetsandreplies>.
+With that in mind, I created this feed (using the awesome [Y! Pipes][1]) that gets all the tweets related to an user (i.e., everything that the user wrote and all the replies he/she got): <a class="dead-link" title="this link died" href="http://pipes.yahoo.com/chesterbr/tweetsandreplies">http://pipes.yahoo.com/chesterbr/tweetsandreplies</a><span class="dead-link-mark">†</span>.
 
 After entering the ID and running the pipe you can easily add the resulting feed it to the Firefox Bookmark (or your RSS reader) and glimpse the Twitter life of anyone you care about, whenever you want.
 

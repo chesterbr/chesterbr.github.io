@@ -123,7 +123,7 @@ Lower address bus : 0101011101111 : 0xAEF
 ...
 ```
 
-We see each line twice because our monitor dumps the current addres at every CPU clock cycle, and the NOP instruction takes two cycles to run. This "free run" is said to be a [rite of passage](http://uebersquirrel.blogspot.ca/2013/10/run-free-little-cpu.html) for computer builders. We had a good start, and could just pop the champagne.
+We see each line twice because our monitor dumps the current addres at every CPU clock cycle, and the NOP instruction takes two cycles to run. This "free run" is said to be a <a class="dead-link" title="this link died" href="http://uebersquirrel.blogspot.ca/2013/10/run-free-little-cpu.html">rite of passage</a><span class="dead-link-mark">†</span> for computer builders. We had a good start, and could just pop the champagne.
 
 But wait, there is more! Remember we added a button to pull down the RDY pin? If we press it, the CPU will ignore the clock cycles, but keep its state - in other words, it will pause.
 

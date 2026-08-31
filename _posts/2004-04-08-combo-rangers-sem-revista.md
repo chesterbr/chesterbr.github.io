@@ -10,7 +10,6 @@ categories:
 
 Já falei dela em [outra ocasião][1]. Resumindo: é uma revista infantil consistente o bastante para ser lida por adultos, e que se destaca pelo estilo de humor &#8220;antenado&#8221;. É praticamente um jogo de trivia sacar todas as referências bem-humoradas à cultura pop que o autor faz no meio das histórias.
 
-Pelo menos o último arco de histórias foi apropriadamente fechado, não deixando ninguém na mão (como, infelizmente, acontece muitas vezes nestes momentos tristes). Além disso, o [site][2] ainda existe, publicando histórias novas.O autor diz ter outro projeto no forno &#8211; pela qualidade do que publicou até agora, não duvido que valerá a espera.
+Pelo menos o último arco de histórias foi apropriadamente fechado, não deixando ninguém na mão (como, infelizmente, acontece muitas vezes nestes momentos tristes). Além disso, o <a class="dead-link" title="este link morreu" href="http://replay.waybackmachine.org/19990508121229/http://www.comborangers.com.br/check.html">site</a><span class="dead-link-mark">†</span> ainda existe, publicando histórias novas.O autor diz ter outro projeto no forno &#8211; pela qualidade do que publicou até agora, não duvido que valerá a espera.
 
  [1]: /archives/2003/05/sigam-me-os-bonzinhos.html
- [2]: http://replay.waybackmachine.org/19990508121229/http://www.comborangers.com.br/check.html

@@ -19,7 +19,7 @@ For [70 AUD][5] (55 + shipping) I got PiScreen in the "kit" form. Ten more bucks
 
 [![PiScreen after my soldering job ](/img/2014/12/pi1.jpg){: .center }](https://www.flickr.com/photos/chesterbr/15401048483)
 
-Mind you, I had a few problems with the software. The [driver install instructions][7] are pretty clear, but I could not get the display to work, even on a freshly installed Raspbian. I had to use their [Linux image with drivers installed][8], which was good for testing and writing this post, but one would likely want to use the screen with other custom distributions (e.g., an emulator one like [ChameleonPi][9]).
+Mind you, I had a few problems with the software. The [driver install instructions][7] are pretty clear, but I could not get the display to work, even on a freshly installed Raspbian. I had to use their <a class="dead-link" title="this link died" href="http://ozzmaker.com/piscreen/PiScreenImage-SDCard-1.6.zip">Linux image with drivers installed</a><span class="dead-link-mark">†</span>, which was good for testing and writing this post, but one would likely want to use the screen with other custom distributions (e.g., an emulator one like [ChameleonPi][9]).
 
 It worked - but the colors were all wrong! Disappointed, I was ready to check my soldering (as it really seemed to be a hardware problem), but I discovered other people had the same problem, and the [solution][2] was to reduce the refresh rate of the screen. Not ideal, but it fixed the colors:
 
@@ -31,7 +31,7 @@ The touch screen has a fair response - it is possibly more hindered by the Raspb
 
 [![PiScreen showing some windows ](/img/2014/12/pi3.jpg){: .right }](https://www.flickr.com/photos/chesterbr/15401045533)
 
-Currently, you can buy the PiScreen in [assembled][3] or [kit][4] form. However, the KickStarter project creator [admits][10] the through-hole soldering increases the noise on the board, which requires the mentioned refresh rate reduction. It also seems that the GPIO connection driver will consume some Pi resources.
+Currently, you can buy the PiScreen in [assembled][3] or [kit][4] form. However, the KickStarter project creator <a class="dead-link" title="this link died" href="http://ozzmaker.com/forums/topic/wrong-colors-on-piscreen-my-raspberry-is-purple/#post-2930">admits</a><span class="dead-link-mark">†</span> the through-hole soldering increases the noise on the board, which requires the mentioned refresh rate reduction. It also seems that the GPIO connection driver will consume some Pi resources.
 
 Those are surely deal-breakers if your goal is to play games or media - but for those applications, you'd rather drop the touch ability and get something with an HDMI/composite connection (which will work out of the box with any gaming distro with no performance penalty). People have been using [security camera][11] and [GPS rearview][13] screens to build [portable Raspberry Pi gaming consoles][12], which I may try at some point in the future.
 
@@ -49,9 +49,7 @@ However, other applications requiring touch support and not depending on high re
 [4]: https://www.tindie.com/products/ozzmaker/piscreen-35-tft-with-touch-for-the-raspberry-pi-kit/
 [5]: http://www.google.com/search?q=70+aud
 [7]: http://ozzmaker.com/piscreen-driver-install-instructions-2/
-[8]: http://ozzmaker.com/piscreen/PiScreenImage-SDCard-1.6.zip
 [9]: /archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi.html/
-[10]: http://ozzmaker.com/forums/topic/wrong-colors-on-piscreen-my-raspberry-is-purple/#post-2930
 [11]: http://www.dx.com/p/q1303-4-3-pal-ntsc-digital-security-tft-monitor-black-dc-12v-195293#.VI3OrKZrVf0
 [12]: http://lifehacker.com/how-to-build-a-handheld-raspberry-pi-powered-game-cons-1663675758
 [13]: http://www.amazon.com/gp/product/B00IUGW7PM

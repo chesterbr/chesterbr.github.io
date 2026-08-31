@@ -18,16 +18,15 @@ It is interesting how a few of those presentations interact: Mark makes a point 
 
 <center><a href="http://www.flickr.com/photos/chesterbr/9975946864/" title="TEDxToronto 2013 by chesterbr, on Flickr"><img src="//farm8.staticflickr.com/7434/9975946864_8bf505195c.jpg" width="500" height="375" alt="TEDxToronto 2013"></a></center>
 
-There was no shortage of sad stories, such as [Ti-Anna Wang][11]'s life as an advocate for Chinese dissident families (including her injustly imprisioned father) and [Mark Henick][13]'s pledge for mental health care backed by a vivid portrait of clinical depression. On the other hand, seeing [Dr. Ivar Mendez][9] connecting on-stage to the remote presence robots he and his coleagues use to bring medical care to remote communities in Canada and Bolivia brought happiness back to everyone's souls.
+There was no shortage of sad stories, such as [Ti-Anna Wang][11]'s life as an advocate for Chinese dissident families (including her injustly imprisioned father) and [Mark Henick][13]'s pledge for mental health care backed by a vivid portrait of clinical depression. On the other hand, seeing <a class="dead-link" title="this link died" href="http://www.cbc.ca/atthetable/2013/01/dr-ivar-mendez-1.html">Dr. Ivar Mendez</a><span class="dead-link-mark">†</span> connecting on-stage to the remote presence robots he and his coleagues use to bring medical care to remote communities in Canada and Bolivia brought happiness back to everyone's souls.
 
-Overall, the talks brought a great perspective on how a person's choices can impact the lives of so many others, and one can't help but think about his/her choices in the same light. Talks <del>should be available soon ("this October", says the [official Twitter account][21])</del> [can be watched online](http://www.tedxtoronto.com/talks/?talk_year=2013), and here are some [photos][22] as well.
+Overall, the talks brought a great perspective on how a person's choices can impact the lives of so many others, and one can't help but think about his/her choices in the same light. Talks <del>should be available soon ("this October", says the [official Twitter account][21])</del> <a class="dead-link" title="this link died" href="http://www.tedxtoronto.com/talks/?talk_year=2013">can be watched online</a><span class="dead-link-mark">†</span>, and here are some [photos][22] as well.
 
 [1]: https://jobs.lever.co/shopify?lever-via=eOVOUtKqCt
 [2]: http://www.tedxtoronto.com/
 [3]: http://www.tedxtoronto.com/speakers/darrell-bricker/
 [5]: http://www.tedxtoronto.com/speakers/mark-bowden/
 [7]: http://www.tedxtoronto.com/speakers/deborah-s-berlin-romalis/
-[9]: http://www.cbc.ca/atthetable/2013/01/dr-ivar-mendez-1.html
 [11]: http://www.tedxtoronto.com/speakers/ti-anna-wang/
 [13]: http://www.tedxtoronto.com/speakers/mark-henick/
 [20]: /archives/2010/08/tedxusp.html/

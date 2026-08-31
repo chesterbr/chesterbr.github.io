@@ -16,3 +16,16 @@ table td { border: 1px solid #e8e8e8; }
 article {
     clear: both;
 }
+
+/** Links we checked and confirmed dead, with no archive snapshot to fall back to */
+a.dead-link {
+    color: #888;
+    text-decoration: line-through;
+    text-decoration-color: #bbb;
+    text-decoration-thickness: 1px;
+}
+
+/** Marks a dead link above, for readers in RSS/plain-text contexts where the strikethrough above won't show */
+.dead-link-mark {
+    color: #888;
+}

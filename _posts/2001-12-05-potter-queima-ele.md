@@ -6,7 +6,7 @@ comments: true
 permalink: /archives/2001/12/potter-queima-ele.html/
 categories:
 ---
-Tem horas que eu me rendo ao pessimismo: somos mesmos atrasados. Só agora surgiu um desinformado brazuca querendo [associar Harry Potter ao anticristo][1] (mesmo sem ter lido os livros ou assistido ao filme, como confessa na matéria).
+Tem horas que eu me rendo ao pessimismo: somos mesmos atrasados. Só agora surgiu um desinformado brazuca querendo <a class="dead-link" title="este link morreu" href="http://www.yohanan.com.br/art_potter.htm">associar Harry Potter ao anticristo</a><span class="dead-link-mark">†</span> (mesmo sem ter lido os livros ou assistido ao filme, como confessa na matéria).
 
 Pastor Araújo, o Sr. está atrasadíssimo. Os neuróticos gringos já estão de olho no Potter há meses&#8230; Se o Sr. quiser inovar, sugiro dar uma olhada em DragonBall, desenho animado no qual:
 
@@ -16,5 +16,4 @@ Pastor Araújo, o Sr. está atrasadíssimo. Os neuróticos gringos já estão de
 
 E por aí vai&#8230; Se esse Toriyama não é o profeta do Apocalipse, não sei quem pode ser. Queima [ele][2], queima!!!
 
- [1]: http://www.yohanan.com.br/art_potter.htm
  [2]: http://pt.wikipedia.org/wiki/Son_Goku

@@ -17,7 +17,7 @@ O paulistano não precisa de estatística para perceber que a maioria dos motoci
 
 Neste contexto surgem os *bikeboys* ou *biciboys*, organizados em empresas que oferecem este serviço de forma equivalente ao prestado pelas suas contrapartes baseadas em motoboys. O Willian Cruz tem um excelente [post no Vá de Bike][3], no qual ele mostra não só a cobertura que a imprensa já fez deste tipo de serviço, mas também lista telefones e websites de várias empresas que o prestam.
 
-Tive uma experiência positiva com a [Bike Courier][4] &#8211; apesar de não poder combinar o serviço por e-mail ou pelo website (o que seria um tremendo diferencial &#8211; eu daria total preferência para alguém que permitisse passar endereços, horários e todos esses detalhes sem ser por telefone), fui muito bem atendido.
+Tive uma experiência positiva com a <a class="dead-link" title="este link morreu" href="http://www.bikecourier.com.br/">Bike Courier</a><span class="dead-link-mark">†</span> &#8211; apesar de não poder combinar o serviço por e-mail ou pelo website (o que seria um tremendo diferencial &#8211; eu daria total preferência para alguém que permitisse passar endereços, horários e todos esses detalhes sem ser por telefone), fui muito bem atendido.
 
 O preço varia conforme a distância percorrida (empresas de motoboy variam nesse ponto: a que eu mais usava cobrava um valor fixo pela hora do motociclista), mas no pior dos casos empata com o custo do equivalente motorizado (até onde pude verificar). O tempo é bem razoável &#8211; tirando entregas ultra mega urgentes (as quais tem lá o seu grau de incerteza com motoboys, especialmente terceirizados), você pode contar com o mesmo tipo de prazo que espera de um motoboy.
 
@@ -26,4 +26,3 @@ Uma atitude insignificante? Talvez. Mas vale, nem que seja pelo simbolismo &#821
  [1]: http://www.moto.com.br/acontece/conteudo/11445.html
  [2]: http://pitstopbrasil.wordpress.com/2008/07/07/poluicao-em-duas-rodas/
  [3]: http://freeride.blig.ig.com.br/2008/08/19181954.html
- [4]: http://www.bikecourier.com.br/

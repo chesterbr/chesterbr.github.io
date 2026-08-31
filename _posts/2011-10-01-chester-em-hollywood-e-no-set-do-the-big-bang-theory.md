@@ -31,7 +31,7 @@ O aviso da vitória veio em um momento crítico: eu entraria em cirurgia no dia 
 
 ### Hollywood, Beverly Hills, etc.
 
-[<img class="alignleft size-full wp-image-6391" style="border: 1px solid black; padding: 0px;" title="Bani e a marca do Leonard Nimoy" src="/wp-content/uploads/2011/09/bani_nimoy.jpg" alt="Bani e a marca do Leonard Nimoy" width="245" height="222" />][1]Ficamos hospedados no [Reinassance Hollywood][10], que além de confortável é bem localizado: fica no mesmo complexo que o Kodak Theatre &#8211; o lugar onde é feita a entrega do Oscar. A Bani aproveitou e comprou ingressos antecipadamente para o [Iris][11], o recém-inaugurado espetáculo do Cirque du Soleil cuja temática é justamente o cinema. Estava uma bela bagunça na Hollywood Boulevard por conta da estréia, mas isso não impediu a gente de encontrar um [protesto][12] do [Anonymous][13].
+[<img class="alignleft size-full wp-image-6391" style="border: 1px solid black; padding: 0px;" title="Bani e a marca do Leonard Nimoy" src="/wp-content/uploads/2011/09/bani_nimoy.jpg" alt="Bani e a marca do Leonard Nimoy" width="245" height="222" />][1]Ficamos hospedados no [Reinassance Hollywood][10], que além de confortável é bem localizado: fica no mesmo complexo que o Kodak Theatre &#8211; o lugar onde é feita a entrega do Oscar. A Bani aproveitou e comprou ingressos antecipadamente para o <a class="dead-link" title="este link morreu" href="http://www.cirquedusoleil.com/en/shows/iris/">Iris</a><span class="dead-link-mark">†</span>, o recém-inaugurado espetáculo do Cirque du Soleil cuja temática é justamente o cinema. Estava uma bela bagunça na Hollywood Boulevard por conta da estréia, mas isso não impediu a gente de encontrar um [protesto][12] do [Anonymous][13].
 
 A visita a Hollywood pedia um [tour][14] em Beverly Hills para ver as mansões dos famosos (por menor que seja minha identificação com esse mundo), além de inúmeras locações de filmes e pontos relacionados a cinema e televisão. Juntado isso com uma passeadinha pela calçada da fama (que era bem próxima), deu para preencher bem o &#8220;lado Hollywood&#8221; da visita. Só lamento ter trocado uma visita ao [Madame Toussauds][15] (museu de cera) por uma ao [Acredite Se Quiser][16], que se revelou bem fraquinho.
 
@@ -65,7 +65,6 @@ No final foi uma experiência ímpar, e só posso deixar meus sinceros agradecim
  [8]: http://pt.wikipedia.org/wiki/Pr%C3%A9mio_Nobel
  [9]: http://www.pablomiguel.com.br/centro-de-hernia/hernia-inguinal/
  [10]: http://www.yelp.com/biz/renaissance-hollywood-hotel-and-spa-hollywood
- [11]: http://www.cirquedusoleil.com/en/shows/iris/
  [12]: http://www.flickr.com/photos/chesterbr/6196816678/in/set-72157627783784302
  [13]: http://pt.wikipedia.org/wiki/Anonymous
  [14]: http://www.starlinetours.com/

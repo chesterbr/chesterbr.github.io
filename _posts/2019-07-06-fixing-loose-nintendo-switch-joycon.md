@@ -10,7 +10,7 @@ categories:
 
 The Nintendo Switch is surprisingly sturdy, but this is a common problem: joy-cons that still click (and oh, how I _love_ [that click](https://www.youtube.com/watch?v=JFu6l6Gqh7o)) and snap to the console, but slide off when they shouldn't (e.g., right in the middle of an online game match).
 
-The cause is a plastic latch that erodes slightly with use (or maybe after it gets [jammed](https://www.imore.com/how-fix-jammed-switch-controller) on the backplate when you mis-connect it). There is a cheap replacement for that latch that you can order [here](https://www.amazon.ca/dp/B07D327NKW/ref=pe_3034960_233709270_TE_item).
+The cause is a plastic latch that erodes slightly with use (or maybe after it gets [jammed](https://www.imore.com/how-fix-jammed-switch-controller) on the backplate when you mis-connect it). There is a cheap replacement for that latch that you can order <a class="dead-link" title="this link died" href="https://www.amazon.ca/dp/B07D327NKW/ref=pe_3034960_233709270_TE_item">here</a><span class="dead-link-mark">†</span>.
 
 The replacement latch is made of metal (which should have been Nintendo's original choice), and several videos (like [this](https://www.youtube.com/watch?v=GhtTQ2LHEl0) one) show how to replace it. No soldering is required, just some careful screw removal and disassembly.
 
@@ -20,7 +20,7 @@ With the usual caveats (you do it on your own risk, it voids your warranty, etc.
 
 <!--more-->
 
-Nintendo things often use tri-wing screws (in addition to the more common Phillips ones), so the kit comes with one of each screwdriver. It would be handy - if they weren't **horrible**. Seriously, do yourself a favour and get [a decent tri-wing](https://www.amazon.ca/dp/B00KWRS3GY/).
+Nintendo things often use tri-wing screws (in addition to the more common Phillips ones), so the kit comes with one of each screwdriver. It would be handy - if they weren't **horrible**. Seriously, do yourself a favour and get <a class="dead-link" title="this link died" href="https://www.amazon.ca/dp/B00KWRS3GY/">a decent tri-wing</a><span class="dead-link-mark">†</span>.
 
 Once you open the joy-con, be careful so you don't damage the ribbon cables connecting the two halves.
 

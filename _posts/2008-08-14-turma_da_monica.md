@@ -13,7 +13,7 @@ dsq_thread_id:
   - 1751450600
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="detalhe de um papel de parede do site da Turma da Mônica jovem" src="/archives/img/monica_jovem.jpg" width="220" height="300" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Acabei de ler o número 1 (parece que [rolou um número zero][1] em alguns eventos) da [versão &#8220;reloaded&#8221; da Turma da Mônica][2]. E posso dizer que me surpreendeu positivamente.
+<span class="mt-enclosure mt-enclosure-image"><img title="detalhe de um papel de parede do site da Turma da Mônica jovem" src="/archives/img/monica_jovem.jpg" width="220" height="300" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Acabei de ler o número 1 (parece que [rolou um número zero][1] em alguns eventos) da <a class="dead-link" title="este link morreu" href="http://www.assinepanini.com/turmadamonicajovem/">versão &#8220;reloaded&#8221; da Turma da Mônica</a><span class="dead-link-mark">†</span>. E posso dizer que me surpreendeu positivamente.
 
 (eu, pessoalmente, sempre tive uma teoria de que a Tina era a versão adolescente da Mônica &#8211; que ficou gostosa pra contrariar; na mesma linha, o Rolo era o Cebolinha &#8211; cujo cabelo atrasado cresceu todo de uma vez; a Pipa era a Magali depois que aquela comida toda deu reação, etc&#8230; mas isso é outro assunto :-) )
 
@@ -26,6 +26,5 @@ Outro problema é que eles tentam abraçar a bandeira de &#8220;mangá&#8221;, e
 No geral é uma aposta interessante &#8211; que justamente por se manter paralela às histórias tradicionais permite abraçar públicos novos sem deixar de lado os leitores atuais. De qualquer forma, é melhor que outras tentativas malfadadas de modernizar a Turma da Mônica, como a introdução do [Bloguinho][4] ou da dupla &#8220;Prof. Spada e Dr. Spam&#8221; &#8211; essa última uma das maiores vergonhas alheias que eu já vi em qualquer mídia até hoje.
 
  [1]: http://rukasuanimes.wordpress.com/2008/07/24/manga-da-turma-da-monica/
- [2]: http://www.assinepanini.com/turmadamonicajovem/
  [3]: http://www.vgbr.com/forum/index.php?s=&#038;showtopic=61264&#038;view=findpost&#038;p=455797
  [4]: http://pt-br.monica.wikia.com/wiki/Bloguinho

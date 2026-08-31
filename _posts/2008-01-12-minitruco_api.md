@@ -58,7 +58,7 @@ Cards composed by either a number or uppercase letter representing the face falu
 
 The easiest way to grasp the commands (and notifications) is to run the server on your computer (requires [Java][4] 5 or higher) and test them by yourself. Just follow these steps:
 
-1.  Download the [miniTruco server][5];
+1.  Download the <a class="dead-link" title="this link died" href="https://github.com/chesterbr/minitruco-j2me/tree/master/miniTruco/deploy/miniTrucoServer.jar">miniTruco server</a><span class="dead-link-mark">†</span>;
 2.  Run it locally by typing *java -jar miniTrucoServer.jar* on a terminal/console window (Command Prompt, aka &#8220;cmd&#8221; on Windows);
 3.  Interact via telnet, by issuing *telnet localhost 6912* from another terminal(*).
 
@@ -139,6 +139,5 @@ When you have any sort of working implementation, please [let everyone know][7].
  [2]: http://en.wikipedia.org/wiki/Truco#Truco_in_Brazil
  [3]: http://java.sun.com/j2se/1.5.0/docs/api/java/io/BufferedReader.html#readLine()
  [4]: http://www.java.com/download/java/
- [5]: https://github.com/chesterbr/minitruco-j2me/tree/master/miniTruco/deploy/miniTrucoServer.jar
  [6]: http://technet.microsoft.com/en-us/library/bb491013.aspx
  [7]: http://groups.google.com/group/minitruco

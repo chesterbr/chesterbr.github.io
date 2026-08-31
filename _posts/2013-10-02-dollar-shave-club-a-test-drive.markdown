@@ -9,7 +9,7 @@ I *hate* shaving. I **really** hate it.
 
 The only reason I shave is because I'm not much fond of facial hair either. And I've tried every single facial hair removal alternative, such as laser (hint: does not work for light-colored hair) and wax (requires growing a beard before each session, pretty much defeating the purpose; also hurts on a par with passing a kidney stone or wisdom teeth extraction).
 
-Now you know why anyhthing with the slightest potential of making shaving suck a bit less grabs my attention - not that [Dollar Shave Club][1]'s unorthodox presentation needs any help in that regard. If you don't know what I'm talking about (or just want to laugh again), here is their [presentation video][2]:
+Now you know why anyhthing with the slightest potential of making shaving suck a bit less grabs my attention - not that <a class="dead-link" title="this link died" href="http://ca.dollarshaveclub.com/ref/index/r/5yqdo/nqlc7b/s/tx/cx/1/">Dollar Shave Club</a><span class="dead-link-mark">†</span>'s unorthodox presentation needs any help in that regard. If you don't know what I'm talking about (or just want to laugh again), here is their [presentation video][2]:
 
 <center><iframe width="560" height="315" src="//www.youtube.com/embed/ZUG9qYTJMsI" frameborder="0" allowfullscreen></iframe></center>
 
@@ -29,9 +29,8 @@ The switch process was easy, although I had to enter my credit card information 
 
 Once again I was positively surprised: it is nearly as good as the Fusion. The difference is small enough to be shadowed by the convenience/price, and the freshness of a new blade every week or so might even make the average shaving slightly better than with the Fusion, whose steep price makes me swap less often.
 
-Disclosure: I get a free month if you buy it through [my link][1], which would raise suspicion - if the blades weren't so dirt cheap to begin with. That said, my veredict: I did not find it as *f\*\*\*ing great* as Mike does, but they are very good, and having a fresh one every week without any effort is a huge benefit for such a low price. With the ease of switching plans and the promise of equally easy cancellation, it is worth a shot.
+Disclosure: I get a free month if you buy it through <a class="dead-link" title="this link died" href="http://ca.dollarshaveclub.com/ref/index/r/5yqdo/nqlc7b/s/tx/cx/1/">my link</a><span class="dead-link-mark">†</span>, which would raise suspicion - if the blades weren't so dirt cheap to begin with. That said, my veredict: I did not find it as *f\*\*\*ing great* as Mike does, but they are very good, and having a fresh one every week without any effort is a huge benefit for such a low price. With the ease of switching plans and the promise of equally easy cancellation, it is worth a shot.
 
-[1]: http://ca.dollarshaveclub.com/ref/index/r/5yqdo/nqlc7b/s/tx/cx/1/
 [2]: http://youtu.be/ZUG9qYTJMsI
 [3]: https://twitter.com/mrdubin
 [5]: http://www.gillette.com/en/ca/products/razors/Fusion.aspx

@@ -12,12 +12,10 @@ Achei que todo mundo conhecia a palavra do Pastor Silas, mas soltei numa lista e
 
 No site você acompanha os educativos [ensinamentos][2] e [testemunhos][3] de todos aqueles que encontraram a salvação na palavra. Seu conhecimento sobre temas como o budismo e a cultura oriental impressionam.
 
-Se você gostar, ainda pode imprimir uma cópia em alta resolução do edificante cartaz abaixo ([colorida][4] ou [preto-e-branco][5]), colar no seu local de trabalho/estudo e ajudar na divulgação deste belo e revelador trabalho. Seus colegas irão agradecer pela alegria proporcionada.
+Se você gostar, ainda pode imprimir uma cópia em alta resolução do edificante cartaz abaixo (<a class="dead-link" title="este link morreu" href="http://img33.imageshack.us/img33/9889/graphic1iml.jpg">colorida</a><span class="dead-link-mark">†</span> ou <a class="dead-link" title="este link morreu" href="http://img102.imageshack.us/img102/5509/graphic1pb.jpg">preto-e-branco</a><span class="dead-link-mark">†</span>), colar no seu local de trabalho/estudo e ajudar na divulgação deste belo e revelador trabalho. Seus colegas irão agradecer pela alegria proporcionada.
 
 <img class="aligncenter size-full wp-image-3530" src="/wp-content/uploads/2009/11/graphic1iml2.jpg" alt="graphic1iml" width="500" height="347" />
 
  [1]: http://www.igrejainternacional.com/
  [2]: http://www.igrejainternacional.com/artigos/
  [3]: http://www.igrejainternacional.com/testemunhos-de-fe/
- [4]: http://img33.imageshack.us/img33/9889/graphic1iml.jpg
- [5]: http://img102.imageshack.us/img102/5509/graphic1pb.jpg

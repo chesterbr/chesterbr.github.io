@@ -17,8 +17,7 @@ No livro, Gaiman mostra a jornada de um presidiário nos EUA de hoje, cuja liber
 
 Mais ainda, o livro leva o leitor a se perguntar qual seria o verdadeiro altar americano: aquele lugar nas igrejas ao qual os poucos visitantes dedicam moderada atenção, ou aquele aparelho na sala de estar, em torno do qual praticamente todas as famílias mantém vigília silenciosa todas as noites? Questionamentos deste tipo são o cenário através do qual o personagem principal vai redescobrir sua própria origem &#8211; e nela, encontrar seu destino. Livraço.
 
-Fonte: [Sovi][3]
+Fonte: <a class="dead-link" title="este link morreu" href="http://www.orkut.com/Profile.aspx?uid=1871319699226069040">Sovi</a><span class="dead-link-mark">†</span>
 
  [1]: http://compare.buscape.com.br/prod_unico?idu=1858719384&#038;pos=2&#038;site_origem=11642&#038;pos=2
  [2]: http://compare.buscape.com.br/prod_unico?idu=1858719359&#038;kw=deuses+americanos&#038;ordem=prec&#038;pagina=1&#038;site_origem=11642
- [3]: http://www.orkut.com/Profile.aspx?uid=1871319699226069040

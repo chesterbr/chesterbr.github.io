@@ -12,7 +12,7 @@ dsq_thread_id:
   - 1751447829
 categories:
 ---
-[<img src="//farm7.static.flickr.com/6037/6296967178_6e1753e599_m.jpg" width="180" height="240" alt="Cartucho Harmony" style="float:left;margin:4px;border:1px solid black" />][1]A programação para Atari 2600 é uma curiosidade que já me levou a escrever [artigo][2] e minstrar [palestras][3] sobre o assunto. Vira e mexe estou lendo e experimentando, e até acredito que um dia alguma dessas brincadeiras pode se tornar um jogo de verdade.
+[<img src="//farm7.static.flickr.com/6037/6296967178_6e1753e599_m.jpg" width="180" height="240" alt="Cartucho Harmony" style="float:left;margin:4px;border:1px solid black" />][1]A programação para Atari 2600 é uma curiosidade que já me levou a escrever <a href="http://web.archive.org/web/20040810001018/http://fliperama.ig.com.br/emuladores/atari/program/index.html">artigo</a> e minstrar [palestras][3] sobre o assunto. Vira e mexe estou lendo e experimentando, e até acredito que um dia alguma dessas brincadeiras pode se tornar um jogo de verdade.
 
 Um bom emulador é necessário para programar para qualquer dispositivo, seja ele um celular ou um console. O Atari tem o excelente [Stella][4] (cujo debugger é bom até para quem só quer entender como algum jogo funciona). Mas é igualmente importante testar o programa no console &#8220;de verdade&#8221;, pois só lá os detalhes vão aparecer.
 
@@ -35,7 +35,6 @@ Se interessar, veja mais [fotos do Harmony][16] em ação.
 *(esse post pede um agradecimento especial ao Alexandre Oliveira, que me cedeu vários cartuchos de Atari para testar o console &#8220;novo&#8221;, evitando que eu procurasse problemas onde eles não existiam)*
 
  [1]: http://www.flickr.com/photos/chesterbr/6296967178/ "Cartucho Harmony by chesterbr, on Flickr"
- [2]: http://web.archive.org/web/20040810001018/http://fliperama.ig.com.br/emuladores/atari/program/index.html
  [3]: chester.me/archives/2011/08/palestra-sobre-programacao-para-atari-2600-no-dev-in-sampa-2011.html
  [4]: http://stella.sourceforge.net/
  [5]: http://harmony.atariage.com/

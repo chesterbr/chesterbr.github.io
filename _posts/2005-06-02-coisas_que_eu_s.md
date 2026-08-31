@@ -9,6 +9,5 @@ comments: true
 permalink: /archives/2005/06/coisas_que_eu_s.html/
 categories:
 ---
-Mais uma vez, o Arnaldo [se supera][1].
+Mais uma vez, o Arnaldo <a class="dead-link" title="este link morreu" href="http://www.tonto.com.br/tiras/arnaldo024.htm">se supera</a><span class="dead-link-mark">†</span>.
 
- [1]: http://www.tonto.com.br/tiras/arnaldo024.htm

@@ -16,7 +16,7 @@ Mas isso foi só um aperitivo para o banquete que se seguiu. No carnaval, Sílvi
 
 A vida transcorreu mais-ou-menos normalmente até agosto (apesar do &#8220;efeito Show do Milhão&#8221;, uma bola de neve que já vinha do ano anterior), quando ocorreu o <a href="http://www.uol.com.br/folha/cotidiano/ult95u35829.shl" >sequestro</a> de Patrícia Abravanel (filha de Sílvio, para quem esteve em outro planeta).
 
-O comportamento da Globo neste episódio só tem um nome: pé-na-jaca. Alegando não querer incentivar outros sequestradores a fazerem exigências, deu a notícia do sequestro com antecedência, enquanto toda a mídia paulista mantinha a coisa em segredo, a pedido da família. Curiosamente, não teve essa pressa toda quando <a href="http://www.dglmix.com.br/news/2001/12/13/48329.asp" >outro sequestro</a>, este mais recente, envolvia um publicitário &#8211; ou seja, um representante dos clientes da empresa&#8230;
+O comportamento da Globo neste episódio só tem um nome: pé-na-jaca. Alegando não querer incentivar outros sequestradores a fazerem exigências, deu a notícia do sequestro com antecedência, enquanto toda a mídia paulista mantinha a coisa em segredo, a pedido da família. Curiosamente, não teve essa pressa toda quando <a class="dead-link" title="este link morreu" href="http://www.dglmix.com.br/news/2001/12/13/48329.asp" >outro sequestro</a><span class="dead-link-mark">†</span>, este mais recente, envolvia um publicitário &#8211; ou seja, um representante dos clientes da empresa&#8230;
 
 Não houve moral da história, mas ficou uma pergunta sem resposta: o que alguém ganha abalando a própria credibidade enquanto órgão de imprensa, com o único propósito de colocar o concorrente (mais uma vez) em destaque?
 

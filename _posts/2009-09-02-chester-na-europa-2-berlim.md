@@ -34,7 +34,7 @@ O ideal é alugar bicicletas (o que pode ser feito lá ou em Berlim, os trens ac
 
 Compramos um mapa turístico por €2 que permitiu fazer esse passeio por conta, mas nem ele antecipou a surpresa que foi encontrar a [Brandenburger Straße][11]: com um mercado de comes e bebes ao ar livre, a rua é o destino final ideal para um fim de passeio (se você não chegar tarde como a gente.)
 
-A cidade é famosa pela vida noturna &#8211; mas a minha também é, então só topei sair à noite para lugares que fossem &#8220;lado B&#8221; o bastante (já que durante o dia eu andava bastante). O [Leo][12] foi providencial nessa hora, tirando da manga dois lugares interessantes: o [Chill Out][13], um barzinho bem aconchegante, família mesmo (se você não levar em conta a boneca inflável que fica sentada na mesa de bilhar), e o [Cafe Zapata][14].
+A cidade é famosa pela vida noturna &#8211; mas a minha também é, então só topei sair à noite para lugares que fossem &#8220;lado B&#8221; o bastante (já que durante o dia eu andava bastante). O [Leo][12] foi providencial nessa hora, tirando da manga dois lugares interessantes: o [Chill Out][13], um barzinho bem aconchegante, família mesmo (se você não levar em conta a boneca inflável que fica sentada na mesa de bilhar), e o <a class="dead-link" title="este link morreu" href="http://travel.yahoo.com/p-travelguide-2776412-cafe_zapata_berlin-i?action=describe">Cafe Zapata</a><span class="dead-link-mark">†</span>.
 
 [<img class="alignright right" style="border: 1px solid black;margin-left: 12px" src="http://farm3.static.flickr.com/2494/3844654626_e5df36c6b1_m.jpg" alt="DSCN0355" width="240" height="180" />][15]Esse último é mais curioso: reza a lenda que quando o muro caiu, alguns edifícios de Berlim Oriental foram parcial ou integralmente abandonados por seus habitantes, que zarparam para o outro lado. Um deles foi tomado por uma galera e transformado em um misto de espaço cultural alternativo e balada.
 
@@ -42,11 +42,11 @@ Por €2 eles carimbam o [guardinha do Firefox][16] na sua mão, o que permite e
 
 Ainda no térreo tinha uma área fechada que parecia até uma danceteria normal &#8211; a menos do povo freak extreme e do dragão metálico soltando fogo esporadicamente. Isso sem falar em uma máquina de fliperama mega antiga que eu nem conhecia &#8211; era alguma coisa velhaca da Taito ou Atari, coisa de anos 80 ou até anterior. Surreal no último.
 
-Nos andares do prédio (cobertos por pôsteres e grafitti) você não paga para entrar, e cada um tem uma coisa &#8211; desde baladas mais descompromissadas até uma daquelas feirinhas de &#8220;arte&#8221; estilo Benedito Calixto. A maior parte do pessoal é bem de boa, com a eventual trupe de [girls-gone-wild][17] dando um colorido. Uma balada bem alternativa.
+Nos andares do prédio (cobertos por pôsteres e grafitti) você não paga para entrar, e cada um tem uma coisa &#8211; desde baladas mais descompromissadas até uma daquelas feirinhas de &#8220;arte&#8221; estilo Benedito Calixto. A maior parte do pessoal é bem de boa, com a eventual trupe de <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/3844511136/in/set-72157622106190874/">girls-gone-wild</a><span class="dead-link-mark">†</span> dando um colorido. Uma balada bem alternativa.
 
 [<img class="alignleft left" style="border: 1px solid black;margin-right: 12px" src="http://farm3.static.flickr.com/2502/3843892335_a770404950_m.jpg" alt="DSCN0384" width="240" height="180" />][18]Um outro lance muito divertido foi conhecer o [Ampelmännchen][19], ou Ampelmann. Os alemães orientais criaram este personagem especialmente para orientar as crianças acerca da importância de atravessar no farol. É mole?
 
-Sei lá qual foi o resultado, mas a coisa virou febre: na lojinha (que tem [versão online][20]) você encontra todos os [produtos][21] [possíveis][22] e [imagináveis][23]: roupas, canecas, móveis, até bala de goma e guarda-chuva! Dá pra viver só usando produtos do Ampelmann. Isso sem falar no restaurante, que não deu tempo de visitar.
+Sei lá qual foi o resultado, mas a coisa virou febre: na lojinha (que tem [versão online][20]) você encontra todos os <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/3843641103/in/set-72157622106190874/">produtos</a><span class="dead-link-mark">†</span> <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/3844431664/in/set-72157622106190874/">possíveis</a><span class="dead-link-mark">†</span> e <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/3843642949/in/set-72157622106190874/">imagináveis</a><span class="dead-link-mark">†</span>: roupas, canecas, móveis, até bala de goma e guarda-chuva! Dá pra viver só usando produtos do Ampelmann. Isso sem falar no restaurante, que não deu tempo de visitar.
 
 Enfim, um país que gasta tanta energia com um detalhe como o bonequinho do farol merece uma visita. Próxima parada: Praga.
 
@@ -63,13 +63,8 @@ Enfim, um país que gasta tanta energia com um detalhe como o bonequinho do faro
  [11]: http://maps.google.com/maps?f=q&source=s_q&hl=en&q=Brandenburger+Stra%C3%9Fe,+14467+Potsdam,+Brandenburg,+Germany&sll=52.397012,13.058367&sspn=0.009152,0.01929&ie=UTF8&cd=1&geocode=FWWQHwMd7i3HAA&split=0&ll=52.398845,13.058002&spn=0.009152,0.01929&z=16&iwloc=A
  [12]: http://leoeurotrip.blogspot.com/
  [13]: http://maps.google.com.br/maps?oe=utf-8&client=firefox-a&ie=UTF8&q=chill+out+bar+berlin&fb=1&split=1&gl=br&cid=8128046848665788474&li=lmd&z=16&iwloc=A
- [14]: http://travel.yahoo.com/p-travelguide-2776412-cafe_zapata_berlin-i?action=describe
  [15]: http://www.flickr.com/photos/chesterbr/3844654626/ "DSCN0355 by chesterbr, on Flickr"
  [16]: /wp-content/uploads/2009/09/sslWarning.png
- [17]: http://www.flickr.com/photos/chesterbr/3844511136/in/set-72157622106190874/
  [18]: http://www.flickr.com/photos/chesterbr/3843892335/ "DSCN0384 by chesterbr, on Flickr"
  [19]: http://en.wikipedia.org/wiki/Ampelm%C3%A4nnchen
  [20]: http://ampelmannshop.com/
- [21]: http://www.flickr.com/photos/chesterbr/3843641103/in/set-72157622106190874/
- [22]: http://www.flickr.com/photos/chesterbr/3844431664/in/set-72157622106190874/
- [23]: http://www.flickr.com/photos/chesterbr/3843642949/in/set-72157622106190874/

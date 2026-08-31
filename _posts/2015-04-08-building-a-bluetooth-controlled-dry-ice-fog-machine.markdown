@@ -17,7 +17,7 @@ Last weekend brought an interesting challenge: to create a remote-controlled, sm
 
 Fog machines usually heat [dry ice][8] (solid CO₂) pellets with hot water. Its sublimation produces a very convenient fog: mostly harmless for humans, leaves no residue and won't float (therefore not triggering fire alarms). Given the short time, I skipped the heater (would just have a pre-heated water container) and focused on pumping the water with some sort of wireless control.
 
-[Creatron Inc.][1]'s website had a few non-expensive [liquid pumping motors][2], but they were a bit chunky and power-hungry, whereas I wanted a battery-powered small gadget. But I got lucky: the physical store had a water pump motor that worked on a 3.3-9V range and was even cheaper (less than $5). It did not include the tubes, but the [Home Hardware][3] across the street had them.
+[Creatron Inc.][1]'s website had a few non-expensive <a class="dead-link" title="this link died" href="https://www.creatroninc.com/category/motor-cnc-robotic/dc-motor/dc-pump">liquid pumping motors</a><span class="dead-link-mark">†</span>, but they were a bit chunky and power-hungry, whereas I wanted a battery-powered small gadget. But I got lucky: the physical store had a water pump motor that worked on a 3.3-9V range and was even cheaper (less than $5). It did not include the tubes, but the [Home Hardware][3] across the street had them.
 
 ![](/img/2015/03/fog_motor.jpg){: .center }
 
@@ -126,7 +126,6 @@ The picture that opens the post shows the result with an appropriate recipient a
 Despite those minor things, it was a fun experiment. I could imagine a bunch of other applications. You could build a remote controlled robot that would prepare a custom drink (the fancier motors that are guaranteed not to touch the liquid, to ensure purity). Add some wheels, extra motors and a bow tie, and it can even serve you the drink. How about that?
 
 [1]: https://www.creatroninc.com/
-[2]: https://www.creatroninc.com/category/motor-cnc-robotic/dc-motor/dc-pump
 [3]: http://www.homehardware.ca/en/dealer-microsites/1381-7/contact-information.htm
 [4]: https://punchthrough.com/bean/
 [5]: https://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/#Connect_a_transistor_to_the_microcontroller

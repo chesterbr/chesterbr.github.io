@@ -13,7 +13,7 @@ Estou devendo comentários sobre inúmeros livros que andei lendo, e começo a p
 
 <span class="mt-enclosure mt-enclosure-image"><img title="capa de Little Brother, de Cory Doctorow" src="/archives/img/littlebrother.jpg" width="200" height="299" class="mt-image-left" style="border-style:solid; border-width:1px; float: left; margin: 0 20px 20px 0;" /></span>[Little Brother][1] é uma excelente obra de ficção de [Cory Doctorow][2] (um dos co-editores do popular [Boing Boing][3]), na qual um ataque terrorista em solo americano faz com que a população de uma cidade americana tenha suas liberdades civis ainda mais tolhidas do que já acontece hoje (por conta da suposta &#8220;guerra ao terror&#8221;).
 
-Aos cidadãos só resta o uso da tecnologia para proteger sua privacidade e oferecer resistência ao estado orwelliano (evidente [referência][4] no título), e os jovens, que melhor a conhecem, lideram a reação.
+Aos cidadãos só resta o uso da tecnologia para proteger sua privacidade e oferecer resistência ao estado orwelliano (evidente <a class="dead-link" title="este link morreu" href="http://compare.buscape.com.br/1984-edicao-comemorativa-george-orwell-8504006115.html?pos=2">referência</a><span class="dead-link-mark">†</span> no título), e os jovens, que melhor a conhecem, lideram a reação.
 
 A narrativa é boa, mas o mérito mesmo é pelo retrato de dois universos: o dos jovens que cresceram já integrados à &#8220;vida digital&#8221;; e o do crescente estado de sítio que os republicanos insistem em impor aos EUA (e, por influência, ao resto do mundo).
 
@@ -41,7 +41,6 @@ A imparcialidade (que o tratamento acadêmico exige) equilibra bem o ativismo (e
  [1]: http://us.macmillan.com/torteen/littlebrother
  [2]: http://craphound.com/bio.php
  [3]: http://boingboing.net/
- [4]: http://compare.buscape.com.br/1984-edicao-comemorativa-george-orwell-8504006115.html?pos=2
  [5]: http://www.urbandictionary.com/define.php?term=ARGing&#038;defid=3190442
  [6]: http://en.wikipedia.org/wiki/Dm-crypt
  [7]: http://www.coxacreme.com.br/2008/08/12/pirataria-e-crime-ou-nao/

@@ -18,7 +18,7 @@ The standard preparation is to add water to the bottle and shake, but I didn't e
 
 This last mix (prepared with half a bottle of 100%FOOD) has a consistency/flavor that is a middle ground between porridge and a milkshake, which I found both tasty and fulfilling.
 
-Unlike Soylent, you can't pre-make a large batch (it gets jelly-ish). Also, adding a fruit required a blender. The [Magic Bullet][6] (which I already had at home) solved both issues: it is so small, easy-to-clean and cheap that I purchased a second one to leave at the office.
+Unlike Soylent, you can't pre-make a large batch (it gets jelly-ish). Also, adding a fruit required a blender. The <a class="dead-link" title="this link died" href="http://www.canadiantire.ca/en/pdp/kitchen/small-appliances/blenders/magic-bullet-single-shot-0431733p.html#.VDnzs-fD4Z0">Magic Bullet</a><span class="dead-link-mark">†</span> (which I already had at home) solved both issues: it is so small, easy-to-clean and cheap that I purchased a second one to leave at the office.
 
 With the logistics in place, I purchased a larger batch and replaced around four meals a week with 100%FOOD. It felt healthier and I even [lost a little weight][9] - nothing earth-shaking, but an added incentive to keep me on it. Of course I'll try Soylent when it becomes available - but I'm already happy with this one.
 
@@ -29,7 +29,6 @@ P.S.: I also tried [Vega][7]. It tastes slightly better, but costs a bit more an
 [3]: https://www.youtube.com/watch?v=R4XcJfX7b68&feature=youtu.be&t=3m12s
 [4]: http://www.spacenutrientsstation.com
 [5]: http://en.wikipedia.org/wiki/Soylent_Green
-[6]: http://www.canadiantire.ca/en/pdp/kitchen/small-appliances/blenders/magic-bullet-single-shot-0431733p.html#.VDnzs-fD4Z0
 [7]: http://myvega.com/
 [8]: http://www.spacenutrientsstation.com/#!menu/cygq
 [9]: /img/2014/10/weight.png

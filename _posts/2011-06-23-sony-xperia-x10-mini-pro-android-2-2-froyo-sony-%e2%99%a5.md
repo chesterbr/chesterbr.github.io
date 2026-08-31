@@ -18,7 +18,7 @@ categories:
 
 [<img class="alignleft size-full wp-image-6043" title="Animação do boot do Froyo. Hit the road, Sony Ericsson!" src="/wp-content/uploads/2011/06/froyo_cyanogen_x10_mini_pro.jpg" alt="Animação do boot do Froyo. Hit the road, Sony Ericsson!" width="200" height="200" />][1]*Este post falava originalmente de um upgrade para o Android 2.2 (que continua válido), mas já consegui atualizar o celular para o 2.3, daí a mudança no título. Pule para o [final][2] para obter os links para 2.3.*
 
-Demorou, mas finalmente rolou: um programador ([slade87][3]) juntou código dele com o [MiniCM][4] (baseada no [CyanogenMod][5]) e conseguiu gerar uma versão do Android 2.2 (conhecido como &#8220;Froyo&#8221;) que funciona no X10 Mini Pro. Um amigo me [avisou][6] da existência de um [tutorial em português][7] escrito pelo [NightCrawler][8], e foi o que eu segui.
+Demorou, mas finalmente rolou: um programador ([slade87][3]) juntou código dele com o [MiniCM][4] (baseada no [CyanogenMod][5]) e conseguiu gerar uma versão do Android 2.2 (conhecido como &#8220;Froyo&#8221;) que funciona no X10 Mini Pro. Um amigo me [avisou][6] da existência de um <a class="dead-link" title="este link morreu" href="http://www.plusgsm.com.br/forums/showthread.php/99581-TUTORIAL-Debranding-Root-XRecovery-e-Froyo-para-o-X10-Mini-Pro">tutorial em português</a><span class="dead-link-mark">†</span> escrito pelo [NightCrawler][8], e foi o que eu segui.
 
 **IMPORTANTE**: O processo não é trivial, e, embora não seja ilegal, não é autorizado pelo fabricante. **Uma falha PODE inutilizar o seu aparelho**, &#8220;tijolando&#8221; ele de forma possivelmente **irreversível** e certamente não coberta pela garantia. Não faça se não estiver disposto a assumir o risco ou se não souber bem o que está fazendo. Nem eu, nem o slade87, nem o NightCrawler nem **NINGUÉM será responsável por qualquer dano, mas apenas VOCÊ**. Se estiver em dúvida ou não for a sua praia fazer essas coisas, **NÃO FAÇA**.
 
@@ -44,7 +44,6 @@ Dentre os &#8220;brindes&#8221; que o firmware customizado oferece estão opçõ
  [4]: http://code.google.com/p/minicm/
  [5]: http://www.cyanogenmod.com/
  [6]: http://twitter.com/#!/bombox/status/83400482512568320
- [7]: http://www.plusgsm.com.br/forums/showthread.php/99581-TUTORIAL-Debranding-Root-XRecovery-e-Froyo-para-o-X10-Mini-Pro
  [8]: http://www.g33k4u.blogspot.com/
  [9]: http://idgnow.uol.com.br/computacao_pessoal/2011/01/06/smartphones-da-linha-xperia-x10-nao-serao-atualizados-com-android-2.2/
  [10]: http://www.sonyericsson.com/br/preview/aparelhos/por-que-nao-e-possivel-atualizar-o-x8-x10-mini-e-x10-mini-pro-com-o-android-2-3/comment-page-3

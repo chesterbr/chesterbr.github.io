@@ -65,7 +65,7 @@ And it _almost_ works 🥺. Even though the sensor shows up on the interface (al
 
 ![](/img/2020/06/home-assistant-direct-pi-connection.png){: .center }
 
-It happens that (unsurprisingly), Home Assistant [code](https://github.com/home-assistant/core/blob/dev/homeassistant/components/rpi_gpio/__init__.py#L51) is more efficient than mine, using threaded callbacks instead of checking the state every second ([details](https://sourceforge.net/p/raspberry-gpio-python/wiki/Inputs/)).
+It happens that (unsurprisingly), Home Assistant <a class="dead-link" title="this link died" href="https://github.com/home-assistant/core/blob/dev/homeassistant/components/rpi_gpio/__init__.py#L51">code</a><span class="dead-link-mark">†</span> is more efficient than mine, using threaded callbacks instead of checking the state every second ([details](https://sourceforge.net/p/raspberry-gpio-python/wiki/Inputs/)).
 
 So I changed my test code to match Home Assistant's:
 

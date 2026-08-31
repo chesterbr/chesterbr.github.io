@@ -13,7 +13,7 @@ categories:
 ---
 <span class="mt-enclosure mt-enclosure-image"><img title="'Fail Whale', ilustração que caracteriza erros no Twitter, que se tornou quase tão famosa quanto o site" src="/archives/img/mt/2009/02/21/twitter_fail_whale.png" width="266" height="200" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Ao se falar em comunicação, é lugar-comum afirmar que uma mídia é caracterizada não apenas por suas capacidades, mas também por suas limitações. Ainda assim vale a pena resgatar a idéia, pois ela ajuda a entender alguns aspectos desse brinquedo novo chamado Twitter.
 
-O rádio é o exemplo clássico desse raciocínio: tecnicamente falando, a TV deveria tê-lo substituído por completo &#8211; afinal, toda TV tem um rádio built-in (basta ignorar a imagem). Na prática, essa limitação (ausência de imagem) é justamente o que torna a [paixão do Freddie Mercury][1] uma opção mais viável no carro, na academia ou no trabalho.
+O rádio é o exemplo clássico desse raciocínio: tecnicamente falando, a TV deveria tê-lo substituído por completo &#8211; afinal, toda TV tem um rádio built-in (basta ignorar a imagem). Na prática, essa limitação (ausência de imagem) é justamente o que torna a <a class="dead-link" title="este link morreu" href="http://blip.fm/profile/chesterbr/blip/3935690">paixão do Freddie Mercury</a><span class="dead-link-mark">†</span> uma opção mais viável no carro, na academia ou no trabalho.
 
 O mesmo fenômeno se observa no [Twitter][2]: a obrigação de escrever em até 140 caracteres (em conjunto com a sumária punição através do unfollow em massa para aqueles que &#8220;roubam&#8221; usando múltiplas mensagens) funciona como atrativo para a geração pós-MTV, que não pode (ou não quer) manter o foco em qualquer assunto por mais do que alguns segundos. E também disciplina prolixos compulsivos (como eu), obrigando-os a ir direto ao ponto.
 
@@ -39,7 +39,6 @@ Longa vida às mídias [frívolas][9]!
 
 (*) esta frase é um [recurso][10] muito usado por matemáticos preguiçosos &#8211; eu mal me formei e lanço mão dela semanalmente.
 
- [1]: http://blip.fm/profile/chesterbr/blip/3935690
  [2]: http://twitter.com/chesterbr
  [3]: http://pt.wikipedia.org/wiki/Migux%C3%AAs
  [4]: http://cersibon.blogspot.com/

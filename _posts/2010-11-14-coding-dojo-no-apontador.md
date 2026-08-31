@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751441252
 categories:
 ---
-O [Encontro Ágil 2010][1] (que merecia seu próprio post) se destacou pelo face-to-face: os open spaces e interações entre participantes foram tão produtivos que a tradicional carência de conectividade sem fio da USP trabalhou a favor. E foi justamente uma dessas interações, o Coding Dojo ([saiba o que é um][2]) organizado pelo [Bruno Gola][3] (com o forte apoio do [Asa][4]) que me inspirou a organizar uma sessão equivalente no [Apontador][5]. Segue uma visão geral da experiência:
+O [Encontro Ágil 2010][1] (que merecia seu próprio post) se destacou pelo face-to-face: os open spaces e interações entre participantes foram tão produtivos que a tradicional carência de conectividade sem fio da USP trabalhou a favor. E foi justamente uma dessas interações, o Coding Dojo ([saiba o que é um][2]) organizado pelo <a class="dead-link" title="este link morreu" href="http://www.brunogola.com.br/">Bruno Gola</a><span class="dead-link-mark">†</span> (com o forte apoio do [Asa][4]) que me inspirou a organizar uma sessão equivalente no [Apontador][5]. Segue uma visão geral da experiência:
 
 ### Preparação
 
@@ -22,7 +22,7 @@ A estação de trabalho era o meu Mac do trabalho mesmo, então usei o [TextWran
   <a href="/wp-content/uploads/2010/11/dojo_screenshot.jpg"><img class="aligncenter size-medium wp-image-4846" style="border: 1px solid black;" title="Uma reprodução do jeitão da tela durante o Dojo no Apontador (clique para ampliar)" src="/wp-content/uploads/2010/11/dojo_screenshot-300x225.jpg" alt="Uma reprodução do jeitão da tela durante o Dojo no Apontador (clique para ampliar)" width="300" height="225" /></a>
 </p>
 
-Eu queria um cronômetro offline &#8211; apesar da internet do Apontador ser boa, é sempre bom reduzir riscos. Adorei o [Coding Dojo Screenlet][8], escrito pelo próprio Gola, cuja cor de fundo (vermelho/verde) reflete o status do teste, ajudando a audiência saber quando (não) é apropriado se manifestar, mas ele só existe para Linux. A solução foi o [timer do Hora Agora][9] (criado pela [Bani][10]), que, aliado à interface minimalista do [Chrome][11], resolveu super bem: o alarme ininterrupto garantia que o piloto, ao sentar no teclado, não esquecesse de reiniciar o timer (usando o parâmetro &#8220;?t=05:00&#8243;, era só dar reload na página).
+Eu queria um cronômetro offline &#8211; apesar da internet do Apontador ser boa, é sempre bom reduzir riscos. Adorei o [Coding Dojo Screenlet][8], escrito pelo próprio Gola, cuja cor de fundo (vermelho/verde) reflete o status do teste, ajudando a audiência saber quando (não) é apropriado se manifestar, mas ele só existe para Linux. A solução foi o <a class="dead-link" title="este link morreu" href="http://www.horaagora.com/timer">timer do Hora Agora</a><span class="dead-link-mark">†</span> (criado pela [Bani][10]), que, aliado à interface minimalista do [Chrome][11], resolveu super bem: o alarme ininterrupto garantia que o piloto, ao sentar no teclado, não esquecesse de reiniciar o timer (usando o parâmetro &#8220;?t=05:00&#8243;, era só dar reload na página).
 
 Num dojo (e em TDD no geral) é uma boa idéia que, quando viável, o teste seja executado automaticamente sempre que você salva o arquivo. Conseguimos isso graças ao uso de [nose + tdaemon ][12](que ainda dá o resultado em popups do [Growl][13]), mas tem outras alternativas por aí como o [autotest][14] e o [watchr][15]. Outra idéia é rodar todo o ambiente do Dojo online, usando o [CyberDojo][16]. Opções não faltam: escolha conforme a linguagem, ambiente e gosto &#8211; o importante é deixar tudo preparado **antes** de começar!
 
@@ -43,13 +43,11 @@ Abrace a simplicidade e ajude as pessoas a seguirem as regras, mas sem pressão.
 
  [1]: http://www.encontroagil.com.br/2010/principal/home.html
  [2]: http://pet.inf.ufsc.br/dojo/o-que-eh-dojo/
- [3]: http://www.brunogola.com.br/
  [4]: http://www.facebook.com/#!/profile.php?id=710318510
  [5]: http://www.apontador.com.br/institucional/pt/index.php
  [6]: http://www.python.org/
  [7]: http://www.barebones.com/products/textwrangler/
  [8]: http://screenlets.org/index.php/CodingDojoScreenlet
- [9]: http://www.horaagora.com/timer
  [10]: http://baniverso.com/
  [11]: http://www.google.com/chrome
  [12]: http://isnomore.net/2010/08/01/automated-python-testing-nose-and-tdaemon/

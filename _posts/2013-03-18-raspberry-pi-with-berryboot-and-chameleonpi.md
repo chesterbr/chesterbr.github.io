@@ -36,7 +36,7 @@ A cheap Wi-Fi dongle got me wireless for another $15. It all depends on what you
   </p>
 </div>
 
-The recommended software to start with is [Raspbian][7], a desktop-like Linux distribution to which you can add anything you want. But several custom-build distros were created for specific applications, like [OpenELEC][8] (a powerful XBMC-based media player) and [Sugar][9] (containing the educational software that runs on the One-Laptop-Per-Child machines).
+The recommended software to start with is [Raspbian][7], a desktop-like Linux distribution to which you can add anything you want. But several custom-build distros were created for specific applications, like <a class="dead-link" title="this link died" href="http://www.openelec.tv/">OpenELEC</a><span class="dead-link-mark">†</span> (a powerful XBMC-based media player) and [Sugar][9] (containing the educational software that runs on the One-Laptop-Per-Child machines).
 
 But the nerdgasms came with [ChameleonPI][10] &#8211; a collection of emulators for dozens of old-school platforms. Apple II, MSX, ZX81, Spectrum, C64, Arcades (MAME), GameBoy, NES&#8230; you name it, ChameleonPI has it. Just throw your ROMs/DSKs/TAPs (or a willingness to write BASIC code) and have fun!
 
@@ -53,7 +53,7 @@ Since I&#8217;d rather use Wi-Fi to copy anyway, I tried to go without it. Howev
 *   Download ChameleonPI and follow the [instructions][12] to add a custom system (ignoring that you&#8217;ll see three lines instead of two on the first step; keep using the second one);
 
 *   Extract ChameleonPI to a separate SD and create a .tar.gz file with the contents of the FAT partition &#8211; it&#8217;s the one with AUTOEXEC.* files on the root and a lot of directories with old computer names;
-    (**alternative**: download [my copy of the ChameleonPI v3 FAT partition][14])
+    (**alternative**: download <a class="dead-link" title="this link died" href="https://dl.dropbox.com/u/1545151/chameleon.v03.fat.partition.tar.gz">my copy of the ChameleonPI v3 FAT partition</a><span class="dead-link-mark">†</span>)
 
 *   Save that file to a pen drive/USB stick/external HD;
 
@@ -129,12 +129,10 @@ Also be aware that these instructions were tested with ChameleonPI 0.3, not with
  [5]: http://www.bitrebels.com/technology/a-geeky-collection-of-creative-raspberry-pi-cases-15-pics/
  [6]: http://www.amazon.ca/IOGEAR-GKM681R-Wireless-Keyboard-Trackball/dp/B004OBAJCA
  [7]: http://www.raspbian.org/
- [8]: http://www.openelec.tv/
  [9]: http://wiki.laptop.org/go/Sugar
  [10]: http://chameleon.enging.com/
  [11]: http://www.berryterminal.com/doku.php/berryboot
  [12]: http://www.berryterminal.com/doku.php/berryboot#adding_your_own_custom_operating_systems_to_the_menu
  [13]: http://linapple.sourceforge.net/
- [14]: https://dl.dropbox.com/u/1545151/chameleon.v03.fat.partition.tar.gz
  [15]: https://twitter.com/_47Ronin_
  [16]: http://www.xbmchub.com/blog/2012/04/24/fusion-easy-addon-installation-for-xbmc/

@@ -8,7 +8,7 @@ onswipe_thumb:
   - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/01/racingthebeam.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
 ---
-<img class="alignright size-full wp-image-5770" title="Racing The Beam" src="/wp-content/uploads/2011/01/racingthebeam.jpg" alt="Racing The Beam" width="150" height="225" />Um aviso: não tenho como ser muito imparcial com este livro. Pra começo de conversa, jogos como [Enduro][1], [Pitfall][2], [Adventure][3] e [Raiders of The Lost Ark][4] são parte integrante das minhas memórias de infância. Eu associo o nome Atari ao universo dos videogames tanto quanto gerações mais recentes o fazem com Nintendo, Sega ou Sony. E um dos grandes &#8220;to-do&#8221;s da minha vida é concluir o desenvolvimento de algum jogo para essa plataforma. Já flertei com esta proeza no passado, o que resultou em uma pequena animação interativa (perdida no tempo) e em um [artigo publicado há quase DEZ anos atrás][5] no site Fliperama &#8211; cortesia do [Internet Archive Wayback Machine][6].
+<img class="alignright size-full wp-image-5770" title="Racing The Beam" src="/wp-content/uploads/2011/01/racingthebeam.jpg" alt="Racing The Beam" width="150" height="225" />Um aviso: não tenho como ser muito imparcial com este livro. Pra começo de conversa, jogos como [Enduro][1], [Pitfall][2], [Adventure][3] e [Raiders of The Lost Ark][4] são parte integrante das minhas memórias de infância. Eu associo o nome Atari ao universo dos videogames tanto quanto gerações mais recentes o fazem com Nintendo, Sega ou Sony. E um dos grandes &#8220;to-do&#8221;s da minha vida é concluir o desenvolvimento de algum jogo para essa plataforma. Já flertei com esta proeza no passado, o que resultou em uma pequena animação interativa (perdida no tempo) e em um <a href="http://web.archive.org/web/20020808022057/http://fliperama.ig.com.br/emuladores/atari/program/index.html">artigo publicado há quase DEZ anos atrás</a> no site Fliperama &#8211; cortesia do [Internet Archive Wayback Machine][6].
 
 Tudo isso torna natural que eu me divirta **muito** com [Racing The Beam][7]. Os autores (Montfort, Bogost) visualizam ele como um exemplo de formato para &#8220;estudos de novas mídias&#8221;, no qual as características da plataforma (arquitetura de hardware + ambiente social) são analisadas lado a lado com as expressões artísticas (jogos) produzidas sobre ela.
 
@@ -24,7 +24,6 @@ A exposição de cada jogo é acompanhada por explicações detalhadas sobre o f
  [2]: http://jogosdeatari.com.br/game/pitfall
  [3]: http://www.atari.com/play/atari/adventure
  [4]: http://jogosdeatari.com.br/game/raiders-of-the-lost-ark
- [5]: http://web.archive.org/web/20020808022057/http://fliperama.ig.com.br/emuladores/atari/program/index.html
  [6]: http://www.archive.org/web/web.php
  [7]: http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11696
  [8]: http://www.baixaki.com.br/tecnologia/1421-o-que-e-frame-buffer.htm

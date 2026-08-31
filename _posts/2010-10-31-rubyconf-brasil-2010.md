@@ -8,7 +8,7 @@ onswipe_thumb:
   - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/10/logo_rubyconf.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
 ---
-<img class="size-full wp-image-4723 alignleft" title="Logo RubyConf 2010" src="/wp-content/uploads/2010/10/logo_rubyconf.png" alt="Logo RubyConf 2010" width="267" height="91" />Um complemento bacana a participar da [PythonBrasil][1] foi estar na [RubyConf Brasil 2010][2]. O evento sucede os Rails Summit, e na mesma tradição desses tem a [LocaWeb][3] como organizador, mas com empresas como a [Gonow][4] (onde o [Akita][5], pioneiro do Rails no Brasil, trabalha atualmente) e a [Caelum][6] (que vem expandindo sua posição já consolidada no mundo Java para os novos fronts do desenvolvimento) aparecendo em destaque.
+<img class="size-full wp-image-4723 alignleft" title="Logo RubyConf 2010" src="/wp-content/uploads/2010/10/logo_rubyconf.png" alt="Logo RubyConf 2010" width="267" height="91" />Um complemento bacana a participar da [PythonBrasil][1] foi estar na [RubyConf Brasil 2010][2]. O evento sucede os Rails Summit, e na mesma tradição desses tem a [LocaWeb][3] como organizador, mas com empresas como a <a class="dead-link" title="este link morreu" href="http://www.gonow.com.br/">Gonow</a><span class="dead-link-mark">†</span> (onde o [Akita][5], pioneiro do Rails no Brasil, trabalha atualmente) e a [Caelum][6] (que vem expandindo sua posição já consolidada no mundo Java para os novos fronts do desenvolvimento) aparecendo em destaque.
 
 Apesar da internet ter deixado a desejar (em particular no primeiro dia), o evento contou com estrutura ótima: comeu-se bem (não teve almoço, mas estávamos sobre um [shopping center][7]), o espaço foi suficiente (não tão grande quanto o dos anteriores, segundo os veteranos, mas coube todo mundo) e o local era de facílimo acesso.
 
@@ -21,7 +21,6 @@ Toda essa vibração em torno de Ruby on Rails me faz ver que é questão de tem
  [1]: http://www.pythonbrasil.org.br/2010/
  [2]: http://rubyconf.com.br/
  [3]: http://www.locaweb.com.br
- [4]: http://www.gonow.com.br/
  [5]: http://akitaonrails.com/
  [6]: http://www.caelum.com.br/
  [7]: http://www.freicanecashopping.com/paulista/
