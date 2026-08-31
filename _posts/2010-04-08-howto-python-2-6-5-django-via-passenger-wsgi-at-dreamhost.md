@@ -112,7 +112,6 @@ You should now have a directory structure like this:
     *   logs/
     *   work/
 
-</em>
 Create a `passenger_wsgi.py` file on the &#8220;`yourdomain.com`&#8221; directory, with the lines below (replace `/home/XXXXXX` with your real home and `YYYYYY` with your Django project directory):
 
 <div class="code">

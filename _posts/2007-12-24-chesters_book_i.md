@@ -11,7 +11,7 @@ dsq_thread_id:
   - 1751441135
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="Pra que servem um scanner e uma coleção de Chiclete com Banana se você não usa, não é mesmo?" src="/archives/img/angel_villa.jpg" width="155" height="252" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Algumas pessoas se surpreenderam com os últimos posts em inglês. Eu sempre quis blogar neste idioma (afinal, o alcance é bem maior), mas, por outro lado, não queria abandonar o velho e bom português.
+<img title="Pra que servem um scanner e uma coleção de Chiclete com Banana se você não usa, não é mesmo?" src="/archives/img/angel_villa.jpg" width="155" height="252" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Algumas pessoas se surpreenderam com os últimos posts em inglês. Eu sempre quis blogar neste idioma (afinal, o alcance é bem maior), mas, por outro lado, não queria abandonar o velho e bom português.
 
 O fato é que eu tenho um blog corporativo, no qual andei escrevendo alguns artigos interessantes, e estava sem tempo de traduzir para colocar aqui. Resolvi postar do jeito que estavam, a título de experiência.
 

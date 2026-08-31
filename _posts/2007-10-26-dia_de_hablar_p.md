@@ -9,7 +9,7 @@ comments: true
 permalink: /archives/2007/10/dia_de_hablar_p.html/
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="Regallo de quadritito de Laertón, Glauquito e Angel Villa, Los 3 Amigos" src="/archives/img/miguelito.png" width="321" height="142" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Mira que rico: hoy es el [Dia de Hablar Portuñol][1]. Arriba, arriba, andate, andate!
+<img title="Regallo de quadritito de Laertón, Glauquito e Angel Villa, Los 3 Amigos" src="/archives/img/miguelito.png" width="321" height="142" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />Mira que rico: hoy es el [Dia de Hablar Portuñol][1]. Arriba, arriba, andate, andate!
 
 **UPDATE: ** [La canción de lo mamut][2], indispensable en ló aprendizado del portuñol.
 

@@ -23,6 +23,6 @@ Indispensável, não? Tem mais: a &#8220;Montagem do Dizáin&#8221; traz pérola
 *&#8230;Eu uso PageMaker, eu uso PhotoShop
 Tu gosta de CorelDraw, então pra mim tu é X9</p>
 Manjo lineatura, manjo fechar arquivo
-Elesbão e Haroldinho é o terror no fotolito&#8230;</i>
+Elesbão e Haroldinho é o terror no fotolito&#8230;
 
 Não precisa correr pro Kazaa: <a href="http://www.buscamp3.com.br/artistmusicbr.asp?ia=1365" >aqui tem os MP3</a>. Os caras são dizáin, digo, designers e têm um <a href="http://www.elesbaoeharoldinho.com" >site</a> oficial &#8211; mas ele não diz muito, quase depõe contra. Melhor ficar com o <a href="http://www.chacundum.blogspot.com/" >blog do Haroldinho</a>, que dá pra tirar uma boa diversão. E se você tiver acesso à revista Bundas no. 3 (é de Julho de 1999), dê uma olhadinha no &#8220;brinde&#8221; da página 20&#8230;

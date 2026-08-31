@@ -11,7 +11,7 @@ dsq_thread_id:
   - 1751450218
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="'Fail Whale', ilustração que caracteriza erros no Twitter, que se tornou quase tão famosa quanto o site" src="/archives/img/mt/2009/02/21/twitter_fail_whale.png" width="266" height="200" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Ao se falar em comunicação, é lugar-comum afirmar que uma mídia é caracterizada não apenas por suas capacidades, mas também por suas limitações. Ainda assim vale a pena resgatar a idéia, pois ela ajuda a entender alguns aspectos desse brinquedo novo chamado Twitter.
+<img title="'Fail Whale', ilustração que caracteriza erros no Twitter, que se tornou quase tão famosa quanto o site" src="/archives/img/mt/2009/02/21/twitter_fail_whale.png" width="266" height="200" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />Ao se falar em comunicação, é lugar-comum afirmar que uma mídia é caracterizada não apenas por suas capacidades, mas também por suas limitações. Ainda assim vale a pena resgatar a idéia, pois ela ajuda a entender alguns aspectos desse brinquedo novo chamado Twitter.
 
 O rádio é o exemplo clássico desse raciocínio: tecnicamente falando, a TV deveria tê-lo substituído por completo &#8211; afinal, toda TV tem um rádio built-in (basta ignorar a imagem). Na prática, essa limitação (ausência de imagem) é justamente o que torna a <a class="dead-link" title="este link morreu" href="http://blip.fm/profile/chesterbr/blip/3935690">paixão do Freddie Mercury</a><span class="dead-link-mark">†</span> uma opção mais viável no carro, na academia ou no trabalho.
 

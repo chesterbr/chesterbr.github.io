@@ -11,7 +11,7 @@ dsq_thread_id:
   - 1751450771
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="Otávio, Allen e André na feira de Green Point" border="1" src="/archives/img/feira_green_point.jpg" width="250" height="188" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>*08/10 (Domingo) &#8211; Feira, universidades, rugby e bossa nova (bônus: mais DDR)*
+<img title="Otávio, Allen e André na feira de Green Point" border="1" src="/archives/img/feira_green_point.jpg" width="250" height="188" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />*08/10 (Domingo) &#8211; Feira, universidades, rugby e bossa nova (bônus: mais DDR)*
 
 O Leo, coitado, perdeu um jogo da Copa do Mundo de Rugby, no qual a África do Sul enfrentou Fiji (não exatamente um favorito, mas [deu um susto][1]) para nos apresentar mais um pouco da província do Cabo.
 
@@ -23,7 +23,7 @@ Além disso tem muita enganação. Ex.: você encontra vários caras vendendo de
 
 Uma curiosidade é que a maior parte dos mascates da feira não é sul-africana, mas oriunda de outros países como Nigéria, Congo, Zâmbia e Zimbábue. É inevitável traçar paralelos entre o continente africano e o nosso país de dimensões continentais nesse aspecto, isto é, no comércio de rua como alternativa de subesitência para migrantes nas grandes cidades.
 
-<span class="mt-enclosure mt-enclosure-image"><img title="praia de Camps Bay" border="1" src="/archives/img/praia_camps_bay.jpg" width="300" height="225" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Pouco adepto da arte da pechincha (e mal-acostumado a usar cartão de crédito), não comprei praticamente nada. Seguimos para a [praia de Camps Bay][3], a mesma em que jantamos na [quinta][4]. Com a luz do sol pudemos ver como é bonita e bem conservada. É uma pena que o clima estava insanamente frio, não havendo a mais remota possibilidade de entrar na água.
+<img title="praia de Camps Bay" border="1" src="/archives/img/praia_camps_bay.jpg" width="300" height="225" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />Pouco adepto da arte da pechincha (e mal-acostumado a usar cartão de crédito), não comprei praticamente nada. Seguimos para a [praia de Camps Bay][3], a mesma em que jantamos na [quinta][4]. Com a luz do sol pudemos ver como é bonita e bem conservada. É uma pena que o clima estava insanamente frio, não havendo a mais remota possibilidade de entrar na água.
 
 Comemos no bistrô do Mariner&#8217;s Wharf, que serve peixe recém-pescado em caixinhas de fast-food, mas com sabor diferenciado. Optei pelo Hike &#038; Chips (merluza à milanesa com batata-frita, meu prato default em lugares desconhecidos por aqui), mas os mais chegados a frutos do mar podem pedir uma caixinha com um pouco de cada coisa. Você come olhando pra praia, embora no nosso caso a visão estivesse limitada pela lona fechada (por conta do frio).
 

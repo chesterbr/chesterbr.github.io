@@ -13,7 +13,7 @@ dsq_thread_id:
   - 1751450782
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="Foto do Nokia e62" src="/archives/img/e62.jpg" width="149" height="215" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>Depois de inúmeros Palms e dois anos com o &#8220;guerreiro&#8221; Nokia 6600, a empresa onde trabalho me cedeu um [Nokia E62][1]. Como o aparelho está relativamente acessível no Brasil (e algumas coisas eu suei pra fazer funcionar), vou falar um pouco da minha experiência com ele.
+<img title="Foto do Nokia e62" src="/archives/img/e62.jpg" width="149" height="215" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Depois de inúmeros Palms e dois anos com o &#8220;guerreiro&#8221; Nokia 6600, a empresa onde trabalho me cedeu um [Nokia E62][1]. Como o aparelho está relativamente acessível no Brasil (e algumas coisas eu suei pra fazer funcionar), vou falar um pouco da minha experiência com ele.
 
 O celular usa a versão 3 da [plataforma S60][2], cuja multitarefa e biblioteca de software, aliados a um teclado QUERTY matador e uma tela nababesca (320x240x24bit) viabilizam seu uso como palmtop (de fato, ele se parece mais com um Palm/Pocket PC do que com um telefone, embora seja muito fino e leve).
 

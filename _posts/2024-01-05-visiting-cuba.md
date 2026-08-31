@@ -107,7 +107,7 @@ As Portuguese native speakers, we were able to communicate with locals and and c
 
 Local shows were, as expected, heavily loaded with unapologetic government propaganda - a youth-oriented show that presented itself as an educational block against media manipulation was basically accusing international media of doing that, while presenting the government's point of view as the only unbiased truth.
 
-<div style="clear:both" />
+<div style="clear:both"></div>
 
 The [official newspaper](https://www.granma.cu/) is a daily set of around 8 pages that costs 20 CUP and limits to reporting policy changes and occasional cultural articles. There are some libraries and pop-up bookstores (the later mostly for tourists), but the selection is very limited.
 

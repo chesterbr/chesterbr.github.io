@@ -11,7 +11,7 @@ dsq_thread_id:
   - 1751442297
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="O 'Happy Mac', ícone que transmitia com perfeição a idéia de que 'tudo está bem'" src="/archives/img/happymac.png" width="31" height="41" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Nego [fala muito][1] do Oscar Niemeyer, mas eu fico pensando se ele teve mais influência visual sobre a minha vida do que Susan Kare, a ilustradora que desenhou praticamente todas as interfaces gráficas do mundo (como [comentei][2] no passado).
+<img title="O 'Happy Mac', ícone que transmitia com perfeição a idéia de que 'tudo está bem'" src="/archives/img/happymac.png" width="31" height="41" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />Nego [fala muito][1] do Oscar Niemeyer, mas eu fico pensando se ele teve mais influência visual sobre a minha vida do que Susan Kare, a ilustradora que desenhou praticamente todas as interfaces gráficas do mundo (como [comentei][2] no passado).
 
 A Wired deste mês revelou um lance interessante: a moça agora está vivendo de desenhar [presentinhos (gifts) do Facebook][3] (negócio que tem tudo para ser como os ringtones: infinito enquanto durar). O [artigo][4] é curto, mas interessante.
 

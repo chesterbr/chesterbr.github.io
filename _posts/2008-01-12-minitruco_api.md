@@ -14,7 +14,7 @@ dsq_thread_id:
 categories:
   - Portfolio
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="multiplayer miniTruco running on a J2ME emulator" src="/archives/img/mt_multiplayer.jpg" width="250" height="222" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></span>[miniTruco][1] is an implementation of the [Brazilian Truco card game][2] (also known as Truco Paulista or Truco Mineiro) for Java-enabled cellphones.
+<img title="multiplayer miniTruco running on a J2ME emulator" src="/archives/img/mt_multiplayer.jpg" width="250" height="222" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />[miniTruco][1] is an implementation of the [Brazilian Truco card game][2] (also known as Truco Paulista or Truco Mineiro) for Java-enabled cellphones.
 
 One of its features is its multiplayer ability over the Internet. That is done by having a server software that hosts the games, and this server has a (somewhat) well-defined API that allows clients to connect to it.
 
@@ -109,7 +109,7 @@ Optional parameters are denoted with [brackets].
 **G team** Game Over. The team that won is the argument.
 **A position** The player in that position left the game (or disconnected).
 **T position value** Player in that position asked for a raise in stakes (truco, six, nine or twelve). The value (3, 6, 9 or 12) determines that.
-**D position value** Player in that position accepted a raise (hand now worth the presented value</strong>
+**D position value** Player in that position accepted a raise (hand now worth the presented value
 **C position** Player in that position declined from the raise
 **F c1 c2 c3** Informs that the client is on a Hand of 11 (and the partner has the cards c1, c2 and c3)
 **H position status** Player in that position accepted (status=T) or rejected (status=F) the hand of 11.

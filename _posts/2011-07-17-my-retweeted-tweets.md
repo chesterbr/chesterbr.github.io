@@ -21,7 +21,7 @@ Infelizmente o widget do Twitter não permite colocar apenas os tweets retweetad
 
 Basta autorizar o aplicativo e ele gera o código que você pode usar para deixar os tweets retweetados em evidência, como eu fiz na coluna lateral do blog (e na ilustração). O [código-fonte][11], como de costume, é livre (Apache License) e está disponível para quem quiser. O aplicativo foi feito para uso próprio, então ainda pode ser bastante melhorado, mas está lá.
 
-¹ <span style="font-size:0.9em">Sim, <em>tweetar</em> e seus derivados forçam a amizade, como me lembrou a <a href="http://baniverso.com">Bani</a>. Mas é o que a <a href="http://blog.pt.twitter.com/2011/06/oba-twitter-em-portugues-brasileiro.html">tradução oficial do Twitter</a> diz, então paciência&#8230;<span></p>
+¹ <span style="font-size:0.9em">Sim, <em>tweetar</em> e seus derivados forçam a amizade, como me lembrou a <a href="http://baniverso.com">Bani</a>. Mas é o que a <a href="http://blog.pt.twitter.com/2011/06/oba-twitter-em-portugues-brasileiro.html">tradução oficial do Twitter</a> diz, então paciência&#8230;</span></p>
 
  [1]: http://myretweetedtweets.appspot.com
  [2]: http://twitter.com/about/resources/widgets

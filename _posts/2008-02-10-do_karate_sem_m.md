@@ -11,7 +11,7 @@ dsq_thread_id:
   - 1751450335
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="capa do livro Karatê sem Mestre, da Ediouro" src="/archives/img/karate_sem_mestre.jpg" width="228" height="300" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>Nessa sexta-feira eu *causei* fortemente no escritório ao mencionar que uma das minhas primeiras compras pelo correio foi o [Karatê Sem Mestre][1] &#8211; um dos inúmeros livros que a Ediouro oferecia em suas populares revistas de passatempos.
+<img title="capa do livro Karatê sem Mestre, da Ediouro" src="/archives/img/karate_sem_mestre.jpg" width="228" height="300" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />Nessa sexta-feira eu *causei* fortemente no escritório ao mencionar que uma das minhas primeiras compras pelo correio foi o [Karatê Sem Mestre][1] &#8211; um dos inúmeros livros que a Ediouro oferecia em suas populares revistas de passatempos.
 
 Lembro muito pouco do livro, além do fato de que ele tinha bastante ilustrações &#8211; e também que não impediu que eu continuasse levando a pior na escola. Talvez se eu tivesse comprado o [livro sem nome que fazia de você um mestre do KUNG FU chinês][2] (no qual a pessoa aprendia a se defender até dormindo), eu teria dado uma lição nos valentões, quem sabe?
 

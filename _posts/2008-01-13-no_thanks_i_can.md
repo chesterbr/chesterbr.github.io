@@ -11,7 +11,7 @@ dsq_thread_id:
   - 1751448702
 categories:
 ---
-<span class="mt-enclosure mt-enclosure-image"><img title="Detail from Ludwig Gatzke's rendering of Web 2.0 logos, full image at http://tinyurl.com/3dslx2" src="/archives/img/web2gatzke.png" width="215" height="183" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span>A friend of mine called me this Sunday, happy as a child in a candy shop: she had just got herself a shinny new MacBook, after years lusting over my old-but-cute iBook G4.
+<img title="Detail from Ludwig Gatzke's rendering of Web 2.0 logos, full image at http://tinyurl.com/3dslx2" src="/archives/img/web2gatzke.png" width="215" height="183" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />A friend of mine called me this Sunday, happy as a child in a candy shop: she had just got herself a shinny new MacBook, after years lusting over my old-but-cute iBook G4.
 
 Of course she wanted tips on how to do the basic PC things from a fellow Mac user, and I started by talking about cool software to install (thing such as Firefox, [NeoOffice][1], etc.). But when I mentioned [Adium][2] (a multi-messenger client like Pidgin or Trillian &#8211; except for running on Macs, and not being ugly or clumsy), she said in a very candid voice:
 
