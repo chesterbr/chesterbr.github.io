@@ -11,3 +11,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # Ruby 3.0 does not include webrick anymore
 gem 'webrick'
+
+group :development do
+  gem 'html-proofer'
+end
