@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "rePLAY: Symphony of Heroes"
 comments: true

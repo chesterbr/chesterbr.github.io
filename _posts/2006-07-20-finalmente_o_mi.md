@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Finalmente, o miniTruco multiplayer
 excerpt: |
   |

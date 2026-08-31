@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Por que Chester?
 layout: post
 comments: true

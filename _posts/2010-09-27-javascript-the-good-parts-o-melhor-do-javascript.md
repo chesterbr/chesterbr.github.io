@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'JavaScript: The Good Parts (O Melhor do JavaScript)'
 layout: post
 comments: true

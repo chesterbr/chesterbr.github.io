@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Finalmente um anti-spam que funciona de verdade
 layout: post
 comments: true

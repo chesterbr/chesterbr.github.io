@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Videos bizarros
 layout: post
 comments: true

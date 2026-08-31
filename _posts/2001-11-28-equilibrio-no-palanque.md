@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Equilíbrio no palanque
 layout: post
 comments: true

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Michael Jackson: The Experience &#8211; Kinect (XBox 360)'
 layout: post
 comments: true

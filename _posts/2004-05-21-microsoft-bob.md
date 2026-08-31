@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Microsoft Bob
 layout: post
 comments: true

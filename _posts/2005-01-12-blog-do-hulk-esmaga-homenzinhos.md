@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Blog do hulk esmaga homenzinhos
 layout: post
 comments: true

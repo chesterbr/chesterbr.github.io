@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'The Klein Four &#8211; Um Coral de Matemáticos'
 excerpt: |
   |

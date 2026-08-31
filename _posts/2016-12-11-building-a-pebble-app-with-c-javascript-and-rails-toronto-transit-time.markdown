@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Building a Pebble app with C, JavaScript and Rails (Toronto Transit Time)"
 comments: true

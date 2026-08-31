@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Conhecendo o autor dos Combo Rangers
 excerpt: |
   |

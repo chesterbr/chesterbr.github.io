@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Golpe do ICQ
 layout: post
 comments: true

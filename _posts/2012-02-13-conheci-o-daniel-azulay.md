@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Conheci o Daniel Azulay!
 layout: post
 comments: true

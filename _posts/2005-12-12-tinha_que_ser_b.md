@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Tinha que ser brasileiro&#8230;'
 excerpt: |
   |

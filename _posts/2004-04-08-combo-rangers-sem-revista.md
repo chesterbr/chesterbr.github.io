@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Combo Rangers sem revista
 layout: post
 comments: true

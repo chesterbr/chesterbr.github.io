@@ -1,4 +1,5 @@
 ---
+lang: en
 title: 'OpenSocial 0.7: getting closer to Facebook, feature by feature'
 excerpt: |
   |

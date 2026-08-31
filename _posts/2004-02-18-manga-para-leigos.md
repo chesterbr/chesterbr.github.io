@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Mangá para leigos
 layout: post
 comments: true

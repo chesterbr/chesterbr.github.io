@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Catálogo acme
 layout: post
 comments: true

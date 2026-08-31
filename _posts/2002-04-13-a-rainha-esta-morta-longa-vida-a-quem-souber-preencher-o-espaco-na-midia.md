@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: A rainha está morta. longa vida a quem souber preencher o espaço na mídia
 layout: post
 comments: true

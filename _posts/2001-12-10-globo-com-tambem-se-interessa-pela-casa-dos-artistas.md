@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Globo.com também se interessa pela Casa dos Artistas
 layout: post
 comments: true

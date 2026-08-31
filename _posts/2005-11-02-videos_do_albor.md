@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Vídeos do Alborghetti
 excerpt: |
   |

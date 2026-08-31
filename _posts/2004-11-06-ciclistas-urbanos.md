@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Ciclistas urbanos
 layout: post
 comments: true

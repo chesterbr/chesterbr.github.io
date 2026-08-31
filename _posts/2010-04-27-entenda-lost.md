@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Entenda Lost
 layout: post
 comments: true

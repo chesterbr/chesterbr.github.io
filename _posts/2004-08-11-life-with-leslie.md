@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Life with leslie
 layout: post
 comments: true

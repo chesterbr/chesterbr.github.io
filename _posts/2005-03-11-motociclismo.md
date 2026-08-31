@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Motociclismo
 layout: post
 comments: true

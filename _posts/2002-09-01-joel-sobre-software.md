@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Joel sobre software
 layout: post
 comments: true

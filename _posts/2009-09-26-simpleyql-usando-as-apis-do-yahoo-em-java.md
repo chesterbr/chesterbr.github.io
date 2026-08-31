@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'simpleyql &#8211; usando as APIs do Yahoo! em Java'
 layout: post
 comments: true

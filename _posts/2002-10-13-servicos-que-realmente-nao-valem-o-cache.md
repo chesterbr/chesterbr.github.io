@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Serviços que *realmente* não valem o cachê'
 layout: post
 comments: true

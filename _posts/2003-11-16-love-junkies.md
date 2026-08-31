@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Love junkies
 layout: post
 comments: true

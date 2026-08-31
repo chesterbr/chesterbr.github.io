@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Ensaio Sobre a Cegueira (e uma espetada no Alan Moore)
 layout: post
 comments: true

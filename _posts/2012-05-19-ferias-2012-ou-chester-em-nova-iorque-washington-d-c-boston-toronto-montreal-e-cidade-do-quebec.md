@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Férias 2012 (ou: Chester em Nova Iorque, Washington D.C., Boston, Toronto, Montreal e Cidade do Quebec)'
 layout: post
 comments: true

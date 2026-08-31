@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Um Golpe mais leve
 excerpt: |
   |

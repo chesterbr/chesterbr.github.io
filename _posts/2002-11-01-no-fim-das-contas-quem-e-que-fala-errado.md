@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'No fim das contas, quem é que fala &#8220;errado&#8221;?'
 layout: post
 comments: true

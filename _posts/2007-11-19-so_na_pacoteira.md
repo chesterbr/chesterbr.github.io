@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Só na pacoteira
 excerpt: |
   |

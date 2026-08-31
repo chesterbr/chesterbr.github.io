@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Sigam-me os bonzinhos
 layout: post
 comments: true

@@ -1,4 +1,5 @@
 ---
+lang: en
 title: 'HOWTO: Python 2.6.5 + Django (via Passenger WSGI) at DreamHost'
 layout: post
 comments: true

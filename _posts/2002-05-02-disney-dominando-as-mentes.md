@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Disney dominando as mentes
 layout: post
 comments: true

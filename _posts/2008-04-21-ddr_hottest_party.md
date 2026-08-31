@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Dance Dance Revolution Hottest Party
 excerpt: |
   |

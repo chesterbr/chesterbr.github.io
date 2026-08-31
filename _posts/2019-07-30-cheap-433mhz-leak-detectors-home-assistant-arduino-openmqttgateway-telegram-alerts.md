@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "(Cheap) 433Mhz Leak Detectors in Home Assistant via Arduino + OpenMQTTGateway (with Telegram alerts)"
 og_image: /img/2019/06/arduino_assembled.jpg

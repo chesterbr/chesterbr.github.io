@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Bom cãozinho, mau cãozinho
 layout: post
 comments: true

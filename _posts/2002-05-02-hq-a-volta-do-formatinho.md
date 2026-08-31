@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Hq: a volta do formatinho'
 layout: post
 comments: true

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Uncyclopedia e Desciclopédia
 excerpt: |
   |

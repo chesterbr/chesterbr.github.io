@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Susan Kare: de desktops a presentinhos'
 excerpt: |
   |

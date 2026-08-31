@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Araci de almeida lá, lálálálá-lálá&#8230;'
 layout: post
 comments: true

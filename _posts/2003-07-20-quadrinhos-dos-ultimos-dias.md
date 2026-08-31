@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Quadrinhos dos últimos dias
 layout: post
 comments: true

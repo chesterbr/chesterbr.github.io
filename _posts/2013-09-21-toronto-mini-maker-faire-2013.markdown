@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Toronto Mini Maker Faire 2013"
 comments: true

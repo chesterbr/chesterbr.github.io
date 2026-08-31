@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Enable dynamic DNS (DynDNS, Duck DNS, etc.) inside networks without NAT loopback support on router"
 description: "TL;DR: install dnsmasq with custom entry, configure devices to use it"

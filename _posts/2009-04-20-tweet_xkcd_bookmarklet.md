@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Tweet xkcd bookmarklet
 excerpt: |
   |

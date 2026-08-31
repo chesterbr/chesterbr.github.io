@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Sacra repartição pública do vaticano
 layout: post
 comments: true

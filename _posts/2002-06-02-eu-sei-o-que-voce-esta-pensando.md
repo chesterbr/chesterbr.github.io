@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Eu sei o que você está pensando
 layout: post
 comments: true

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Ato contra a Lei Azeredo (&#8220;AI-5 digital&#8221;)'
 excerpt: |
   |

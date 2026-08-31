@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Desculpem a panfletagem, mas é agora ou nunca
 layout: post
 comments: true

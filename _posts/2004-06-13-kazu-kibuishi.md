@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Kazu kibuishi
 layout: post
 comments: true

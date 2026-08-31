@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Coding Dojo no Apontador
 layout: post
 comments: true

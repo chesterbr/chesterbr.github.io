@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: '&#8220;O Jô Soares é gay&#8221;'
 layout: post
 comments: true

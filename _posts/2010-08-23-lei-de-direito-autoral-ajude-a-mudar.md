@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Lei de Direito Autoral: ajude a mudar!'
 layout: post
 comments: true

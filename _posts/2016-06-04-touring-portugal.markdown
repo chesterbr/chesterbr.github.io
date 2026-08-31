@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Touring Portugal"
 og_image: /img/2016/06/coimbra.jpg

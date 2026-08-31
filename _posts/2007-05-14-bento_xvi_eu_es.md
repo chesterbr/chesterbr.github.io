@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Bento XVI, eu escolho você!
 excerpt: |
   |

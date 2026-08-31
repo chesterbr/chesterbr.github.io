@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "London, Paris and Reykjavík: A One-Week Vacation"
 comments: true

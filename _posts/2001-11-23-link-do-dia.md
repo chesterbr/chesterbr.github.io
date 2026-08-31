@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Link do dia &#8211; Pong'
 layout: post
 comments: true

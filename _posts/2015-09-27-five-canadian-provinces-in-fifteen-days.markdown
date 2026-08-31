@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Five Canadian provinces in fifteen days"
 comments: true

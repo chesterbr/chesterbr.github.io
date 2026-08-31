@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Fritz the Cat &#8211; He&#8217;s X-Rated and Animated!'
 excerpt: |
   |

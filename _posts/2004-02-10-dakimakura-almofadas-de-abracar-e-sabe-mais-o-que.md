@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Dakimakura &#8211; almofadas de abraçar (e sabe mais o que)'
 layout: post
 comments: true

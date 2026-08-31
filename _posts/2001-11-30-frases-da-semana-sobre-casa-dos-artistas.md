@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Frases da semana sobre &#8220;Casa dos Artistas&#8221;'
 layout: post
 comments: true

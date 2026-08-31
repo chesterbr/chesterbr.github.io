@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Televisão é a imagem da besta
 layout: post
 comments: true

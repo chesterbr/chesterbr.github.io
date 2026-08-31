@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Código-fonte do windows
 layout: post
 comments: true

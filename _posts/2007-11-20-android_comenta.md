@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Android: Comentários e Desabafos'
 excerpt: |
   |

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Dúvidas? Pergunte a um ninja!
 excerpt: |
   |

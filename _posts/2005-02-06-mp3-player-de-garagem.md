@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Mp3 player de garagem
 layout: post
 comments: true

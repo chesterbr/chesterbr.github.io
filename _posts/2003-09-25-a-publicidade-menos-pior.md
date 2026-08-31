@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: A publicidade menos pior
 layout: post
 comments: true

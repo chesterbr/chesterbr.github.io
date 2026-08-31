@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "A Trip To Japan"
 comments: true

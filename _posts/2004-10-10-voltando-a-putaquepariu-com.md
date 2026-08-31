@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Voltando à putaquepariu.com
 layout: post
 comments: true

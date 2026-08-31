@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Chester na Europa (parte 1 de 3): Dresden'
 layout: post
 comments: true

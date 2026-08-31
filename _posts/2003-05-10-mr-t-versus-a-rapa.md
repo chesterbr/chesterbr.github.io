@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Mr. T versus a rapa
 layout: post
 comments: true

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: HowStuffWorks em Português
 excerpt: |
   |

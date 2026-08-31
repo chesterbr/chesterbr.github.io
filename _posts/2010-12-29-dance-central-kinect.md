@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Dance Central (Kinect)
 layout: post
 comments: true

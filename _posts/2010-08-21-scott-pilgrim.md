@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Scott Pilgrim
 layout: post
 comments: true

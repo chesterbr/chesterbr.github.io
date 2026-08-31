@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: The Daily WTF
 excerpt: |
   |

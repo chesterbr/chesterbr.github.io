@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Mataram o Kenny de vez&#8230; bastardos! (ou não?)'
 layout: post
 comments: true

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Visitando a Torre do Relógio e a Reitoria Ocupada da USP
 excerpt: |
   |

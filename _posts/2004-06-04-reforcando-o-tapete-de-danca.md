@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Reforçando o tapete de dança
 layout: post
 comments: true

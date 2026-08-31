@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Como mover o Monte Fuji?
 excerpt: |
   |

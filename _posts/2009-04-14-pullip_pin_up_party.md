@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Pullip Pin-Up Party
 excerpt: |
   |

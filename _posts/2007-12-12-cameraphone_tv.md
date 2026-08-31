@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Cameraphone + TV + Social Network = mob?
 excerpt: |
   |

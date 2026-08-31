@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'É pra ajudar no dever de casa&#8230;'
 layout: post
 comments: true

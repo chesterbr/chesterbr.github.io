@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Enfim um jogo realmente novo
 layout: post
 comments: true

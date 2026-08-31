@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Elite Beat Agents
 excerpt: |
   |

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Painstation: errou, apanhou (de verdade)'
 layout: post
 comments: true

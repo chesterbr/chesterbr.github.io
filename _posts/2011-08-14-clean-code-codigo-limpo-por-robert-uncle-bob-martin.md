@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Clean Code (Código Limpo), por Robert &#8220;Uncle Bob&#8221; Martin'
 layout: post
 comments: true

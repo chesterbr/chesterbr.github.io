@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Powering a Raspberry Pi
 layout: post
 comments: true

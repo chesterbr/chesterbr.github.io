@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Ressucitando Bruce Lee
 layout: post
 comments: true

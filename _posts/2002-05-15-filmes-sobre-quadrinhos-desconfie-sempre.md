@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Filmes sobre quadrinhos: desconfie sempre'
 layout: post
 comments: true

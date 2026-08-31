@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Cegonha: ainda um sucesso na China'
 layout: post
 comments: true

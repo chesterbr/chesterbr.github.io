@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Participando (e palestrando) na PythonBrasil[6]'
 layout: post
 comments: true

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Brinquedos novos
 layout: post
 comments: true

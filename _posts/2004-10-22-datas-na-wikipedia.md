@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Datas na wikipedia
 layout: post
 comments: true

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Colocando o Nintendo DS na sua rede sem fio (ou: o diabo mora nos detalhes)'
 excerpt: |
   |

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: A Central do Código Tosco
 excerpt: |
   |

@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Dollar Shave Club: A Test Drive"
 comments: true

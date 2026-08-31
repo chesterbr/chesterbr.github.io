@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Porque todo mundo tem um coração envenenado
 layout: post
 comments: true

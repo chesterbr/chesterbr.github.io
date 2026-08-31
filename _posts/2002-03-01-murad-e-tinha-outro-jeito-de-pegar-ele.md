@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Murad: e tinha outro jeito de pegar ele?'
 layout: post
 comments: true

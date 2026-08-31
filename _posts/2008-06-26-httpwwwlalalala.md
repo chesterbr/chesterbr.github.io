@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: http://www.lalalalalalalalalalalalalalalalalala.com/
 excerpt: |
   |

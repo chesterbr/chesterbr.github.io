@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Atualizando o iPhone (incluindo jailbreak e unlock) para o OS 3.0 usando o PwnageTool
 excerpt: |
   |

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Palitinho? Cuspe à Distância? Não: Empilhamento de Copos!'
 layout: post
 comments: true

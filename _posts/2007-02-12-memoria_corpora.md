@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Memória corporativa é isso aí
 excerpt: |
   |

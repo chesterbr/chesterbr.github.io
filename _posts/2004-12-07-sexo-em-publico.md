@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Sexo em público
 layout: post
 comments: true

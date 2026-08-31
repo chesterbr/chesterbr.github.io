@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: O Google dos livros
 layout: post
 comments: true

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Saldo da guerra
 layout: post
 comments: true

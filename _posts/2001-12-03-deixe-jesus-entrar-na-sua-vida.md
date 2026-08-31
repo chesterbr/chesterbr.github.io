@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Deixe Jesus entrar na sua vida
 layout: post
 comments: true

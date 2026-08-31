@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'O Cara Tossiu&#8230;'
 layout: post
 comments: true

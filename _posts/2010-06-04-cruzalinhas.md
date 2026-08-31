@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: cruzalinhas
 layout: post
 comments: true

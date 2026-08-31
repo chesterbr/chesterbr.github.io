@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Controlling RF outlets from a Raspberry Pi"
 og_image: /img/2017/12/rf_prototype.jpg

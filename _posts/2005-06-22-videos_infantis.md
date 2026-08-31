@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Vídeos infantis &#8211; para adultos'
 excerpt: |
   |

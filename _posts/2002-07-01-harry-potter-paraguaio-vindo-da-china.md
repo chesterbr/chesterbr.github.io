@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Harry Potter paraguaio, vindo da china
 layout: post
 comments: true

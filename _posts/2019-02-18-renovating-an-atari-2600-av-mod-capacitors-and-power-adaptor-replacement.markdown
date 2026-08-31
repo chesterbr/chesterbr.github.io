@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Renovating an Atari 2600 (AV mod + capacitor/power adaptor replacement)"
 og_image: /img/2019/02/atari.jpg

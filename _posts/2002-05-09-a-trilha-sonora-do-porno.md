@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: A trilha sonora do pornô
 layout: post
 comments: true

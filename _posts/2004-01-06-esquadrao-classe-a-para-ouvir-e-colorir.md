@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Esquadrão classe a: para ouvir e colorir'
 layout: post
 comments: true

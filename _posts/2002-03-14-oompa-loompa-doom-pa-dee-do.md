@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Oompa, loompa, doom-pa-dee-do&#8230;'
 layout: post
 comments: true

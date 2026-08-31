@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Música clássica: leia e ouça'
 excerpt: |
   |

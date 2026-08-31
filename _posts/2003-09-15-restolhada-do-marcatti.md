@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Restolhada do Marcatti
 layout: post
 comments: true

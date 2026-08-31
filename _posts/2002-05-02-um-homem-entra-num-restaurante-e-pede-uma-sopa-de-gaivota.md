@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: '&#8220;Um homem entra num restaurante e pede uma sopa de gaivota&#8230;&#8221;'
 layout: post
 comments: true

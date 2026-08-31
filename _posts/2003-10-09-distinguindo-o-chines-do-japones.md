@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Distinguindo o chinês do japonês
 layout: post
 comments: true

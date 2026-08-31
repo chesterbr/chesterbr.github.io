@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Scott mccloud
 layout: post
 comments: true

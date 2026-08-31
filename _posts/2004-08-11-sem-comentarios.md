@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Sem comentários
 layout: post
 comments: true

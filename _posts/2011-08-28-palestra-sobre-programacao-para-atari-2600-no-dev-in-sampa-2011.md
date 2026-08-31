@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Palestra sobre Programação para Atari 2600 no Dev in Sampa 2011
 layout: post
 comments: true

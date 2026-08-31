@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Sam and Fuzzy
 excerpt: |
   |

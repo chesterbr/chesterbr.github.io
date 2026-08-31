@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Quadrinhos a serviço da igreja
 layout: post
 comments: true

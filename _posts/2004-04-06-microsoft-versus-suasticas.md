@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Microsoft versus suásticas
 layout: post
 comments: true

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Street Fighter: The Later Years'
 excerpt: |
   |

@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Running ruby2600 in a browser with Opal"
 comments: true

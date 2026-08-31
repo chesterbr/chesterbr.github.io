@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Como ou não como
 layout: post
 comments: true

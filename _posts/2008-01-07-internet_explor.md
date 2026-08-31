@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Internet Explorer Developer Toolbar
 excerpt: |
   |

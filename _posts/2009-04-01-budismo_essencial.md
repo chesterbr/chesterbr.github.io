@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Budismo Essencial &#8211; A Arte de Viver o Dia-a-Dia'
 excerpt: |
   |

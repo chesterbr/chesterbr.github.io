@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Hai-kais e outros livrinhos
 layout: post
 comments: true

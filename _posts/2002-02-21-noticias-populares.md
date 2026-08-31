@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Notícias populares
 layout: post
 comments: true

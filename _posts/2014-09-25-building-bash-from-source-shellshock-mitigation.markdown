@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Building bash from source (Shellshock mitigation for Ubuntu 13.04 and other unsupported distros)"
 comments: true

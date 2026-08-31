@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Quadrinhos atari
 layout: post
 comments: true

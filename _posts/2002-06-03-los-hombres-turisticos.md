@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Los hombres turísticos
 layout: post
 comments: true

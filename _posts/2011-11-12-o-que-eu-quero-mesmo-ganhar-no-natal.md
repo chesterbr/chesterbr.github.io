@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: O que eu quero MESMO ganhar no Natal
 layout: post
 comments: true

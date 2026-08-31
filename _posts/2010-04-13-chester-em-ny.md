@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Chester em NY
 layout: post
 comments: true

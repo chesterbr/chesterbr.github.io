@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Replacing K-Cup®s with reusable coffee pods"
 comments: true

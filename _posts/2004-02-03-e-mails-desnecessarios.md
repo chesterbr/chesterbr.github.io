@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: E-mails desnecessários
 layout: post
 comments: true

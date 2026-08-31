@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: A maior palavra da língua inglesa
 layout: post
 comments: true

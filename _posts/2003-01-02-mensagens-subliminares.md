@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Mensagens subliminares
 layout: post
 comments: true

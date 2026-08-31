@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Homenagem a Carlos Zéfiro
 excerpt: |
   |

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Crumb &#038; cia <i>versus</i> Eisner'
 layout: post
 comments: true

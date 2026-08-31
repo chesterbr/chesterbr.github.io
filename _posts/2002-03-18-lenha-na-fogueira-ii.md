@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Lenha na fogueira II
 layout: post
 comments: true

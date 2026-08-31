@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Vila ema &#8211; é nóis na fita (e na ilha)'
 layout: post
 comments: true

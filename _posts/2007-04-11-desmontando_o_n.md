@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Desmontando o Nintendo DS
 excerpt: |
   |

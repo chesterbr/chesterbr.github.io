@@ -1,4 +1,5 @@
 ---
+lang: en
 title: What Sun could do with MySQL, their new acquisition
 excerpt: |
   |

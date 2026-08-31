@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Netflix Brazil dribbles FIFA with a word game"
 comments: true

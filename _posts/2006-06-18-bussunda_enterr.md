@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Bussunda: enterro de 2006 fotografado em 2000'
 excerpt: |
   |

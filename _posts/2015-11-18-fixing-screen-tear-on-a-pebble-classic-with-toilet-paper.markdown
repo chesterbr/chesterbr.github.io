@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Fixing Screen Tear on a Pebble Classic With... Toilet Paper!"
 comments: true

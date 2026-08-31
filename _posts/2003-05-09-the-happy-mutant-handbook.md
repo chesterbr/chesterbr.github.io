@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: The Happy Mutant Handbook
 layout: post
 comments: true

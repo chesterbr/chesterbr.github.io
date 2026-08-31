@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Convertendo vários arquivos de um encoding para outro
 layout: post
 comments: true

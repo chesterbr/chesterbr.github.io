@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Cidade de Deus
 layout: post
 comments: true

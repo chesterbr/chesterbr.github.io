@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Chester em San Francisco
 layout: post
 comments: true

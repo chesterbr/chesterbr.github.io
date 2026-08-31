@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Eu faço de você um mestre do KUNG FU CHINÊS
 excerpt: |
   |

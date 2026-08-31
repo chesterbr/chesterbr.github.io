@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Filho de jor-el!
 layout: post
 comments: true

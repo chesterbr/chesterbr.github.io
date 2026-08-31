@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Captain Jack: Game Over'
 excerpt: |
   |

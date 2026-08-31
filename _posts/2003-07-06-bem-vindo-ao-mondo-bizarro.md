@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Bem-vindo ao mondo bizarro
 layout: post
 comments: true

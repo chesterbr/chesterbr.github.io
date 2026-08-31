@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Daltony: Sou eu quem come'
 excerpt: |
   |

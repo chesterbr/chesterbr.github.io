@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Day Job - A Story of Chasing Dreams"
 comments: true

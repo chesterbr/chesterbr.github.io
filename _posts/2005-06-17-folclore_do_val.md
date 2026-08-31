@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Folclore do Vale do Silício
 excerpt: |
   |

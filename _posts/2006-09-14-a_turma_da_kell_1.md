@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: A Turma da Kelly
 excerpt: |
   |

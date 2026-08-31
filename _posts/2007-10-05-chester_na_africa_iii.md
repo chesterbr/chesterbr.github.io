@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Chester na África (III)
 excerpt: |
   |

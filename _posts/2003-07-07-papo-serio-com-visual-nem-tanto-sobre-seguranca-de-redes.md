@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Papo sério (com visual nem tanto) sobre segurança de redes
 layout: post
 comments: true

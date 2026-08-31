@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "ZX Spectrum Next"
 description: "I got a new computer. Or is it a 38 years old one?"

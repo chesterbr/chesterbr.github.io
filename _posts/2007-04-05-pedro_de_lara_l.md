@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Pedro de Lara lá, lalalala-lalá&#8230;'
 excerpt: |
   |

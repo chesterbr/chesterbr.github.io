@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Bug no internet explorer 5.0
 layout: post
 comments: true

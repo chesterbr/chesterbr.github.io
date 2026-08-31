@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Cavaleiro das Trevas 2: mais um prego no caixão dos <i>comics</i>'
 layout: post
 comments: true

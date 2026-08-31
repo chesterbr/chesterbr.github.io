@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Video Games Live 2009 SP
 layout: post
 comments: true

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Sangre de Barrio
 layout: post
 comments: true

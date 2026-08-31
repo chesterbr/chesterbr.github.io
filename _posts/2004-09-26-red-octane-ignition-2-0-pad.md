@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Red octane ignition 2.0 pad
 layout: post
 comments: true

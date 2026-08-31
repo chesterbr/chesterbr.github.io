@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'It&#8217;s about girls'
 layout: post
 comments: true

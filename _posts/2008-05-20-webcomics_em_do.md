@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Webcomics em dobro!
 excerpt: |
   |

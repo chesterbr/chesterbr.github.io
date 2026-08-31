@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Google x Governo Chinês
 layout: post
 comments: true

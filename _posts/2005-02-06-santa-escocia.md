@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Santa escócia!
 layout: post
 comments: true

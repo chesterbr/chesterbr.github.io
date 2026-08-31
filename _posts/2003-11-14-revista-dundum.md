@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Revista Dundum
 layout: post
 comments: true

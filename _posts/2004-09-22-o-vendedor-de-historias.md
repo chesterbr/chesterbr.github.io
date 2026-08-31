@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: O vendedor de histórias
 layout: post
 comments: true

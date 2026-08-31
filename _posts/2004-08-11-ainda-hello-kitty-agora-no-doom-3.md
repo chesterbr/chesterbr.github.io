@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Ainda hello kitty, agora no doom 3
 layout: post
 comments: true

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Fotos de micros antigos
 layout: post
 comments: true

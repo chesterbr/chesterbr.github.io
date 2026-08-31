@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Boicote ao casseta e planeta
 layout: post
 comments: true

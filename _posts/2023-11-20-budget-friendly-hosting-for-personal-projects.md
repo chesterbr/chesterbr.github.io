@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: 'Budget-friendly hosting for personal projects'
 og_image: /img/2023/11/build-server.jpg

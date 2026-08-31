@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: A Carne é Fraca (documentário)
 excerpt: |
   |

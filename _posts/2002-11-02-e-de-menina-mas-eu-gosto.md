@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: É de menina, mas eu gosto
 layout: post
 comments: true

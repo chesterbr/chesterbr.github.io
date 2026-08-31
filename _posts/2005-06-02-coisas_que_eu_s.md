@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Coisas que eu sempre quis fazer
 excerpt: |
   |

@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: A ex-festa de casamento do João
 excerpt: |
   |

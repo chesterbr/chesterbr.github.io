@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: My Comics Page
 excerpt: |
   |

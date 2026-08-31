@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Moore x Gates
 layout: post
 comments: true

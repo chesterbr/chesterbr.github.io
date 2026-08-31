@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Same difference and other stories
 layout: post
 comments: true

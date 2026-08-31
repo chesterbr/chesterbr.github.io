@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: O mundo bizarro do Chester, agora via Flickr
 excerpt: |
   |

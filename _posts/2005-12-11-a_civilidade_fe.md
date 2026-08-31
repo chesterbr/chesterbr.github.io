@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'A &#8220;civilidade&#8221; feminina em 1920'
 excerpt: |
   |

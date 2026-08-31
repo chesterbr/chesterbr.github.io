@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Gravata anti-gravatas
 layout: post
 comments: true

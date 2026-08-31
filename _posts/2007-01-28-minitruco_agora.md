@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: miniTruco, agora com Bluetooth
 excerpt: |
   |

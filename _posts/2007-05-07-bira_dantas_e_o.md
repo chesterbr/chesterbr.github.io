@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Bira Dantas e os Trapalhões da Bloch
 excerpt: |
   |

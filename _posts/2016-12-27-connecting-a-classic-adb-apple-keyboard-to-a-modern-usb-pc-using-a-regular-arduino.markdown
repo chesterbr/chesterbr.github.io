@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Connecting a classic (ADB) Apple keyboard to a modern (USB) PC using a regular Arduino"
 comments: true

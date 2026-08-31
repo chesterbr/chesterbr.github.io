@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Tales of Mere Existence
 excerpt: |
   |

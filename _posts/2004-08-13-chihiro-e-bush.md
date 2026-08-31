@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Chihiro e bush
 layout: post
 comments: true

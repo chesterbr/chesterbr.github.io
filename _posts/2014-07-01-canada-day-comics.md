@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Canada Day Comics"
 comments: true

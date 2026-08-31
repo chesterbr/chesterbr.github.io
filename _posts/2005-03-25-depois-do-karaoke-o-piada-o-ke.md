@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Depois do karaokê, o piada-o-kê
 layout: post
 comments: true

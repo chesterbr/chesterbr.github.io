@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: SMS-Denúncia
 layout: post
 comments: true

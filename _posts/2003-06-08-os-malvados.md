@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Os Malvados
 layout: post
 comments: true

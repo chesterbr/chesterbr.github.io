@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Chester na Disney
 layout: post
 comments: true

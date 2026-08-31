@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Migrando o Movable Type de BerkleyDB para MySQL
 excerpt: |
   |

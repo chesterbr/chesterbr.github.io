@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Wikipedia offline no iPhone \o/
 layout: post
 comments: true

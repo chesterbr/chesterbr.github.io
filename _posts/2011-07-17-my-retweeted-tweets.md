@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: My Retweeted Tweets
 layout: post
 comments: true

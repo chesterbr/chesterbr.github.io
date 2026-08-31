@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Motion-sensing, Arduino-based Washing Machine Alarm"
 og_image: /img/2017/12/w_alarm_final.jpg

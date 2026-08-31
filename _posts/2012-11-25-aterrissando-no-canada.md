@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Aterrissando no Canadá
 layout: post
 comments: true

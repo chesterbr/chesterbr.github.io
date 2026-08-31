@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'O que é mais arriscado &#8211; investir no YouTube ou nos filhotes da privatização?'
 excerpt: |
   |

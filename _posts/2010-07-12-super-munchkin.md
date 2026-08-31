@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Super Munchkin
 layout: post
 comments: true

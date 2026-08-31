@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: SlideMeme
 layout: post
 comments: true

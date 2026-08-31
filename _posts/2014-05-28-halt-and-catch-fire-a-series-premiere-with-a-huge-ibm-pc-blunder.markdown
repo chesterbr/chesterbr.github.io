@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: "Halt and Catch Fire: a series premiere with a huge IBM PC blunder"
 comments: true

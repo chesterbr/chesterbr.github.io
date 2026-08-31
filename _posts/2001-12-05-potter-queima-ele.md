@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: 'Potter: &#8220;queima ele!!!&#8221;'
 layout: post
 comments: true

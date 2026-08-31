@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Dia do Quadrinho Nacional e o Blog dos Quadrinhos
 excerpt: |
   |

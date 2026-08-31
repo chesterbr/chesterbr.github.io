@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 title: Ensinando ao Palm a Velha Caligrafia
 excerpt: |
   |
