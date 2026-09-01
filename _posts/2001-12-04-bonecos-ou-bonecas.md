@@ -16,6 +16,6 @@ Não vou me estender no tema &#8211; só entrei nele porque tenho recebido vári
 
 Ah, esses milicos são muito truculentos pra você? Dê uma olhada no [Billy][3], possivelmente o primeiro &#8220;action figure&#8221; gay da história. É interessante observar que os criadores tomaram o cuidado &#8220;power rangers&#8221; de distribuir etnicamente os personagens (Billy é um americano típico, Carlos um *hombre latino* e Tyson é o afro-americano). Não sei se vende muito, mas a visita ao site é no mínimo interessante.
 
- [1]: http://www.loucoporbonecos.com.br/
+ [1]: http://web.archive.org/web/20020123132528/http://www.loucoporbonecos.com.br:80/
  [2]: http://www.fortunecity.com/marina/pontoon/164/
  [3]: http://en.wikipedia.org/wiki/Billy_doll
