@@ -11,7 +11,7 @@
 html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, img,
 ul, ol, li, form, fieldset, legend, table, caption, tbody, tfoot, thead,
 tr, th, td, article, aside, figure, figcaption, footer, header, hgroup,
-menu, nav, section, time { margin: 0; padding: 0; border: 0; font: inherit; vertical-align: baseline; }
+menu, nav, section, time { margin: 0; padding: 0; border: 0; font: inherit; }
 article, aside, figure, figcaption, footer, header, hgroup, menu, nav, section { display: block; }
 ol, ul { list-style: none; }
 img { max-width: 100%; height: auto; border: 0; }
@@ -24,8 +24,6 @@ a img { border: none; }
   --text: #1a1a1a;
   --muted: #666666;
   --border: #e0e0e0;
-  --link: #1a1a1a;
-  --link-visited: #1a1a1a;
   --accent: rgb(56, 206, 229);
   --accent-text: #007687; /* darkened cyan, readable on white */
   --accent-soft: rgba(56, 206, 229, 0.12);
@@ -49,8 +47,6 @@ a img { border: none; }
     --text: #e0e0e0;
     --muted: #a0a0a0;
     --border: #333333;
-    --link: #90caf9;
-    --link-visited: #90caf9;
     --accent: rgb(56, 206, 229);
     --accent-text: #7fd8e8;
     --accent-soft: rgba(56, 206, 229, 0.16);
@@ -76,8 +72,8 @@ body {
   background: var(--bg);
   color: var(--text);
   font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif;
-  font-size: 17px;
-  line-height: 1.6;
+  font-size: 19px;
+  line-height: 1.48;
   -webkit-text-size-adjust: 100%;
 }
 
@@ -87,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   margin-bottom: 0.6em;
 }
-h1 { font-size: 1.9em; }
+h1 { font-size: 1.75em; }
 h2 { font-size: 1.4em; }
 h3 { font-size: 1.15em; }
 
@@ -99,9 +95,9 @@ strong { font-weight: 700; }
 em { font-style: italic; }
 hr { border: 0; border-top: 1px solid var(--border); margin: 1.5em 0; }
 
-a { color: var(--link); text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; transition: color 0.2s, text-decoration-color 0.2s; }
-a:visited { color: var(--link-visited); }
-a:hover, a:focus { color: var(--accent-text); text-decoration-color: var(--accent-text); }
+a { color: var(--accent-text); text-decoration: underline; text-underline-offset: 2px; transition: color 0.2s; }
+a:visited { color: var(--accent-text); }
+a:hover, a:focus { color: var(--text); }
 
 code, pre, tt {
   font-family: Menlo, Monaco, "Andale Mono", "Lucida Console", "Courier New", monospace;
@@ -128,7 +124,7 @@ th { font-weight: 700; }
 /* ---------- Page shell ---------- */
 
 body > header, body > nav, #content, body > footer {
-  max-width: 700px;
+  max-width: 820px;
   margin: 0 auto;
   padding-left: 20px;
   padding-right: 20px;
@@ -147,21 +143,23 @@ body > header {
 .site-identity {
   flex-shrink: 0;
   display: block;
-  width: 40px;
-  height: 40px;
+  width: 56px;
+  height: 56px;
+  position: relative;
+  top: -2px;
   border-radius: 50%;
   overflow: hidden;
-  border: 1px solid var(--border);
 }
 .site-identity img { display: block; width: 100%; height: 100%; object-fit: cover; }
 
-.logo-left h1 { font-size: 1.5em; margin-bottom: 0.1em; }
+.logo-left h1 { font-size: 1.5em; margin-bottom: 0; line-height: 1.15; }
 .logo-left h1 a { color: var(--text); text-decoration: none; }
 .logo-left h1 a:hover { color: var(--accent-text); }
 .logo-left h2 {
   font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif;
   font-weight: 400;
-  font-size: 0.8em;
+  font-size: 0.85em;
+  margin-bottom: 0;
   color: var(--muted);
 }
 
@@ -179,6 +177,16 @@ body > nav {
   font-size: 0.85em;
 }
 
+.lang-switch-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+.lang-switch-label {
+  color: var(--muted);
+  font-size: 0.85em;
+  font-weight: 700;
+}
 .lang-switch {
   display: inline-flex;
   gap: 2px;
@@ -195,6 +203,13 @@ body > nav {
   font-size: 0.85em;
   letter-spacing: 0.03em;
   text-decoration: none;
+  text-align: center;
+}
+/* Only the ALL/TODOS pill's text actually changes with the chrome
+   language - reserve width just there so the row never shifts, instead of
+   inflating every pill (which made ENG/PORT look loose, see PR discussion). */
+.lang-switch a:last-child {
+  min-width: 66px;
 }
 .lang-switch a:hover { color: var(--text); }
 .lang-switch a.active {
@@ -265,10 +280,30 @@ p.meta {
 p.meta .separator { padding: 0 0.4em; }
 
 .entry-content { margin-top: 1em; }
+.entry-content::after { content: ""; display: table; clear: both; }
 .entry-content img, .entry-content video { border-radius: 6px; }
 .entry-content .basic-alignment.left, .entry-content img.left { float: left; margin: 0.2em 1.5em 0.8em 0; }
 .entry-content .basic-alignment.right, .entry-content img.right { float: right; margin: 0.2em 0 0.8em 1.5em; }
 .entry-content .basic-alignment.center, .entry-content img.center { display: block; margin: 0 auto 1.5em; }
+
+/* WordPress-era image alignment classes (alignleft/alignright/aligncenter,
+   wp-caption) - carried over from imported WP content, used across ~90
+   posts and several non-post pages, not scoped to .entry-content. */
+.alignleft { float: left; }
+.alignright { float: right; }
+.aligncenter, div.aligncenter, img.centered { display: block; margin-left: auto; margin-right: auto; }
+img.alignleft { margin: 0.2em 1.2em 0.8em 0; }
+img.alignright { margin: 0.2em 0 0.8em 1.2em; }
+.wp-caption {
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  margin: 10px 0;
+  padding-top: 4px;
+  text-align: center;
+}
+.wp-caption img { display: block; margin: 0; border: 0; }
+.wp-caption p.wp-caption-text { font-size: 0.8em; padding: 0.6em; color: var(--muted); }
 article { clear: both; }
 
 article > footer {
@@ -276,10 +311,17 @@ article > footer {
   padding-top: 1em;
   border-top: 1px solid var(--border);
 }
-article > footer p.meta { display: flex; flex-wrap: wrap; gap: 0.4em 0; margin-bottom: 0.8em; }
-article > footer p.meta:last-child { justify-content: space-between; margin-bottom: 0; }
+article > footer p.meta { margin-bottom: 0.8em; }
+article > footer p.meta:last-child {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3em 1em;
+  margin-bottom: 0;
+}
 article > footer a.basic-alignment { color: var(--text); text-decoration: none; font-weight: 700; }
 article > footer a.basic-alignment:hover { color: var(--accent-text); }
+article > footer a.basic-alignment.left { margin-right: auto; }
+article > footer a.basic-alignment.right { margin-left: auto; text-align: right; }
 
 /* ---------- Blog index / listing ---------- */
 
@@ -315,14 +357,14 @@ div.pagination a.prev, div.pagination a.next { color: var(--text); font-weight: 
 
 /* ---------- Archives ---------- */
 
-#blog-archives .year-group { margin-top: 2.5em; }
+#blog-archives .year-group { margin-top: 1.8em; }
 #blog-archives .year-group:first-child { margin-top: 0; }
-#blog-archives .year-group h2 { margin-bottom: 0.6em; }
+#blog-archives .year-group h2 { margin-bottom: 0.3em; font-size: 1.2em; }
 #blog-archives article {
   display: flex;
   align-items: baseline;
   gap: 1em;
-  padding: 0.4em 0;
+  padding: 0.15em 0;
   border-bottom: 1px dotted var(--border);
 }
 #blog-archives article time { flex-shrink: 0; width: 6em; color: var(--muted); font-size: 0.85em; }
@@ -335,11 +377,12 @@ div.pagination a.prev, div.pagination a.next { color: var(--text); font-weight: 
 /* ---------- Footer ---------- */
 
 body > footer {
-  padding-top: 1.5em;
-  padding-bottom: 2.5em;
+  padding-top: 0.8em;
+  padding-bottom: 2em;
   border-top: 1px solid var(--border);
   font-size: 0.8em;
   color: var(--muted);
+  text-align: center;
 }
 body > footer a { color: var(--muted); }
 body > footer a:hover { color: var(--accent-text); }
@@ -397,7 +440,7 @@ figure.code .highlight { border-radius: 0 0 6px 6px; margin-top: -1px; }
 @media (max-width: 600px) {
   body { font-size: 16px; }
   body > header { gap: 10px; padding-top: 1.2em; }
-  .site-identity { width: 32px; height: 32px; }
+  .site-identity { width: 46px; height: 46px; }
   .logo-left h1 { font-size: 1.25em; }
   body > nav { gap: 10px; font-size: 0.8em; }
   .subscribe-rss span { display: none; }

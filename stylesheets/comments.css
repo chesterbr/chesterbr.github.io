@@ -68,12 +68,14 @@ button:hover {
 }
 
 .comment__avatar-wrapper {
-  float: left;
-  width: 60px;
+  grid-column: 1;
+  grid-row: 1 / span 2;
+  width: 50px;
   height: 50px;
 }
 
 .comment__avatar {
+  display: block;
   width: 50px;
   height: 50px;
   border-radius: 50%;
@@ -111,6 +113,7 @@ button:hover {
 
 .comments {
   font-size: 90%;
+  margin-top: 2.5em;
 }
 
 .comments hr {
@@ -118,7 +121,20 @@ button:hover {
 }
 
 .comment {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  column-gap: 12px;
   margin-bottom: 1em;
+}
+
+.comment__content-wrapper {
+  grid-column: 2;
+  grid-row: 1;
+}
+
+.comment__body {
+  grid-column: 2;
+  grid-row: 2;
 }
 
 .comment.child {
