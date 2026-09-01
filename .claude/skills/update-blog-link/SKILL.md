@@ -1,6 +1,6 @@
 ---
 name: update-blog-link
-description: Replace a dead or outdated URL in blog posts with a working replacement - finds every post linking to the old URL, swaps it in, removes dead-link styling if present, verifies the build, and pushes straight to main. Use when the user found a broken/outdated link on the blog (marked dead-link or not) and has, or wants help finding, a live replacement.
+description: Replace a dead or outdated URL in blog posts with a working replacement - finds every post linking to the old URL, swaps it in, removes dead-link styling if present, verifies the build, and commits to main locally (does not push - leaves that for the user to batch with other link fixes). Use when the user found a broken/outdated link on the blog (marked dead-link or not) and has, or wants help finding, a live replacement.
 user-invocable: true
 allowed-tools:
   - Read
@@ -116,7 +116,7 @@ single-link change.
 
 Clean up: `rm -rf _site .jekyll-cache .jekyll-metadata`.
 
-## 6. Show the diff, then commit and push to main
+## 6. Show the diff, then commit (don't push)
 
 ```
 git diff -- _posts/
@@ -126,13 +126,16 @@ Show it. Then, assuming it's just the intended URL swap(s):
 ```
 git add -A
 git commit -m "fix dead link: OLD_URL -> NEW_URL"
-git push
 ```
 
-Straight to `main`, no branch/PR - confirmed with the user that a PR
-buys nothing here (the deploy workflow only triggers on push to `main`
-either way, and branch protection isn't enabled), and a single-URL swap
-is about as low-risk as a change gets. If `git status` shows *other*
+Commit straight to `main` locally - no branch/PR, confirmed with the
+user that a PR buys nothing here (branch protection isn't enabled), and
+a single-URL swap is about as low-risk as a change gets. But **don't
+run `git push`** unless the user explicitly asks for it in this
+invocation: they often queue up several link fixes in a row (this skill
+and its siblings `archive-blog-link`, `mark-blog-link-dead`,
+`mark-blog-link-live`) and want one push - and one deploy - covering
+all of them, not one deploy per link. If `git status` shows *other*
 unrelated uncommitted changes before you start, stop and ask rather than
 sweeping them into this commit.
 

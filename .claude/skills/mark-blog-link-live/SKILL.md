@@ -1,6 +1,6 @@
 ---
 name: mark-blog-link-live
-description: Remove dead-link styling (strikethrough + dagger) from every occurrence of a URL that's actually back online, verifies the build, and pushes straight to main. No live-check - use this when the user has already confirmed by hand that a link previously marked dead is working again.
+description: Remove dead-link styling (strikethrough + dagger) from every occurrence of a URL that's actually back online, verifies the build, and commits to main locally (does not push - leaves that for the user to batch with other link fixes). No live-check - use this when the user has already confirmed by hand that a link previously marked dead is working again.
 user-invocable: true
 allowed-tools:
   - Read
@@ -71,7 +71,7 @@ unrelated failure count, just noise here.
 
 Clean up: `rm -rf _site .jekyll-cache .jekyll-metadata`.
 
-## 5. Show the diff, then commit and push to main
+## 5. Show the diff, then commit (don't push)
 
 ```
 git diff -- _posts/
@@ -83,11 +83,14 @@ commit. Otherwise:
 ```
 git add -A
 git commit -m "mark link live again: URL"
-git push
 ```
 
-Straight to `main`, no branch/PR - same rationale as `update-blog-link`:
-no branch protection, the deploy workflow only triggers on push to
-`main` either way, and this is as low-risk as changes get. If multiple
+Commit straight to `main` locally - no branch/PR, same rationale as
+`update-blog-link`: branch protection isn't enabled, and this is as
+low-risk as changes get. But **don't run `git push`** unless the user
+explicitly asks for it in this invocation: they often queue up several
+link fixes in a row (this skill and its siblings `update-blog-link`,
+`archive-blog-link`, `mark-blog-link-dead`) and want one push - and one
+deploy - covering all of them, not one deploy per link. If multiple
 posts had the same URL marked dead, one commit covering all of them is
 fine.

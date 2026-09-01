@@ -1,6 +1,6 @@
 ---
 name: archive-blog-link
-description: Point every occurrence of a known-dead URL at its closest archive.org snapshot (the earliest one at or after each referencing post's own publish date), verifies the build, and pushes straight to main. No live-check of the old URL - use this when the user already knows a link is dead (found it by hand, or a check already failed) and just wants it archived, not re-verified.
+description: Point every occurrence of a known-dead URL at its closest archive.org snapshot (the earliest one at or after each referencing post's own publish date), verifies the build, and commits to main locally (does not push - leaves that for the user to batch with other link fixes). No live-check of the old URL - use this when the user already knows a link is dead (found it by hand, or a check already failed) and just wants it archived, not re-verified.
 user-invocable: true
 allowed-tools:
   - Read
@@ -137,7 +137,7 @@ noise here.
 
 Clean up: `rm -rf _site .jekyll-cache .jekyll-metadata`.
 
-## 6. Show the diff, then commit and push to main
+## 6. Show the diff, then commit (don't push)
 
 ```
 git diff -- _posts/
@@ -149,12 +149,15 @@ commit. Otherwise:
 ```
 git add -A
 git commit -m "archive dead link: URL"
-git push
 ```
 
-Straight to `main`, no branch/PR - same rationale as `update-blog-link`:
-no branch protection, the deploy workflow only triggers on push to
-`main` either way, and this is as low-risk as changes get.
+Commit straight to `main` locally - no branch/PR, same rationale as
+`update-blog-link`: branch protection isn't enabled, and this is as
+low-risk as changes get. But **don't run `git push`** unless the user
+explicitly asks for it in this invocation: they often queue up several
+link fixes in a row (this skill and its siblings `update-blog-link`,
+`mark-blog-link-dead`, `mark-blog-link-live`) and want one push - and
+one deploy - covering all of them, not one deploy per link.
 
 If different occurrences landed on different snapshot timestamps
 (different post dates), say so in the commit body - list each affected
