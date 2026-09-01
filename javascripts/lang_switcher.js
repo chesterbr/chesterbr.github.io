@@ -96,6 +96,17 @@
     return /^\/blog(\/(en|pt-br))?\/(page\d+\/)?$/.test(path);
   }
 
+  // /blog/ (no /en/ or /pt-br/ segment) is the unfiltered, all-languages
+  // listing - its posts aren't locale-filtered server-side, so the
+  // [data-reader-lang]/[data-lang] CSS filter is the only thing hiding
+  // posts there. Landing here (bookmark, typed URL, old link) with an
+  // explicit en/pt-BR mode already stored filters out whichever language
+  // dominates that page's post set, which can leave it empty. Redirect to
+  // the matching locale URL instead, same as clicking the switcher would.
+  function isUnfilteredBlogListingPath(path) {
+    return /^\/blog\/(page\d+\/)?$/.test(path);
+  }
+
   // Pages with no [data-lang] elements (single posts, plain pages like
   // /about/) have nothing for the switcher to filter in place - clicking it
   // there only changed chrome text, which reads as broken. Send the reader
@@ -106,7 +117,12 @@
   }
 
   document.addEventListener("DOMContentLoaded", function () {
-    apply(getMode());
+    var mode = getMode();
+    if (mode !== "all" && isUnfilteredBlogListingPath(window.location.pathname)) {
+      window.location.href = blogUrlFor(mode);
+      return;
+    }
+    apply(mode);
 
     document.querySelectorAll("[data-set-lang]").forEach(function (link) {
       link.addEventListener("click", function (event) {
