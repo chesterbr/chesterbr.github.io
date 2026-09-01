@@ -358,17 +358,16 @@ div.pagination a.prev, div.pagination a.next { color: var(--text); font-weight: 
 /* ---------- Archives ---------- */
 
 #blog-archives .year-group { margin-top: 1.8em; }
-#blog-archives .year-group:first-child { margin-top: 0; }
+#blog-archives .year-group:first-child { margin-top: 0.6em; }
 #blog-archives .year-group h2 { margin-bottom: 0.3em; font-size: 1.2em; }
 #blog-archives article {
   display: flex;
   align-items: baseline;
   gap: 1em;
-  padding: 0.15em 0;
-  border-bottom: 1px dotted var(--border);
+  padding: 0.08em 0;
 }
 #blog-archives article time { flex-shrink: 0; width: 6em; color: var(--muted); font-size: 0.85em; }
-#blog-archives article h1 { font-size: 1em; font-weight: 400; font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif; }
+#blog-archives article h1 { font-size: 1em; font-weight: 400; margin-bottom: 0; font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif; }
 #blog-archives article h1 a { color: var(--text); text-decoration: none; }
 #blog-archives article h1 a:hover { color: var(--accent-text); }
 #blog-archives article footer { color: var(--muted); font-size: 0.8em; }

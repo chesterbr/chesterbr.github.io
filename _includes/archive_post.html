@@ -1,6 +1,6 @@
 {% capture category %}{{ post.categories | size }}{% endcapture %}
-<h1><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h1>
 <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>{{ post.date | date: "<span class='month'>%b</span> <span class='day'>%d</span> <span class='year'>%Y</span>"}}</time>
+<h1><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h1>
 {% if category != '0' %}
 <footer>
   <span class="categories"><span data-i18n="postedIn">posted in</span> {{ post.categories | category_links }}</span>
