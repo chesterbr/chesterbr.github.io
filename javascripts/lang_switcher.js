@@ -4,6 +4,7 @@
 
   var translationsPt = {
     blogTitle: "blog do chester",
+    langAll: "TODOS",
     archives: "Arquivo",
     eightBit: "8-Bit",
     etcetera: "Etcetera",
@@ -95,6 +96,15 @@
     return /^\/blog(\/(en|pt-br))?\/(page\d+\/)?$/.test(path);
   }
 
+  // Pages with no [data-lang] elements (single posts, plain pages like
+  // /about/) have nothing for the switcher to filter in place - clicking it
+  // there only changed chrome text, which reads as broken. Send the reader
+  // to the blog listing for that mode instead. Listing/archive pages do
+  // have [data-lang] content, so they keep filtering in place.
+  function hasFilterableContent() {
+    return !!document.querySelector("[data-lang]");
+  }
+
   document.addEventListener("DOMContentLoaded", function () {
     apply(getMode());
 
@@ -103,7 +113,7 @@
         event.preventDefault();
         var newMode = link.getAttribute("data-set-lang");
         localStorage.setItem(STORAGE_KEY, newMode);
-        if (isBlogListingPath(window.location.pathname)) {
+        if (isBlogListingPath(window.location.pathname) || !hasFilterableContent()) {
           window.location.href = blogUrlFor(newMode);
         } else {
           apply(newMode);
