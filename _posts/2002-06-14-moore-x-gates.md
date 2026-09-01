@@ -15,4 +15,4 @@ Neste contexto sem-graça é muito gratificante ler artigos como [.NET Signals a
 Dave não se arrisca a responder as dúvidas sobre o futuro (ele encerra o texto com a corente questão &#8220;quando a poeira baixar, quem vai estar de pé?&#8221;), e justamente por este pé-no-chão que eu recomendo a leitura.
 
  [1]: http://davidbau.com/old/dabbler/stories/storyReader$88
- [2]: http://dqsd.net/
+ [2]: https://dqsd.sourceforge.net/
