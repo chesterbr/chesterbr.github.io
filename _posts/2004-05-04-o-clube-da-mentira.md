@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: O clube da mentira
 layout: post
 comments: true

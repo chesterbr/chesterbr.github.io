@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Crumb: a censura acontecendo onde menos se espera'
 layout: post
 comments: true

@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'And the Oscar goes to&#8230; Omelete'
 layout: post
 comments: true

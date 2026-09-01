@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: O inferno astral do Ronald
 layout: post
 comments: true

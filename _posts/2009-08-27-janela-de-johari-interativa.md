@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Janela de Johari Interativa
 layout: post
 comments: true

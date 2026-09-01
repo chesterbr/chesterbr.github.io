@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Kanji Pictográfico
 layout: post
 comments: true

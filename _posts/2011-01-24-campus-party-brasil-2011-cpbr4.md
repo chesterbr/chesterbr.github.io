@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Campus Party Brasil 2011 (#cpbr4)'
 layout: post
 comments: true

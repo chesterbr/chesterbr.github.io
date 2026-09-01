@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Eu tou voando, eu tou voando
 layout: post
 comments: true

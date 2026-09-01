@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Show do caetano
 layout: post
 comments: true

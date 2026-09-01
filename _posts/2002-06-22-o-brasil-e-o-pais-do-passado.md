@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: O Brasil é o país do passado
 layout: post
 comments: true

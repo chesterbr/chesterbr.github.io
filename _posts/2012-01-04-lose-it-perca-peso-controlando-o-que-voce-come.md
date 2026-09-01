@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Lose It! &#8211; perca peso controlando o que você come'
 layout: post
 comments: true

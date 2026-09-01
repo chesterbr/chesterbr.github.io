@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Você mexeria com um hipopótamo?
 layout: post
 comments: true

@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Videos amadores Stone Age Scanners
 layout: post
 comments: true

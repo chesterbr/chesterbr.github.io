@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Twitter e a frivolidade
 excerpt: |
   |

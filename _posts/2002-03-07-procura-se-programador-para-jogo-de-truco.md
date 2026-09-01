@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Truco para Windows/Linux
 layout: post
 comments: true

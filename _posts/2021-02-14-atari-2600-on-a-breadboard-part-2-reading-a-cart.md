@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: "Atari 2600 on a breadboard, part II: reading a cart"
 og_image: /img/2021/02/6507-cart-breadboard-messy.jpg
@@ -18,7 +18,7 @@ categories:
 
 ### Previously...
 
-A _long_ time ago I grabbed the three chips from a broken Atari 2600 (Jr.), to see if I could build an Atari with them on a [solder-less "breadboard"](https://www.youtube.com/watch?v=mE33WpRWrXs). My first attempt ([post here]({% link _posts/2017-09-06-atari-2600-cpu-running-on-a-breadboard.markdown %})) was to drive the CPU with an Arduino, which showed the chip advancing through what it believes to be memory, but is actually just a single "no operation" (`NOP`) hard-wired instruction:
+A _long_ time ago I grabbed the three chips from a broken Atari 2600 (Jr.), to see if I could build an Atari with them on a [solder-less "breadboard"](https://www.youtube.com/watch?v=mE33WpRWrXs). My first attempt ([post here]({% link _posts/2017-09-06-atari-2600-cpu-running-on-a-breadboard.md %})) was to drive the CPU with an Arduino, which showed the chip advancing through what it believes to be memory, but is actually just a single "no operation" (`NOP`) hard-wired instruction:
 
 ![cleaner version of the 6507 memory walk on a breadboard](/img/2021/02/6507-nop.jpg){: .center }
 
@@ -57,7 +57,7 @@ The fit wasn't perfect, but with some epoxy and a bit of drilling, I managed to 
 
 ![6507](/img/2021/02/6507.gif){: .right }
 
-Starting with the breadboard from the [first post]({% link _posts/2017-09-06-atari-2600-cpu-running-on-a-breadboard.markdown %}), I removed the hard-wired `NOP` instruction, and connected the address/data lines to the matching pins on the 6507, and the +5V (socket pin 23) and ground (socket pins 12 & 24) to the power lines.
+Starting with the breadboard from the [first post]({% link _posts/2017-09-06-atari-2600-cpu-running-on-a-breadboard.md %}), I removed the hard-wired `NOP` instruction, and connected the address/data lines to the matching pins on the 6507, and the +5V (socket pin 23) and ground (socket pins 12 & 24) to the power lines.
 
 One thing to notice: the Atari schematics refer to data pins as `D1`-`D8`, whereas 6507 names them `D0`-`D7` (starting from 0 like the address pins, and also like bits are usually assigned). But at least they are aligned on the chip, so it wasn't (much) confusing.
 

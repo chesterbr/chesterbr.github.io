@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Inversão de papéis: ursos panda recebendo educação sexual'
 layout: post
 comments: true

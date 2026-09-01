@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Video Games Live 2009 SP
 layout: post
 comments: true

@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: A verdadeira história da Loira Fantasma
 excerpt: |
   |

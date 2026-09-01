@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Disney dominando as mentes
 layout: post
 comments: true

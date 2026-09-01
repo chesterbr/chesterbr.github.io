@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Garçon, uma coca com gelo, limão e conformismo, por favor
 layout: post
 comments: true

@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: RubyConf Brasil 2010
 layout: post
 comments: true

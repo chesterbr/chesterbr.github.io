@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Vai jogar assim no inferno
 layout: post
 comments: true

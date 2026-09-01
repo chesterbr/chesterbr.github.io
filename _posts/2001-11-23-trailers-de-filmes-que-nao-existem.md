@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Trailers de filmes que não existem
 layout: post
 comments: true

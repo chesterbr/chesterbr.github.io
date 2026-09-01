@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: A Busca de Epaminondas Jr.
 excerpt: |
   |

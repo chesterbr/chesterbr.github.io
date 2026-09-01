@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Chester em Curitiba
 layout: post
 comments: true

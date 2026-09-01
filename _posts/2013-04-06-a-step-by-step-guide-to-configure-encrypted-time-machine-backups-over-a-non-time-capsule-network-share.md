@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 title: A step-by-step guide to configure encrypted Time Machine backups over a non-(Time Capsule) network share
 layout: post
 comments: true

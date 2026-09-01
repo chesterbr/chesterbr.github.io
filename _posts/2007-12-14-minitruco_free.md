@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 title: 'miniTruco: free multiplayer card game for Java-enabled mobile phones'
 excerpt: |
   |

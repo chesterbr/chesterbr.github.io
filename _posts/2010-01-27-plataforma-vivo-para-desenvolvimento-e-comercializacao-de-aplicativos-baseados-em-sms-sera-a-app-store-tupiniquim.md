@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Plataforma Vivo para desenvolvimento e comercialização de aplicativos baseados em SMS &#8211; será a App Store tupiniquim?'
 layout: post
 comments: true

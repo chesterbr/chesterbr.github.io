@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Saudades de akira? experimente Gunm &#8211; Alita Battle Angel'
 layout: post
 comments: true

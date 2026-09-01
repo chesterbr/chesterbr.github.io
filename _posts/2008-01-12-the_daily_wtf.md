@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: The Daily WTF
 excerpt: |
   |

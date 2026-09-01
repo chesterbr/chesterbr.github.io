@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Desenvolvimento para iPhone: instalando o toolchain'
 excerpt: |
   |

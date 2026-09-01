@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 title: 'Marvel Unlimited &#8211; a digital warehouse of comics for $5/month!'
 layout: post
 comments: true

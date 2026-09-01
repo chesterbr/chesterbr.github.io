@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Campus Party Brasil 2009
 excerpt: |
   |

@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Tudo o que você queria saber sobre sexo
 excerpt: |
   |

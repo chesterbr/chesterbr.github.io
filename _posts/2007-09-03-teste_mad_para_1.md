@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Teste MAD para Primeiros Socorros &#8211; só que fora da MAD'
 excerpt: |
   |

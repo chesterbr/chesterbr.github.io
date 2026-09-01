@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Bauru de jogos
 layout: post
 comments: true

@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Os disneys por trás de Disney
 layout: post
 comments: true

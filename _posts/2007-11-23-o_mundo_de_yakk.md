@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: O Mundo de Yakko
 excerpt: |
   |

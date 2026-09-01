@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Captain Jack: Game Over'
 excerpt: |
   |

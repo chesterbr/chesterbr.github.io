@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Transformando o google em paintbrush
 layout: post
 comments: true

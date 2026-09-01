@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Google Developer Day 2010
 layout: post
 comments: true

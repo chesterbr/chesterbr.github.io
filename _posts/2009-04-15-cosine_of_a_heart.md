@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 title: Cosine of a Heart
 excerpt: |
   |

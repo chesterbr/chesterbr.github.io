@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: É disso que o povo gosta, é isso que o povo quer
 excerpt: |
   |

@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Front quadrinhos
 layout: post
 comments: true

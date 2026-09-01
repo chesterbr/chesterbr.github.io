@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: "Hacking a BMW"
 og_image: /img/2019/01/bmw-console-obd-slot.jpg

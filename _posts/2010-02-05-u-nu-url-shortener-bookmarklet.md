@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 title: u.nu URL shortener bookmarklet
 layout: post
 comments: true

@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Descomplicando os &#8220;Powerpoints&#8221;'
 excerpt: |
   |

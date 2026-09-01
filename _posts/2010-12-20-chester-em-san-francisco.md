@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Chester em San Francisco
 layout: post
 comments: true

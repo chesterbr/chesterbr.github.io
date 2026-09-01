@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Pastor Silas e a Igreja Internacional
 layout: post
 comments: true

@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Bonecos de Neve do Calvin
 excerpt: |
   |

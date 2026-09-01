@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'MegaTokyo: HQ bacana, online e também em português'
 excerpt: |
   |

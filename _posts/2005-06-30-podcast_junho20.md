@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Podcast: Junho/2005'
 excerpt: |
   |

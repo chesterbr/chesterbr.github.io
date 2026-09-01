@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'BroxaMusic &#8211; Música Ruim de Qualidade!'
 excerpt: |
   |

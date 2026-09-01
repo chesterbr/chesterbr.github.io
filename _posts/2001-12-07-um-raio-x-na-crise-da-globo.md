@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Um raio-x na crise da Globo
 layout: post
 comments: true

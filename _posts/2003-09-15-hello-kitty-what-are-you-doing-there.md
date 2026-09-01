@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Hello, kitty&#8230; what are you doing <i>there</i>???'
 layout: post
 comments: true

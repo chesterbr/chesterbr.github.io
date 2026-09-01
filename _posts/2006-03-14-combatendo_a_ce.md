@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Combatendo a Censura ao Boing Boing
 excerpt: |
   |

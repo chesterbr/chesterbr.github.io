@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Nokia E62 &#8211; Avaliação, Dicas e Programas'
 excerpt: |
   |

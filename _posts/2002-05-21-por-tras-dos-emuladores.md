@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Por trás dos emuladores
 layout: post
 comments: true

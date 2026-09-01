@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: A Arte de Entrevistar Bem (Thaís Oyama)
 layout: post
 comments: true

@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Chihiro e bush
 layout: post
 comments: true

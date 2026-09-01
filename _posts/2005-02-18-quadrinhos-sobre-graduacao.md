@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Quadrinhos sobre graduação
 layout: post
 comments: true

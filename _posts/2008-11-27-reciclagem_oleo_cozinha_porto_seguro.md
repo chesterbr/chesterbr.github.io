@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Reciclagem de óleo de cozinha facilitada pela Porto Seguro
 excerpt: |
   |

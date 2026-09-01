@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: '&#8220;Juventude&#8221; Cesar Maia'
 layout: post
 comments: true

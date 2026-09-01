@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: J2EE, .Net, o ovo e a galinha
 layout: post
 comments: true

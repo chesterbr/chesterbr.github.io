@@ -1,0 +1,32 @@
+<div class="blog-index">
+  {% assign index = true %}
+  {% for post in paginator.posts %}
+    {% assign content = post.excerpt %}
+    {% capture end_elipsis %}{{ post.excerpt | slice: -4, 3  }}{% endcapture %}
+    {% if post.content contains "<!--more-->" or end_elipsis == "..." %}
+      {% assign read_more = 'show' %}
+    {% else %}
+      {% assign read_more = 'hide' %}
+    {% endif %}
+    <article data-lang="{{ post.locale }}">
+      {% include article.html %}
+    </article>
+  {% endfor %}
+  <div class="pagination">
+    {% if paginator.next_page_path %}
+      <a class="prev" href="{{ root_url }}{{ paginator.next_page_path }}">&larr; Older</a>
+    {% endif %}
+    <a href="{{ root_url }}/archives">Blog Archives</a>
+    {% if paginator.previous_page_path %}
+      <a class="next" href="{{ root_url }}{{ paginator.previous_page_path }}">Newer &rarr;</a>
+    {% endif %}
+  </div>
+</div>
+<aside class="sidebar">
+  {% include custom/asides/about.html %}
+  {% include asides/github.html %}
+  {% include asides/delicious.html %}
+  {% include asides/recent_posts.html %}
+  {% include asides/pinboard.html %}
+  {% include asides/googleplus.html %}
+</aside>

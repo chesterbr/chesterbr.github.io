@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Toothing: metendo os dentes'
 layout: post
 comments: true

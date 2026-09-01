@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Crise no Japão: a herdeira é menina'
 layout: post
 comments: true

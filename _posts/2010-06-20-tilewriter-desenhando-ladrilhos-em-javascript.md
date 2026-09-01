@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'tilewriter &#8211; desenhando ladrilhos em JavaScript'
 layout: post
 comments: true

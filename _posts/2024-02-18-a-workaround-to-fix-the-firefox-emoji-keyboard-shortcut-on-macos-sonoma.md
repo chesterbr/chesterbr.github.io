@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: 'A workaround to fix the Firefox emoji keyboard shortcut on macOS Sonoma'
 og_image: /img/2024/02/hammer-keyboard.jpeg

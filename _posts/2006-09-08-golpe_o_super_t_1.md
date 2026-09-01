@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Golpe &#8211; O Super Trunfo dos Políticos Brasileiros'
 excerpt: |
   |

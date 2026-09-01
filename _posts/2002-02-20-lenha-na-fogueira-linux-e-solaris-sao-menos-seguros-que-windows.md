@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Lenha na fogueira: Linux e Solaris são menos seguros que Windows'
 layout: post
 comments: true

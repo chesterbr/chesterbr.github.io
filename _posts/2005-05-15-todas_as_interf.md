@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'GUIdebook &#8211; Interfaces Gráficas do Universo'
 excerpt: |
   |

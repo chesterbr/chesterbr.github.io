@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Retrospectiva Sílvio Santos 2001
 layout: post
 comments: true

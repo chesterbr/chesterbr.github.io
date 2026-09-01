@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Logotipo do Metrô (ou: nenhuma imagem vale tantas palavras)'
 excerpt: |
   |

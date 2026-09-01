@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Stupid.com &#8211; loja de coisas bizarras'
 excerpt: |
   |

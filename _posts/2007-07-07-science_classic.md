@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Science Classics de Larry Gonick
 excerpt: |
   |

@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Stumbling on Happiness (O Que Nos Faz Felizes), de Daniel Gilbert
 excerpt: |
   |

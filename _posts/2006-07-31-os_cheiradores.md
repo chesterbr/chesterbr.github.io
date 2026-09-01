@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Os Cheiradores de Pacotes em ação
 excerpt: |
   |

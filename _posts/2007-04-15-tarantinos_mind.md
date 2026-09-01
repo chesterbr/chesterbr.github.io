@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Tarantino&#8217;s Mind'
 excerpt: |
   |

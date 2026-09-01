@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Do Karatê Sem Mestre ao Campus Party (em apenas 20 anos)
 excerpt: |
   |

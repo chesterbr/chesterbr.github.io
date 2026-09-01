@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Numbers Rule Your World
 layout: post
 comments: true

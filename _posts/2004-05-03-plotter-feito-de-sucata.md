@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Plotter feito de sucata
 layout: post
 comments: true

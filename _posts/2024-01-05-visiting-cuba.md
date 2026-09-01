@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: 'Visiting Cuba'
 og_image: /img/2024/01/cuba-map-illustration.png

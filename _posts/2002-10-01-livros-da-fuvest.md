@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Livros da FUVEST
 layout: post
 comments: true

@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Arte e &#8220;Pirataria&#8221;'
 excerpt: |
   |

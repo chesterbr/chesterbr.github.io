@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Considerações sobre a regulamentação da profissão de Analista de Sistemas
 excerpt: |
   |

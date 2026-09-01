@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: 'Seja você também uma garotinha &#8211; é divertido!'
 excerpt: |
   |

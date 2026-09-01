@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Linguagens de Programação Comparadas
 excerpt: |
   |

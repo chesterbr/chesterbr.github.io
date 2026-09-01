@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Macho que é macho programa em Atari
 layout: post
 comments: true

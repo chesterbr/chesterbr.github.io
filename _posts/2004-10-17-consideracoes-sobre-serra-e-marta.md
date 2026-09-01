@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Considerações sobre Serra e Marta
 layout: post
 comments: true

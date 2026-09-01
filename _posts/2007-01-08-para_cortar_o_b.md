@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Para cortar o barulho da ventoinha, corte a voltagem
 excerpt: |
   |

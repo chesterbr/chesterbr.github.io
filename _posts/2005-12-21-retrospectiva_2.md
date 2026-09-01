@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Retrospectiva 2005, via Google
 excerpt: |
   |

@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Partidos vulgares, uma noite e nada mais
 layout: post
 comments: true

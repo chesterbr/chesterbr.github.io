@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Turma da Mônica Jovem (versão mangá)
 excerpt: |
   |

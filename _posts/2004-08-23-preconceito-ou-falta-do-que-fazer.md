@@ -1,5 +1,5 @@
 ---
-lang: pt-BR
+locale: pt-BR
 title: Preconceito ou falta do que fazer?
 layout: post
 comments: true
