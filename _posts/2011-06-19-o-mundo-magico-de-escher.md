@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: O Mundo Mágico de Escher
 layout: post
 comments: true

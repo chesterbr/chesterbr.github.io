@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Sony Ericsson Xperia X10 Mini Pro &#8211; Avaliação'
 layout: post
 comments: true

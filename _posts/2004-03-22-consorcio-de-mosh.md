@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Consórcio de mosh
 layout: post
 comments: true

@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 layout: post
 title: 'Making an old-school doorbell "ring" on Telegram (via Home Assistant + ESPHome + ESP8266)'
 og_image: /img/2022/10/all-together.jpg

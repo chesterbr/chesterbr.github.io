@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Facebook HACK &#8211; Toronto'
 layout: post
 comments: true

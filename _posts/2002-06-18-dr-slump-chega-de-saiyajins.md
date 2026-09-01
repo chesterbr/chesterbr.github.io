@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Dr. Slump: chega de saiyajins'
 layout: post
 comments: true

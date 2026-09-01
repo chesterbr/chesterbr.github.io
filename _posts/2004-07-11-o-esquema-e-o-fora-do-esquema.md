@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: O esquema e o fora-do-esquema
 layout: post
 comments: true

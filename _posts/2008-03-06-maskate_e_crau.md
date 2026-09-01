@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Maskate &#8211; é crau!'
 excerpt: |
   |

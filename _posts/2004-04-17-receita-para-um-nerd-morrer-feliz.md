@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Receita para um nerd morrer feliz
 layout: post
 comments: true

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Drawn! The Illustration and Cartooning Blog
 excerpt: |
   |

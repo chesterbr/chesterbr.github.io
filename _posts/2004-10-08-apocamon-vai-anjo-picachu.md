@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Apocamon: vai, anjo picachu'
 layout: post
 comments: true

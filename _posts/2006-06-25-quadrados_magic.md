@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Quadrados Mágicos, Pan-Mágicos e Diabólicos
 excerpt: |
   |

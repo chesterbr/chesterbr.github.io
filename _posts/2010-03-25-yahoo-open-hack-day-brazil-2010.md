@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Yahoo! Open Hack Day Brazil 2010
 layout: post
 comments: true

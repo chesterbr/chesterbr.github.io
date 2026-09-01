@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 title: 'Atari 2600 on a breadboard, part V: RIOT and Audio (and running actual games!)'
 layout: post
 og_image: "/img/2021/07/breadboard-with-riot-and-audio.jpeg"

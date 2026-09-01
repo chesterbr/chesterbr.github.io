@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 layout: post
 title: "Detecting TV power state via USB"
 og_image: /img/2020/06/tv-usb-esp.png

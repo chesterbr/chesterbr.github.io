@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: The IT Crowd
 excerpt: |
   |

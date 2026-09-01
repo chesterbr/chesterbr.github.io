@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: A babá do superbebê
 excerpt: |
   |

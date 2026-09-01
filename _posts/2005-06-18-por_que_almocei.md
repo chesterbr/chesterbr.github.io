@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Por Que Almocei Meu Pai
 excerpt: |
   |

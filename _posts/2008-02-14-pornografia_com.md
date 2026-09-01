@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Pornografia com Dragões Homossexuais
 excerpt: |
   |

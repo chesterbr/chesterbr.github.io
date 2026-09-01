@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Vale tudo no comprovante do cartão de crédito
 excerpt: |
   |

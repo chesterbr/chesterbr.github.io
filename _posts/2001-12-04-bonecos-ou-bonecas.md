@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Bonecos ou bonecas?
 layout: post
 comments: true

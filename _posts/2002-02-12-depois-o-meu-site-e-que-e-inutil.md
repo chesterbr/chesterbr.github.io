@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Depois o meu site é que é inútil&#8230;'
 layout: post
 comments: true

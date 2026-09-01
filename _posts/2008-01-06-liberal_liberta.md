@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Liberal Libertário Libertino &#8211; Crônicas'
 excerpt: |
   |

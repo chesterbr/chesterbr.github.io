@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Freakonomics: O lado oculto (e, muitas vezes, bizarro) da  socioeconomia'
 excerpt: |
   |

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Os &#8220;planos secretos&#8221; da Organização para a Libertação da Barbie'
 excerpt: |
   |

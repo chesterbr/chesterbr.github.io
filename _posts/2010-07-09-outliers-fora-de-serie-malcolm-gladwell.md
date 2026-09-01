@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Outliers (Fora de Série), por Malcolm Gladwell
 layout: post
 comments: true

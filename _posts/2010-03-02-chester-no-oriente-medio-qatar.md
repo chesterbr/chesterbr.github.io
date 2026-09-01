@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Chester no Oriente Médio (Qatar)
 layout: post
 comments: true

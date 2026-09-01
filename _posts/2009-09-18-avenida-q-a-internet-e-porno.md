@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Avenida Q &#8211; A Internet é pornô!'
 layout: post
 comments: true

@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 layout: post
 title: "Fixing a loose Nintendo Switch Joy-Con"
 og_image: "/img/2019/06/joycon_replacement.jpg"

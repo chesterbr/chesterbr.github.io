@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Exposição: Ocupação Angeli'
 layout: post
 comments: true

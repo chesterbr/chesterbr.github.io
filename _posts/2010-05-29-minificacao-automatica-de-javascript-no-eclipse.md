@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Minificação automática de JavaScript no Eclipse
 layout: post
 comments: true

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Saldo da guerra
 layout: post
 comments: true

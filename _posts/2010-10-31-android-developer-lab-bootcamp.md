@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Android Developer Lab Bootcamp
 layout: post
 comments: true

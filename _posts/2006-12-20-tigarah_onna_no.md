@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Tigarah: Onna no inu tachi dake![1]'
 excerpt: |
   |

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Dia de Hablar Portuñol
 excerpt: |
   |

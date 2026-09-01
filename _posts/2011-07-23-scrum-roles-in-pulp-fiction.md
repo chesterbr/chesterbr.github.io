@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 title: Scrum roles in Pulp Fiction
 layout: post
 comments: true

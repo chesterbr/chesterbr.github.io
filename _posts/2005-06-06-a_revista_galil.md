@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Galileu testa AB Toner, Celebrity Juice Fast e outros
 excerpt: |
   |

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Sexo com os Cavaleiros do Zodíaco
 excerpt: |
   |

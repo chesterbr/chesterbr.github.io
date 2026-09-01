@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 title: Should GMail blacklist spam senders?
 layout: post
 comments: true

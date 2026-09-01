@@ -2,7 +2,7 @@
   {% if site.data.comments[page.slug] %}
   <!-- Existing comments -->
   <div class="comments__existing">
-    <h2>Comments</h2>
+    <h2 data-i18n="comments">Comments</h2>
     <hr>
     <script>console.log("{{page.slug}}")</script>
     {% assign comments = site.data.comments[page.slug] | where_exp: "item", "item.replying_to_uid == ''" %}

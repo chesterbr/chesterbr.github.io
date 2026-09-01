@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Desvendando os quadrinhos
 layout: post
 comments: true

@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 title: Tweets And Replies
 excerpt: |
   |

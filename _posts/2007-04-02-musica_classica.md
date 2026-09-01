@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Música clássica: leia e ouça'
 excerpt: |
   |

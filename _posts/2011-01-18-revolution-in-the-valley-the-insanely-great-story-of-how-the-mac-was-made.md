@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Revolution in the Valley: The Insanely Great Story of How the Mac Was Made'
 layout: post
 comments: true

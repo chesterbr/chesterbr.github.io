@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: F. e Tarja Preta
 excerpt: |
   |

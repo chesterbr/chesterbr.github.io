@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 title: Raspberry Pi (with BerryBoot and ChameleonPI)
 layout: post
 comments: true

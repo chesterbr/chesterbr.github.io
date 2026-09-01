@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Meu próprio Apple II de garagem
 layout: post
 comments: true

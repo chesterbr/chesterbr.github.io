@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Smurf Porn &#8211; a Internet não fica mais bizarra que isso'
 excerpt: |
   |

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Noites de sono se tornam obsoletas
 layout: post
 comments: true

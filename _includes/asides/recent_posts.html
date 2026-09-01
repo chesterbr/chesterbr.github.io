@@ -1,8 +1,8 @@
 <section>
-  <h1>Recent Posts</h1>
+  <h1 data-i18n="recentPosts">Recent Posts</h1>
   <ul id="recent_posts">
     {% for post in site.posts limit: site.recent_posts %}
-      <li class="post">
+      <li class="post" data-lang="{{ post.lang }}">
         <a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
       </li>
     {% endfor %}

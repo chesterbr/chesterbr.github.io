@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 layout: post
 title: 'Migrating blog comments from Disqus to Staticman'
 og_image: /img/2024/02/staticman-logo-with-text.jpeg

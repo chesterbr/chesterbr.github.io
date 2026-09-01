@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Um feliz natal para todos
 layout: post
 comments: true

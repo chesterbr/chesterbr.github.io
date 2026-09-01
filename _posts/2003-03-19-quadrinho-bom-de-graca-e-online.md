@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Quadrinho bom, de graça e online
 layout: post
 comments: true

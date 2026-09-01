@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Darth Vader e seu Falo de Luz
 excerpt: |
   |

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Bill Gates: &#8220;nippankies go home!!!&#8221;'
 layout: post
 comments: true

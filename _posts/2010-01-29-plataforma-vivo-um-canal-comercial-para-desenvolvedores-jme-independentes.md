@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Plataforma Vivo: um canal comercial para desenvolvedores JME independentes.'
 layout: post
 comments: true

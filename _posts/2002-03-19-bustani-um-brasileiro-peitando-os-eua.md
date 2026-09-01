@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Bustani: um brasileiro peitando os EUA'
 layout: post
 comments: true

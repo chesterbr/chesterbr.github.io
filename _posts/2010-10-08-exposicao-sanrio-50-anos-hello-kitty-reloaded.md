@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Exposição Sanrio 50 Anos: Hello Kitty, reloaded.'
 layout: post
 comments: true

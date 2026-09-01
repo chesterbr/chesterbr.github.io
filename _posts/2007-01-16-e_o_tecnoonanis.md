@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: E o tecno-onanismo continua em alta
 excerpt: |
   |

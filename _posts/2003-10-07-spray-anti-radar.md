@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Spray anti-radar
 layout: post
 comments: true

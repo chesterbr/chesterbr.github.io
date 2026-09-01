@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Braços poderosos, sem exercícios, em algumas semanas
 excerpt: |
   |

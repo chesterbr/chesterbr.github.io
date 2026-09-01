@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Racing the Beam: Um raio-x do Atari 2600'
 layout: post
 comments: true

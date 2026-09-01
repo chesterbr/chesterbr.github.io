@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Polícia ou bandido? Na periferia tanto faz
 layout: post
 comments: true

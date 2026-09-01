@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 layout: post
 title: "More tips on reusable coffee pods in Keurig coffee makers"
 og_image: /img/2019/02/evak.jpg

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Boteco São Bento (o pior bar do sistema solar)
 layout: post
 comments: true

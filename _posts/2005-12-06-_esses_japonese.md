@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Line-Kill Spirits: bata e fotografe a calcinha'
 excerpt: |
   |

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'gTruco &#8211; Truco Paulista Multiplayer Online no browser (integrado com miniTruco)'
 excerpt: |
   |

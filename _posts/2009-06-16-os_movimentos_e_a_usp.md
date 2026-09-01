@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Os Movimentos e a USP
 excerpt: |
   |

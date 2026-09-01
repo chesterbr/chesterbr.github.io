@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Exposição Game On no Museu da Imagem e do Som (MIS)
 layout: post
 comments: true

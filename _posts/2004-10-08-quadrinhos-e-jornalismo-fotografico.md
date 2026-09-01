@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Quadrinhos e jornalismo fotográfico
 layout: post
 comments: true

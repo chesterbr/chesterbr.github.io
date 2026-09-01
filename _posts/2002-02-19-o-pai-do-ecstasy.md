@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: O pai do ecstasy
 layout: post
 comments: true

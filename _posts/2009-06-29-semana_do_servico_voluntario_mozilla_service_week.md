@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Semana do Serviço Voluntário da Mozilla (Mozilla Service Week)
 excerpt: |
   |

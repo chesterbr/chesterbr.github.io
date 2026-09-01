@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'E já que o assunto é atari&#8230;'
 layout: post
 comments: true

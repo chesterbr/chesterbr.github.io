@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Transpiauí: uma peregrinação proctológica'
 layout: post
 comments: true

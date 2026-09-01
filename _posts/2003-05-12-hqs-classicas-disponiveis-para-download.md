@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Hqs clássicas disponíveis para download
 layout: post
 comments: true

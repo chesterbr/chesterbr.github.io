@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Um guia de ruas diferente
 layout: post
 comments: true

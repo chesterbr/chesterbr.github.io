@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Os Vagabundos Iluminados (The Dharma Bums)
 excerpt: |
   |

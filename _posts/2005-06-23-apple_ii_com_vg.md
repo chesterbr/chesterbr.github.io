@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Apple II com VGA, CompactFlash, USB, teclado externo&#8230; e em um único chip!'
 excerpt: |
   |

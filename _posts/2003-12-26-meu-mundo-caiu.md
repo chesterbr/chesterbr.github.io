@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Meu mundo caiu
 layout: post
 comments: true

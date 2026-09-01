@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Estratégia e Gritaria no miniTruco
 excerpt: |
   |

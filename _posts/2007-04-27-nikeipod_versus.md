@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Nike+iPod versus Puma+Apple II
 excerpt: |
   |

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Sobre o &#8220;marqueteiro&#8221; do PT'
 layout: post
 comments: true

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Æblet og Ormen (The Apple and the Worm) no Anima Mundi
 layout: post
 comments: true

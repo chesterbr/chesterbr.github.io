@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'miniTruco &#8211; conserto de bugs'
 excerpt: |
   |

@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 layout: post
 title: "Using Ansible to configure a Raspberry Pi (Home Assistant, LIRC, 433Utils, Z-Wave, etc.)"
 og_image: "/img/2019/04/raspberry-pi-with-ir-blaster-rf-transmitter.jpg"

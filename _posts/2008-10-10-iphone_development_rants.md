@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 title: iPhone Development Rants
 excerpt: |
   |

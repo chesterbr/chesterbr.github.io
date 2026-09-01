@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 title: I Want Sandy (and others like her)
 excerpt: |
   |

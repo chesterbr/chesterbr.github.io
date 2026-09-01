@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Emulador de Gamecube *totalmente* multiplataforma'
 layout: post
 comments: true

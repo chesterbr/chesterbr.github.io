@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Boicotando a américa das marcas
 layout: post
 comments: true

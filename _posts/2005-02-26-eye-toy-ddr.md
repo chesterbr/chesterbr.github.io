@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Eye toy + ddr
 layout: post
 comments: true

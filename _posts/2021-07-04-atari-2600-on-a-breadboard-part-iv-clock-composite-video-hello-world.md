@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 title: 'Atari 2600 on a breadboard, part IV: clock + composite video = Hello, World!'
 layout: post
 og_image: /img/2021/07/hello-world-atari.jpg

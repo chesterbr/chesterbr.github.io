@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Quadrinhos no iPad
 layout: post
 comments: true

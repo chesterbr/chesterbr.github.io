@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Sexo remoto via Xbox &#8211; a vida imita a arte'
 excerpt: |
   |

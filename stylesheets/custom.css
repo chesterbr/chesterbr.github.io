@@ -30,6 +30,57 @@ a.dead-link {
     color: #888;
 }
 
+/** Reader language switcher (EN / PT-BR / All) - provisional, meant to
+    hold until the visual redesign, not a final design. */
+.lang-switch {
+    display: inline-flex;
+    gap: 8px;
+    align-items: center;
+    margin-right: 10px;
+}
+.lang-switch a {
+    opacity: 0.55;
+    font-size: 1.1em;
+    line-height: 1;
+}
+.lang-switch a:hover,
+.lang-switch a.active {
+    opacity: 1;
+}
+
+/** Reader-language filtering: hides posts/listing entries in the language
+    the reader isn't currently viewing. No rule for [data-reader-lang="all"]
+    on purpose - everything shows by default, which is also the correct
+    no-JS fallback. */
+[data-reader-lang="en"] [data-lang="pt-BR"] {
+    display: none;
+}
+[data-reader-lang="pt-BR"] [data-lang="en"] {
+    display: none;
+}
+
+/* /archives/ groups posts under a year heading; hide the whole group
+   (heading included) when every post in it is filtered out, instead of
+   leaving an empty year header behind. */
+[data-reader-lang="en"] .year-group:not(:has(article[data-lang="en"])) {
+    display: none;
+}
+[data-reader-lang="pt-BR"] .year-group:not(:has(article[data-lang="pt-BR"])) {
+    display: none;
+}
+
+/* screen.css's `#blog-archives h2:first-child` used to match only the
+   single overall-first year heading; wrapping each year in its own
+   .year-group section means every year's h2 now qualifies as :first-child
+   of its own section. Restore "only the very first year gets the extra
+   top padding". */
+#blog-archives h2:first-child {
+    padding-top: 0;
+}
+#blog-archives .year-group:first-child h2:first-child {
+    padding-top: .75em;
+}
+
 /** Simple thumbnail grid for image galleries (e.g. /gep/) */
 .gallery {
     display: flex;

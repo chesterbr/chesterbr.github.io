@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Eisner de carne e osso
 layout: post
 comments: true

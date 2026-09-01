@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Dois &#8220;chips&#8221; GSM no mesmo celular'
 excerpt: |
   |

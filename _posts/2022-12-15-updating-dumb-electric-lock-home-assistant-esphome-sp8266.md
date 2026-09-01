@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 layout: post
 title: 'Unlocking a dumb electric lock via Home Assistant (+ ESPHome + ESP8266)'
 og_image: /img/2022/12/esp-and-relay-shield.jpg

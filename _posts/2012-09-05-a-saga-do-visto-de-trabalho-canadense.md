@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: A saga do visto de trabalho canadense
 layout: post
 comments: true

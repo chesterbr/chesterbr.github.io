@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Etêêê&#8230; minha escola&#8230;'
 layout: post
 comments: true

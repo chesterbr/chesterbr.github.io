@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 title: '&#8220;No, thanks, I can use Meebo for that&#8221;'
 excerpt: |
   |

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Scroogenomics: A Economia dos Presentes'
 layout: post
 comments: true

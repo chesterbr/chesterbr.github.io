@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Só faltaram o sunda, o lochas e o dunha
 layout: post
 comments: true

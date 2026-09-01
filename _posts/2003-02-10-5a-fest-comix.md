@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 5a. fest comix
 layout: post
 comments: true

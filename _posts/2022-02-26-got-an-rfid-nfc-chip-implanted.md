@@ -1,5 +1,6 @@
 ---
 lang: en
+locale: en
 layout: post
 title: 'Got an NFC/RFID chip implanted in my hand'
 og_image: /img/2022/02/measuring_large.jpg

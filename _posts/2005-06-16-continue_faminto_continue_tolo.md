@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Continue Faminto, Continue Tolo
 excerpt: |
   |

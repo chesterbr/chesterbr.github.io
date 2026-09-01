@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Qual sistema operacional é você?
 layout: post
 comments: true

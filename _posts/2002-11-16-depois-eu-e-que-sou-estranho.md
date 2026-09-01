@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Depois eu é que sou estranho&#8230;'
 layout: post
 comments: true

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: E eu queria um desses
 layout: post
 comments: true

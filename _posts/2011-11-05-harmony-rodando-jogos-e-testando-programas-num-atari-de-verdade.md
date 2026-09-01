@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Harmony: rodando jogos (e testando programas) num Atari de verdade'
 layout: post
 comments: true

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Inclusão digital e a origem do linux
 layout: post
 comments: true

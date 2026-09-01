@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Chester na Europa (parte 2 de 3): Berlim'
 layout: post
 comments: true

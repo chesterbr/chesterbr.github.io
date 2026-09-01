@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: História da informática nacional
 layout: post
 comments: true

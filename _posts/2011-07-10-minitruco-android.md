@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: miniTruco Android
 layout: post
 comments: true

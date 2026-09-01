@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Coisas que irritam um motorista
 layout: post
 comments: true

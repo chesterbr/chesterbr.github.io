@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Alt.sex.hellokitty
 layout: post
 comments: true

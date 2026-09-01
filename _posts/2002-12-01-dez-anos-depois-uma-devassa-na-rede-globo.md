@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Dez anos depois, uma devassa na Rede Globo
 layout: post
 comments: true

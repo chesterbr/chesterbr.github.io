@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Camisinhas do kiss
 layout: post
 comments: true

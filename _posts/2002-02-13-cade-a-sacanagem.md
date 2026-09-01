@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Cadê a sacanagem???
 layout: post
 comments: true

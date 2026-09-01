@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: A falta de noção chegou na web e parou
 layout: post
 comments: true

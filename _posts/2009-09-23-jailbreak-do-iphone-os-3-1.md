@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Jailbreak do iPhone OS 3.1
 layout: post
 comments: true

@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Gen &#8211; Quadrinhos de Hiroshima'
 layout: post
 comments: true

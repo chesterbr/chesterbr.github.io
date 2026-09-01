@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: 'Meninas Iranianas (A Beginner&#8217;s Guide to Acting English / Persépolis)'
 layout: post
 comments: true

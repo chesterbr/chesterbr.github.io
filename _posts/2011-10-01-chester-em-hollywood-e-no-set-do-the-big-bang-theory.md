@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: Chester em Hollywood (e no set do The Big Bang Theory)
 layout: post
 comments: true

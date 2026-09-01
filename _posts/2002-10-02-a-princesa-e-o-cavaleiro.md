@@ -1,5 +1,6 @@
 ---
 lang: pt-BR
+locale: pt-BR
 title: A princesa e o cavaleiro
 layout: post
 comments: true
