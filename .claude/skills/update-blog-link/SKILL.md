@@ -8,6 +8,8 @@ allowed-tools:
   - Grep
   - Glob
   - Bash
+  - WebSearch
+  - WebFetch
 ---
 
 # /update-blog-link — swap a dead link for a live replacement
@@ -45,18 +47,32 @@ pattern from the original audit).
 
 ## 3. Find every occurrence
 
+Search on the bare domain, not just the exact `OLD_URL` string - posts
+often link to different paths on the same dead domain, not always the
+literal URL the user gave you:
+
 ```
-grep -rln --fixed-strings "OLD_URL" _posts/
+grep -rln --fixed-strings "the-domain.tld" _posts/
 ```
 
 Also check root-level content pages if nothing turns up in `_posts/`
-(`grep -rln --fixed-strings "OLD_URL" --include=*.md --include=*.html .`
+(`grep -rln --fixed-strings "the-domain.tld" --include=*.md --include=*.html .`
 excluding `_site/`, `vendor/`, `.git/`). If genuinely nothing matches,
 say so and stop rather than guessing at a near-miss URL.
 
-If it matches many unrelated posts, that's a signal `OLD_URL` might be
-too generic (e.g. a bare domain instead of a specific path) - confirm
-with the user before mass-editing.
+**For each match, check whether its path matches `OLD_URL` exactly.** If
+`OLD_URL` was given as a bare domain (or the match's path differs from
+it), don't assume swapping just the domain onto that match's path
+produces a live page - sanity-check that *specific* resulting URL the
+same way you checked `NEW_URL` in step 2 (curl -sI -L). A domain
+migration doesn't always preserve URL structure or even keep the same
+content (a book's publisher can change, e.g.). If a per-post swap 404s,
+don't guess a fix - tell the user what you found (the dead deep link,
+that the domain-only swap doesn't cover it) and ask how to proceed:
+search for a real replacement (WebSearch/WebFetch, or that post's
+publisher/site directly), fall back to an archive.org snapshot of the
+old URL, or mark it dead-link instead. Only apply the given `OLD_URL`
+-> `NEW_URL` swap directly to matches whose path actually corresponds.
 
 ## 4. Replace it, per occurrence
 
