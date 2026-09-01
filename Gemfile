@@ -2,12 +2,22 @@ source "https://rubygems.org"
 
 gem "bundler"
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 3.10.0"
+gem "kramdown-parser-gfm", "~> 1.1"
+gem "minima", "~> 2.5"
+gem "sanitize"
+gem "jekyll-sass-converter", "~> 1.5.2"
 
-# If you have any plugins, put them here!
-# group :jekyll_plugins do
-#   # gem "jekyll-admin", github: "chesterbr/jekyll-admin" #, branch: "chesterbr/bump-sinatra-and-rake"
-# end
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.17"
+  gem "jekyll-redirect-from", "~> 0.16"
+  gem "jekyll-paginate-v2", "~> 3.0"
+  gem "jekyll-sitemap", "~> 1.4"
+  gem "jekyll-gist", "~> 1.5"
+  gem "jekyll-optional-front-matter", "~> 0.3"
+  gem "jekyll-default-layout", "~> 0.1.5"
+  gem "jekyll-titles-from-headings", "~> 0.5.3"
+end
 
 # Ruby 3.0 does not include webrick anymore
 gem 'webrick'

@@ -7,11 +7,11 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@chesterbr">
 <meta name="twitter:creator" content="@chesterbr">
-<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
+<meta name="twitter:title" content="{% if page.title and page.title != site.title %}{{ page.title }} - {% endif %}{{ site.title }}">
 <meta name="twitter:url" content="{{ canonical }}">
 <meta name="twitter:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
 
-<meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}"/>
+<meta property="og:title" content="{% if page.title and page.title != site.title %}{{ page.title }} - {% endif %}{{ site.title }}"/>
 {% if page.url == '/index.html' %}
   <meta property="og:image"  content="//chester.me/img/chester_ila_250.jpg" />
   <meta name="twitter:image" content="//chester.me/img/chester_ila_250.jpg" />
