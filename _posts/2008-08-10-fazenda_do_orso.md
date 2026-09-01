@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Fazenda do Orson &#8211; as tiras perdidas'
 excerpt: |

@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Eu faço de você um mestre do KUNG FU CHINÊS
 excerpt: |

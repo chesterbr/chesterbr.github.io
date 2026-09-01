@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Não precisa ter medo&#8230;'
 layout: post

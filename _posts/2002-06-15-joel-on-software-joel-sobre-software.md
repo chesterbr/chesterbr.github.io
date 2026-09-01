@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Joel On Software -> Joel Sobre Software'
 layout: post

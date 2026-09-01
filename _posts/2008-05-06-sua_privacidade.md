@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Sua privacidade vale um chocolate?
 excerpt: |

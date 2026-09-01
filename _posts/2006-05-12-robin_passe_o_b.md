@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: '&#8220;Robin, passe o bat-repelente&#8230;&#8221;'
 excerpt: |

@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Desenvolvedor de jogos? melhor ser pirata!
 layout: post

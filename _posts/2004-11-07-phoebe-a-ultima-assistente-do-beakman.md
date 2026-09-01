@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Phoebe, a última assistente do beakman
 layout: post

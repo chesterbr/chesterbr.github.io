@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Por que Lula: uma outra visão'
 layout: post

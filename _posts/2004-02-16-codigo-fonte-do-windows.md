@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Código-fonte do windows
 layout: post

@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 title: Cordy 2 (and a bit of 3DS bashing)
 layout: post

@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: "Going from WordPress to Octopress"
 comments: true

@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: '&#8220;Temos que passar o ibest a limpo&#8221;, diria Boris Casoy'
 layout: post

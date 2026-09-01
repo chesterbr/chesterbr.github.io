@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: FISL 11, cruzalinhas e iG Code Golf
 layout: post

@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Revista Crocodilo &#8211; trash que satisfaz'
 layout: post

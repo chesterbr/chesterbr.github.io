@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Horário de verão: proibido pela ditadura'
 excerpt: |

@@ -10,7 +10,7 @@ footer: false
 <section class="year-group">
   <h2>{{ year_group.name }}</h2>
   {% for post in year_group.items %}
-  <article data-lang="{{ post.lang }}">
+  <article data-lang="{{ post.locale }}">
     {% include archive_post.html %}
   </article>
   {% endfor %}

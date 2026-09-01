@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: O Dia da Boa Notícia
 layout: post

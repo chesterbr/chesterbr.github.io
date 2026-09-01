@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Bem-vindo ao mondo bizarro
 layout: post

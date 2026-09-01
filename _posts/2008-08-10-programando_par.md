@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Programando para iPhone no Eee PC com Ubuntu
 excerpt: |

@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 layout: post
 title: "Detecting TV power state via USB"

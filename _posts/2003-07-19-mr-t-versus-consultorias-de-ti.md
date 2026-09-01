@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Mr. t versus consultorias de ti
 layout: post

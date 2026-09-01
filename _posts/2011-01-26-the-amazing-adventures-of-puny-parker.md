@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: The Amazing Adventures of Puny Parker
 layout: post

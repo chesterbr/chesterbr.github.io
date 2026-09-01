@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Aula sobre Mashups Web na UNESP (SECCOMP 2010)
 layout: post

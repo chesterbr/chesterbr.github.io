@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 title: 'Atari 2600 on a breadboard, part IV: clock + composite video = Hello, World!'
 layout: post

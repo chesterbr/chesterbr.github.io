@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Os ditadores amigos dos EUA &#8211; colecione!'
 excerpt: |

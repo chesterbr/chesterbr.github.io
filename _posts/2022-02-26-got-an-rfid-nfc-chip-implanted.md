@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 layout: post
 title: 'Got an NFC/RFID chip implanted in my hand'

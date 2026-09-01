@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 title: 'Atari 2600 on a breadboard, part V: RIOT and Audio (and running actual games!)'
 layout: post

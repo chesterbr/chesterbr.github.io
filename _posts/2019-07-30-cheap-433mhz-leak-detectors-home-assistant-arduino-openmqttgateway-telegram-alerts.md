@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 layout: post
 title: "(Cheap) 433Mhz Leak Detectors in Home Assistant via Arduino + OpenMQTTGateway (with Telegram alerts)"

@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Tres mil duzentos e la vai coquinho gibis
 layout: post

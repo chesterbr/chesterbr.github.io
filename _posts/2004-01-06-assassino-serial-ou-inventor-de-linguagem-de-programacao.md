@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Assassino serial ou inventor de linguagem de programação?
 layout: post

@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Fuk Fuk à Brasileira (agora no eMule)
 excerpt: |

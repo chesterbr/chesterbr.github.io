@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: As incríveis novidades tecnológicas de 1985
 excerpt: |

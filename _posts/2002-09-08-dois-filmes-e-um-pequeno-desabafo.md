@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Dois filmes e um pequeno desabafo
 layout: post

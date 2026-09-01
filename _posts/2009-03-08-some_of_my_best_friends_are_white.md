@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Some Of My Best Friends Are White
 excerpt: |

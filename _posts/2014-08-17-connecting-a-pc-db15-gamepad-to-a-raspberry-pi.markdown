@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: "Connecting a PC (DB15) Gamepad to a Raspberry Pi"
 comments: true

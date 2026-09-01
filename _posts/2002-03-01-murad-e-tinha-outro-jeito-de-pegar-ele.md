@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Murad: e tinha outro jeito de pegar ele?'
 layout: post

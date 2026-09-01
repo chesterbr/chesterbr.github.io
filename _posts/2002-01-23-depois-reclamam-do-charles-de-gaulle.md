@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Depois reclamam do Charles De Gaulle*'
 layout: post

@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Elesbão e Haroldinho &#8211; coisa de <i>dizáin</i>'
 layout: post

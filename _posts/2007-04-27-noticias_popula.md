@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Notícias Populares &#8211; Vida, Paixão e Morte'
 excerpt: |

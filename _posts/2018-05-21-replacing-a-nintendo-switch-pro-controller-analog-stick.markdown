@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: "Replacing a Nintendo Switch Pro Controller Analog Stick"
 og_image: /img/2018/05/joystick_2_l.jpg

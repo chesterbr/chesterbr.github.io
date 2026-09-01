@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Feira sobre banheiros em Cingapura
 layout: post

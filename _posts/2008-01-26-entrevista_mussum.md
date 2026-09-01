@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Entrevista com Mussum, d&#8217;Os Trapalhões'
 excerpt: |

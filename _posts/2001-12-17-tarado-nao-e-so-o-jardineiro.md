@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Tarado? não, é só o jardineiro
 layout: post

@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Spore + Porn = sporn, uma nova categoria de pornografia
 excerpt: |

@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: "Building a Bluetooth-Controlled Dry Ice Fog Machine"
 comments: true

@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: A ilustradora de todos os desktops
 excerpt: |

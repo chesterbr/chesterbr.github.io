@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: O Marketing depois de amanhã
 excerpt: |

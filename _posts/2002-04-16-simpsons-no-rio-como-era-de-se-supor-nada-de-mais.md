@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Simpsons no Rio: como era de se supor, nada de mais'
 layout: post

@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Coders At Work (Peter Seibel)
 layout: post

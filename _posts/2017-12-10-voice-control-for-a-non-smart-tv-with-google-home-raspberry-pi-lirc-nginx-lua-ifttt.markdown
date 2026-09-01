@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: "Voice control for a non-smart TV (with Google Home, a Raspberry Pi, LIRC, nginx, Lua and IFTTT)"
 og_image: /img/2017/12/multi_led.jpg

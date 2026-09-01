@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'PG Porn: Pornô até do Charlie Brown &#8211; só que sem o sexo!'
 excerpt: |

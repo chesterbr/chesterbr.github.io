@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Blog do hulk esmaga homenzinhos
 layout: post

@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Eleições 2008 &#8211; meu voto é Soninha'
 excerpt: |

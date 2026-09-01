@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Nova URL para o miniTruco
 excerpt: |

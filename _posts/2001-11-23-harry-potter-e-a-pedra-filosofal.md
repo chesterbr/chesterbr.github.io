@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Harry Potter e a Pedra Filosofal
 layout: post

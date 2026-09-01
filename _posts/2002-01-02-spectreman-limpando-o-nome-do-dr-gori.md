@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Spectreman &#8211; limpando o nome do Dr. Gori'
 layout: post

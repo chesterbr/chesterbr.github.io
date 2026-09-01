@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: "Dragon Ball Z: Kami to Kami (Battle of Gods)"
 comments: true

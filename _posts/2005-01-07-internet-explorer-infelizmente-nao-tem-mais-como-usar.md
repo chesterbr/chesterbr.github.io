@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Internet explorer: infelizmente não tem mais como usar'
 layout: post

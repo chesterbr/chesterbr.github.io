@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Lei de Direito Autoral: ajude a mudar!'
 layout: post

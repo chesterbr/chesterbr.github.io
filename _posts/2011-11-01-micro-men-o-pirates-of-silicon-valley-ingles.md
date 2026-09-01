@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Micro Men &#8211; o &#8220;Pirates of Silicon Valley inglês&#8221;'
 layout: post

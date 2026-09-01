@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 layout: post
 title: "Fixing a loose Nintendo Switch Joy-Con"

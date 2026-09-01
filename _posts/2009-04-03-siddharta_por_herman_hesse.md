@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Siddharta, por Herman Hesse
 excerpt: |

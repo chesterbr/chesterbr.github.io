@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 layout: post
 title: "More tips on reusable coffee pods in Keurig coffee makers"

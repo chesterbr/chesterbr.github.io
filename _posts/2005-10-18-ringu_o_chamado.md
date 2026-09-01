@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Ring(u) &#8211; o chamado'
 excerpt: |

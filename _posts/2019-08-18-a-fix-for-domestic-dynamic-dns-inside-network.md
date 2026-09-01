@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 layout: post
 title: "Enable dynamic DNS (DynDNS, Duck DNS, etc.) inside networks without NAT loopback support on router"

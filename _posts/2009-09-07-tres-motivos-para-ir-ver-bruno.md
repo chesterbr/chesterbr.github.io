@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Três motivos para ir ver Brüno
 layout: post

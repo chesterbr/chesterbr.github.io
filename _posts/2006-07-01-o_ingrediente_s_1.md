@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'O ingrediente secreto do exército americano: Hello Kitty'
 excerpt: |

@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Galeria Central &#8211; minha primeira&#8230; err&#8230; &#8220;home page&#8221;'
 layout: post

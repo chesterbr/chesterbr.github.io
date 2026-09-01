@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 layout: post
 title: 'A workaround to fix the Firefox emoji keyboard shortcut on macOS Sonoma'

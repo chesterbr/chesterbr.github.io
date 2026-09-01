@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 layout: post
 title: 'Atari 2600 on a breadboard, part VI: fixing the video, adding a joystick and wrapping up'

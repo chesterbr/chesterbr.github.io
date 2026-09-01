@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Repensando o desenvolvimento de software com Joel Spolsky
 layout: post

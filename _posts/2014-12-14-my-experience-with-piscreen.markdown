@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: "My Experience With PiScreen"
 comments: true

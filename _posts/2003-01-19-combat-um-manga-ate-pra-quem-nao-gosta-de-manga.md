@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Combat! &#8211; um mangá até pra quem não gosta de mangá'
 layout: post

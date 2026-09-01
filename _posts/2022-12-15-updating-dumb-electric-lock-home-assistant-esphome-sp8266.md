@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 layout: post
 title: 'Unlocking a dumb electric lock via Home Assistant (+ ESPHome + ESP8266)'

@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: A linguagem mais importante para um programador
 layout: post

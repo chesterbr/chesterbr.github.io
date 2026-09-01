@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Ai meu santo&#8230;'
 excerpt: |

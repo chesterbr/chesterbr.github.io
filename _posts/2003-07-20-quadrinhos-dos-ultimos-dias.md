@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Quadrinhos dos últimos dias
 layout: post

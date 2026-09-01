@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: '&#8220;Laboratório do Dequest&#8221; &#8211; desenho inédito, exclusivo do M&#038;M'
 excerpt: |

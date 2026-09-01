@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Sony Xperia X10 Mini Pro + Android 2.3 (Gingerbread) &#8211; Sony = ♥♥♥'
 layout: post

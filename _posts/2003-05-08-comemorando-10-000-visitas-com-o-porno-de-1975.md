@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Comemorando 10.000 visitas com o &#8220;pornô&#8221; de 1975'
 layout: post

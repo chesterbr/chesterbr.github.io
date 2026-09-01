@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 layout: post
 title: "Building a classic XBox to USB adapter (to use a RedOctane Ignition DDR mat to a computer)"

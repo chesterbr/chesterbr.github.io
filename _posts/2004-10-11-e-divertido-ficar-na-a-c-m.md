@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: É divertido ficar na A.C.M.
 layout: post

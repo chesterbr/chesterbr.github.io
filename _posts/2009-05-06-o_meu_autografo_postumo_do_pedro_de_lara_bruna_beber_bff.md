@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'O meu autógrafo (póstumo) do Pedro de Lara (ou: como a Bruna Beber virou minha bff)'
 excerpt: |

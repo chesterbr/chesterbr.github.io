@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Gostou do software? então me apresenta sua irmã!
 layout: post

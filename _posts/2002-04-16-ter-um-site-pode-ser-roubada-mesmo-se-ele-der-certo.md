@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Ter um site pode ser roubada &#8211; mesmo se ele der certo'
 layout: post

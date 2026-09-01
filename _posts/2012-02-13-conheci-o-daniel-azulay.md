@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Conheci o Daniel Azulay!
 layout: post

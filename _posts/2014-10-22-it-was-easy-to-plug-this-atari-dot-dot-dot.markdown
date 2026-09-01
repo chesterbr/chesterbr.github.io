@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: "It was easy to plug this Atari in..."
 comments: true

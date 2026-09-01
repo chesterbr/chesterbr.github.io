@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 layout: post
 title: "Atari 2600 on a breadboard, part III: tidying up and adding the TIA (video chip)"

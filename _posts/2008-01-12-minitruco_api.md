@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 title: miniTruco Client-Server API
 excerpt: |

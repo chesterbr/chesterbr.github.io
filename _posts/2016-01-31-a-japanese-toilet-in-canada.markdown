@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: "A Japanese Toilet in Canada"
 comments: true

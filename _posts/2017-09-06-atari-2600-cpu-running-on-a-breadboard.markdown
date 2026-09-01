@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: "Atari 2600 CPU running on a breadboard"
 og_image: /img/2017/09/6507.jpg

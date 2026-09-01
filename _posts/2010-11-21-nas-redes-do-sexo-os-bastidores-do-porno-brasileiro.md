@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Nas Redes do Sexo &#8211; Os bastidores do pornô brasileiro'
 layout: post

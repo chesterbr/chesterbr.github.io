@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Depois do karaokê, o piada-o-kê
 layout: post

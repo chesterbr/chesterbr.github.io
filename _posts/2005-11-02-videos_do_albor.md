@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Vídeos do Alborghetti
 excerpt: |

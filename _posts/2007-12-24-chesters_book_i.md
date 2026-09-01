@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Chester&#8217;s book is on the table'
 excerpt: |

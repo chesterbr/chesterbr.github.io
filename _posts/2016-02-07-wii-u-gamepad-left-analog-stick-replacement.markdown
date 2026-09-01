@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: "Wii U Gamepad (Left) Analog Stick Replacement"
 comments: true

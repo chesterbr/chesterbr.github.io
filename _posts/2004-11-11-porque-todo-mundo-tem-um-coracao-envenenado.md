@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Porque todo mundo tem um coração envenenado
 layout: post

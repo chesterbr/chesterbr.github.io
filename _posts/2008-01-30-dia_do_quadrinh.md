@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Dia do Quadrinho Nacional e o Blog dos Quadrinhos
 excerpt: |

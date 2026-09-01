@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 title: Farewell Google Reader; Hello NewsBlur!
 layout: post

@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Acertando o Horário de Verão em Java
 excerpt: |

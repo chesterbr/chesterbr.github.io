@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Urban Fact (Fato Urbano) / RHoK #1 SP'
 layout: post

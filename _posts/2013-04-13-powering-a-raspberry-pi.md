@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 title: Powering a Raspberry Pi
 layout: post

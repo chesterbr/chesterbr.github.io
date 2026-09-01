@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: O mundo bizarro do Chester, agora via Flickr
 excerpt: |

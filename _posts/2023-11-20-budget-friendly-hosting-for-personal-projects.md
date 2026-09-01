@@ -1,5 +1,4 @@
 ---
-lang: en
 locale: en
 layout: post
 title: 'Budget-friendly hosting for personal projects'

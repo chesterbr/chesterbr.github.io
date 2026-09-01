@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Reproduzindo DVDs de qualquer região no Mac mini (morte ao DRM)
 layout: post

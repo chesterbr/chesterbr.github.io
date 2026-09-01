@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: O homem de confiança do homem do baú
 layout: post

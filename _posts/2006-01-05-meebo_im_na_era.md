@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Meebo: mensagens instantâneas na era AJAX'
 excerpt: |

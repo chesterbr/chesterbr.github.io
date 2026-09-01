@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: Finalmente um anti-spam que funciona de verdade
 layout: post

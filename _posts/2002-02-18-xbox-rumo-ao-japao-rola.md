@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'Xbox rumo ao Japão&#8230; rola?'
 layout: post

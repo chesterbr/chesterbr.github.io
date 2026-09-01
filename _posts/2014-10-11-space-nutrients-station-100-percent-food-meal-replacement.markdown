@@ -1,5 +1,5 @@
 ---
-lang: en
+locale: en
 layout: post
 title: "Space Nutrients Station 100%FOOD (meal replacement)"
 comments: true

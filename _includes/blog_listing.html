@@ -8,7 +8,7 @@
     {% else %}
       {% assign read_more = 'hide' %}
     {% endif %}
-    <article data-lang="{{ post.lang }}">
+    <article data-lang="{{ post.locale }}">
       {% include article.html %}
     </article>
   {% endfor %}

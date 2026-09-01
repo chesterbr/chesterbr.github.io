@@ -1,5 +1,4 @@
 ---
-lang: pt-BR
 locale: pt-BR
 title: 'O Universo em Um Átomo &#8211; O Encontro da Ciência com a Espiritualidade'
 excerpt: |
