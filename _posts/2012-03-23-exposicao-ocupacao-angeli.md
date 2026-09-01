@@ -15,7 +15,7 @@ categories:
 ---
 Se o [Laerte][1] é o mais sofisticado dos quadrinhistas nacionais, o [Angeli][2] é de longe o que mais me influenciou. Quase tudo o que eu lia/ouvia no final dos anos 80 vinha pela [Chiclete com Banana][3], e sua crítica social e de costumes me mostrou um mundo bem maior que a vidinha católico-suburbana que me cercava. Uma visita à [exposição][4] exclusiva do autor era mais do que obrigatória!
 
-<a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/6862737956/in/set-72157629286821702/"><img src="/wp-content/uploads/2012/03/Ocupac%A6%BAa%A6%E2o-Angeli-Entrada.jpg" alt="" title="Ocupação Angeli - Entrada" width="598" height="349" class="aligncenter size-full wp-image-6833" /></a><span class="dead-link-mark">†</span>
+<a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/6862737956/in/set-72157629286821702/"><img src="/wp-content/uploads/2012/03/Ocupac%25A6%25BAa%25A6%25E2o-Angeli-Entrada.jpg" alt="" title="Ocupação Angeli - Entrada" width="598" height="349" class="aligncenter size-full wp-image-6833" /></a><span class="dead-link-mark">†</span>
 
 O [local][6] não poderia ser mais apropriado: a Avenida Paulista simboliza bem a metrópole onde viveriam um Bob Cuspe ou uma Rê Bordosa. A exposição fica em um espaço escuro, reproduzindo a realidade do Angeli, que (dizem) chega a ficar vinte horas num dia &#8220;trancado&#8221; no estúdio, desenhando. Tem até uma maquete:
 

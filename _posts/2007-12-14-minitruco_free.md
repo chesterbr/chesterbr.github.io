@@ -16,7 +16,7 @@ miniTruco is an open-source implementation of Truco Paulista (a very popular car
 
 You can also play it on your browser, using the gadget on the right side of this page. The original source code was created by me (Chester), but it is available as free (GPL) software. That allowed several developers to add new strategies and features.
 
-Please use the following URL to link to this page: <http:/minitruco_en>.
+Please use the following URL to link to this page: <http://chester.me/minitruco_en>.
 
 <!--more-->
 
