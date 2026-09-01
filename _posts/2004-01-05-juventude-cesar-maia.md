@@ -19,198 +19,24 @@ Fiz questão de desobedecer e divulgar o spam na íntegra (com negrito na parte 
 <table border="2" cellspacing="0" cellpadding="8" width="90%">
   <tr>
     <td>
-      <table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-        <tr align="middle">
-          <td align="middle" background="imagens/ECFundoBannerJCMAzul.gif">
-            <!--StartFragment-->
+      <p>Somos um grupo de jovens que se identifica com o perfil de gestão pública de Cesar Maia e se empenha pela divulgação de suas idéias, programas, projetos, vivenciando a realidade política do município do Rio de Janeiro.</p>
 
-            <img src="//www.juventudecesarmaia2004.com.br/imagens/ECBannerJCM1.gif" border="0" alt="" /><img src="//www.juventudecesarmaia2004.com.br/imagens/ECBannerJCM2.gif" border="0" alt="" /><img src="//www.juventudecesarmaia2004.com.br/imagens/ECBannerJCM3.gif" border="0" alt="" /><img src="//www.juventudecesarmaia2004.com.br/imagens/ECBannerJCM4.gif" border="0" alt="" /><img src="//www.juventudecesarmaia2004.com.br/imagens/ECBannerJCM5.gif" border="0" alt="" /><img src="//www.juventudecesarmaia2004.com.br/imagens/ECBannerJCM6.gif" border="0" alt="" /><img src="//www.juventudecesarmaia2004.com.br/imagens/ECBannerJCM7.gif" border="0" alt="" /><!--EndFragment-->
-          </td>
-        </tr>
-      </table>
+      <p>Acesse <a class="dead-link" title="este link morreu" href="http://www.juventudecesarmaia2004.com.br">www.juventudecesarmaia2004.com.br</a><span class="dead-link-mark">†</span> ou envie e-mail para <a href="mailto:juventudecesarmaia@globo.com">juventudecesarmaia@globo.com</a>. Assim você conhecerá melhor nosso trabalho e passará a receber nosso boletim semanal.</p>
 
-      <div>
-        <span style="font-family: Arial; font-size: x-small;"> </span></p> <div>
-          <span style="font-family: Arial; font-size: x-small;"> </span>
-        </div>
+      <p>Juventude Cesar Maia</p>
 
-        <div>
-          <span style="font-family: Verdana;"> Somos um grupo de jovens que se identifica com o perfil de gestão pública de Cesar Maia e se empenha pela divulgação de suas idéias, programas, projetos, vivenciando a realidade política do município do Rio de Janeiro.</span>
-        </div>
+      <div style="font-size: smaller;">
+        <p>A Juventude Cesar Maia é um grupo apartidário. Seus membros são todos admiradores do trabalho de Cesar Maia. Não somos um órgão oficial. Nosso serviço é gratuito e feito por voluntários.</p>
 
-        <div>
-          <span style="font-family: Verdana;">Acesse <a href="http://www.juventudecesarmaia2004.com.br">www.juventudecesarmaia2004.com.br</a> </span>
-        </div>
+        <p><strong>É vedada a publicação total ou parcial de qualquer informação de informativo, sendo necessária a permissão dos coordenadores da JCM.</strong></p>
 
-        <div>
-          <span style="font-family: Verdana;">ou envie e-mail para <a href="mailto:juventudecesarmaia@globo.com">juventudecesarmaia@globo.com</a> </span>
-        </div>
+        <p>Caso não queira mais receber nosso newsletter, ou receber qualquer informação sobre a JCM, envie um mail para: <a href="mailto:juventudecesarmaia@globo.com">juventudecesarmaia@globo.com</a></p>
 
-        <div>
-          <span style="font-family: Verdana;">Assim você conhecerá melhor nosso trabalho e passará a receber nosso boletim semanal.</span>
-        </div>
-
-        <div>
-          <span style="font-family: Verdana;">Juventude Cesar Maia</span>
-        </div>
-
-        <div>
-          <span style="font-family: Verdana;"> </span>
-        </div>
-
-        <div>
-          <span style="font-family: Verdana;"> </span>
-        </div>
-
-        <p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 35.4pt; TEXT-INDENT: 35.4pt">
-          <span style="color: #000000;"><span style="FONT-SIZE: 7pt; FONT-FAMILY: Verdana; mso-bidi-font-size: 12.0pt"> </span></span>
-        </p>
-
-        <p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 35.4pt; TEXT-INDENT: 35.4pt">
-          <span style="font-size: xx-small;"> </span>
-        </p>
-
-        <div>
-          <span style="font-family: Arial; font-size: x-small;"> </span></p> <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;"><a href="http://www.juventudecesarmaia2004.com.br">www.juventudecesarmaia2004.com.br</a></span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;">A Juventude Cesar Maia é um grupo apartidário.</span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;">Seus membros são todos admiradores do trabalho de Cesar Maia.</span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;">Não somos um órgão oficial.</span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;">Nosso serviço é gratuito e feito por voluntários.</span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;"><strong>É vedada a publicação total ou parcial de qualquer informação de informativo,</strong></span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;"><strong>sendo necessária a permissão dos coordenadores da JCM.</strong></span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;">Caso não queira mais receber nosso newsletter,</span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;">ou receber qualquer informação sobre a JCM</span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;">envie um mail para:</span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;"><a href="mailto:juventudecesarmaia@globo.com">juventudecesarmaia@globo.com</a></span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;">Coordenação:</span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;">Ana Claudia Lusquinos (<a href="mailto:alusquinos@ig.com.br">alusquinos@ig.com.br</a>)</span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;">Daniel Beltran (<a href="mailto:danielbeltran@globo.com">danielbeltran@globo.com</a>)</span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;">Fabrizio Cerqueira (<a href="mailto:fabriziocerqueira@yahoo.com">fabriziocerqueira@yahoo.com</a>)</span></span>
-          </div>
-
-          <p>
-            <span style="font-family: Arial; font-size: x-small;"> </span>
-          </p>
-
-          <div>
-            <span style="font-family: Arial; font-size: x-small;"><span style="font-family: Verdana; font-size: xx-small;">Quintino Gomes Freire (<a href="mailto:quintinogf@uol.com.br">quintinogf@uol.com.br</a>)</span></span>
-          </div>
-        </div>
+        <p>Coordenação:<br>
+        Ana Claudia Lusquinos (<a href="mailto:alusquinos@ig.com.br">alusquinos@ig.com.br</a>)<br>
+        Daniel Beltran (<a href="mailto:danielbeltran@globo.com">danielbeltran@globo.com</a>)<br>
+        Fabrizio Cerqueira (<a href="mailto:fabriziocerqueira@yahoo.com">fabriziocerqueira@yahoo.com</a>)<br>
+        Quintino Gomes Freire (<a href="mailto:quintinogf@uol.com.br">quintinogf@uol.com.br</a>)</p>
       </div>
     </td>
   </tr>
