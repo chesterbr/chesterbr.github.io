@@ -7,14 +7,11 @@ single: true
   <article class="hentry" role="article">
     {% include article.html %}
     <footer>
+      {% if page.categories %}
       <p class="meta">
-        {% include post/author.html %} on
-        {% include post/date.html %}{{ date | date_to_string }}
         {% include post/categories.html %}
       </p>
-      {% unless page.sharing == false %}
-      {% include post/sharing.html %}
-      {% endunless %}
+      {% endif %}
       <p class="meta">
         {% if page.previous.url %}
         <a class="basic-alignment left" href="{{page.previous.url}}"
@@ -29,13 +26,3 @@ single: true
   </article>
   {% include comments.html %}
 </div>
-{% unless page.sidebar == false %}
-<aside class="sidebar">
-  {% include custom/asides/about.html %}
-  {% include asides/github.html %}
-  {% include asides/delicious.html %}
-  {% include asides/recent_posts.html %}
-  {% include asides/pinboard.html %}
-  {% include asides/googleplus.html %}
-</aside>
-{% endunless %}

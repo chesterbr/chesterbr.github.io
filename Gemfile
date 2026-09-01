@@ -4,9 +4,7 @@ gem "bundler"
 
 gem "jekyll", "~> 3.10.0"
 gem "kramdown-parser-gfm", "~> 1.1"
-gem "minima", "~> 2.5"
 gem "sanitize", "~> 7.0"
-gem "jekyll-sass-converter", "~> 1.5.2"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17"
