@@ -91,17 +91,19 @@ twitter_follow_button: false
 # Facebook Like
 facebook_like: false
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Exclude from processing. Setting an explicit `exclude:` replaces (not
+# merges with) Jekyll's own defaults, so the defaults are repeated here
+# alongside README.md (which was being built into a real, unlinked site
+# page — it's meant for GitHub's repo view, not site content).
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
 
 # jekyll_admin:
 #   homepage: "posts"

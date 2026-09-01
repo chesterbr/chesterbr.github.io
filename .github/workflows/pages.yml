@@ -17,6 +17,11 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      # Job-level, not step-level: bundler-cache's install and the later
+      # `bundle exec jekyll build` step both need to see this, or the
+      # build step fails looking for gems that were deliberately skipped.
+      BUNDLE_WITHOUT: development
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -24,7 +29,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.3.0"
+          ruby-version: "3.3"
           bundler-cache: true
 
       - name: Setup Pages

@@ -5,7 +5,7 @@ gem "bundler"
 gem "jekyll", "~> 3.10.0"
 gem "kramdown-parser-gfm", "~> 1.1"
 gem "minima", "~> 2.5"
-gem "sanitize"
+gem "sanitize", "~> 7.0"
 gem "jekyll-sass-converter", "~> 1.5.2"
 
 group :jekyll_plugins do
@@ -19,9 +19,9 @@ group :jekyll_plugins do
   gem "jekyll-titles-from-headings", "~> 0.5.3"
 end
 
-# Ruby 3.0 does not include webrick anymore
-gem 'webrick'
-
 group :development do
   gem 'html-proofer'
+  # Ruby 3.0 does not include webrick anymore; only `jekyll serve` (local
+  # dev) needs it, not `jekyll build` (what CI runs).
+  gem 'webrick'
 end
