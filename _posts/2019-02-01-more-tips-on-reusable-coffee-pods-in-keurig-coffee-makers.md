@@ -10,7 +10,7 @@ categories:
 
 ![Prepara 3042 Evak Fresh Saver Airless Canister](/img/2019/02/evak.jpg){: .right }
 
-My [Keurig B40](https://www.amazon.ca/Keurig-Elite-Brewing-System-Black/dp/B000AQPMHA) coffee maker was super convenient, but throwing those pods in the garbage wasn't great for the environment (yes, you can compost the contents, but despite [manufacturer claims/efforts](http://www.keurigrecycling.com/), you [can't recycle the pods in Toronto](https://globalnews.ca/news/4170035/toronto-keurig-recyclable-pods/). They also limit your coffee choice, so a couple years ago I [switched to reusable pods and wrote a blog post about it]({% link _posts/2017-08-07-replacing-k-cups-with-reusable-coffee-pods.markdown %}).
+My [Keurig B40](https://www.amazon.ca/Keurig-Elite-Brewing-System-Black/dp/B000AQPMHA) coffee maker was super convenient, but throwing those pods in the garbage wasn't great for the environment (yes, you can compost the contents, but despite [manufacturer claims/efforts](http://www.keurigrecycling.com/), you [can't recycle the pods in Toronto](https://globalnews.ca/news/4170035/toronto-keurig-recyclable-pods/). They also limit your coffee choice, so a couple years ago I [switched to reusable pods and wrote a blog post about it]({% link _posts/2017-08-07-replacing-k-cups-with-reusable-coffee-pods.md %}).
 
 Since then, I learned a couple things about grinding and avoiding leaks that are worth sharing.
 
@@ -30,7 +30,7 @@ You need to get the timing right: too much and the machine can't push the water;
 
 ## Avoiding leaks
 
-I mentioned on the [original post]({% link _posts/2017-08-07-replacing-k-cups-with-reusable-coffee-pods.markdown %}) the importance of following the instructions, in order to prevent water from flowing from the top of the pod and spill in random directions. Even following those, leaks started to get more frequent - to the point I was considering a coffee maker replacement.
+I mentioned on the [original post]({% link _posts/2017-08-07-replacing-k-cups-with-reusable-coffee-pods.md %}) the importance of following the instructions, in order to prevent water from flowing from the top of the pod and spill in random directions. Even following those, leaks started to get more frequent - to the point I was considering a coffee maker replacement.
 
 The Keurig system works by having needles perforating the pod from top and bottom. The top needle doubles as the water injection system, and a rubber piece around it exerts pressure on the top of the pod - which creates an efficient seal in traditional pods, but reusables may require some extra pressure, and I suppose they may have deformed the rubber a bit.
 

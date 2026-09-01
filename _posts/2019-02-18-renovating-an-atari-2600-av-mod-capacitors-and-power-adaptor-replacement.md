@@ -12,7 +12,7 @@ A while ago I got this beautiful Atari 2600 all-black, 4-switch model - often ni
 
 ![](/img/2019/02/atari.jpg){: .center }
 
-The console generates a TV signal, which the TV has to tune in just like a normal over-the-air channel. It was quite convenient at the time (and quality was good enough for the TV sets we had), but modern TVs show degradation - not to mention some can't even pick up the faint signal - I [had to hook mine to a VCR]({% link _posts/2014-10-22-it-was-easy-to-plug-this-atari-dot-dot-dot.markdown %}) that would decode the signal into A/V.
+The console generates a TV signal, which the TV has to tune in just like a normal over-the-air channel. It was quite convenient at the time (and quality was good enough for the TV sets we had), but modern TVs show degradation - not to mention some can't even pick up the faint signal - I [had to hook mine to a VCR]({% link _posts/2014-10-22-it-was-easy-to-plug-this-atari-dot-dot-dot.md %}) that would decode the signal into A/V.
 
 That quirky setup led me to make the popular A/V conversion ("mod") - and, while at it, replace the power adaptor (with one that I can actually keep on the wall without fear of burning down the house) and capacitors (something that [should be done](https://antiqueradio.org/recap.htm) to any vintage electronics that you want to keep humming).
 
