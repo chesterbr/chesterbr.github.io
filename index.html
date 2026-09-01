@@ -70,7 +70,8 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
           'Mais detalhes no <a href="https://www.linkedin.com/in/chesterbr/">LinkedIn</a>; projetos de código no <a href="https://github.com/chesterbr">GitHub</a> e no <a href="/blog/">meu blog</a>.',
         ],
         snarkyTwitterTitle: "Twitter / X / seja lá como se chama esta semana",
-        twitterConfirmMessage: "Este lugar é tóxico; só entro pra ver DMs e menções.\n\nSugiro o Mastodon ou Instagram para interações em redes sociais. Ainda deseja prosseguir?"
+        twitterConfirmMessage: "Este lugar é tóxico; só entro pra ver DMs e menções.\n\nSugiro o Mastodon ou Instagram para interações em redes sociais. Ainda deseja prosseguir?",
+        blogLinkTitle: "blog do chester"
       };
 
       const urlParams = new URLSearchParams(window.location.search);
@@ -86,6 +87,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
         document.getElementById("social-media-title").innerHTML = translationsPt.socialMediaTitle;
         document.getElementById("twitter-link").setAttribute("data-confirm-message", translationsPt.twitterConfirmMessage);
         document.getElementById("twitter-link").setAttribute("title", translationsPt.snarkyTwitterTitle);
+        document.getElementById("blog-link-icon").setAttribute("title", translationsPt.blogLinkTitle);
         document.getElementById("about-me-title").innerHTML = translationsPt.aboutMe;
 
         const aboutMeItems = document.querySelectorAll("#about-me-items li");
@@ -372,7 +374,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
           I suggest Mastodon or Instagram for social media interactions. Do you still want to proceed?">
           <i class="fa-brands fa-twitter"></i>
         </a>
-        <a href="/blog/" title="chester's blog"><i class="fa-solid fa-blog"></i></a>
+        <a href="/blog/" id="blog-link-icon" title="chester's blog"><i class="fa-solid fa-blog"></i></a>
       </div>
     </div>
     <div class="about-text">

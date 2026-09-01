@@ -1,10 +1,9 @@
 // Blog-wide reader language switcher (EN / PT-BR / All languages).
-// Provisional implementation - meant to hold together until the future
-// visual redesign, not to be a polished i18n framework.
 (function () {
   var STORAGE_KEY = "readerLang";
 
   var translationsPt = {
+    blogTitle: "blog do chester",
     archives: "Arquivo",
     eightBit: "8-Bit",
     etcetera: "Etcetera",
@@ -79,7 +78,9 @@
 
   function updateSwitcherState(mode) {
     document.querySelectorAll("[data-set-lang]").forEach(function (el) {
-      el.classList.toggle("active", el.getAttribute("data-set-lang") === mode);
+      var isActive = el.getAttribute("data-set-lang") === mode;
+      el.classList.toggle("active", isActive);
+      el.setAttribute("aria-pressed", isActive ? "true" : "false");
     });
   }
 

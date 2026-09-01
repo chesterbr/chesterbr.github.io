@@ -18,7 +18,7 @@ email: cd@pobox.com
 repository: chesterbr/chesterbr.github.io
 author: Chester (Carlos Duarte do Nascimento)
 simple_search: //duckduckgo.com
-subscribe_rss: http://feeds.feedburner.com/chesterbr
+subscribe_rss: /atom.xml
 # Used only by jekyll-feed for the Atom/RSS <subtitle>. Previously supplied
 # at build time by jekyll-github-metadata (fetched live from this repo's
 # GitHub description field via the GitHub API); set statically here instead
@@ -59,16 +59,8 @@ excerpt_separator: <!--more-->
 
 titlecase: true       # Converts page and post titles to titlecase
 
-# jekyll-sass-converter's own default is already "compact" with no config
-# here, but minima (or something in its load chain) was overriding it to
-# "expanded" in testing; pin explicitly to match the site's existing CSS
-# output exactly.
-sass:
-  style: compact
-
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   # - jekyll-admin
   - jekyll-feed

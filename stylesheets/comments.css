@@ -1,5 +1,8 @@
 /*
- Converted from https: //github.com/avglinux/alu-test-website/blob/e4e9c69515429eebf2f2dec135133b0eacb99541/_sass/_comment-styles.scss
+ Styles for the Staticman-based comment display (and the currently-disabled
+ submission form/modal, kept dormant exactly as before - see comments.html).
+ Colors repointed to the site's custom-property palette (stylesheets/blog.css)
+ so this matches the rest of the redesign in both light and dark mode.
 */
 label[for="comment-form-message"],
 label[for="comment-form-name"],
@@ -25,7 +28,9 @@ textarea {
 }
 
 .textfield__input {
-  border: 1px solid rgba(0, 0, 0, .12);
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text);
   padding: 4px 5px;
   width: 100%;
 }
@@ -42,8 +47,8 @@ textarea {
 }
 
 .button {
-  background-color: #1756a9;
-  border: 1px solid #1756a9;
+  background-color: var(--accent-text);
+  border: 1px solid var(--accent-text);
   color: #fff;
   fill: #fff;
   font-size: 0.85rem;
@@ -58,8 +63,8 @@ textarea {
 }
 
 button:hover {
-  background-color: #fff;
-  color: #1756a9;
+  background-color: var(--bg);
+  color: var(--accent-text);
 }
 
 .comment__avatar-wrapper {
@@ -71,6 +76,7 @@ button:hover {
 .comment__avatar {
   width: 50px;
   height: 50px;
+  border-radius: 50%;
 }
 
 .comment__new {
@@ -80,16 +86,18 @@ button:hover {
 .comment__author h3 {
   font-size: 1.2em;
   margin-bottom: 0;
+  color: var(--text);
 }
 
 .comment__date {
   font-size: small;
   font-weight: normal;
+  color: var(--muted);
 }
 
 .comment__meta {
   text-align: left;
-  color: #1756a9;
+  color: var(--accent-text);
   font-size: small;
 }
 
@@ -105,16 +113,26 @@ button:hover {
   font-size: 90%;
 }
 
+.comments hr {
+  border-top: 1px solid var(--border);
+}
+
 .comment {
   margin-bottom: 1em;
 }
 
 .comment.child {
   margin-left: 3em;
+  padding-left: 1em;
+  border-left: 2px solid var(--border);
 }
 
 .comment__reply-link {
   cursor: pointer;
+}
+
+.comment__body {
+  color: var(--text);
 }
 
 .comment__body p {
@@ -144,7 +162,7 @@ button:hover {
   width: 100%;
   height: 100%;
   z-index: 999;
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .show-modal .modal {
@@ -156,7 +174,8 @@ button:hover {
   overflow: hidden;
   z-index: 1;
   position: relative;
-  background: #fff;
+  background: var(--bg);
+  color: var(--text);
   box-sizing: border-box;
 }
 
@@ -170,14 +189,15 @@ button:hover {
   margin-top: -400px;
   min-height: 0;
   z-index: 9999;
-  box-shadow: 0 2px 2px 2px rgba(0, 0, 0, .14);
+  box-shadow: 0 2px 2px 2px rgba(0, 0, 0, .3);
   padding: 16px;
-  border-radius: 2px;
-  background: white;
+  border-radius: 6px;
+  background: var(--bg);
+  border: 1px solid var(--border);
 }
 
 .mdl-shadow--16dp {
-  box-shadow: 0 16px 24px 2px rgba(0, 0, 0, .14), 0 6px 30px 5px rgba(0, 0, 0, .12), 0 8px 10px -5px rgba(0, 0, 0, .2);
+  box-shadow: 0 16px 24px 2px rgba(0, 0, 0, .3), 0 6px 30px 5px rgba(0, 0, 0, .2), 0 8px 10px -5px rgba(0, 0, 0, .3);
 }
 
 .mdl-card__supporting-text {
@@ -196,7 +216,6 @@ button:hover {
 .disabled label {
   pointer-events: none;
   cursor: not-allowed;
-  filter: alpha(opacity=65);
   box-shadow: none;
   opacity: 0.65;
 }
