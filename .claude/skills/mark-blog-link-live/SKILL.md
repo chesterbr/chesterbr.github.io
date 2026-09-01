@@ -39,15 +39,30 @@ then, among those matches, confirm each one actually has the
 `class="dead-link"` wrapper around this URL (not just a plain mention of
 it elsewhere in the same post).
 
-If nothing turns up in `_posts/`, also check root-level content pages
-(`--include=*.md --include=*.html .`, excluding `_site/`, `vendor/`,
-`.git/`). If the URL isn't found in dead-link form anywhere, say so and
-stop - don't guess. (Maybe it was never marked dead, maybe it's already
-been revived.)
+If that finds nothing, the dead-marked href might be an archive.org
+snapshot of this URL rather than the plain URL itself (e.g. a prior
+`/archive-blog-link` run pointed it at
+`http://web.archive.org/web/TIMESTAMP/THE_EXACT_URL`, and *that*
+snapshot got marked dead later, and now it's back - or archive.org
+itself came back up). archive.org embeds the original URL inside its
+own, so search again for just the URL's *core* (strip the
+`http://`/`https://` scheme and any trailing slash) as a substring,
+still requiring the `class="dead-link"` wrapper:
+
+```
+grep -rl --fixed-strings "URL_CORE" _posts/
+```
+
+If nothing turns up in `_posts/` either way, also check root-level
+content pages (`--include=*.md --include=*.html .`, excluding `_site/`,
+`vendor/`, `.git/`). If the URL isn't found in dead-link form anywhere,
+say so and stop - don't guess. (Maybe it was never marked dead, maybe
+it's already been revived.)
 
 ## 3. Revive each occurrence
 
-Convert:
+Convert (`URL` here being whatever the actual href is - a plain URL or
+an archive.org-wrapped one, per step 2 - left unchanged, just unwrapped):
 ```html
 <a class="dead-link" title="TITLE" href="URL">text</a><span class="dead-link-mark">†</span>
 ```

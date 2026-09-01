@@ -36,22 +36,40 @@ URL to gather - that's the whole point of this skill.
 
 ## 2. Find every occurrence
 
-Exact-string match, not a domain-wide search (that's deliberate - see
-below):
+First, exact-string match, not a domain-wide search (that's deliberate
+- see below):
 
 ```
 grep -rl --fixed-strings "THE_EXACT_URL" _posts/
 ```
 
-If nothing turns up there, also check root-level content pages the same
-way `update-blog-link` does (`--include=*.md --include=*.html .`,
-excluding `_site/`, `vendor/`, `.git/`). If genuinely nothing matches,
-say so and stop - don't guess at a near-miss URL or broaden to the bare
-domain. (This skill intentionally doesn't do `update-blog-link`'s
-domain-wide fallback search: that exists there because a *replacement*
-URL often lives at a different path than the original post's link,
-post-migration. Here the URL isn't changing shape, so exact match is the
-safer default.)
+If that finds nothing, the URL might already be sitting inside an
+*earlier* archive.org snapshot instead of appearing plainly - e.g. a
+prior run of this skill pointed it at
+`http://web.archive.org/web/OLD_TIMESTAMP/THE_EXACT_URL`, and that
+snapshot has since turned out to be bad, so the user is re-running this
+to get a better one. archive.org embeds the original URL inside its
+own, so search again for just the URL's *core* (strip the
+`http://`/`https://` scheme and any trailing slash) as a substring:
+
+```
+grep -rl --fixed-strings "URL_CORE" _posts/
+```
+When a match comes from this fallback, the occurrence to replace is
+whatever href is actually there (the earlier, now-bad, archive.org
+URL) - treat it the same as the "already marked dead" case in step 4
+below (replace the whole href with the freshly-looked-up snapshot),
+even if it isn't wrapped in `dead-link` styling.
+
+If nothing turns up in `_posts/` either way, also check root-level
+content pages the same way `update-blog-link` does (`--include=*.md
+--include=*.html .`, excluding `_site/`, `vendor/`, `.git/`). If
+genuinely nothing matches, say so and stop - don't guess at a near-miss
+URL or broaden to the bare domain. (This skill intentionally doesn't do
+`update-blog-link`'s domain-wide fallback search: that exists there
+because a *replacement* URL often lives at a different path than the
+original post's link, post-migration. Here the URL isn't changing
+shape, so exact/core match is the safer default.)
 
 This includes occurrences already wrapped in dead-link markup (a link
 marked dead earlier, for which a snapshot has now turned up) as well as

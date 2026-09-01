@@ -30,16 +30,37 @@ user for it.
 
 ## 2. Find every occurrence
 
-Exact-string match:
+First, exact-string match:
 
 ```
 grep -rl --fixed-strings "THE_EXACT_URL" _posts/
 ```
 
-If nothing turns up there, also check root-level content pages
-(`--include=*.md --include=*.html .`, excluding `_site/`, `vendor/`,
-`.git/`). If genuinely nothing matches, say so and stop - don't guess at
-a near-miss URL or broaden to a domain-wide search.
+If that finds nothing, the URL might currently be sitting inside an
+archive.org snapshot wrapper instead of appearing plainly - e.g. a
+prior `/archive-blog-link` run pointed it at
+`http://web.archive.org/web/TIMESTAMP/THE_EXACT_URL`, and now *that*
+snapshot has turned out to be bad and needs marking dead too.
+archive.org embeds the original URL inside its own, so search again for
+just the URL's *core* (strip the `http://`/`https://` scheme and any
+trailing slash) as a substring:
+
+```
+grep -rl --fixed-strings "URL_CORE" _posts/
+```
+
+This also catches trivial formatting differences (http vs https,
+trailing slash) in a plain link. Whatever match this turns up, look at
+the actual href in context before touching it - don't assume it's
+textually identical to the URL you were given; it might be a plain link
+with slightly different formatting, or an archive.org-wrapped one.
+Either way, mark *that* href dead as found - don't rewrite it to
+something else first.
+
+If nothing turns up in `_posts/` either way, also check root-level
+content pages (`--include=*.md --include=*.html .`, excluding `_site/`,
+`vendor/`, `.git/`). If genuinely nothing matches, say so and stop -
+don't guess at a near-miss URL.
 
 ## 3. Mark each occurrence
 
@@ -48,9 +69,11 @@ For each match, first check whether it's *already* in dead-link form
 marked.
 
 For every other occurrence - plain Markdown `[text](URL)`, raw HTML
-`<a href="URL">text</a>`, or reference-style (`[text][ref]` used with a
-`[ref]: URL` definition at the bottom of the file) - convert it to the
-site's dead-link markup:
+`<a href="URL">text</a>` (`URL` here being whatever the actual href is -
+a plain link or an archive.org-wrapped one, per step 2), or
+reference-style (`[text][ref]` used with a `[ref]: URL` definition at
+the bottom of the file) - convert it to the site's dead-link markup,
+keeping that same href value unchanged:
 
 ```html
 <a class="dead-link" title="TITLE" href="URL">text</a><span class="dead-link-mark">†</span>
