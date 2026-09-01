@@ -8,7 +8,7 @@
     archives: "Arquivo",
     eightBit: "8-Bit",
     etcetera: "Etcetera",
-    subtitle: "tecnologia, viagens, quadrinhos, livros, matemática, web, software e pensamentos aleatórios",
+    subtitle: "tecnologia, viagens, quadrinhos, livros, matemática, web, software e divagações",
     readMore: "Leia mais &rarr;",
     postedBy: "Publicado por",
     postedIn: "publicado em",
@@ -20,7 +20,10 @@
     rssTitle: "assine via RSS",
     email: "Email",
     emailTitle: "assine via email",
-    search: "Buscar"
+    search: "Buscar",
+    recentProjects: "Projetos Recentes",
+    statusUpdating: "Atualizando...",
+    onGithub: "no GitHub"
   };
 
   // Caches each tagged element's original (English) content/attributes the

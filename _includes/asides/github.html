@@ -1,11 +1,11 @@
 {% if site.github_user %}
 <section>
-  <h1>Recent Projects</h1>
+  <h1 data-i18n="recentProjects">Recent Projects</h1>
   <ul id="gh_repos">
-    <li class="loading">Status updating...</li>
+    <li class="loading" data-i18n="statusUpdating">Status updating...</li>
   </ul>
   {% if site.github_show_profile_link %}
-  <a href="https://github.com/{{site.github_user}}">@{{site.github_user}}</a> on GitHub
+  <a href="https://github.com/{{site.github_user}}">@{{site.github_user}}</a> <span data-i18n="onGithub">on GitHub</span>
   {% endif %}
   <script type="text/javascript">
     $(document).ready(function(){
