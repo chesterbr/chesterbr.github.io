@@ -19,7 +19,7 @@ Nos anos 50 e 60 proliferou no Brasil um gênero de material pornográfico que c
 
 A primeira denominação era mais comum em São Paulo, e supostamente remete à semelhança de formato entre as revistinhas e os livros de instrução religiosa conhecidos por este nome.
 
-Um dos autores mais populares deste meio era conhecido pelo pseudônimo de [Carlos Zéfiro][1]. Ele permaneceu anônimo até pouco antes de seu falecimento, no início dos anos 90, quando [revelou][2] seu nome verdadeiro (Alcides Aguiar Caminha) após um gaiato ter reclamado para si o privilégio, no melhor (ou pior) estilo <a class="dead-link" title="este link morreu" href="http://www.wired.com/culture/lifestyle/news/2001/11/48397">Tourist Guy Brasileiro</a><span class="dead-link-mark">†</span>.
+Um dos autores mais populares deste meio era conhecido pelo pseudônimo de [Carlos Zéfiro][1]. Ele permaneceu anônimo até pouco antes de seu falecimento, no início dos anos 90, quando [revelou][2] seu nome verdadeiro (Alcides Aguiar Caminha) após um gaiato ter reclamado para si o privilégio, no melhor (ou pior) estilo <a href="http://web.archive.org/web/20140205020537/http://www.wired.com:80/culture/lifestyle/news/2001/11/48397">Tourist Guy Brasileiro</a>.
 
 Na década de 80 o Ota já tinha publicado o completo livro [O Quadrinho Erótico de Carlos Zéfiro][4], no qual o cartunista (famoso por seu trabalho na revista MAD e possuidor de cerca de 200 catecismos de Zéfiro), analisa vários aspectos da obra (e mostra algumas histórias completas). E o disco [Barulhinho Bom][5], da cantora Marisa Monte, era todo ilustrado com cenas de histórias do Zéfiro, isso já mais perto do final dos anos 90. Ou seja, a influência perdurou.
 

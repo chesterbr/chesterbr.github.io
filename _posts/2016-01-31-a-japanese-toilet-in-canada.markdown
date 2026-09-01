@@ -20,7 +20,7 @@ Surprisingly, [TOTO][4] (a popular Japanese manufacturer of those) is present in
 
 ![Everything I know about plumbing, I learned from these guys ](/img/2016/01/mario-plumbing.jpg){: .center }
 
-To be honest, before purchasing I checked the fit guides (for <a class="dead-link" title="this link died" href="https://assets.nationalbuildersupply.com/ul_pdfs/washlet-fit-chart.pdf">old</a><span class="dead-link-mark">†</span> and [new][11] models), so I could find which ones would work with my toilet. An important factor is the distance between the mounting holes and the tank - mine had the bare minimum, leaving almost no gap where one is supposed to exist. Worked for me, but keep such details in mind when picking yours.
+To be honest, before purchasing I checked the fit guides (for <a href="http://web.archive.org/web/20160417114224/https://assets.nationalbuildersupply.com/ul_pdfs/washlet-fit-chart.pdf">old</a> and [new][11] models), so I could find which ones would work with my toilet. An important factor is the distance between the mounting holes and the tank - mine had the bare minimum, leaving almost no gap where one is supposed to exist. Worked for me, but keep such details in mind when picking yours.
 
 My lack of plumbing skills showed up early: the "T" device that splits the water between toilet and washlet didn't match the toilet's connector very well. So what did I do? I forced it. First mistake - it "chewed" the connector. Then I insisted (second error), turning the [float valve][7] and breaking the floating ball handle. Way to go, champ.
 

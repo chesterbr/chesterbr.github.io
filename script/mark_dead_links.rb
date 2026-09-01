@@ -35,7 +35,14 @@ File.foreach(DATA_JSONL) do |line|
   by_url[rec["url"]] = rec
 end
 
-targets = by_url.values.select { |r| !r["wayback_url"] && %w[404 410 0].include?(r["status"]) }
+# web.archive.org URLs in the "confirmed dead, no snapshot" bucket are a
+# known false-positive class: this network can't reach web.archive.org at
+# all, so the checker reports them as dead regardless of whether the actual
+# snapshot is fine (confirmed still working, by hand, in a real browser).
+# Excluded at the source so a re-run never re-marks them.
+targets = by_url.values.select do |r|
+  !r["wayback_url"] && %w[404 410 0].include?(r["status"]) && !r["url"].include?("web.archive.org")
+end
 target_urls = targets.map { |r| r["url"] }
 puts "#{target_urls.size} confirmed-dead URLs with no snapshot to mark."
 
@@ -64,7 +71,7 @@ target_urls.each do |url|
 
     # 1. raw HTML <a ...href="URL"...>TEXT</a> (idempotent: skip if already marked, so a
     # re-run -- e.g. after a future re-check -- doesn't double-apply on top of itself)
-    html_re = /<a\s+([^>]*?)href="#{esc}"([^>]*)>(.*?)<\/a>/m
+    html_re = /<a\s+([^>]*?)href="[ \t]*#{esc}"([^>]*)>(.*?)<\/a>/m
     if content.match?(html_re)
       content.gsub!(html_re) do
         pre, post, text = $1, $2, $3
@@ -87,8 +94,9 @@ target_urls.each do |url|
       end
     end
 
-    # 3. reference-style [text][ref] with a [ref]: URL definition
-    content.scan(/^[ \t]*\[([^\]]+)\]:[ \t]*#{esc}[ \t]*$/).flatten.uniq.each do |ref|
+    # 3. reference-style [text][ref] with a [ref]: URL definition (optionally
+    # followed by a "title" as in [ref]: URL "Title text")
+    content.scan(/^[ \t]*\[([^\]]+)\]:[ \t]*#{esc}[ \t]*(?:\S.*)?$/).flatten.uniq.each do |ref|
       use_re = /\[([^\]]+)\]\[#{Regexp.escape(ref)}\]/
       next unless content.match?(use_re)
 
@@ -100,7 +108,7 @@ target_urls.each do |url|
 
       # drop the definition line only if nothing still uses that ref name
       unless content.match?(/\[[^\]]+\]\[#{Regexp.escape(ref)}\]/)
-        content.sub!(/^[ \t]*\[#{Regexp.escape(ref)}\]:[ \t]*#{esc}[ \t]*\n?/, "")
+        content.sub!(/^[ \t]*\[#{Regexp.escape(ref)}\]:[ \t]*#{esc}[ \t]*(?:\S.*)?\n?/, "")
       end
     end
 

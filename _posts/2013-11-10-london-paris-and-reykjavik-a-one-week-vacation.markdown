@@ -38,7 +38,7 @@ but off-peak trips within a system usually go for less than £2, and it [stops c
 forget to tap in and out - in particular on [DLR][120] trains, which don't
 have blockades.
 
-<a href="http://www.flickr.com/photos/chesterbr/10666192645/" title="DSCN1038 by chesterbr, on Flickr"><img src="//farm6.staticflickr.com/5505/10666192645_181d5660dc_n.jpg" width="240" height="320" alt="DSCN1038" style="float:left; margin-right:12px"></a>At [Baker Street][109]'s <a class="dead-link" title="this link died" href="http://www.canteen.co.uk/">Canteen</a><span class="dead-link-mark">†</span> we had some English food staples:
+<a href="http://www.flickr.com/photos/chesterbr/10666192645/" title="DSCN1038 by chesterbr, on Flickr"><img src="//farm6.staticflickr.com/5505/10666192645_181d5660dc_n.jpg" width="240" height="320" alt="DSCN1038" style="float:left; margin-right:12px"></a>At [Baker Street][109]'s <a href="http://web.archive.org/web/20240813174041/http://www.canteen.co.uk/">Canteen</a> we had some English food staples:
 fish-and-chips for lunch, and tea with biscuits for dessert. Also visited the
 first [Hard Rock Cafe][104] (beware weblings: no Wi-Fi on the lower level)
 and had a delicious Piri Piri chicken at [Nando's][107] - surely not an
@@ -139,7 +139,7 @@ made me concentrate on seeing the thing, and there is no shortage of
 a geyser.
 
 For the less adventurous, there is Gray Line's
-<a class="dead-link" title="this link died" href="http://www.grayline.is/tour/Day_Tours_and_Sightseeing/AH25_City_Sightseeing_and_Blue_Lagoon_Direct/Iceland.is">City Sightseeing and The Blue Lagoon</a><span class="dead-link-mark">†</span> tour: you see lots of significant
+<a href="http://web.archive.org/web/20140324231715/http://www.grayline.is:80/tour/Day_Tours_and_Sightseeing/AH25_City_Sightseeing_and_Blue_Lagoon_Direct/Iceland.is">City Sightseeing and The Blue Lagoon</a> tour: you see lots of significant
 places around Reykjavík in the morning, then go to one of the best
 geothermal spas. The [entrance fee][308] is not included, but as long as you bring
 your swimsuit and towel, the basic EUR 33 allows you to enjoy the thing in

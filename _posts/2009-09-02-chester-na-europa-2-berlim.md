@@ -22,7 +22,7 @@ E isso é o mais importante, porque Berlim tem \*muito\* a oferecer. A dica que 
 
 Depois desse passeio você seguramente vai saber o que fazer e para onde ir. Por &#8220;free&#8221; entenda que ao final é praxe dar uma gorgeta ao guia &#8211; ele não recebem salário e essa gorgeta é tudo o que ele vai ganhar. €5 é um básico, €10 e acima se você realmente gostou (como no caso do meu guia.)
 
-[<img class="alignright right" style="border: 1px solid black;margin-left: 12px" src="http://farm3.static.flickr.com/2623/3843883571_1c92f31da5_m.jpg" alt="DSCN0374" width="240" height="180" />][6]Sugestão: em qualquer dia sem chuva suba na [Fernsehturm][7], a torre de TV &#8211; eu achei que todo dia era dia, e acabei não indo porque o tempo fechou (substituí por um passeio na Lego Land do Sony Center &#8211; que, de boa, não vale os €15.)
+<a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/3843883571/"><img class="alignright right" style="border: 1px solid black;margin-left: 12px" src="http://farm3.static.flickr.com/2623/3843883571_1c92f31da5_m.jpg" alt="DSCN0374" width="240" height="180" /></a><span class="dead-link-mark">†</span>Sugestão: em qualquer dia sem chuva suba na [Fernsehturm][7], a torre de TV &#8211; eu achei que todo dia era dia, e acabei não indo porque o tempo fechou (substituí por um passeio na Lego Land do Sony Center &#8211; que, de boa, não vale os €15.)
 
 A minha fama de apreciador da cultura e das artes é uma farsa elaborada que exige manutenção constante. Isso me levou à [East Side Gallery][8], na qual uma seção sobrante do muro é usada como galeria de arte ao ar livre. Claro que o discurso acerca da unificação é o mote, mas é interessante ver como outras bandeiras políticas e influências culturais se misturam e dão origem a peças únicas.
 
@@ -55,7 +55,6 @@ Enfim, um país que gasta tanta energia com um detalhe como o bonequinho do faro
  [3]: http://www.baxpax.de/mittes-backpacker/
  [4]: http://www.flickr.com/photos/chesterbr/3843604675/ "O pouco que sobrou do muro, protegido por uma grade (é, todo aquele trabalho pra derrubar e agora estão protegendo :-P )"
  [5]: http://www.newberlintours.com/nbt/content/view/1/2/lang,en/
- [6]: http://www.flickr.com/photos/chesterbr/3843883571/ "DSCN0374 by chesterbr, on Flickr"
  [7]: http://en.wikipedia.org/wiki/Fernsehturm_Berlin
  [8]: http://www.eastsidegallery.com/
  [9]: http://www.flickr.com/photos/chesterbr/3844461484/ "DSCN0270 by chesterbr, on Flickr"

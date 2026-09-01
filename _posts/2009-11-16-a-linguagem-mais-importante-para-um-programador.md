@@ -10,7 +10,7 @@ dsq_thread_id:
   - 1751444586
 categories:
 ---
-Fiz o [comentário][1] no Twitter, mas o ponto é tão importante que vale a pena estender aqui: na semana passada dei uma <a class="dead-link" title="este link morreu" href="http://olhardigital.uol.com.br/central_de_videos/video_wide.php?id_conteudo=9822&/PROGRAMADOR+CONHECA+A+PROFISSAO">entrevista</a><span class="dead-link-mark">†</span> no programa Olhar Digital, e surgiu a pergunta que aspirantes e programadores iniciantes sempre me fazem: &#8220;qual a primeira/próxima linguagem que eu devo aprender?&#8221;
+Fiz o [comentário][1] no Twitter, mas o ponto é tão importante que vale a pena estender aqui: na semana passada dei uma <a href="http://web.archive.org/web/20091119021119/http://olhardigital.uol.com.br:80/central_de_videos/video_wide.php?id_conteudo=9822&/PROGRAMADOR+CONHECA+A+PROFISSAO">entrevista</a> no programa Olhar Digital, e surgiu a pergunta que aspirantes e programadores iniciantes sempre me fazem: &#8220;qual a primeira/próxima linguagem que eu devo aprender?&#8221;
 
 Os veteranos costumam responder a essa pergunta vendendo suas linguagens prediletas em detrimento de outras, usando argumentos como tipagem, clareza, simplicidade, performance e tantos outros que [nem sempre][3] são tão objetivos quanto aparentam.
 

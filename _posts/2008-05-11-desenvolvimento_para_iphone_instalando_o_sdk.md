@@ -18,7 +18,7 @@ Este post dá uma visão superficial das alternativas para desenvolvimento mais 
 Existem (pelo menos) três caminhos para construir aplicações para o iPhone:
 
 *   **iPhone Web Apps**
-    A idéia é usar tecnologias web (HTML, JavaScript, CSS, AJAX, server-side scripts, etc.), hospedando as aplicações remotamente e rodando via Mobile Safari. Existem <a class="dead-link" title="este link morreu" href="http://developer.apple.com/webapps/">guidelines oficiais</a><span class="dead-link-mark">†</span>, livros (gostei [deste][3]) e pelo menos dois frameworks ([iUI][4] e [jPint][5]) que ajudam a tornar as aplicações web parecidas com as nativas &#8211; os [resultados][6] são surpreendentemente bons.
+    A idéia é usar tecnologias web (HTML, JavaScript, CSS, AJAX, server-side scripts, etc.), hospedando as aplicações remotamente e rodando via Mobile Safari. Existem <a href="http://web.archive.org/web/20090706123132/http://developer.apple.com/webapps/">guidelines oficiais</a>, livros (gostei [deste][3]) e pelo menos dois frameworks ([iUI][4] e [jPint][5]) que ajudam a tornar as aplicações web parecidas com as nativas &#8211; os [resultados][6] são surpreendentemente bons.
 
     As desvantagens são as mesmas de qualquer aplicação web: acesso limitado ao sistema (dá pra saber se o fone está em pé ou deitado, fazer chamadas e acessar o Maps, mas não tem como ler o acelerômetro ou acionar o iPod, entre outras coisas) e a necessidade de estar online para usar a app (agravada no Brasil, onde a cobertura de WiFi é mais restrita e os planos de dados tornam caro usar o EDGE).
 

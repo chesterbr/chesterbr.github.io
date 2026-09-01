@@ -28,7 +28,7 @@ Alguns diriam que a Wikipedia offline também é funcionalmente equivalente (ao 
   <a title="Outro livro sem precedentes. Arte de George Cairns." href="http://www.georgecairns.com/guide.html"><img class="size-full wp-image-2710 aligncenter" src="/wp-content/uploads/2009/08/o_guia_do_mochileiro_das_galaxias.jpg" alt="Outro livro sem precedentes. Arte de George Cairns." width="208" height="277" /></a>
 </p>
 
-É fato: <a class="dead-link" title="este link morreu" href="http://pt.wikipedia.org/wiki/O_Guia_do_Mochileiro_das_Gal%C3%A1xias">O Guia do Mochileiro das Galáxias</a><span class="dead-link-mark">†</span> também livraria a cara fortemente em várias situações complicadas do dia-a-dia.
+É fato: <a href="http://web.archive.org/web/20260214222737/https://pt.wikipedia.org/wiki/O_guia_do_mochileiro_das_gal%C3%A1xias">O Guia do Mochileiro das Galáxias</a> também livraria a cara fortemente em várias situações complicadas do dia-a-dia.
 
 Seja lá o que for, o fato é que agora ninguém me segura - pode ser difícil de achar (a busca é só por título), mas o que quer que eu precise saber está lá! :-)
 

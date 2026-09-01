@@ -20,7 +20,7 @@ The fact that you don&#8217;t really &#8220;die&#8221; (at least I haven&#8217;t
 
 My only complaint is that I miss hardware controls for platform games (regardless of how beautiful they are on the Retina display). I bought a [Nintendo 3DS][3] precisely for that reason, but never found a great platformer for it (or any title that breaks the &#8220;ok, but not as shiny as the original&#8221; impression).
 
-The only thing that keeps my Nintendo portable running are the Mii Plaza StreetPass-based mini-games, the ultra-polished Mario Kart 7 and the faithfully recreated Twin Bee. <a class="dead-link" title="this link died" href="http://www.nintendo.com/games/detail/ehSBsDqZYxWzmHC9ODf7wDDu5_TdrXhw">New SMB2</a><span class="dead-link-mark">†</span> had everything to change that, but the &#8220;you-suck-let&#8217;s-make-you-Invincible-Mario&#8221; crushed the experience for me.
+The only thing that keeps my Nintendo portable running are the Mii Plaza StreetPass-based mini-games, the ultra-polished Mario Kart 7 and the faithfully recreated Twin Bee. <a href="http://web.archive.org/web/20190405090619/https://www.nintendo.com/games/detail/ehSBsDqZYxWzmHC9ODf7wDDu5_TdrXhw">New SMB2</a> had everything to change that, but the &#8220;you-suck-let&#8217;s-make-you-Invincible-Mario&#8221; crushed the experience for me.
 
 Back to Cordy 2: maybe it&#8217;s not for the hardcore gamer, but overall I find the $5 was money well spent. As usual in iOSland, you can try a few levels before making a decision &#8211; yet another thing that very few titles (and none from Nintendo, I believe) offer on the 3DS.
 

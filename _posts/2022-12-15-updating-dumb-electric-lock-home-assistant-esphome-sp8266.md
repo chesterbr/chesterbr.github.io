@@ -25,7 +25,7 @@ There isn't any schematics this time: just soldered the shield pins over the ESP
 
 ### Software
 
-It's easier to test before you stick things to the wall. Once again I used [ESPHome](https://esphome.io/) within [Home Assistant]([https://](https://www.home-assistant.io/)). This time we want to present the relay as a push button, so something like this does the job:
+It's easier to test before you stick things to the wall. Once again I used [ESPHome](https://esphome.io/) within [Home Assistant](https://www.home-assistant.io/). This time we want to present the relay as a push button, so something like this does the job:
 
 ```yaml
 switch:

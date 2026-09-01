@@ -14,7 +14,7 @@ categories:
 ---
 [<img class="alignright size-full wp-image-7294" style="padding: 0px; border: 1px solid black !important;" title="Foto Original por Deaf Dude (clique para ver)" src="/wp-content/uploads/2012/11/canada_parachute.jpg" alt="Foto Original por Deaf Dude (clique para ver)" width="300" height="323" />][1]Mudar de país envolve um monte de pequenos detalhes. Assim como fiz no [post sobre o processo do visto de trabalho][2], estou colocando neste os passos que dei ao chegar no Canadá até me considerar estabelecido: tirar documentos, abrir conta em banco, arrumar uma casa e coisas do gênero.
 
-Novamente vale avisar: esta informação **não é oficial**. Muito só se aplica a <a class="dead-link" title="este link morreu" href="http://www.canadainternational.gc.ca/france/visas/work-other_travailler-autre.aspx?view=d">temporary workers</a><span class="dead-link-mark">†</span>, ou só a quem vem pra Toronto, ou só pra quem é o Chester. Minha intenção é das melhores, mas você tem que avaliar as diferenças do seu caso e sempre [procurar][4] a** informação oficial e atualizada**.
+Novamente vale avisar: esta informação **não é oficial**. Muito só se aplica a <a href="http://web.archive.org/web/20121105084317/http://www.canadainternational.gc.ca:80/france/visas/work-other_travailler-autre.aspx?view=d">temporary workers</a>, ou só a quem vem pra Toronto, ou só pra quem é o Chester. Minha intenção é das melhores, mas você tem que avaliar as diferenças do seu caso e sempre [procurar][4] a** informação oficial e atualizada**.
 
 <!--more-->
 

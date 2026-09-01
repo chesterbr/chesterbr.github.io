@@ -18,7 +18,7 @@ Um bom emulador é necessário para programar para qualquer dispositivo, seja el
 
 Foi com esse objetivo que eu encomendei o [Harmony][5]. Em termos simplificados, é um cartucho com slot para [cartão SD][6], que disponibiliza os jogos (ROMs) gravados no cartão através de um menu no console. Comparando com aqueles [cartuchos com 2 ou 4 jogos][7] selecionáveis através de chaves, é uma evolução incrível.
 
-[<img src="//farm7.static.flickr.com/6224/6296434661_1ac7df1365_m.jpg" width="240" height="180" alt="Cartucho Harmony: Menu" style="float:right;margin:4px;border:1px solid black" />][8]Como tudo que é simples, tem uma engenharia sofisticada por trás. As [especificações][9] mostram que, só em termos de clock, a CPU do cartucho é 70 vezes mais rápida que o do videogame (na prática a diferença é ainda maior, afinal, é uma arquitetura ARM de 32 bits contra um 6502 de 8 bits). Talvez não precisasse de tudo isso, mas um hardware mais generoso pode embarcar um software que reconhece dezenas de formatos de ROMs, e que pode ser atualizado com faclidade.
+<a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/6296434661/"><img src="//farm7.static.flickr.com/6224/6296434661_1ac7df1365_m.jpg" width="240" height="180" alt="Cartucho Harmony: Menu" style="float:right;margin:4px;border:1px solid black" /></a><span class="dead-link-mark">†</span>Como tudo que é simples, tem uma engenharia sofisticada por trás. As [especificações][9] mostram que, só em termos de clock, a CPU do cartucho é 70 vezes mais rápida que o do videogame (na prática a diferença é ainda maior, afinal, é uma arquitetura ARM de 32 bits contra um 6502 de 8 bits). Talvez não precisasse de tudo isso, mas um hardware mais generoso pode embarcar um software que reconhece dezenas de formatos de ROMs, e que pode ser atualizado com faclidade.
 
 Para mim foi útil logo de cara, porque o &#8220;Hello, World&#8221; que eu apresentei no [Dev In Sampa][10] nunca tinha rodado em um console de verdade, e eu não acreditava que acertaria de primeira. Dito e feito: eu não zerei os registradores do TIA (chip de vídeo) correspondentes aos objetos visuais que não estava usando, e eles apareciam como &#8220;lixo&#8221; na tela. Este problema não acontecia no emulador, porque ele zera a memória emulada ao inicializar. Felizmente a correção foi fácil, e já foi aplicada nos [slides][11] e no [código-fonte][12].
 
@@ -35,12 +35,11 @@ Se interessar, veja mais [fotos do Harmony][16] em ação.
 *(esse post pede um agradecimento especial ao Alexandre Oliveira, que me cedeu vários cartuchos de Atari para testar o console &#8220;novo&#8221;, evitando que eu procurasse problemas onde eles não existiam)*
 
  [1]: http://www.flickr.com/photos/chesterbr/6296967178/ "Cartucho Harmony by chesterbr, on Flickr"
- [3]: chester.me/archives/2011/08/palestra-sobre-programacao-para-atari-2600-no-dev-in-sampa-2011.html
+ [3]: /archives/2011/08/palestra-sobre-programacao-para-atari-2600-no-dev-in-sampa-2011.html/
  [4]: http://stella.sourceforge.net/
  [5]: http://harmony.atariage.com/
  [6]: http://cartaodememoria.com/cartao-sd
  [7]: http://romerogames.blogspot.com/2011/08/atari-2600-cartuchos-com-varios-jogos.html
- [8]: http://www.flickr.com/photos/chesterbr/6296434661/ "Cartucho Harmony: Menu by chesterbr, on Flickr"
  [9]: http://www.randomterrain.com/atari-2600-memories-harmony-cartridge.html#technical_specifications
  [10]: http://devinsampa.com.br/
  [11]: http://www.slideshare.net/chesterbr/programao-para-atari-2600

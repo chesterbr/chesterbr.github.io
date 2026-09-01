@@ -14,7 +14,7 @@ Para mim, o Marcatti sempre foi aquele cara totalmente escatológico, dono de um
 
 A coletânea compreende umas umas quinze histórias das mais diversas fases do autor (sim, ele já fez histórias sem um único ato erótico ou nojento), que, aliadas à entrevista da abertura, permitem uma visão menos simplista do seu trabalho.
 
-Comecei a entender (e compartilhar) um pouco mais do respeito que praticamente todo mundo na área de HQ tem pelo cara. O livro é relativamente antigo (2000), mas eu achei em prateleira de livraria, então deve ser fácil de encontrar. E é bom lembrar que o Marcatti voltou às bancas com o <a class="dead-link" title="este link morreu" href="http://www.marcatti.net/frauzio/index.htm" >Fráuzio</a><span class="dead-link-mark">†</span>, outro que vale cada centavo (e olha que são poucos centavos &#8211; o gibi é baratinho). </tr> </table>
+Comecei a entender (e compartilhar) um pouco mais do respeito que praticamente todo mundo na área de HQ tem pelo cara. O livro é relativamente antigo (2000), mas eu achei em prateleira de livraria, então deve ser fácil de encontrar. E é bom lembrar que o Marcatti voltou às bancas com o <a href="http://web.archive.org/web/20040209201723/http://www.marcatti.net:80/frauzio/index.htm" >Fráuzio</a>, outro que vale cada centavo (e olha que são poucos centavos &#8211; o gibi é baratinho). </tr> </table>
 
 
 

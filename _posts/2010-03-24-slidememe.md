@@ -22,7 +22,7 @@ dsq_thread_id:
 categories:
   - Portfolio
 ---
-[<img src="//farm5.static.flickr.com/4063/4454847693_9c02af3d47_m.jpg" width="240" height="159" alt="Bani and ChesterBR @ Yahoo! Open Hack Day Brasil 2010" style="float:left; margin-right:6px; margin-bottom:4px; border:1px solid black;" />][1]O [SlideMeme][2] foi hack que eu e a [Bani][3] apresentamos no [Yahoo! Open Hack Day Brasil 2010][4]. O objetivo dele é oferecer uma forma visualmente agradável e conveniente para postar apresentações do [SlideShare][5] no [Yahoo! Meme][6], e claro que ficamos **muito** contentes por ele ter sido premiado como [melhor hack na categoria Meme][7]!
+<a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/guilhermechapiewski/4454847693/"><img src="//farm5.static.flickr.com/4063/4454847693_9c02af3d47_m.jpg" width="240" height="159" alt="Bani and ChesterBR @ Yahoo! Open Hack Day Brasil 2010" style="float:left; margin-right:6px; margin-bottom:4px; border:1px solid black;" /></a><span class="dead-link-mark">†</span>O [SlideMeme][2] foi hack que eu e a [Bani][3] apresentamos no [Yahoo! Open Hack Day Brasil 2010][4]. O objetivo dele é oferecer uma forma visualmente agradável e conveniente para postar apresentações do [SlideShare][5] no [Yahoo! Meme][6], e claro que ficamos **muito** contentes por ele ter sido premiado como [melhor hack na categoria Meme][7]!
 <!--more-->
 
 
@@ -168,7 +168,6 @@ Ufa, foi um fim-de-semana movimentado&#8230; :-)
 
 **UPDATE**: O [Gleicon Moraes][36] me passou a dica de que o [swfrender][37] (componente do swftools) consegue fazer a conversão. Eu cheguei a considerar ele na época, mas a [documentação][37] dá a entender que ele só funcionaria com arquivos previamente criados pelo swftools (o que pode ou não ser o caso dos slides do SlideShare). O fato é: funcionou em um ou dois testes preliminares, e pode ser a chave para migrar o hack para usar ferramentas livres e hospedagem mais acessível. Assim que eu tiver tempo vou olhar isso com carinho.
 
- [1]: http://www.flickr.com/photos/guilhermechapiewski/4454847693/ "Bani and ChesterBR @ Yahoo! Open Hack Day Brasil 2010 by Guilherme Chapiewski, on Flickr"
  [2]: http://slide.memethis.com
  [3]: http://baniverso.com/
  [4]: http://openhackbrazil.pbworks.com/

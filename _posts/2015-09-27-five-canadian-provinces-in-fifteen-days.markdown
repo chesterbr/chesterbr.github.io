@@ -29,7 +29,7 @@ Here are the cities I visited (all links are photo albums), followed by a wrap-u
 
 ![](/img/2015/09/halifax.jpg){: .center }
 
-We first visited the [Citadel][45], a 19th-century fortification preserved as a historic site. The walking tour is recommended for the historical info and the [rifle firing demonstration][46]. Every noon they fire a cannon from there, which can be heard across the city (if that is too much for you, just [follow the shots][47] on Twitter).
+We first visited the [Citadel][45], a 19th-century fortification preserved as a historic site. The walking tour is recommended for the historical info and the <a class="dead-link" title="this link died" href="https://vine.co/v/etW5txJFOE7">rifle firing demonstration</a><span class="dead-link-mark">†</span>. Every noon they fire a cannon from there, which can be heard across the city (if that is too much for you, just [follow the shots][47] on Twitter).
 
 The [bus trip to Peggy's Cove][48] takes an hour, but is worth it for the [scenery][49] around the "most photographed light house in Canada". I also had lots of fun with the [Harbour Hopper][50]: an amphibious vehicle designed by US military to transport cargo during Vietnam War is repurposed to transport tourists around the city and through the harbour.
 
@@ -134,7 +134,6 @@ Brunch with my pal [Thea][72] at the sophisticated [Medina Cafe][59] and a pleas
 [41]: http://edmontonjournal.com/news/local-news/edmonton-officials-oppose-uber-regulating-own-drivers
 [43]: https://www.facebook.com/chesterbr/posts/10153164852626915?comment_id=10153165180396915
 [45]: https://en.wikipedia.org/wiki/Citadel_Hill_%28Fort_George%29
-[46]: https://vine.co/v/etW5txJFOE7
 [47]: https://twitter.com/halifaxnoongun
 [48]: http://www.grayline.com/tours/halifax/peggys-cove-tour-5858_12/
 [49]: http://www.novascotia.com/see-do/attractions/peggys-cove-village-and-lighthouse/1468

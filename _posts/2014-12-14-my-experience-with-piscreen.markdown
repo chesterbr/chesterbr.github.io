@@ -17,7 +17,7 @@ I had some fun, and I will still do some interesting stuff with it. Some project
 
 For [70 AUD][5] (55 + shipping) I got PiScreen in the "kit" form. Ten more bucks would have given me it fully assembled, but (as Steve Wozniak might say) why should I let someone else have the fun of soldering it? Even with a blue component among the orange/black ones (my kit was missing a 0.1 μF capacitor), the end result was a beautiful board, which can be either directly plugged above the Pi or connected with the (included) flat cable.
 
-[![PiScreen after my soldering job ](/img/2014/12/pi1.jpg){: .center }](https://www.flickr.com/photos/chesterbr/15401048483)
+<a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/15401048483"><img src="/img/2014/12/pi1.jpg" alt="PiScreen after my soldering job " class="center" /></a><span class="dead-link-mark">†</span>
 
 Mind you, I had a few problems with the software. The [driver install instructions][7] are pretty clear, but I could not get the display to work, even on a freshly installed Raspbian. I had to use their <a class="dead-link" title="this link died" href="http://ozzmaker.com/piscreen/PiScreenImage-SDCard-1.6.zip">Linux image with drivers installed</a><span class="dead-link-mark">†</span>, which was good for testing and writing this post, but one would likely want to use the screen with other custom distributions (e.g., an emulator one like [ChameleonPi][9]).
 

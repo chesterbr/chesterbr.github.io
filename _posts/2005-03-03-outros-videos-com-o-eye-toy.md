@@ -24,6 +24,6 @@ Parece que o vídeo que eu coloquei no Mondo Bizarro jogando o DDR 8th Mix no Ey
 *   Aqui tem um autêntico (ou, ao menos, bem-vestido) <a href="http://www.koreus.com/files/200408/eyetoy_andy.html" >Karateka</a> brincando com um dos jogos básicos
 *   No Japão, o brinquedo tem até propaganda na TV. Achei <a class="dead-link" title="este link morreu" href="http://www.popkid.com/enhance/cm_eyetoy1.wmv">esta</a><span class="dead-link-mark">†</span> e <a class="dead-link" title="este link morreu" href="http://www.popkid.com/enhance/cm_eyetoy3.wmv">esta</a><span class="dead-link-mark">†</span>.
 *   Saiu até um software, o [Junk TV][1], cujo único uso é gravar e compartilhar vídeos feitos com o Eye Toy. O site tem dúzias deles.
-*   Que Eye Toy que nada! <a class="dead-link" title="este link morreu" href="http://216.223.71.42/movie.wmv">Esse</a><span class="dead-link-mark">†</span> vídeo mostra o que pode vir a ser a próxima geração de brinquedos desse tipo
+*   Que Eye Toy que nada! <a href="http://web.archive.org/web/20060429131512/http://216.223.71.42:80/movie.wmv">Esse</a> vídeo mostra o que pode vir a ser a próxima geração de brinquedos desse tipo
 
  [1]: http://www.junk.tv

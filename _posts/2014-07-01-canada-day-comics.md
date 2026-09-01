@@ -14,7 +14,7 @@ Having already read everything from [Alpha Flight][2] on Marvel Unlimited, I've 
 The biggest surprise, however, was [Archie Goes to Canada][8]: it collects stories from multiple periods that are not (much) stereotypical, and even doubles as a cultural/travel guide of sorts.
 
 But my day wont't be just comics: there is also the
-<a class="dead-link" title="this link died" href="http://www.captaincanuck.com/web-series/">Captain Canuck animated series</a><span class="dead-link-mark">†</span>, available online for free. It is modern-looking and (judging by a peek) very action-oriented, so I expect a very un-canadian punch-to-apology ratio. Anyway, it's the red-and-white that counts, so.... Happy Canada Day!
+<a href="http://web.archive.org/web/20150814231618/http://www.captaincanuck.com/web-series/">Captain Canuck animated series</a>, available online for free. It is modern-looking and (judging by a peek) very action-oriented, so I expect a very un-canadian punch-to-apology ratio. Anyway, it's the red-and-white that counts, so.... Happy Canada Day!
 
 <center> <iframe width="640" height="360" src="//www.youtube.com/embed/mFinqPnt7So" frameborder="0" allowfullscreen></iframe> </center>
 

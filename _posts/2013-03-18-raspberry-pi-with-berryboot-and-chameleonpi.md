@@ -36,7 +36,7 @@ A cheap Wi-Fi dongle got me wireless for another $15. It all depends on what you
   </p>
 </div>
 
-The recommended software to start with is [Raspbian][7], a desktop-like Linux distribution to which you can add anything you want. But several custom-build distros were created for specific applications, like <a class="dead-link" title="this link died" href="http://www.openelec.tv/">OpenELEC</a><span class="dead-link-mark">†</span> (a powerful XBMC-based media player) and [Sugar][9] (containing the educational software that runs on the One-Laptop-Per-Child machines).
+The recommended software to start with is [Raspbian][7], a desktop-like Linux distribution to which you can add anything you want. But several custom-build distros were created for specific applications, like <a href="http://web.archive.org/web/20210607101705/https://openelec.tv/">OpenELEC</a> (a powerful XBMC-based media player) and [Sugar][9] (containing the educational software that runs on the One-Laptop-Per-Child machines).
 
 But the nerdgasms came with [ChameleonPI][10] &#8211; a collection of emulators for dozens of old-school platforms. Apple II, MSX, ZX81, Spectrum, C64, Arcades (MAME), GameBoy, NES&#8230; you name it, ChameleonPI has it. Just throw your ROMs/DSKs/TAPs (or a willingness to write BASIC code) and have fun!
 

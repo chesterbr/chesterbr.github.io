@@ -168,7 +168,7 @@ while True:
 
 See it in action:
 
-<center> <iframe class="vine-embed" src="https://vine.co/v/M3MwvuWEx1l/embed/simple" width="480" height="480" frameborder="0"></iframe><script async src="//platform.vine.co/static/scripts/embed.js" charset="utf-8"></script> </center>
+<center><em class="dead-link-mark">(the Vine embed that used to be here is gone &#8211; Twitter shut Vine down in 2017)</em></center>
 
 It can be expanded to test the buttons, just by configuring the correct data selection on the pins 3, 5 and 7, and checking the appropriate input pin (11 or 13).
 
