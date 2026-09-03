@@ -401,6 +401,12 @@ body > footer a:hover { color: var(--accent-text); }
 .highlight pre, .gist-highlight pre { background: none; border: 0; padding: 0; margin: 0; }
 .highlight code { background: none; border: 0; padding: 0; }
 
+.wrap-code .highlight { overflow-x: visible; }
+.wrap-code .highlight pre, .wrap-code .highlight code {
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
 .highlight .c, .highlight .cm, .highlight .cp, .highlight .c1, .highlight .cs { color: var(--code-comment); font-style: italic; }
 .highlight .err { color: var(--code-error); background: var(--code-error-bg); }
 .highlight .k, .highlight .kc, .highlight .kd, .highlight .kp, .highlight .kr, .highlight .kt { color: var(--code-keyword); }
@@ -417,6 +423,20 @@ body > footer a:hover { color: var(--accent-text); }
 .highlight .line-numbers { text-align: right; color: var(--code-comment); user-select: none; padding-right: 1em; }
 .highlight table { width: 100%; }
 .highlight table td.code { width: 100%; }
+
+div.code {
+  background: var(--code-bg);
+  border: 1px solid var(--code-border);
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin-bottom: 1.8em;
+  overflow-x: auto;
+}
+div.code pre {
+  font-size: 0.85em;
+  line-height: 1.5;
+  white-space: pre;
+}
 
 .gist-file { border: 1px solid var(--code-border); border-radius: 6px; overflow: hidden; margin-bottom: 1.8em; }
 .gist-file .gist-highlight { border: 0; border-radius: 0; margin-bottom: 0; }

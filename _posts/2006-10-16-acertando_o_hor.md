@@ -13,7 +13,7 @@ categories:
 ---
 * * *
 
-**<font color="red">ATUALIZAÇÃO:</font>** O método sugerido aqui não lê a configuração de timezone do servidor (e, portanto, exige atualização a cada ano) . Se o seu servidor é Linux ou assemelhado, sugiro usar o [timefix][1].</p>
+**<font color="red">ATUALIZAÇÃO:</font>** O método sugerido aqui não lê a configuração de timezone do servidor (e, portanto, exige atualização a cada ano) . Se o seu servidor é Linux ou assemelhado, sugiro usar o [timefix][1].
 * * *
 
 <img title="Detalhe de uma propaganda do governo americano sobre horário de verão" align="right" src="/archives/img/timezone.jpg" width="200" height="212" />Se você desenvolve aplicações Java para rodar em servidores, já deve ter se deparado com este problema: a máquina virtual nunca &#8220;acerta&#8221; o horário de verão, mesmo que você tenha configurado corretamente o *timezone* do sistema operacional do servidor para acertar o relógio.</p>
