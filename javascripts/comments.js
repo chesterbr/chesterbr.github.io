@@ -29,7 +29,6 @@
 
         $(form)[0].reset();
         $('#cancel-comment-reply-link').click();
-        simplemde.value("");
         $(form).removeClass('disabled');
         if (window.turnstile) { turnstile.reset(); }
         var tsField = document.getElementById('comment-ts');

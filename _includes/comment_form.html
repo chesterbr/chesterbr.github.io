@@ -61,18 +61,9 @@
 <!-- Cloudflare Turnstile (spam wall) -->
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 
-<!-- Simple Markdown Editor -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css" />
-<script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
 <script>
-  var simplemde = new SimpleMDE({
-    element: document.getElementById("comment-form-message"),
-    forceSync: true,
-    spellChecker: false,
-    status: false,
-    placeholder: (window.readerLangT && window.readerLangT("commentPlaceholder")) ||
-      "Your comment (markdown and some HTML accepted)",
-  });
+  // A plain textarea (no rich editor): native IME handling avoids the Android
+  // predictive-keyboard duplication bug that CodeMirror 5 / SimpleMDE hit.
   // Stamp form render time so the Worker can reject instant (bot) submissions.
   document.getElementById("comment-ts").value = Date.now();
 </script>
