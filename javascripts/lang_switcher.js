@@ -37,7 +37,8 @@
     commentSubmittedTitle: "Comentário enviado",
     commentSubmittedText: "Valeu! Seu comentário será publicado após a aprovação.",
     commentErrorTitle: "Erro",
-    commentErrorText: "Ocorreu um erro."
+    commentErrorText: "Ocorreu um erro.",
+    commentClose: "Fechar"
   };
 
   // Caches each tagged element's original (English) content/attributes the
