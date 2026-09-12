@@ -26,7 +26,7 @@
     onGithub: "no GitHub",
     addComment: "Adicionar comentário",
     commentPlaceholder: "Seu comentário (aceita Markdown e algum HTML)",
-    markdownHelp: 'Aprenda a escrever em Markdown com esta <a rel="nofollow" target="_blank" href="https://kramdown.gettalong.org/quickref.html">referência rápida</a>.',
+    markdownHelp: 'Aprenda a escrever em Markdown com esta <a rel="nofollow" target="_blank" href="https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">referência rápida</a>.',
     nameLabel: "Nome",
     namePlaceholder: "Seu nome (obrigatório)",
     emailLabel: "E-mail",
