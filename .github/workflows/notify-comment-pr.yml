@@ -1,0 +1,27 @@
+name: Notify me of new comment PRs
+
+# The comments Worker opens a PR (branch comments/*) only when a comment needs
+# human review. It's opened by my own fine-grained token, so GitHub never
+# notifies me. This runs as github-actions[bot] - a different actor - to assign
+# the PR to me and @-mention me, which does produce a notification. Scoped to
+# comments/* so Dependabot and other PRs don't ping me.
+on:
+  pull_request:
+    types: [opened]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  ping:
+    if: startsWith(github.head_ref, 'comments/')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Assign and ping
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          gh pr edit "$PR" --repo "$GITHUB_REPOSITORY" --add-assignee chesterbr
+          gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" \
+            --body "@chesterbr novo comentário aguardando revisão."
