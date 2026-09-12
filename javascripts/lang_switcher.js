@@ -23,7 +23,21 @@
     search: "Buscar",
     recentProjects: "Projetos Recentes",
     statusUpdating: "Atualizando...",
-    onGithub: "no GitHub"
+    onGithub: "no GitHub",
+    addComment: "Adicionar comentário",
+    commentPlaceholder: "Seu comentário (aceita Markdown e algum HTML)",
+    markdownHelp: 'Aprenda a escrever em Markdown com esta <a rel="nofollow" target="_blank" href="https://kramdown.gettalong.org/quickref.html">referência rápida</a>.',
+    nameLabel: "Nome",
+    namePlaceholder: "Seu nome (obrigatório)",
+    emailLabel: "E-mail",
+    emailFootnote: '(não será publicado; usado apenas para exibir um <a rel="nofollow" target="_blank" href="https://gravatar.com/">Gravatar</a>)',
+    emailPlaceholder: "Seu e-mail (opcional)",
+    commentSubmit: "Enviar",
+    commentSending: "Enviando...",
+    commentSubmittedTitle: "Comentário enviado",
+    commentSubmittedText: "Valeu! Seu comentário será publicado após a aprovação.",
+    commentErrorTitle: "Erro",
+    commentErrorText: "Ocorreu um erro."
   };
 
   // Caches each tagged element's original (English) content/attributes the
@@ -115,6 +129,16 @@
   function hasFilterableContent() {
     return !!document.querySelector("[data-lang]");
   }
+
+  // Tiny read-only API so other scripts (the comment form's SimpleMDE init and
+  // comments.js) can translate their dynamic strings with the same dictionary
+  // and reader mode. Available synchronously because this file loads in <head>.
+  window.readerLangIsPt = function () {
+    return chromeLangFor(getMode()) === "pt-BR";
+  };
+  window.readerLangT = function (key) {
+    return window.readerLangIsPt() && translationsPt[key] ? translationsPt[key] : null;
+  };
 
   document.addEventListener("DOMContentLoaded", function () {
     var mode = getMode();

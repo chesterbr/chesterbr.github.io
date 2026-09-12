@@ -6,32 +6,32 @@
 
   <div class="textfield">
     <label for="comment-form-message">
-      <h2>Add Comment <small><a rel="nofollow" id="cancel-comment-reply-link"
+      <h2><span data-i18n="addComment">Add Comment</span> <small><a rel="nofollow" id="cancel-comment-reply-link"
             href="{{ page.url | absolute_url }}#respond" style="display:none;">(cancel reply)</a></small></h2>
       <textarea class="textfield__input" name="message" type="text" id="comment-form-message"
-        placeholder="Your comment (markdown accepted)" required rows="6"></textarea>
+        placeholder="Your comment (markdown accepted)" data-i18n-placeholder="commentPlaceholder" required rows="6"></textarea>
     </label>
-    <div class="comment-form-message-footnote">
+    <div class="comment-form-message-footnote" data-i18n="markdownHelp">
       Learn how to write in Markdown with this <a rel="nofollow" target="_blank"
         href="https://kramdown.gettalong.org/quickref.html">Quick Reference</a>.
     </div>
   </div>
 
   <div class="textfield narrowfield">
-    <label for="comment-form-name">Name
+    <label for="comment-form-name"><span data-i18n="nameLabel">Name</span>
       <input class="textfield__input" name="name" type="text" id="comment-form-name"
-        placeholder="Your name (required)" required data-1p-ignore />
+        placeholder="Your name (required)" data-i18n-placeholder="namePlaceholder" required data-1p-ignore />
     </label>
   </div>
 
   <div class="textfield narrowfield">
-    <label for="comment-form-email">E-mail
-      <span class="comment-form-footnote">
+    <label for="comment-form-email"><span data-i18n="emailLabel">E-mail</span>
+      <span class="comment-form-footnote" data-i18n="emailFootnote">
         (won't be published; only used to show a <a rel="nofollow" target="_blank"
           href="https://gravatar.com/">Gravatar</a>)
       </span>
       <input class="textfield__input" name="email" type="email" id="comment-form-email"
-        placeholder="Your email (optional)" data-1p-ignore />
+        placeholder="Your email (optional)" data-i18n-placeholder="emailPlaceholder" data-1p-ignore />
     </label>
   </div>
 
@@ -44,7 +44,7 @@
 
   <div class="cf-turnstile" data-sitekey="{{ site.turnstile_sitekey }}"></div>
 
-  <button class="button" id="comment-form-submit">Submit</button>
+  <button class="button" id="comment-form-submit" data-i18n="commentSubmit">Submit</button>
 
 </form>
 
@@ -70,7 +70,8 @@
     forceSync: true,
     spellChecker: false,
     status: false,
-    placeholder: "Your comment (markdown and some HTML accepted)",
+    placeholder: (window.readerLangT && window.readerLangT("commentPlaceholder")) ||
+      "Your comment (markdown and some HTML accepted)",
   });
   // Stamp form render time so the Worker can reject instant (bot) submissions.
   document.getElementById("comment-ts").value = Date.now();

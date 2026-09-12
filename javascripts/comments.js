@@ -3,12 +3,18 @@
 (function ($) {
   var $comments = $('.js-comments');
 
+  // Translate a dynamic string via the shared reader-language dictionary
+  // (exposed by lang_switcher.js), falling back to the English literal.
+  function tr(key, en) {
+    return (window.readerLangT && window.readerLangT(key)) || en;
+  }
+
   $('.js-form').submit(function () {
     var form = this;
 
 
     $(form).addClass('disabled');
-    $('#comment-form-submit').html('<i class="fas fa-spinner fa-spin fa-fw"></i> Sending...');
+    $('#comment-form-submit').html('<i class="fas fa-spinner fa-spin fa-fw"></i> ' + tr('commentSending', 'Sending...'));
 
     $.ajax({
       type: $(this).attr('method'),
@@ -16,10 +22,10 @@
       data: $(this).serialize(),
       contentType: 'application/x-www-form-urlencoded',
       success: function (data) {
-        showModal('Comment submitted', 'Thanks! Your comment will be published once it\'s approved.');
+        showModal(tr('commentSubmittedTitle', 'Comment submitted'), tr('commentSubmittedText', 'Thanks! Your comment will be published once it\'s approved.'));
 
         $("#comment-form-submit")
-          .html("Submit");
+          .html(tr('commentSubmit', 'Submit'));
 
         $(form)[0].reset();
         $('#cancel-comment-reply-link').click();
@@ -32,8 +38,8 @@
       error: function (err) {
         console.log(err);
         var ecode = (err.responseJSON || {}).errorCode || "unknown";
-        showModal('Error', 'An error occurred.<br>[' + ecode + ']');
-        $("#comment-form-submit").html("Submit")
+        showModal(tr('commentErrorTitle', 'Error'), tr('commentErrorText', 'An error occurred.') + '<br>[' + ecode + ']');
+        $("#comment-form-submit").html(tr('commentSubmit', 'Submit'))
         $(form).removeClass('disabled');
         if (window.turnstile) { turnstile.reset(); }
       }
