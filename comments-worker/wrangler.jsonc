@@ -9,6 +9,7 @@
   "name": "chester-comments",
   "main": "src/index.ts",
   "compatibility_date": "2026-09-01",
+  "account_id": "e81f6ede76da1551d71eca76bb7e597f",
   "vars": {
     "REPO_OWNER": "chesterbr",
     "REPO_NAME": "chesterbr.github.io",

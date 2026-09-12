@@ -1,0 +1,43 @@
+name: Deploy comments Worker to Cloudflare
+
+# The comment-intake Worker lives in comments-worker/. Redeploy it only when its
+# own files change (merging a Dependabot bump, editing the script), so unrelated
+# commits to main - blog posts, site tweaks - never touch it. The Worker's own
+# auto-published comment commits land in _data/comments/, outside this path, so
+# they don't trigger a redeploy either. workflow_dispatch allows a manual run.
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "comments-worker/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: comments-worker/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: comments-worker
+
+      # Deploys src/index.ts using the pinned wrangler. Runtime secrets
+      # (GITHUB_TOKEN, TURNSTILE_SECRET, ...) already live in Cloudflare and are
+      # untouched by a deploy - only the code and vars are uploaded.
+      - name: Deploy with Wrangler
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          workingDirectory: comments-worker
