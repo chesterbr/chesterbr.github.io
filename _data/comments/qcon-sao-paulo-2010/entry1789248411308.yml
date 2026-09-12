@@ -1,0 +1,8 @@
+_id: 1789248411308
+_parent: "https://chester.me/archives/2010/09/qcon-sao-paulo-2010.html/"
+replying_to_uid: ""
+message: "Vamos testar com força agora:\r\n\r\n  - Posta um comentário tipo [clique](javascript:alert(document.domain)) num\r\n    post. Antes viraria um link que executa JS; agora deve renderizar como <a>\r\n    inerte (sem o href=\"javascript:...\").\r\n  - E um **negrito** ou <b>tag</b> normal continua funcionando (safe-HTML\r\n    preservado).\r\n\r\naqui tem um script de alert: <script>alert(hi);</script>"
+name: "chester"
+email: "45f583f2baa728d71f73afc2c9f7628103920e59b6dbf636e7c46c1ca8cddcfd"
+hp: ''
+date: 1789248411
