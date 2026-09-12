@@ -1,0 +1,33 @@
+name: Notify me of auto-published comments
+
+# When a comment passes the filters it's committed straight to main (no PR), so
+# there's nothing to assign and I'd never hear about it. On each push, this looks
+# for the Worker's auto-publish commits ("Comment by ... on ...", but not
+# "Rejected comment by ...") and, as github-actions[bot], leaves a commit comment
+# @-mentioning me - a native notification, no Issue to clean up. Rejections and
+# my own unrelated commits are skipped.
+on:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write # commit comments need contents: write
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment-mention me on auto-published comment commits
+        uses: actions/github-script@v7
+        with:
+          script: |
+            for (const c of context.payload.commits || []) {
+              const first = (c.message || "").split("\n")[0];
+              if (!first.startsWith("Comment by ") || first.startsWith("Rejected")) continue;
+              await github.rest.repos.createCommitComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                commit_sha: c.id,
+                body: `@chesterbr novo comentário publicado — ${first}`,
+              });
+            }
