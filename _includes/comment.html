@@ -9,7 +9,7 @@
 
   <div class="comment__content-wrapper">
     <div class="comment__author">
-      <h3>{{- include.name | sanitize_html -}}</h3>
+      <h3>{{- include.name | strip_html -}}</h3>
     </div>
 
     <div class="comment__date">
@@ -22,7 +22,7 @@
   </div>
 
   <div class="comment__body">
-    {{ include.message | sanitize_html | markdownify | replace: '<a href="http', '<a rel=" ugc nofollow" target="_blank"
+    {{ include.message | markdownify | sanitize_html | replace: '<a href="http', '<a rel=" ugc nofollow" target="_blank"
       href="http' }}
   </div>
 
