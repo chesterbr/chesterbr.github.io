@@ -33,11 +33,14 @@ jobs:
         run: npm ci
         working-directory: comments-worker
 
-      # Deploys src/index.ts using the pinned wrangler. Runtime secrets
-      # (GITHUB_TOKEN, TURNSTILE_SECRET, ...) already live in Cloudflare and are
-      # untouched by a deploy - only the code and vars are uploaded.
+      # Deploy with the wrangler from package.json (npm ci above), not the one
+      # cloudflare/wrangler-action bundles - the action pins its own wrangler and
+      # would fight our pinned version, so a Dependabot bump wouldn't actually
+      # take effect. Runtime secrets (GITHUB_TOKEN, TURNSTILE_SECRET, ...) already
+      # live in Cloudflare and are untouched by a deploy - only code and vars are
+      # uploaded.
       - name: Deploy with Wrangler
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          workingDirectory: comments-worker
+        run: npx wrangler deploy
+        working-directory: comments-worker
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
