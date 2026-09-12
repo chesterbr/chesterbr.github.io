@@ -87,13 +87,15 @@ h1 { font-size: 1.75em; }
 h2 { font-size: 1.4em; }
 h3 { font-size: 1.15em; }
 
-p, ul, ol, table, blockquote { margin-bottom: 1.2em; }
+p, ul, ol, table, blockquote, details { margin-bottom: 1.2em; }
 ul { list-style: disc; margin-left: 1.3em; }
 ol { list-style: decimal; margin-left: 1.3em; }
 ul ul, ol ol, ul ol, ol ul { margin-bottom: 0; }
 strong { font-weight: 700; }
 em { font-style: italic; }
 hr { border: 0; border-top: 1px solid var(--border); margin: 1.5em 0; }
+summary { cursor: pointer; margin-bottom: 0.6em; }
+details[open] summary { margin-bottom: 1em; }
 
 a { color: var(--accent-text); text-decoration: underline; text-underline-offset: 2px; transition: color 0.2s; }
 a:visited { color: var(--accent-text); }
