@@ -198,6 +198,8 @@ Vou confessar que eu tinha dificuldade com as sessões que duravam mais de 1h, e
 
 Nos últimos dias, a sessão já tinha evoluído para o ciclo completo: _Ānāpāna_ (respiração) → Vipassana (sensações) → _Mettā_ (compaixão). Essa última parte, feita apenas quando a sessão foi positiva, consiste, grosso modo, em mandar boas vibrações para o mundo. Eu confesso que, por continuar completamente descrente de comunicação sobrenatural, torci o nariz para o que me pareceu oração. Mas à medida em que as sessões me traziam cada vez mais paz, amor e compaixão, a _sensação_ de estar devolvendo isso pro mundo ficava mais sedutora. Ainda assim, prefiro mandar as minhas _good vibes_ pessoalmente.
 
+Era também no espírito do _Mettā_ que o Goenka encerrava as meditações de grupo e os discursos entoando três vezes _"Bhavatu sabba maṅgalaṁ"_ ("que todos os seres sejam felizes"), ao que os alunos que se sentiam tocados respondiam com três _"Sādhu"_ ("bem dito", mais ou menos como um "amém"). Confesso que me pegava com um certo pé atrás em responder a alguém que já morreu e, portanto, não estava mais ali para me ouvir - mas quase sempre o brilhantismo das explicações vencia esse ceticismo, e eu acabava dizendo o meu _"Sādhu"_ também.
+
 ### Alimentação
 
 É algo que preocupa diversas pessoas, cada uma por uma razão diferente (seletividade alimentar, restrições de saúde, cultura não-vegetariana, etc.). Mas o centro faz de tudo para atender a todos, dentro do que o _sīla_ permite: as refeições são vegetarianas, com alertas especiais para glúten, lactose, amendoim, etc.
