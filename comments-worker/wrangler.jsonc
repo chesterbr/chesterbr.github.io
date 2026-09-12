@@ -1,0 +1,31 @@
+{
+  // Cloudflare Worker: static comments intake. Deploy with `npm run deploy`.
+  //
+  // Secrets are NOT here (never commit them). Set each once with:
+  //   wrangler secret put GITHUB_TOKEN
+  //   wrangler secret put TURNSTILE_SECRET
+  //   wrangler secret put AKISMET_KEY
+  //   wrangler secret put ANTHROPIC_API_KEY
+  "name": "chester-comments",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-09-01",
+  "vars": {
+    "REPO_OWNER": "chesterbr",
+    "REPO_NAME": "chesterbr.github.io",
+    "REPO_BRANCH": "main",
+    "SITE_URL": "https://chester.me",
+    "ALLOWED_ORIGIN": "https://chester.me",
+    "AKISMET_SITE": "https://chester.me",
+
+    // Moderation policy — change here + redeploy, no code edit needed:
+    //   MODERATION_MODE: "auto" auto-publishes clean comments; "pr_all" sends
+    //                    everything that passes the filters to a PR instead.
+    //   CLAUDE_ON:       "flagged_only" runs Claude only when Akismet flags spam;
+    //                    "always" runs it on every comment (catches Akismet
+    //                    false-negatives before auto-publish).
+    "MODERATION_MODE": "auto",
+    "CLAUDE_ON": "flagged_only",
+    "CLAUDE_MODEL": "claude-haiku-4-5",
+    "MIN_SECONDS": "3"
+  }
+}

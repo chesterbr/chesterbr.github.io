@@ -25,6 +25,9 @@
         $('#cancel-comment-reply-link').click();
         simplemde.value("");
         $(form).removeClass('disabled');
+        if (window.turnstile) { turnstile.reset(); }
+        var tsField = document.getElementById('comment-ts');
+        if (tsField) { tsField.value = Date.now(); }
       },
       error: function (err) {
         console.log(err);
@@ -32,6 +35,7 @@
         showModal('Error', 'An error occurred.<br>[' + ecode + ']');
         $("#comment-form-submit").html("Submit")
         $(form).removeClass('disabled');
+        if (window.turnstile) { turnstile.reset(); }
       }
     });
     return false;

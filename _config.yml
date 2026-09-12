@@ -31,6 +31,11 @@ url: "https://chester.me" # the base hostname & protocol for your site, e.g. htt
 twitter_username: chesterbr
 github_username:  chesterbr
 
+# Static comments intake (Cloudflare Worker + Turnstile). See comments-worker/.
+# Set both after the first `npm run deploy` of the Worker.
+comments_worker_url: "https://chester-comments.chesterbr.workers.dev"  # Worker URL from `wrangler deploy`
+turnstile_sitekey: "0x4AAAAAAExtI-jTFd570uwx"          # Turnstile widget site key (public)
+
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
@@ -96,6 +101,8 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - README.md
+  - comments-worker      # Cloudflare Worker source, not site content
+  - comments-rejected    # spam audit log, never published
 
 # jekyll_admin:
 #   homepage: "posts"

@@ -4,7 +4,6 @@
   <div class="comments__existing">
     <h2 data-i18n="comments">Comments</h2>
     <hr>
-    <script>console.log("{{page.slug}}")</script>
     {% assign comments = site.data.comments[page.slug] | where_exp: "item", "item.replying_to_uid == ''" %}
     {% assign comments_by_date = comments | sort: 'date' %}
     <!-- List main comments in reverse date order, newest first. List replies in date order, oldest first. -->
@@ -21,12 +20,10 @@
   </div>
   {% endif %}
 
-  <!-- New comment form - temporarily disabled -->
-  {% comment %}
+  <!-- New comment form -->
   <div id="respond" class="comment__new">
     {% include comment_form.html %}
   </div>
-  {% endcomment %}
 </section>
 
 <script src="{{ root_url }}/javascripts/comments.js" type="text/javascript"></script>
