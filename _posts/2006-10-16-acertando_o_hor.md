@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2006/10/acertando_o_hor.html/
-dsq_thread_id:
-  - 1751450154
 categories:
 ---
 * * *

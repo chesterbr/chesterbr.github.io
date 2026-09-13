@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2009/05/o_meu_autografo_postumo_do_pedro_de_lara_bruna_beber_bff.html/
-dsq_thread_id:
-  - 1751449990
 categories:
 ---
 Um dos meus passatempos favoritos no trabalho é transcrever algum dos aforismos do [Livro da Sabedoria][1] do [Pedro de Lara][2] no quadro-branco, tirando um pouco os programadores da sua zona de conforto intelectual.

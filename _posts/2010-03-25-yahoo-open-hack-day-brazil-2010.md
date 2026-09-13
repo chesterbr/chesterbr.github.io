@@ -4,12 +4,6 @@ title: Yahoo! Open Hack Day Brazil 2010
 layout: post
 comments: true
 permalink: /archives/2010/03/yahoo-open-hack-day-brazil-2010.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/03/mochila.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751441285
 categories:
 ---
 [<img class="alignleft left size-full wp-image-3828" style="margin-right:6px" src="/wp-content/uploads/2010/03/mochila.jpg" alt="Essa mochila foi um dos prêmios dos vencedores. Clique para outras fotos do evento." width="199" height="232" />][1]Conforme prometido no [post anterior][2], eis minhas impressões sobre o [Yahoo! Open Hack Day Brazil 2010][3]. O evento já foi tão [comentado][4] que corro o sério risco de chover no molhado, mas eu não poderia deixar passar em branco.

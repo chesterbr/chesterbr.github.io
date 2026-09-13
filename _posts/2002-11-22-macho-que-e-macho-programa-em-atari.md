@@ -4,10 +4,6 @@ title: Macho que é macho programa em Atari
 layout: post
 comments: true
 permalink: /archives/2002/11/macho-que-e-macho-programa-em-atari.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/img/blig/atari_adventure2.gif&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-robotsmeta:
-  - index,follow
 categories:
   - atari-2600
 ---

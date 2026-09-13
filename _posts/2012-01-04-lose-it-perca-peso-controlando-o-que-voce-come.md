@@ -4,12 +4,6 @@ title: 'Lose It! &#8211; perca peso controlando o que você come'
 layout: post
 comments: true
 permalink: /archives/2012/01/lose-it-perca-peso-controlando-o-que-voce-come.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2012/01/loseit_site.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751447707
 categories:
 ---
 <span style="text-decoration: underline;"><strong>UPDATE:</strong></span>* O Lose It! me ajudou a perder quase dez quilos, mas foi preciso diligência no cadastro da comida e do peso. Infelizmente o aplicativo é focado demais nos EUA e no controle de calorias (em detrimento de outras informações nutricionais). Resolvi experimentar o [MyFitnessPal][1] e estou gostando &#8211; a principal vantagem é que o cadastro é &#8220;crowdsourced&#8221;, isto é, os alimentos que um usuário cadastra ficam disponível para todos. O resultado: **muita** comida do Brasil. Foi como migrar da Barsa para a Wikipedia&#8230;*

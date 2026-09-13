@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2009/06/gtruco_-_truco_paulista_multiplayer_online_no_browser_integrado_com_minitruco.html/
-dsq_thread_id:
-  - 1751448876
 categories:
 ---
 <a href="http://web.archive.org/web/20130818080229/http://www.gtruco.com.br/"><img title="Tela do gTruco" src="/archives/img/mt/2009/06/29/gtruco.jpg" width="250" height="159" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;border-width:1px; border-style:solid;" /></a>Ter iniciado o [miniTruco][1] foi uma sucessão de alegrias para mim. A primeira foi tornar disponível um jogo gratuito, mesmo com operadoras e fabricantes trabalhando contra. Já a segunda foi constatar o sucesso do mesmo: só neste site foram mais de 300 mil downloads, e ele aparece em vários outros. E isso com propaganda zero, só no boca-a-boca.

@@ -4,8 +4,6 @@ title: Polícia ou bandido? Na periferia tanto faz
 layout: post
 comments: true
 permalink: /archives/2001/12/policia-ou-bandido-na-periferia-tanto-faz.html/
-robotsmeta:
-  - index,follow
 categories:
 ---
 A crise de identidade da polícia se agravou nesta semana: enquanto policiais são <a href="http://www.uol.com.br/folha/cotidiano/ult95u42148.shl">flagrados</a> controlando o tráfico de drogas na &#8220;cracolândia&#8221; de SP, o líder do PCC fica <a href="http://www.jt.estadao.com.br/editorias/2001/12/14/ger022.html" >puto</a> com um assalto a uma creche e manda os bandidos &#8220;éticos&#8221; caçarem os bandidos &#8220;sem coração&#8221;.

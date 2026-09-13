@@ -4,8 +4,6 @@ title: Moore x Gates
 layout: post
 comments: true
 permalink: /archives/2002/06/moore-x-gates.html/
-robotsmeta:
-  - index,follow
 categories:
 ---
 Todo mundo que tem uma vaga idéia do que é desenvolvimento de software parece ter uma opinião sobre <a href="http://www.microsoft.com/net/" >.Net</a>. E quase todos são arrogantes a ponto de acharem possível prever o que vai acontecer com a plataforma (e poucos vão além das posições radicais: ou Bill Gates domina a galáxia, ou tudo termina com o *campus* da Microsoft em chamas).

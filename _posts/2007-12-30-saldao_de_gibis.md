@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/12/saldao_de_gibis.html/
-dsq_thread_id:
-  - 1751442295
 categories:
   - comics
 ---

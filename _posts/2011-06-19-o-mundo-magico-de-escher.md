@@ -4,10 +4,6 @@ title: O Mundo Mágico de Escher
 layout: post
 comments: true
 permalink: /archives/2011/06/o-mundo-magico-de-escher.html/
-onswipe_thumb:
-  - http://farm6.static.flickr.com/5023/5851263136_349e3458f4.jpg
-dsq_thread_id:
-  - 1751447173
 categories:
   - books
 ---

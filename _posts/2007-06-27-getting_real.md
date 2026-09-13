@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/06/getting_real.html/
-dsq_thread_id:
-  - 1751450665
 categories:
   - books
 ---

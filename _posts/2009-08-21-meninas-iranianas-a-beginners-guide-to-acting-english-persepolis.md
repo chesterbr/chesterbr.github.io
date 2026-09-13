@@ -6,8 +6,6 @@ comments: true
 permalink: /archives/2009/08/meninas-iranianas-a-beginners-guide-to-acting-english-persepolis.html/
 bb-custom-tags:
   - persépolis khorsandi
-dsq_thread_id:
-  - 1751448273
 categories:
   - comics
   - books

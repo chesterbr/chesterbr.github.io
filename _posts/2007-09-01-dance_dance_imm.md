@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/09/dance_dance_imm.html/
-dsq_thread_id:
-  - 1751443796
 categories:
 ---
 <img title="Que Wii o caramba, isso sim é interatividade" src="/archives/img/ddi.jpg" width="200" height="244" align="left" style="margin-right:2px" border="1" />Pense no clássico Dance Dance Revolution, com um &#8220;molho&#8221; a mais: você bota essa roupa de amianto e começa a jogar. Se mandar bem, a máquina cospe chamas para o alto, em sua homenagem. Se errar os passos, ela lança as chamas em **você**.

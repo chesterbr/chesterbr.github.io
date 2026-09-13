@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/01/internet_explor.html/
-dsq_thread_id:
-  - 1751450515
 categories:
 ---
 Gone are the days of single-digit audience for Gecko-based browsers, but IE is far from disappearing (which is a good thing even for the diehard Firefox defenders and all five Opera users &#8211; after all, the lack of serious competition turned Netscape into Netscape 4 and kept IE improvement frozen after that). But tools such as Firefox&#8217;s [Web Developer Toolbar][1] (a swiss-kinfe of tools for debugging weird and browser quirks) make lots of people (including me) develop the whole front-end using Firefox, only switching to IE to see if things don&#8217;t break.

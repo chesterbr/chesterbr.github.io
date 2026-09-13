@@ -4,8 +4,6 @@ title: 'Avenida Q &#8211; A Internet é pornô!'
 layout: post
 comments: true
 permalink: /archives/2009/09/avenida-q-a-internet-e-porno.html/
-robotsmeta:
-  - index,follow
 categories:
 ---
 [<img class="size-full wp-image-3427 alignright right" src="/wp-content/uploads/2009/09/trekkie.png" alt="Trekkie Monster, do Avenida Q" width="199" height="224" />][1]Muita gente deve lembrar de um [vídeo][2] que circulou há uns dois ou três anos, em que personagens 3D cantavam a genial música *The Internet is for Porn*.

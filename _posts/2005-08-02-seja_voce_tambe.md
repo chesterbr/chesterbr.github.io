@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2005/08/seja_voce_tambe.html/
-dsq_thread_id:
-  - 1751442062
 categories:
 ---
 <img title="sissy.png" src="/archives/img/sissy.png" width="348" height="141" align="left" />

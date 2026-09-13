@@ -7,15 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/04/pedro_de_lara_l.html/
-enclosure:
-  - |
-    |
-        http://www.politov.com/mp3/Those_were_the_days-Radio_edit-NA-NA.mp3
-        957
-        audio/mpeg
-
-dsq_thread_id:
-  - 1751443981
 categories:
   - comics
 ---

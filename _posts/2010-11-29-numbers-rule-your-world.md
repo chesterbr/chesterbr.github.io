@@ -4,13 +4,6 @@ title: Numbers Rule Your World
 layout: post
 comments: true
 permalink: /archives/2010/11/numbers-rule-your-world.html/
-onswipe_thumb:
-  - |
-    http://img.youtube.com/vi/DlyaLvwPVkw">Laço da Verdade</a>.
-
-    Os exemplos se desdobram, e sob este aspecto, o livro é fantástico. O que me incomodou um pouco foi o tom professoral: não apenas ele repete e repete e repete os mesmos conceitos em diferentes formas, mas ainda faz um apanhado geral no final. E também abusa do recurso de te convencer de um ponto de vista controverso (ex.: que uma pessoa é culpada de um crime), para depois mostrar o oposto através dos fatos. Na primeira vez isso é divertido, na quarta começa a ficar cansativo. Talvez seja o fato de ele estar pregando para um convertido, mas o fato é que daria para comunicar mais com menos./0.jpg
-dsq_thread_id:
-  - 1751447487
 categories:
   - books
 ---

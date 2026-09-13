@@ -7,10 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2009/04/cosine_of_a_heart.html/
-robotsmeta:
-  - index,follow
-dsq_thread_id:
-  - 1751450163
 categories:
 ---
 [Useless][1] is one of my favorite [xkcd][2] installments:

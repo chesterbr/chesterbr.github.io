@@ -2,8 +2,6 @@
 title: Sobre o Chester
 author: chester
 layout: page
-robotsmeta:
-  - index,follow
 ---
 [<img class="alignright" title="O Chesterzinho é uma ilustração da Ila Fox" src="/img/chester_ila_177.jpg" alt="O Chesterzinho é uma ilustração da Ila Fox" width="177" height="177" />][1]
 

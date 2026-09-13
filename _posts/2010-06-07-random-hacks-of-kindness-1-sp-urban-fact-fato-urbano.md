@@ -4,21 +4,6 @@ title: 'Urban Fact (Fato Urbano) / RHoK #1 SP'
 layout: post
 comments: true
 permalink: /archives/2010/06/random-hacks-of-kindness-1-sp-urban-fact-fato-urbano.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - |
-    http://img.youtube.com/vi/JA96Fba-WHk">reforço positivo</a> opera milagres. O importante é dar ao cidadão que testemunha o fato a possibilidade de capturar e compartilhar o mesmo de forma simples. Entra em cena o Twitter: o sistema monitora os tweets com as tags #urbanfact e #fatourbano que tenham links para fotos. Esses tweets podem ser vistos na forma de lista ou mapa, e cada um deles pode ganhar nota, receber comentários e ter isso tudo redistribuído em outras redes sociais.</p>
-    Fugimos um pouco do foco em desastres naturais, mas ainda ficamos dentro do conceito de cidadania e de captura e divulgação da informação sobre problemas urbanos em tempo real. A principal limitação é que ainda são poucas as pessoas que usam o Twitter no celular - situação que deve mudar em breve.
-
-    Além disso, essa versão ainda precisa ser bastante melhorada antes de ser considerada "produção" (é um hack desenvolvido do zero em menos de 16h). Mas demonstra bem o espírito do evento: viabilizar, de forma rápida e focada, idéias e soluções melhoráveis e reutilizáveis (o <a href="http://github.com/danicuki/urbanfact">código</a> é 100% aberto).
-
-    Os outros projetos (de São Paulo e das outras cidades onde o evento ocorreu) podem ser conferidos no <a href="http://wiki.rhok.org/">wiki</a>. A organização mandou muito bem em termos de infra-estrutura e alimentação. Não houve a "virada" do sábado para o domingo, comum em eventos desse tipo - mas a natureza local das edições pressupõe participantes na mesma cidade, então o pessoal voltou no dia seguinte e tudo correu bem.
-
-    Nesse sentido, talvez edições futuras possam privilegiar outras cidades - muitas vezes mais próximas de alguns dos problemas que os fundadores se propõem a resolver - mas se voltar a acontecer em São Paulo não vou reclamar!
-    <p style="text-align: center;"><a href="http://www.rhok.org/"><img class="size-full wp-image-4023 aligncenter" style="margin-top: 4px; margin-bottom: 4px;" title="Random Hacks of Kindness (logo)" src="/wp-content/uploads/2010/06/rhok.png" alt="" width="397" height="40" /></a></p>/0.jpg
-dsq_thread_id:
-  - 1751444862
 categories:
 ---
 [<img class="alignright" title="urbanfact - screenshot" src="/wp-content/uploads/2010/06/fatourbano.jpg" alt="" width="400" height="294" />][1]O [Random Hacks of Kindness (RHoK)][2] reuniu programadores em vários locais do mundo simultaneamente ao longo do último fim-de-semana, com o objetivo de desenvolver ferramentas que possam ajudar a lidar com os desafios gerados pelo risco de desastres naturais.

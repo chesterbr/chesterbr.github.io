@@ -4,10 +4,6 @@ title: 'Micro Men &#8211; o &#8220;Pirates of Silicon Valley inglês&#8221;'
 layout: post
 comments: true
 permalink: /archives/2011/11/micro-men-o-pirates-of-silicon-valley-ingles.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/11/micromen.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
 ---
 [<img src="/wp-content/uploads/2011/11/micromen.jpg" alt="Micro Men" title="Micro Men" width="249" height="141" class="alignleft size-full wp-image-6524" />][1]Durante a explosão da microinformática nos anos 80, a Inglaterra era um dos poucos países (o Japão seria outro) nos quais os computadores eram projetados de forma independente dos EUA. Ali, [Sir Clive Sinclair][2] se destacou ao criar os [primeiros][3] computadores pessoais realmente acessíveis, o que lhe rendeu o título.

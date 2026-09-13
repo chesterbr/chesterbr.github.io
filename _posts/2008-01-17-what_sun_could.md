@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/01/what_sun_could.html/
-dsq_thread_id:
-  - 1751450384
 categories:
 ---
 <img title="author unknown, but fits the article" src="/archives/img/itsatrap.jpg" width="180" height="135" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Heck, just when Java was getting free from the mammoth&#8217;s weight, MySQL [gets caught][1].

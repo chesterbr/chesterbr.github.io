@@ -4,8 +4,6 @@ title: Santa escócia!
 layout: post
 comments: true
 permalink: /archives/2005/02/santa-escocia.html/
-dsq_thread_id:
-  - 1751447368
 categories:
 ---
 <img style="border: 1px solid black; margin: 2px 12px;" src="/img/blig/super.gif" border="1" alt="Santa Escócia!" width="160" height="249" align="left" />No final dos anos 80 era exibido no Brasil um [desenho][1] (fotos [aqui][2]) que revezava episódios do Super-Homem e do SuperBoy. Em ambos, o personagem usava muito a expressão &#8220;Santa Escócia&#8221; (ou &#8220;Grande Escócia&#8221; &#8211; não tenho muita certeza se era uma, outra, ou ambas). A pergunta que ocupou as mentes vazias dos Stone Age Scanners por meses era: o que diabos tinha a ver o Super-Homem com a Escócia???

@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/07/gambiarra.html/
-dsq_thread_id:
-  - 1751443804
 categories:
 ---
 <img alt="Bracelete de circuitos impressos, um exemplo do que se encontra no site" src="/archives/img/gambiarra.jpg" width="250" height="183" align="right" style="margin-left:2px" border="1" />O blog [Gambiarra!][1] dá link para dezenas de projetos interessantes para quem tem tempo nas mãos e espírito *do-it-yourself*. Navegar nos arquivos é diversão garantida por uma bela hora &#8211; e se você tiver a sorte/azar de se identificar com algum projeto, vai queimar mais tempo ainda.

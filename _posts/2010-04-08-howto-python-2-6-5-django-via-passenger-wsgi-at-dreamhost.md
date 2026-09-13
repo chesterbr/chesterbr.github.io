@@ -6,12 +6,6 @@ comments: true
 permalink: /archives/2010/04/howto-python-2-6-5-django-via-passenger-wsgi-at-dreamhost.html/
 bb-custom-tags:
   - python,programação
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/04/django.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751444624
 categories:
 ---
 <img src="/wp-content/uploads/2010/04/django.jpg" alt="django" title="django" width="246" height="360" class="alignleft size-full wp-image-6235" />[Dreamhost][1] is a pretty decent provider for people with lots of small websites. I didn&#8217;t expect them to have, say, Python 3 (although I&#8217;d love to), but I was surprised to find their official support is just for **2.4**!

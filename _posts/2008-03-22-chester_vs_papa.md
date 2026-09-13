@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/03/chester_vs_papa.html/
-dsq_thread_id:
-  - 1751444533
 categories:
 ---
 Essa quase me passou pelo radar: o Vaticano resolveu dar [um upgrade na lista de pecados capitais][1], no estilo Office: botou mais sete no pacote. Os novos pecados são focados no comportamento coleitivo (tanto que tem sido chamados de &#8220;Os Sete Pecados Sociais&#8221; pela imprensa).

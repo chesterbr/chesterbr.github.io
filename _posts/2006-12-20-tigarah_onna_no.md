@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2006/12/tigarah_onna_no.html/
-robotsmeta:
-  - index,follow
 categories:
 ---
 <img title="Show da Tigarah: preparada" src="/archives/img/tigarah.jpg" width="168" height="149" align="left" border="1" style="margin-right:2px" />Pizzicato Five, trilha de Katamari Damaci, não importa: o mundo da música japonesa com influências ocidentais &#8220;tá dominado&#8221; pelo pancadão nipônico da [Tigarah][1]. Ao menos é o que sugerem os [vídeos][2] que correm na rede, mostrando a performance da Tati Quebra-Barraco da terra do sol nascente.

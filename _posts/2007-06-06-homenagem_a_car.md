@@ -7,10 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/06/homenagem_a_car.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/archives/img/carloszefiro_catecismos.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751443834
 categories:
   - comics
 ---

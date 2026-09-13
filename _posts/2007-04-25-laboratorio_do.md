@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/04/laboratorio_do.html/
-dsq_thread_id:
-  - 1751443930
 categories:
 ---
 <img title="mm_detalhe.jpg" src="/archives/img/mm_detalhe.jpg" width="369" height="111" align="right" style="margin-left:2px" border="1" />Eu ando por fora dos gostos da garotada: nunca assisti o desenho dos [Quadrinhos Mágicos][1], e nem o [Laboratório do Dequest][2]. De videogames também estou fraco: não joguei nenhum jogo no [Mega Driver][3], nem no [Big Boy][4].

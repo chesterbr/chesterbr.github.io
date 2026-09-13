@@ -6,10 +6,6 @@ comments: true
 permalink: /archives/2010/01/plataforma-vivo-um-canal-comercial-para-desenvolvedores-jme-independentes.html/
 bb-custom-tags:
   - jogos celular
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/01/vivo_java_c1.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751447513
 categories:
 ---
 <img src="/wp-content/uploads/2010/01/vivo_java_c1.png" width="76" height="75" class="alignleft left size-full wp-image-3606" />Continuando o assunto do [último post][1]: fui ao workshop que a Vivo deu sobre a [plataforma][2] no Campus Party, no qual os palestrantes Sena e Lecy foram muito gentis em responder ao caminhão de perguntas que eu tinha sobre o assunto.

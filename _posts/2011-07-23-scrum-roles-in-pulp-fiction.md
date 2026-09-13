@@ -4,10 +4,6 @@ title: Scrum roles in Pulp Fiction
 layout: post
 comments: true
 permalink: /archives/2011/07/scrum-roles-in-pulp-fiction.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/07/mia_wallace.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1755854447
 categories:
 ---
 ### Product Owner

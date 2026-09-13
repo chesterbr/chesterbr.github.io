@@ -4,8 +4,6 @@ title: RubyConf Brasil 2010
 layout: post
 comments: true
 permalink: /archives/2010/10/rubyconf-brasil-2010.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/10/logo_rubyconf.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
 ---
 <img class="size-full wp-image-4723 alignleft" title="Logo RubyConf 2010" src="/wp-content/uploads/2010/10/logo_rubyconf.png" alt="Logo RubyConf 2010" width="267" height="91" />Um complemento bacana a participar da [PythonBrasil][1] foi estar na [RubyConf Brasil 2010][2]. O evento sucede os Rails Summit, e na mesma tradição desses tem a [LocaWeb][3] como organizador, mas com empresas como a <a href="http://web.archive.org/web/20211208163304/https://gonow.com.br/">Gonow</a> (onde o [Akita][5], pioneiro do Rails no Brasil, trabalha atualmente) e a [Caelum][6] (que vem expandindo sua posição já consolidada no mundo Java para os novos fronts do desenvolvimento) aparecendo em destaque.

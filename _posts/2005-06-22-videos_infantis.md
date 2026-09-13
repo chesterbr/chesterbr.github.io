@@ -7,21 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2005/06/videos_infantis.html/
-enclosure:
-  - |
-    |
-        http://www.ntk.net/media/dancemonkeyboy.mpg
-        3149828
-        video/mpeg
-
-  - |
-    |
-        http://www.ntk.net/media/developers.mpg
-        1626116
-        video/mpeg
-
-dsq_thread_id:
-  - 1751446182
 categories:
 ---
 <img title="Cena de 'Despite opposition, truth happens'" src="/archives/img/truth.jpg" width="200" height="130" align="right" style="margin-left:2px" />A versão online da [Red Hat Magazine][1] está mostrando alguns vídeos, nos quais ela tenta vendar a idéia de que Linux representa uma espécie de revolução que irá libertar os povos oprimidos da tirania do Império da Microsoft, [yadda, yadda, yadda&#8230;][2]

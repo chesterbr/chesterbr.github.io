@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2009/06/apenas_o_fim.html/
-dsq_thread_id:
-  - 1751449876
 categories:
 ---
 <img title="cena de Apenas o Fim" src="/archives/img/mt/2009/06/14/aof.jpg" width="350" height="255" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Achei bastante simpático [Apenas o Fim][1], produção nacional da qual fiquei sabendo através do [Nerdcast #163 &#8211; Profissão: Cineasta][2]. O filme narra a última hora do relacionamento entre uma jovem ligeiramente despirocada e um rapaz com forte tendências nerd &#8211; uma combinação que, por não exagerar nos estereótipos, garante a identificação dos mais diversos públicos.

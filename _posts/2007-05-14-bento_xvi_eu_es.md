@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/05/bento_xvi_eu_es.html/
-dsq_thread_id:
-  - 1751443886
 categories:
 ---
 <div class="mensagem" style="text-align: center; float:right; border:1px dashed; width:100px; margin-left:2px; padding:2px ">

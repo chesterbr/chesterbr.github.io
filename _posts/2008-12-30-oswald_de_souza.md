@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/12/oswald_de_souza.html/
-dsq_thread_id:
-  - 1751450440
 categories:
 ---
 <img title="Zebrinha bizarra que anunciava resultados no Fantástico" src="/archives/img/mt/2008/12/30/zebrinha.gif" width="87" height="111" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Quem tem umas primaveras a mais lembra bem deste nome &#8211; o &#8220;matemático Oswald de Souza&#8221; nunca aparecia na TV, mas a ele eram atribuídas estatísticas como a quantidade estimada de vencedores da loteria para um dado resultado.

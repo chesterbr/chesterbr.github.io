@@ -7,10 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2006/05/robin_passe_o_b.html/
-robotsmeta:
-  - index,follow
-dsq_thread_id:
-  - 1751450931
 categories:
 ---
 <img title="Não basta ter a escada, tem que colocar o nome..." src="/archives/img/bat_escada.jpg" width="329" height="243" align="left" style="margin-right:4px" border="1" />Não importa quantos filmes do Batman façam, nenhum deles supera o clássico [As Novas Aventuras de Batman e Robin][1], com a impagável dupla Adam West e Burt Ward. Duvida? Então assita à hilária [cena do helicóptero][2] e reveja seus conceitos.

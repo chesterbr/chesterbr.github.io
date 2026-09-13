@@ -4,10 +4,6 @@ title: Raspberry Pi (with BerryBoot and ChameleonPI)
 layout: post
 comments: true
 permalink: /archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi.html/
-robotsmeta:
-  - index,follow
-dsq_thread_id:
-  - 1751447743
 categories:
 ---
 *(TL;DR: if you just want to know how to make ChameleonPI v0.3 work with BerryBoot, jump [here][1])*

@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2009/06/atualizando_o_iphone_3_0_pwnagetool.html/
-dsq_thread_id:
-  - 1751449366
 categories:
 ---
 <img alt="logo.png" src="/archives/img/mt/2009/06/20/logo.png" width="84" height="120" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Fiz a atualização do meu iPhone californiano não-3G para o OS 3.0, com o auxílio do [PwnageTool][1] &#8211; que faz isso garantindo o jailbreak (que permite instalar as apps que eu quero, independente da vontade e do DRM do Steve Jobs) e o unlock (isto é, fazer ele funcione com qualquer operadora). Além dos fixes do OS 3.0 já comentados [por aí][2], o jailbreak novo inclui o Icy, um programa bem mais rápido que o Cydia para instalar software via apt.

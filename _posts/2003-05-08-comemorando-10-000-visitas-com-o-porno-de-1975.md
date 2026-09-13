@@ -7,8 +7,6 @@ permalink: /archives/2003/05/comemorando-10-000-visitas-com-o-porno-de-1975.html
 redirect_from:
   - /gep/
   - /gep.html/
-dsq_thread_id:
-  - 1751447255
 categories:
 ---
 <img src="/img/blig/garotasepiadas.jpg" border="2" alt="" hspace="3" style="float:left; margin-right:4px;" />Fuçando num sebo eu me deparei com esta *Garotas e Piadas no. 1*. É uma espécie de Playboy (nos limites do Brasil de 1975), com uma tentativa (bastante infeliz) de dar um toque humorístico.

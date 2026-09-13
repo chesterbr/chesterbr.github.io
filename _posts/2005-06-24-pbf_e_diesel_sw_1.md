@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2005/06/pbf_e_diesel_sw_1.html/
-dsq_thread_id:
-  - 1756603744
 categories:
   - comics
 ---

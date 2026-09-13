@@ -4,10 +4,6 @@ title: Cordy 2 (and a bit of 3DS bashing)
 layout: post
 comments: true
 permalink: /archives/2013/03/cordy-2-and-a-bit-of-3ds-bashing.html/
-robotsmeta:
-  - index,follow
-dsq_thread_id:
-  - 1751448236
 categories:
 ---
 [Cordy 2][1] is an extremely beautiful platform game that I&#8217;m playing on the iPad (there is an [Android version][2] as well). The game is fast/challenging at the right measure (at least for my taste) and does its best to offer decent controls on a touch screen.

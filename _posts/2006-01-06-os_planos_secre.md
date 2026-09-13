@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2006/01/os_planos_secre.html/
-dsq_thread_id:
-  - 1751444905
 categories:
 ---
 <img title="Trecho do panfleto que ensina a fazer a Barbie falar grosso" src="/archives/img/blo.jpg" width="175" height="210" align="left" style="margin-right:2px" />Isso é notícia **bem** velha: no começo dos anos 90, foi lançada uma série da Barbie que, através de um circuito de voz embutido, brindava as crianças com frases bastante edificantes para o desenvolvimento feminino, tais como &#8220;matemática é difícil&#8221; e &#8220;eu adoro fazer compras&#8221;.

@@ -4,21 +4,6 @@ title: SlideMeme
 layout: post
 comments: true
 permalink: /archives/2010/03/slidememe.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - |
-    http://img.youtube.com/vi/nBhz7hPWTwA">Bani explicando e demonstrando a coisa toda em dois minutos</a> cravados no relógio - uma proeza digna de nota), e, claro, continue lendo este post.
-
-    Tivemos a idéia olhando para os <a href="http://meme.yahoo.com/popular/now/all/pt/">Memes mais populares</a>: ali predominam as fotos e ilustrações "fofinhas" no mesmo estilo daquelas que recebemos por email das tias e mães, invariavelmente no formato do Microsoft PowerPoint (.ppt). Como o SlideShare é o site-referência para a publicação de apresentações neste e em outros formatos (à semelhança do que o YouTube se tornou para arquivos de vídeo), foi natural evoluir o conceito nessa direção.
-
-    Claro que as pessoas podem simplesmente copiar e colar o endereço do SlideShare num post, mas o Meme funciona melhor com mídias visuais (a maior prova disso é a quase ausência de MP3). Na nossa cabeça, o leitor teria que ver algo que o estimulasse a clicar, à semelhança do que ocorre com vídeos e fotos maiores. Além disso, podíamos usar a idéia de <a href="http://www.bookmarklets.com/">bookmarklet</a> (que deu certo no <a href="http://memethis.com">MemeThis</a>) para simplificar o processo de copiar e colar.
-
-    Após tentativas infrutíferas de embutir o player do SlideShare em um post de texto, decidimos converter as apresentações para algum formato que o Meme suportasse. Ficamos entre o vídeo (que permitiria um controle limitado de navegação, mas ficaria pesado) e o GIF animado (que é muito eficiente para dar uma amostra de alguns slides). Optamos pelo último, e não nos arrependemos.
-
-    O próximo passo seria analisar o formato das apresentações do SlideShare. Além de uma <a href="http://developer.yahoo.com/yql/console/?q=desc%20slideshare.transcript/0.jpg
-dsq_thread_id:
-  - 1751447054
 categories:
 ---
 <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/guilhermechapiewski/4454847693/"><img src="//farm5.static.flickr.com/4063/4454847693_9c02af3d47_m.jpg" width="240" height="159" alt="Bani and ChesterBR @ Yahoo! Open Hack Day Brasil 2010" style="float:left; margin-right:6px; margin-bottom:4px; border:1px solid black;" /></a><span class="dead-link-mark">†</span>O [SlideMeme][2] foi hack que eu e a [Bani][3] apresentamos no [Yahoo! Open Hack Day Brasil 2010][4]. O objetivo dele é oferecer uma forma visualmente agradável e conveniente para postar apresentações do [SlideShare][5] no [Yahoo! Meme][6], e claro que ficamos **muito** contentes por ele ter sido premiado como [melhor hack na categoria Meme][7]!

@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/05/daltony_sou_eu.html/
-dsq_thread_id:
-  - 1751450551
 categories:
 ---
 <img title="Daltony: sou eu quem faz" src="/archives/img/daltony.jpg" width="161" height="180" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />A [Dani][1] tirou uma [foto][2] tão engraçada da minha pessoa com a boca cheia de biscoitos [Daltony][3] que não foi possível evitar o comentário (mesmo considerando que o mestre é [assunto inesgotável][4] na web). Para quem não conhece, Daltony é um empresário cuja [maneira peculiar][5] de apresentar a si mesmo e a seus produtos tornou-o um dos [memes][6] clássicos da internet brasileira.

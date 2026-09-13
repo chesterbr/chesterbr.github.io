@@ -6,10 +6,6 @@ comments: true
 permalink: /archives/2010/04/a-arte-de-entrevistar-bem-thais-oyama.html/
 bb-custom-tags:
   - livros,jornalismo,entrevista
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/04/a_arte_de_entrevistar_bem.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751447450
 categories:
   - books
 ---

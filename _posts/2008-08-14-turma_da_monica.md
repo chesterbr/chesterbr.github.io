@@ -7,10 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/08/turma_da_monica.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/archives/img/monica_jovem.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751450600
 categories:
   - comics
 ---

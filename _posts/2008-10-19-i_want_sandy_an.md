@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/10/i_want_sandy_an.html/
-dsq_thread_id:
-  - 1751450337
 categories:
 ---
 **UPDATE**: Bummer! The [CEO][1] of the company behind the software (apparently, a one-man-band) has been [hired][2] by Twitter, but they don&#8217;t intend to keep the service online. :-(

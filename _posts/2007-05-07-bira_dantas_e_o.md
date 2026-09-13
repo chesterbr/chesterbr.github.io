@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/05/bira_dantas_e_o.html/
-dsq_thread_id:
-  - 1751443881
 categories:
   - comics
 ---

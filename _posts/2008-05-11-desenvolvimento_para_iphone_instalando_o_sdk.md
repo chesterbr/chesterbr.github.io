@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/05/desenvolvimento_para_iphone_instalando_o_sdk.html/
-dsq_thread_id:
-  - 1751449548
 categories:
 ---
 <img alt="iphone" src="/archives/img/iphone_review%282%29.jpg" width="150" height="200" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />A capacidade de hardware e software já fazem do iPhone uma plataforma atrativa para criar aplicativos. É difícil falar em número de usuários no Brasil &#8211; oficialmente são zero, tem [relatório][1] dizendo que são um mol. Mas o fato é que os aparelhos são populares entre os formadores de opinião (basta observar a enxurrada deles em qualquer evento sobre web), o que garante um público no mínimo interessante.

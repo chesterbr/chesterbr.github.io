@@ -4,8 +4,6 @@ title: 'Racing the Beam: Um raio-x do Atari 2600'
 layout: post
 comments: true
 permalink: /archives/2011/01/racing-the-beam-um-raio-x-do-atari-2600.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/01/racingthebeam.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
   - atari-2600
   - books

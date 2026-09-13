@@ -4,8 +4,6 @@ title: 'Gen &#8211; Quadrinhos de Hiroshima'
 layout: post
 comments: true
 permalink: /archives/2003/07/gen-quadrinhos-de-hiroshima.html/
-dsq_thread_id:
-  - 1751447234
 categories:
   - comics
 ---

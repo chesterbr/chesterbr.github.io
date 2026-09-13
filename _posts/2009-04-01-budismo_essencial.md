@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2009/04/budismo_essencial.html/
-dsq_thread_id:
-  - 1751852809
 categories:
   - books
 ---

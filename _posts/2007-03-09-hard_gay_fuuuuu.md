@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/03/hard_gay_fuuuuu.html/
-dsq_thread_id:
-  - 1758052897
 categories:
 ---
 <img title="Banana! Fuuuuuuuu!" src="/archives/img/hardgay.jpg" width="150" height="253" align="left" style="margin-right:2px" border="1" />A última da terra do sol nascente é o ex-lutador de telecatch e humorista [Masaki Sumitani][1] &#8211; mais conhecido quando assume a identidade de [Hard Gay][2] (ou, para ouvidos ocidentais, &#8220;haado gay&#8221;).

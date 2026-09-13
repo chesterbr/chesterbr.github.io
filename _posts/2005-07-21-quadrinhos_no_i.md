@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2005/07/quadrinhos_no_i.html/
-dsq_thread_id:
-  - 1751446212
 categories:
   - comics
 ---

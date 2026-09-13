@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2005/06/a_revista_galil.html/
-dsq_thread_id:
-  - 1751442175
 categories:
 ---
 <img title="galileu.gif" src="/archives/img/galileu.gif" width="120" height="155" align="left" border="1" style="margin-right: 4px" />A revista [Galileu][1] deste mês está com uma matéria interessante sobre aquelas traquitanas mágicas que só não curam o câncer, popularizadas no Brasil através do Grupo Imagem, que vendia as <a href="http://web.archive.org/web/20050905105754/http://www.bestwebshopper.com:80/GINSU.HTM">Facas Ginsu</a>, os [Óculos AmberVision][3] e outros pelo (incessantemente repetido) 1406.

@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/11/reciclagem_oleo_cozinha_porto_seguro.html/
-dsq_thread_id:
-  - 1751449432
 categories:
 ---
 Felizmente eu não sei o que é fritura em casa há anos, mas quem usa óleo de cozinha agora não tem mais desculpa para não reciclar: a Porto Seguro te dá de graça o galão para guardar o óleo e recicla o conteúdo também sem cobrar nada. O único trabalho é levar o galão no posto de coleta de vez em quando, mas acho que dá pra viver com isso.

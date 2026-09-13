@@ -4,10 +4,6 @@ title: Google Developer Day 2010
 layout: post
 comments: true
 permalink: /archives/2010/11/google-developer-day-2010.html/
-onswipe_thumb:
-  - http://img.youtube.com/vi/ftsByyqazF0/0.jpg
-dsq_thread_id:
-  - 1751445154
 categories:
 ---
 <img class="size-full wp-image-4778 alignright" title="GDD2010" src="/wp-content/uploads/2010/11/gddbr.png" alt="GDD2010-logo" width="122" height="103" />A maratona de eventos do mês foi concluída com a edição deste ano do [Google Developer Day][1] em São Paulo. É um evento bastante concorrido (afinal, é gratuito, bom e ligado ao Google), o que deve tornar a escolha dos participantes um desafio interessante &#8211; mesmo para aqueles cuja <a href="http://web.archive.org/web/20140331033521/http://www.google.com.br:80/corporate/">missão</a> já é meio que organizar/classificar o universo&#8230;

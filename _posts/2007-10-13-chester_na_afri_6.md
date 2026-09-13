@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/10/chester_na_afri_6.html/
-dsq_thread_id:
-  - 1751449665
 categories:
   - travel
 ---

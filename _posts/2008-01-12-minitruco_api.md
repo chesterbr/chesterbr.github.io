@@ -7,10 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/01/minitruco_api.html/
-robotsmeta:
-  - index,follow
-dsq_thread_id:
-  - 1751442222
 categories:
 ---
 <img title="multiplayer miniTruco running on a J2ME emulator" src="/archives/img/mt_multiplayer.jpg" width="250" height="222" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />[miniTruco][1] is an implementation of the [Brazilian Truco card game][2] (also known as Truco Paulista or Truco Mineiro) for Java-enabled cellphones.

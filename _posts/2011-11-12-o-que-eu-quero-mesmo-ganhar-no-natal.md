@@ -4,12 +4,6 @@ title: O que eu quero MESMO ganhar no Natal
 layout: post
 comments: true
 permalink: /archives/2011/11/o-que-eu-quero-mesmo-ganhar-no-natal.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/11/papai_noel_coca_cola.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751447599
 categories:
 ---
 [<img src="/wp-content/uploads/2011/11/papai_noel_coca_cola.jpg" alt="A Coca-Cola inventou o Papai Noel? Clique e saiba!" title="A Coca-Cola inventou o Papai Noel? Clique e saiba!" width="221" height="199" style="float:right; border:1px solid black" />][1]Amigos e familiares que eventualmente estejam pensando em me presentear no Natal que se aproxima: eu fico muito feliz com isso, juro. Mas ficarei ainda mais feliz se eu **não** ganhar um presente. Existe uma [explicação científica][2] para isso, mas vocês merecem uma satisfação mais pessoal.

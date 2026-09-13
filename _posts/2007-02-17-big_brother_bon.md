@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/02/big_brother_bon.html/
-dsq_thread_id:
-  - 1751444010
 categories:
 ---
 <img style="margin-right: 2px;" title="Detalhe de uma refeição na casa do Big Brother Bonequinho" src="/archives/img/bbb.jpg" border="1" alt="" width="271" height="202" align="left" />Parece que o Fabio &#8220;Combo Rangers&#8221; Yabu não consegue ficar muito tempo sem aprontar uma das suas. Dessa vez foi o [Big Brother Bonequinho][1] &#8211; que mostra que, mesmo sem lápis, papel ou Photoshop (tá, o Photoshop ele usa aqui e ali) o cara manda muito bem.

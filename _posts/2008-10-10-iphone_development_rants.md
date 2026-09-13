@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/10/iphone_development_rants.html/
-dsq_thread_id:
-  - 1751444293
 categories:
 ---
 (previously [published][1] on the [MIH SWAT Blog][2])

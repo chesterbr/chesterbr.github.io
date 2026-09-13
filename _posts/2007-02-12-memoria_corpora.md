@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/02/memoria_corpora.html/
-dsq_thread_id:
-  - 1751444078
 categories:
 ---
 <img title="Detalhe do Advenutre, jogo em que um programador da Atari escondeu seu nome, num dos primeiros easter eggs da história" src="/archives/img/adv_dragao.png" width="180" height="128" align="right" />Segundo o GameSpot, ex-funcionários da RedOctane (fabricante de [tapetes de DDR legais][1] e de jogos como Guitar Hero) que saíram da empresa para fundar a a sua própria [estão sendo processados][2] pela atual dona da RedOctane, a Activision.

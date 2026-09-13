@@ -7,10 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/08/fazenda_do_orso.html/
-robotsmeta:
-  - index,follow
-dsq_thread_id:
-  - 1751444309
 categories:
 ---
 Quem assistiu ao [desenho animado do Garfield][1] deve se lembrar que ele era &#8220;dividido&#8221; com um outro grupo de personagens, a Fazenda do Orson (*U. S. Acres* no original). Já naquela época Garfield sofria da crise criativa que o tornou alvo de numerosas [críticas][2] (inspirando brincadeiras como o [Garkov][3] e o [Garfield minus Garfield][4]), o que tornava a atração secundária bem mais interessante que a principal.

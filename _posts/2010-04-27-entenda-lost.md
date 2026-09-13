@@ -4,10 +4,6 @@ title: Entenda Lost
 layout: post
 comments: true
 permalink: /archives/2010/04/entenda-lost.html/
-onswipe_thumb:
-  - SKIP
-dsq_thread_id:
-  - 1751447150
 categories:
 ---
 Em uma lista de e-mail o [@lucasfontes][1] resumiu bem (e me autorizou a publicar) **tudo** o que você precisa saber sobre essa série:

@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2005/06/continue_faminto_continue_tolo.html/
-dsq_thread_id:
-  - 1751445213
 categories:
 ---
 O Wired News informa que [Steve Jobs fez um discurso para formandos da Universidade de Stanford][1], e, de fato, a [íntegra do discurso][2] já foi postada na Internet.

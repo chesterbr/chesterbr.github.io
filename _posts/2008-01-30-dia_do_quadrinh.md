@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/01/dia_do_quadrinh.html/
-dsq_thread_id:
-  - 1751442220
 categories:
   - comics
 ---

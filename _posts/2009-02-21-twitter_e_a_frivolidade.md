@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2009/02/twitter_e_a_frivolidade.html/
-dsq_thread_id:
-  - 1751450218
 categories:
 ---
 <img title="'Fail Whale', ilustração que caracteriza erros no Twitter, que se tornou quase tão famosa quanto o site" src="/archives/img/mt/2009/02/21/twitter_fail_whale.png" width="266" height="200" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />Ao se falar em comunicação, é lugar-comum afirmar que uma mídia é caracterizada não apenas por suas capacidades, mas também por suas limitações. Ainda assim vale a pena resgatar a idéia, pois ela ajuda a entender alguns aspectos desse brinquedo novo chamado Twitter.

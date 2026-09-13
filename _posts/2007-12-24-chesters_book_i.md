@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/12/chesters_book_i.html/
-dsq_thread_id:
-  - 1751441135
 categories:
 ---
 <img title="Pra que servem um scanner e uma coleção de Chiclete com Banana se você não usa, não é mesmo?" src="/archives/img/angel_villa.jpg" width="155" height="252" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Algumas pessoas se surpreenderam com os últimos posts em inglês. Eu sempre quis blogar neste idioma (afinal, o alcance é bem maior), mas, por outro lado, não queria abandonar o velho e bom português.

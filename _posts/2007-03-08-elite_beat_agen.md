@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/03/elite_beat_agen.html/
-dsq_thread_id:
-  - 1751451045
 categories:
 ---
 <img title="Caixa do jogo Elite Beat Agents" src="/archives/img/eba.jpg" width="250" height="225" align="right" style="margin-left:2px" />[Elite Beat Agents][1] é um jogo musical para o portátil Nintendo DS. Assim como em [Guitar Hero][2] ou [Dance Dance Revolution][3], cada fase corresponde a uma música, e você joga de acordo com a coreografia. O diferencial é que o controle é feito usando a tela sensível ao toque, o que significa que, ao invés de quatro ou cinco botões/locais fixos, é preciso trabalhar com toda a área da tela.

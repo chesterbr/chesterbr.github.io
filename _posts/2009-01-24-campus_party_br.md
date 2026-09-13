@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2009/01/campus_party_br.html/
-dsq_thread_id:
-  - 1751449827
 categories:
 ---
 Escrever qualquer coisa informativa sobre o evento é chover no molhado: blogueiros e tuiteiros [cobriram][1] todo e qualquer aspecto sobre o mesmo. Tudo o que eu tenho a dizer é que eu curti bastante esse ano, por conta do tripé: ver velhos contatos (com as mais novas roupagens), conhecer gente nova e trocar informações. Fora, claro, baixar MUITA coisa via Torrent e [Direct Connect][2].

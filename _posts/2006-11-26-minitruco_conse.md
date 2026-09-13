@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2006/11/minitruco_conse.html/
-dsq_thread_id:
-  - 1751441564
 categories:
 ---
 <img title="tela de abertura" src="/archives/img/minitruco_titulo.png" width="113" height="116" align="left" border="1" style="margin-right:2px" />Está no ar uma [nova versão do miniTruco][1], na qual eu acertei alguns bugs.

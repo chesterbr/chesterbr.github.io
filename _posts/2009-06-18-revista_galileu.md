@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2009/06/revista_galileu.html/
-dsq_thread_id:
-  - 1751449649
 categories:
 ---
 <img title="Capa da Revista Galileu de Junho/2009" src="/archives/img/mt/2009/06/18/img/galileu.jpg" width="200" height="275" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />Motivado pela [participação][1] do Fausto Salvadori, do blog [Boteco Sujo][2], resolvi dar uma espiadela na versão *reloaded* da [Revista Galileu][3]. Eles essencialmente desencanaram da idéia de ser o &#8220;primo pobre, mas limpinho&#8221; da [Superinteressante][4] (disclaimer: não leio esta última há anos), e miraram mais alto: a fonte principal de inspiração é a [Wired][5]. Do layout à divisão, passando pela linha editorial, tudo lembra a revista que, entre altos e baixos, é uma dos mais interessantes subprodutos remanescentes da bolha da internet.

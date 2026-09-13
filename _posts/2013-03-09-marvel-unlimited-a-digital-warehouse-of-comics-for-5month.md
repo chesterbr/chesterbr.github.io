@@ -4,10 +4,6 @@ title: 'Marvel Unlimited &#8211; a digital warehouse of comics for $5/month!'
 layout: post
 comments: true
 permalink: /archives/2013/03/marvel-unlimited-a-digital-warehouse-of-comics-for-5month.html/
-robotsmeta:
-  - index,follow
-dsq_thread_id:
-  - 1751448119
 categories:
 ---
 [<img class="alignright size-full wp-image-7369" alt="marvel_unlimited_logo" src="/wp-content/uploads/2013/03/marvel_unlimited_logo.png" width="243" height="243" />][1]I&#8217;m **very** excited with this: at last a publisher launched a tablet-friendly, fixed-price digital comics service. For a monthly fee of $10 (or an yearly $60), [Marvel Unlimited][2] gives you access to a library of 13,000 comic books, both on computers and on iOS devices (with Android coming soon), just like Netflix or Hulu!

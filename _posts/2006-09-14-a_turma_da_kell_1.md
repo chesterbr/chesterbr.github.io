@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2006/09/a_turma_da_kell_1.html/
-dsq_thread_id:
-  - 1751441806
 categories:
   - comics
 ---

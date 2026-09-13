@@ -4,12 +4,6 @@ title: A saga do visto de trabalho canadense
 layout: post
 comments: true
 permalink: /archives/2012/09/a-saga-do-visto-de-trabalho-canadense.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2012/08/canada-flag.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-robotsmeta:
-  - index,follow
-dsq_thread_id:
-  - 1751444903
 categories:
 ---
 <img class="alignright size-thumbnail wp-image-7200" title="canada flag" src="/wp-content/uploads/2012/08/canada-flag-150x150.png" alt="" width="150" height="150" />Quem vai para o Canadá através de uma oferta de trabalho (ao invés dos já conhecidos [processos de imigração][1]) precisa solicitar um visto de trabalho. O [site oficial][2] explica em detalhes como fazer isso, mas resolvi documentar alguns detalhes que aprendi solicitando o meu.

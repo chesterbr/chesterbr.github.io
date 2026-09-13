@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2005/11/videos_do_albor.html/
-dsq_thread_id:
-  - 1751441188
 categories:
 ---
 <img title="alborghetti.jpg" src="/archives/img/alborghetti.jpg" width="130" height="97" align="left" border="1" style="margin-right:1px" />Quem deu boas risadas com o programa do [Alborghetti][1] vai poder repetir a dose: alguma alma bem-humorada compilou uma <a class="dead-link" title="este link morreu" href="http://www.youtube.com/profile_videos.php?user=dalborgha">seleção de vídeos</a><span class="dead-link-mark">†</span> do telejornal onde a figura gastava 1/5 do tempo lendo notícias no estilo &#8220;mundo cão&#8221; e o restante dando porrada na mesa, no cenário e até no cameraman. Uma verdadeira catarse em uma época em que esse tipo de jornalismo oportunista parecia ter dominado uma certa faixa de horários na televisão.

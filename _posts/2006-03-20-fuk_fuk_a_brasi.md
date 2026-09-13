@@ -7,10 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2006/03/fuk_fuk_a_brasi.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/archives/img/ffab.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751444781
 categories:
 ---
 <img title="Cena do Siri carregando seu 'porno-shop ambulante' (não devia existir o termo 'sex-shop' na época...)" src="/archives/img/ffab.jpg" width="325" height="256" align="right" border="1" style="margin-left:2px" />O que dizer de um filme com a sinopse abaixo? (fonte: [Cineprojeto 365][1])

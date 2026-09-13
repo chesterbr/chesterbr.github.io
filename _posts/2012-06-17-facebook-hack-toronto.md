@@ -4,10 +4,6 @@ title: 'Facebook HACK &#8211; Toronto'
 layout: post
 comments: true
 permalink: /archives/2012/06/facebook-hack-toronto.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2012/06/facebookhacktoronto_apresentacoes.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
 ---
 Na minha breve (e ainda não definitiva) passagem por Toronto tive a chance de participar do [Facebook HACK &#8211; Toronto][1]. Já tinha participado de eventos desse gênero no Brasil (como o [RHoK-SP][2] e o[ Yahoo! Open Hack Day BR][3]), mas essa foi a primeira vez em outro país. E foi bem bacana!

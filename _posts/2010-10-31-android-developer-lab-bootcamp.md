@@ -4,10 +4,6 @@ title: Android Developer Lab Bootcamp
 layout: post
 comments: true
 permalink: /archives/2010/10/android-developer-lab-bootcamp.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/10/boneco_android.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751447469
 categories:
 ---
 [<img class="alignright" src="http://farm2.static.flickr.com/1205/5130986938_393c4f8df6_m.jpg" alt="Karen e Lucas ganhando o Lego Mindstorms" width="240" height="180" />][1]Quase como um &#8220;esquenta&#8221; para o [GDD][2], o Google marcou na véspera (e no mesmo local) o [Android Developer Lab Bootcamp][3], cuja proposta foi ocupar metade do dia com um &#8220;bootstrap&#8221; da tecnologia, no qual desenvolvedores participaram de:

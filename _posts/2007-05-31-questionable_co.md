@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/05/questionable_co.html/
-dsq_thread_id:
-  - 1751450388
 categories:
   - comics
 ---

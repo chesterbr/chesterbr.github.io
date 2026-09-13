@@ -4,15 +4,6 @@ title: Chester em San Francisco
 layout: post
 comments: true
 permalink: /archives/2010/12/chester-em-san-francisco.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - |
-    http://img.youtube.com/vi/hKcD6VQGFgM">verão do amor</a>.  A realidade, contudo, é outra: o WiFi nas ruas é escasso (e é difícil conseguir um chip pré-pago com dados), a chuva lembra a garoa paulistana, e me imaginar num calção de banho iniciava uma crise psicológica de hipotermia. Mas os <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/5256927172/in/set-72157625461891837/">amigos</a><span class="dead-link-mark">†</span> que nos acolheram tambem ofereceram Wi-Fi, dicas e companhia, viabilizando um passeio por San Francisco (e arredores) em apenas quatro dias - com direito a uma aula do Knuth em pessoa!<span id="more-5597"></span>
-    <h4>Comida e Passeios</h4>
-    Munidos do <a href="http://www.citypass.com/san-francisco?mv_source=partnerfusion/0.jpg
-dsq_thread_id:
-  - 1751447729
 categories:
   - travel
 ---

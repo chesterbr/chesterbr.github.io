@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/02/linguagens_de_p.html/
-dsq_thread_id:
-  - 1751444127
 categories:
   - books
 ---

@@ -4,8 +4,6 @@ title: Golpe do ICQ
 layout: post
 comments: true
 permalink: /archives/2004/02/golpe-do-icq.html/
-robotsmeta:
-  - index,follow
 categories:
 ---
 Depois de um dia difícil, ainda aparece isso no meu e-mail:

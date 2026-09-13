@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2009/04/siddharta_por_herman_hesse.html/
-dsq_thread_id:
-  - 1751450186
 categories:
   - books
 ---

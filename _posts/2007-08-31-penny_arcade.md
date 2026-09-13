@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/08/penny_arcade.html/
-robotsmeta:
-  - index,follow
 categories:
   - comics
 ---

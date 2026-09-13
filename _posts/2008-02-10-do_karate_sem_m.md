@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/02/do_karate_sem_m.html/
-dsq_thread_id:
-  - 1751450335
 categories:
 ---
 <img title="capa do livro Karatê sem Mestre, da Ediouro" src="/archives/img/karate_sem_mestre.jpg" width="228" height="300" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />Nessa sexta-feira eu *causei* fortemente no escritório ao mencionar que uma das minhas primeiras compras pelo correio foi o [Karatê Sem Mestre][1] &#8211; um dos inúmeros livros que a Ediouro oferecia em suas populares revistas de passatempos.

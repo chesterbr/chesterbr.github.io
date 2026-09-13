@@ -4,12 +4,6 @@ title: 'Harmony: rodando jogos (e testando programas) num Atari de verdade'
 layout: post
 comments: true
 permalink: /archives/2011/11/harmony-rodando-jogos-e-testando-programas-num-atari-de-verdade.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - http://farm7.static.flickr.com/6037/6296967178_6e1753e599_m.jpg
-dsq_thread_id:
-  - 1751447829
 categories:
   - atari-2600
   - electronics

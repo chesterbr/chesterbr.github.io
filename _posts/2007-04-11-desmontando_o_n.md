@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/04/desmontando_o_n.html/
-dsq_thread_id:
-  - 1751443036
 categories:
   - retrocomputing
 ---

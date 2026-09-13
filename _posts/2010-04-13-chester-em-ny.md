@@ -4,12 +4,6 @@ title: Chester em NY
 layout: post
 comments: true
 permalink: /archives/2010/04/chester-em-ny.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - http://farm5.staticflickr.com/4046/4183092265_9f31e548a7.jpg
-dsq_thread_id:
-  - 1751447374
 categories:
   - travel
 ---

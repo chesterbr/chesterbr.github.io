@@ -7,10 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2006/05/a_verdadeira_hi.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/archives/img/loirafantasma.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751442414
 categories:
 ---
 <img title="Algumas manchetes do NP sobre a loira do banheiro" src="/archives/img/loirafantasma.jpg" width="234" height="113" align="right" style="margin-left:2px" />Quem nunca ouviu falar da &#8220;loira fantasma&#8221;, tambem conhecida como a &#8220;loira do banheiro&#8221;? Lenda urbana recorrente nas escolas de primeiro e segundo grau (ao menos nos anos 80 e no pouco dos 90 que nelas passei), teve sua origem na redação do controvertido [Notícias Populares][1] &#8211; ao menos é o que garante a saudosa Revista General.

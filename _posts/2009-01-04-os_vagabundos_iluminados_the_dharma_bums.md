@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2009/01/os_vagabundos_iluminados_the_dharma_bums.html/
-dsq_thread_id:
-  - 1751450268
 categories:
   - books
 ---

@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2006/11/broxamusic_musi.html/
-dsq_thread_id:
-  - 1751441585
 categories:
 ---
 <img title="BroxaMusic - impagável" src="/archives/img/broxaMusic-novos-classicos01.jpg" width="150" height="150" align="right" style="margin-left:2px" border="1" />Nunca assinou um Podcast? Sugestão, comece com [BroxaMusic][1] ([feed][2]) &#8211; uma seleção do que há de pior na música, sem fronteiras temporais.

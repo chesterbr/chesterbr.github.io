@@ -6,8 +6,6 @@ comments: true
 permalink: /archives/2010/03/chester-no-oriente-medio-qatar.html/
 bb-custom-tags:
   - qatar árabe oriente
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/03/qatar.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
   - travel
 ---

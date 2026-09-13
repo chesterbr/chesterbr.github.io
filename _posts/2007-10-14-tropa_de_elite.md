@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/10/tropa_de_elite.html/
-dsq_thread_id:
-  - 1751442793
 categories:
 ---
 Longe de mim adicionar mais barulho à cacofonia que este filme gerou antes e depois da estréia &#8211; esse post é só pra falar três coisas rápidas:

@@ -7,13 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2005/05/orgia_disney_em.html/
-enclosure:
-  - |
-    |
-        /archives/podcast/pdC-2005-05-18.mp3
-        0
-        audio/mpeg
-
 categories:
 ---
 <img title="Mickey tomando um pico (essa é uma das cenas mais light)" src="/archives/img/mickey.jpg" width="90" height="90" align="right" border="1" />

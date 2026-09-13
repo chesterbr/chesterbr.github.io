@@ -4,8 +4,6 @@ title: The Happy Mutant Handbook
 layout: post
 comments: true
 permalink: /archives/2003/05/the-happy-mutant-handbook.html/
-dsq_thread_id:
-  - 1751447236
 categories:
   - books
 ---

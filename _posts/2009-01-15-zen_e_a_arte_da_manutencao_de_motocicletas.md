@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2009/01/zen_e_a_arte_da_manutencao_de_motocicletas.html/
-dsq_thread_id:
-  - 1751450236
 categories:
   - books
 ---

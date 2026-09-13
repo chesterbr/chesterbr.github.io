@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2005/12/tinha_que_ser_b.html/
-dsq_thread_id:
-  - 1751441991
 categories:
 ---
 <img title="Logotipo do instituto, que provavelmente queria lembrar um templo e não um... bem..." src="/archives/img/phallic.gif" width="257" height="206" align="right" />A singela ilustração aí do lado é a vencedora do [Phallic Logo Awards][1], uma coletânea do site B3ta que reuniu peças publicitárias com motivos acidentalmente (ou incidentalmente) fálicos.

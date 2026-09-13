@@ -4,8 +4,6 @@ title: Coders At Work (Peter Seibel)
 layout: post
 comments: true
 permalink: /archives/2010/07/coders-at-work-peter-seibel.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/07/coders-at-work.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
   - books
 ---

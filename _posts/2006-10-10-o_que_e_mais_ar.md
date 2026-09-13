@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2006/10/o_que_e_mais_ar.html/
-dsq_thread_id:
-  - 1751441829
 categories:
 ---
 Não ia mais me meter a comentar esse tipo de coisa, mas foi impagável ver o Google desprender uma quantia fabulosa (na verdade ações, mas do próprio bolso) para comprar o YouTube, e, na mesma página, tomar ciência da liberação de um montante comparável de dinheiro público (o BNDES é órgão ministerial) para o braço tupiniquim de uma telecom (o tipo de centro de &#8220;excelência&#8221; no qual neguinho encomenda um Google Maps e recebe, dois anos atrasado, um guia de ruas).

@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/10/susan_kare_de_d.html/
-dsq_thread_id:
-  - 1751442297
 categories:
   - retrocomputing
 ---

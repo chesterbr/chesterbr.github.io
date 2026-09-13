@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/08/stumbling_on_happiness_o_que_nos_faz_felizes_daniel_gilbert.html/
-dsq_thread_id:
-  - 1751449896
 categories:
   - books
 ---

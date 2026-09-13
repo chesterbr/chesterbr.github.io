@@ -2,8 +2,6 @@
 title: Código-Fonte (github e outros)
 author: chester
 layout: page
-robotsmeta:
-  - index,follow
 ---
 O código-fonte dos meus [projetos pessoais][1] sempre pode ser encontrado num dos repositórios abaixo. Use e abuse.
 

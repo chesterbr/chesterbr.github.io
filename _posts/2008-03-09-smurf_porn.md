@@ -7,10 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/03/smurf_porn.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/archives/img/smurf.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751449102
 categories:
 ---
 <img title="lá lá lálálálá-lá lá lálá-láááá..." src="/archives/img/smurf.jpg" width="149" height="199" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Quando eu estiver fazendo algo muito, muito deturpado, pensarei: &#8220;pelo menos não juntei uma galera pra se pintar de azul, vestir roupinhas brancas e encenar um [curta pornô dos Smurfs][1]&#8221; (**ATENÇÃO: LINK IMPRÓPRIO PARA MENORES/ESCRITÓRIO**).

@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/07/dreaming_in_pin.html/
-dsq_thread_id:
-  - 1751450744
 categories:
 ---
 <img title="Cena de um momento afetuoso entre os líderes das façcões rivais de robôs" src="/archives/img/dreaminpink.jpg" width="199" height="131" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />Eu achei que o fundo do poço tinha chegado com o [dragon porn][1]. Me enganei, pois logo em seguida pintou o [smurf porn][2]. Agora é vez dos Transformers: <a href="http://web.archive.org/web/20100413084329/http://www.plotsntombstones.com:80/GandC.html">Dream in Pink</a> é um site que reune [yaoi][4] (i.e., mangá com conteúdo homossexual masculino &#8220;soft&#8221;, destinado a um público majoritariamente feminino) ambientado no universo dos Autobots e Decepticons.

@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2005/12/a_baba_do_super.html/
-dsq_thread_id:
-  - 1751445005
 categories:
   - comics
 ---

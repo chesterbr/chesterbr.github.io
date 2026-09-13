@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2009/06/os_movimentos_e_a_usp_parte_2.html/
-dsq_thread_id:
-  - 1751449273
 categories:
 ---
 Vários colegas observaram que os [comentários][1] que fiz sobre o movimento estudantil pró-greve na USP se pautam por um tom de imparcialidade que, para um ex-aluno que já ouviu tanta bobagem ser dita por integrantes deste movimento, peca pela inocência ou até pela insensatez. Eu mesmo tive essa impressão em vários momentos ao escrever o texto, mas ainda achava que era razoável colocar os argumentos expostos pelos dois lados e manter o benefício da dúvida naquilo que não fosse absolutamente factual.

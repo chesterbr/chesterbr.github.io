@@ -4,23 +4,6 @@ title: Chester em Hollywood (e no set do The Big Bang Theory)
 layout: post
 comments: true
 permalink: /archives/2011/10/chester-em-hollywood-e-no-set-do-the-big-bang-theory.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - |
-    http://img.youtube.com/vi/9YQ-Y2Br0y4">abertura do Friends</a>.
-
-    Mas o melhor ainda estaria por vir: no final do dia fomos assistir à gravação do TBBT. As gravações geralmente são à noite para que os atores possam memorizar falas durante o dia, e a presença da platéia tem duas funções: gravar as risadas e dar aos atores a oportunidade de sentir o timing das piadas. Naquela noite eles gravaram um episódio inteiro (exceto por uma cena externa) e ainda deu tempo de assistir ao vídeo do episódio anterior - possivelmente para gravar risos adicionais.
-
-    <a href="http://www.flickr.com/photos/chesterbr/sets/72157627783784302"><img src="/wp-content/uploads/2011/09/bani_penny.jpg" alt="Penny! Knock knock knock! Penny..." title="Penny! Knock knock knock! Penny..." width="259" height="389" class="alignright size-full wp-image-6393" style="border:1px solid black; padding:0px" /></a>Eles gravam tudo na ordem da história, e não é picadinho: a tentativa no geral é fazer a cena toda de cada locação de uma vez só. Para isso usam quatro câmeras, sendo pelo menos uma móvel, e quando erravam (a <a href="http://www.imdb.com/name/nm0192505/">Kaley Cuoco</a> engasgou uma hora, tadinha) voltavam um pouquinho, com raros cortes do diretor. Tudo é filmado pelo menos duas vezes (com ajustes e improvisos eventuais de uma para outra), e a gente dava risada em ambas - porque ao vivo é ainda mais engraçado.
-
-    Após a gravação o público se engalfinhou para conseguir autógrafos de um elenco visivelmente cansado. Nem encanamos, até porque o que viria em seguida seria bem mais legal: apesar da proibição de fotografia nos estúdios, como convidados nós pudemos <a href="http://www.flickr.com/photos/chesterbr/sets/72157627783784302/?page=3">fotografar o cenário</a> à vontade.
-
-    Os atores já tinham ido embora, mas conseguimos <a href="http://www.flickr.com/photos/chesterbr/6196902180/in/set-72157627783784302">foto</a> com <strong>o</strong> físico do seriado: o Prof. <a href="http://personnel.physics.ucla.edu/directory/faculty/saltzberg">David Saltzberg</a>, PhD em Física e consultor que cuida da qualidade científica das piadas e até faz as fórmulas nas lousas! Ele mantém um <a href="https://thebigblogtheory.wordpress.com/">blog</a> muito bacana, que entra nos detalhes da ciência por trás de cada episódio da série.
-
-    No final foi uma experiência ímpar, e só posso deixar meus sinceros agradecimentos ao pessoal da Warner que nos premiou e acompanhou. Sentar no lugar do Sheldon definitivamente não tem preço, e lembre-se: quando assistir ao <a href="http://www.thefutoncritic.com/listings/20110920cbs03">quinto</a> e <del datetime="2011-10-17T02:48:08+00:00">sexto</del> <a href="http://www.thefutoncritic.com/listings/20111010cbs05/">sétimo</a> episódios da quinta temporada, você estará ouvindo, entre outras, as nossas risadas!/0.jpg
-dsq_thread_id:
-  - 1751442040
 categories:
   - travel
 ---

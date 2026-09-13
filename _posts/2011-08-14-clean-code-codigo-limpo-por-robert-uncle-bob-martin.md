@@ -4,12 +4,6 @@ title: 'Clean Code (Código Limpo), por Robert &#8220;Uncle Bob&#8221; Martin'
 layout: post
 comments: true
 permalink: /archives/2011/08/clean-code-codigo-limpo-por-robert-uncle-bob-martin.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/08/unclebob.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751445660
 categories:
   - books
 ---

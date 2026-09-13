@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2007/12/minitruco_free.html/
-dsq_thread_id:
-  - 1751450288
 categories:
 redirect_from: "/minitruco_en/"
 ---

@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2005/08/f_e_tarja_preta.html/
-dsq_thread_id:
-  - 1751444727
 categories:
   - comics
 ---

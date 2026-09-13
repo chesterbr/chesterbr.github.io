@@ -4,13 +4,6 @@ title: 'Exposição: Ocupação Angeli'
 layout: post
 comments: true
 permalink: /archives/2012/03/exposicao-ocupacao-angeli.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - |
-    http://img.youtube.com/vi/RmMIx8kmy7w">Dossiê Rê Bordosa</a>) e cópias ampliadas das fotonovelas da Chiclete.
-
-    Painéis com <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/6862737148/in/set-72157629286821702/">capas da revista</a><span class="dead-link-mark">†</span> e <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/7008854289/in/set-72157629286821702/">fotos do autor</a><span class="dead-link-mark">†</span> encerram a exposição, que deve agradar a qualquer fã. A popularidade do Angeli é confirmada pela lotação no fim-de-semana. A dica é ir durante a semana - salvo excursões-relâmpago escolares, é bem tranquilo./0.jpg
 categories:
   - comics
 ---

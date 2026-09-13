@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2006/12/bonecos_de_neve.html/
-dsq_thread_id:
-  - 1751441523
 categories:
 ---
 <img title="Boneco de neve do Calvin (remetendo a Hamlet, talvez?)" src="/archives/img/calvin_snowman.gif" width="70" height="102" align="right" style="margin-left:2px" />Já vi algumas dessas, mas esta <a href="http://www.chase3000.com/userpages/calvinhobbes/" target="_blank">coleção de tiras do Calvin sobre bonecos de neve</a> é massiva. Não entendo como não lançam um livro temático disso, o assunto é inesgotável.

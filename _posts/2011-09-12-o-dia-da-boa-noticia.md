@@ -5,10 +5,6 @@ layout: post
 comments: true
 permalink: /archives/2011/09/o-dia-da-boa-noticia.html/
 og_image: /wp-content/uploads/2011/09/ig2001_thumb.png
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/09/ig2001.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751445780
 categories:
 ---
 [<img src="/wp-content/uploads/2011/09/ig2001_thumb.png" alt="Página do iG em 2001 (clique para ampliar)" title="Página do iG em 2001 (clique para ampliar)" width="248" height="228" class="alignleft size-full wp-image-6309" style="border:1px solid black" />][1]Esta época sempre me lembra uma história trágicômica dos primeiros anos do [iG][2]. Quando ela aconteceu eu era programador na equipe que cuidava, entre outras coisas, do sistema de publicação do [Último Segundo][3], jornal online no qual se deu o &#8220;causo&#8221;.

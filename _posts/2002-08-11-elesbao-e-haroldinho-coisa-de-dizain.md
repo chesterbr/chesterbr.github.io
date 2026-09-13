@@ -4,8 +4,6 @@ title: 'Elesbão e Haroldinho &#8211; coisa de <i>dizáin</i>'
 layout: post
 comments: true
 permalink: /archives/2002/08/elesbao-e-haroldinho-coisa-de-dizain.html/
-dsq_thread_id:
-  - 1752555989
 categories:
 ---
 Fuçando nos meus Zip Disks velhos (alguém quer comprar um Zip Drive paralelo? faço baratinho, baratinho), encontrei os MP3 &#8220;Montagem do Star Wars&#8221; e &#8220;Montagem do Dizáin&#8221; da dupla &#8220;Elsebão e Haroldinho&#8221;. É um estilo funk-comédia, meio &#8220;antigo&#8221; até. Vou dar só uma palhinha da &#8220;Montagem do Star Wars&#8221; (a letra completa tem no <a href="http://comsede.blig.ig.com.br/200206_2.html" >O Menino Está Com Sede e Não Temos Mais Laranja</a>, um caso raro de blog que vale a banda que consome):

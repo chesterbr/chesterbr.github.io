@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2005/06/por_que_almocei.html/
-dsq_thread_id:
-  - 1751442142
 categories:
   - books
 ---

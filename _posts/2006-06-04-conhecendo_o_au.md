@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2006/06/conhecendo_o_au.html/
-dsq_thread_id:
-  - 1751441850
 categories:
   - comics
 ---

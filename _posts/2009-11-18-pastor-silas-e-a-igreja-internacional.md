@@ -4,8 +4,6 @@ title: Pastor Silas e a Igreja Internacional
 layout: post
 comments: true
 permalink: /archives/2009/11/pastor-silas-e-a-igreja-internacional.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2009/11/graphic1iml2.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
 ---
 Achei que todo mundo conhecia a palavra do Pastor Silas, mas soltei numa lista esses dias e causou furor, então é bom divulgar. Este homem iluminado é o líder da [Igreja Internacional][1], uma organização destinada a livrar o mundo das drogas (coisas como &#8220;video gueimes&#8221;, &#8220;naruto&#8221;, &#8220;aides&#8221; e &#8220;pomba-gira&#8221;), e que aceita dinheiro, cheque e cartão de crédito, sem preconceitos.

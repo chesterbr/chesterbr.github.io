@@ -7,10 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/03/nokia_e62_avali.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/archives/img/e62.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751450782
 categories:
 ---
 <img title="Foto do Nokia e62" src="/archives/img/e62.jpg" width="149" height="215" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Depois de inúmeros Palms e dois anos com o &#8220;guerreiro&#8221; Nokia 6600, a empresa onde trabalho me cedeu um [Nokia E62][1]. Como o aparelho está relativamente acessível no Brasil (e algumas coisas eu suei pra fazer funcionar), vou falar um pouco da minha experiência com ele.

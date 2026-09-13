@@ -4,30 +4,6 @@ title: Coisas que irritam um motorista
 layout: post
 comments: true
 permalink: /archives/2010/03/coisas-que-irritam-um-motorista.html/
-onswipe_thumb:
-  - |
-    http://img.youtube.com/vi/RMZ3bsrtJZ0">Sr. Volante</a> (independente de quem tem culpa);</li>
-    	<li>Fazer o Boletim de Ocorrência;</li>
-    	<li>Acionar o seguro;</li>
-    	<li>Fazer orçamento de conserto;</li>
-    	<li>Saber que aquela parte nunca vai ficar exatamente do jeito que era;</li>
-    </ul>
-    </li>
-    	<li>Vidro elétrico que emperra no pior lugar possível (ex.: não fecha quando você está na rua ou na chuva);</li>
-    <li><a href="http://www.youtube.com/watch?v=kdrQxM56CLE">Carteira de motorista que vence</a> quando você está totalmente sem tempo para ir atrás (e cuja renovação sempre envolve um novo exame ou burocracia em um lugar totalmente distante);</li>
-    	<li>Ser o chato que não deixa o carona fumar ou aturar a aura de nicotina durante o resto da semana;</li>
-    <li>Acordar cedo (ou voltar tarde) uma vez por semana por causa do rodízio - e ainda tentar se enganar com consolos do tipo "ah, hoje eu pego menos trânsito";</li>
-    	<li>Pequenos defeitos que "não vale a pena" terceirzar e você tem que resolver. Ex.: lâmpada do pisca queimada;</li>
-    	<li>Ser multado porque não percebeu um desses pequenos defeitos (ou ainda, causar um acidente por conta dele);</li>
-    <li>Pegar uma lombada/buraco e quase sentir na pele a "dor" no carro - além de passar os próximos minutos tenso com a possível falha mecânica decorrente;</li>
-    <li>Pagar pedágio como se fosse um viciado: quantidades cada vez maiores, em intervalos cada vez menores;</li>
-    <li>Ficar "na mão" com uma falha mecânica e não poder simplesmente abandonar o veículo e pegar o próximo (como faria com um coletivo);</li>
-    <li>Se você mora numa rua com feira livre (como os meus pais), acordar de madrugada uma vez por semana para tirar o carro, ou ficar com ele preso até o meio da tarde;</li>
-    	<li>Abastecer um mísero dia com gasolina de baixa qualidade e aturar o carro engasgando durante o resto da semana (isso se não tiver que trocar algum filtro ou rolar um defeito ainda mais $ério);</li>
-    	<li>Medos: furto, colisão grave, atropelamento, assalto no farol, sequestro-relâmpago, falso bloqueio policial, ficar preso em enchente, respirar poluição sem ter para onde fugir... enfim, medo de viver. Estou fora.</li>
-    </ul>/0.jpg
-dsq_thread_id:
-  - 1751447548
 categories:
 ---
 Andar de ônibus em São Paulo não é nenhuma maravilha. Mas os piores perrengues não se comparam à soma das pequenas irritações causadas por este esporte coletivo espartano que é possuir/dirigir um carro particular, tais como:

@@ -7,8 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2006/01/a_ilustradora_d.html/
-dsq_thread_id:
-  - 1751444852
 categories:
 ---
 <img title="Cartas do Paciência do Windows, em zoom" src="/archives/img/paciencia.png" width="264" height="219" align="right" style="margin-left:2px" />O anteriormente mencionado [Folklore.org][1] (site que conta os bastidores da história da Apple nos conturbados anos 80) [virou livro][2] recentemente &#8211; e nem por isso o pessoal das antigas do Vale do Silício parou de atualizar as histórias do site.

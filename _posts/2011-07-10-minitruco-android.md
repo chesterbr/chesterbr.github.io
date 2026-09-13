@@ -4,12 +4,6 @@ title: miniTruco Android
 layout: post
 comments: true
 permalink: /archives/2011/07/minitruco-android.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2011/07/logo1.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751447876
 categories:
 ---
 [<img class="size-full wp-image-6085 alignright" title="Clique para baixar o miniTruco Android" src="/wp-content/uploads/2011/07/60_avail_market_logo1.png" alt="Clique para baixar o miniTruco Android" width="156" height="60" />][1]A versão Android do miniTruco está pronta e disponível para [download no Android Market][1]. O software é gratuito, e, mais importante: o [código-fonte][2] é livre (GPLv3).

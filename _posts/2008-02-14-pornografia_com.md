@@ -7,10 +7,6 @@ excerpt: |
 layout: post
 comments: true
 permalink: /archives/2008/02/pornografia_com.html/
-onswipe_thumb:
-  - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/archives/img/yiffy_reichel.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-dsq_thread_id:
-  - 1751451068
 categories:
 ---
 **ATENÇÃO: LINKS NÃO-SEGUROS PARA ESCRITÓRIO, CASA DA AVÓ OU COLÉGIO ADVENTISTA.**

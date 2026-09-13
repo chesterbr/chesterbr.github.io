@@ -4,21 +4,6 @@ title: Exposição Game On no Museu da Imagem e do Som (MIS)
 layout: post
 comments: true
 permalink: /archives/2011/12/exposicao-game-on-no-museu-da-imagem-e-do-som-mis.html/
-robotsmeta:
-  - index,follow
-onswipe_thumb:
-  - |
-    http://img.youtube.com/vi/BOiq9BSH6AA"><img src="/wp-content/uploads/2011/12/gameon.png" alt="Exposição Game On" title="Exposição Game On" width="546" height="225" class="aligncenter size-full wp-image-6720" /></a>
-
-    Na abertura você já se depara com uma máquina de <a href="http://pt.wikipedia.org/wiki/Spacewar!">Spacewar</a> e uma de <a href="http://pt.wikipedia.org/wiki/Pong">Pong</a>. Deu uma pequena frustração porque nenhuma estava funcionando (apesar de haver um emulador do último projetando na parede), mas só de tocar os controles e ficar em frente a elas já deu para reproduzir a sensação de época como nenhum texto ou documentário permitiria.
-
-    Dali pra frente, no entanto, é interatividade total: na primeira área (dedicada aos primeiros arcades) foi obrigatório jogar <a href="http://en.wikipedia.org/wiki/Asteroids_%28video_game%29">Asteroids</a> (que controla diretamente o canhão do tubo de TV ao invés de seguir o padrão de <em>scanlines</em>, o que resulta em um visual ímpar), <a href="http://en.wikipedia.org/wiki/Pac-Man">Puck-Man</a> (o original japonês do Pac-Man, ainda que a maior diferença esteja na decoração do arcade, com o Pac-Man narigudão) e vários outros.
-
-    As outras áreas são bem diversificadas em termos de épocas, estilos e lugares. Os formatos também variam: tem consoles, computadores pessoais, portáteis, brinquedos eletrônicos, mini-games, enfim, todo o tipo de parafernália, rodando jogos dos mais diversos gêneros. É bem bacana poder brincar com tudo o que a idade, local de nascimento, escolha de plataforma ou grana não permitiram, o que deve tornar a exposição única para cada participante.
-
-    Não vou negar que eu e a <a href="http://baniverso.com/">Bani</a> olhamos metodicamente cada um dos brinquedos, e paramos em todos que tinham algum significado (e vaga). Foi divertido jogar a dois toda a carreira "pré-Super" do Mário (<a href="http://www.youtube.com/watch?v=EhFV5-qbbIw">Donkey Kong</a> no arcade e <a href="http://www.youtube.com/watch?v=sB_U4_7S1IM/0.jpg
-dsq_thread_id:
-  - 1751448205
 categories:
   - retrocomputing
 ---
