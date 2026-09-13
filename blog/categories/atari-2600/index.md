@@ -3,7 +3,9 @@ layout: page
 title: Atari 2600
 hide_heading: true
 category: atari-2600
-permalink: /atari-2600/
+permalink: /blog/categories/atari-2600/
+redirect_from:
+  - /atari-2600/
 ---
 <header>
   <h1 class="entry-title" data-i18n="cat-atari-2600">Atari 2600</h1>

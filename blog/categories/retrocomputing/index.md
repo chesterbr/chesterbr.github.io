@@ -3,8 +3,10 @@ layout: page
 title: Retrocomputing
 hide_heading: true
 category: retrocomputing
-permalink: /micros/
-redirect_from: "/micros.html/"
+permalink: /blog/categories/retrocomputing/
+redirect_from:
+  - /micros/
+  - /micros.html/
 ---
 <header>
   <h1 class="entry-title" data-i18n="cat-retrocomputing">Retrocomputing</h1>

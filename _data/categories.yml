@@ -5,15 +5,16 @@
 #
 # To add a category: add an entry here, tag posts with its `slug` in their
 # `categories:` front matter, and create a listing page at `url` (copy an
-# existing one, e.g. micros/index.md, and set `category:` to the slug).
+# existing one, e.g. blog/categories/retrocomputing/index.md, and set both
+# `permalink` and `category` to the new slug).
 # Order here is the order shown in the dropdown.
 - slug: retrocomputing
-  url: /micros/
+  url: /blog/categories/retrocomputing/
   label:
     en: Retrocomputing
     pt: Retrocomputação
 - slug: atari-2600
-  url: /atari-2600/
+  url: /blog/categories/atari-2600/
   label:
     en: Atari 2600
     pt: Atari 2600
