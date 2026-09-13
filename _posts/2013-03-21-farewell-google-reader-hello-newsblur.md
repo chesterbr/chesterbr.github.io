@@ -19,7 +19,7 @@ Due to the massive influx of Reader refugees, it doesn&#8217;t offer free accoun
 
 Unless, of course, you believe RSS is dead(*). In that case, never mind.
 
-*(*) hint: you shouldn&#8217;t. Its death is announced [so often][13] that it could easily get mistaken for a [modern comics character][14].*
+*(\*) hint: you shouldn&#8217;t. Its death is announced [so often][13] that it could easily get mistaken for a [modern comics character][14].*
 
  [1]: http://newsblur.com
  [2]: http://en.wikipedia.org/wiki/PointCast_%28dotcom%29#PointCast_Network

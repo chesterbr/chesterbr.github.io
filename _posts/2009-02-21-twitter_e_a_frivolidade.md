@@ -34,7 +34,7 @@ Enfim, torcer o nariz para o Twitter (como muita gente vem fazendo) porque ele n
 
 Longa vida às mídias [frívolas][9]!
 
-(*) esta frase é um [recurso][10] muito usado por matemáticos preguiçosos &#8211; eu mal me formei e lanço mão dela semanalmente.
+(\*) esta frase é um [recurso][10] muito usado por matemáticos preguiçosos &#8211; eu mal me formei e lanço mão dela semanalmente.
 
  [2]: http://twitter.com/chesterbr
  [3]: http://pt.wikipedia.org/wiki/Migux%C3%AAs

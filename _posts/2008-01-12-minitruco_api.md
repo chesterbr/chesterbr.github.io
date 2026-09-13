@@ -57,7 +57,7 @@ The easiest way to grasp the commands (and notifications) is to run the server o
 2.  Run it locally by typing *java -jar miniTrucoServer.jar* on a terminal/console window (Command Prompt, aka &#8220;cmd&#8221; on Windows);
 3.  Interact via telnet, by issuing *telnet localhost 6912* from another terminal(*).
 
-(*) In Windows, you may need to enter *telnet*, then *set localecho* and only after that *open localhost 6912* if you want to see what you are typing. But even if you don&#8217;t, commands will work after you hit ENTER &#8211; you just won&#8217;t see them as you type ([more info on Windows telnet][6]).
+(\*) In Windows, you may need to enter *telnet*, then *set localecho* and only after that *open localhost 6912* if you want to see what you are typing. But even if you don&#8217;t, commands will work after you hit ENTER &#8211; you just won&#8217;t see them as you type ([more info on Windows telnet][6]).
 
 By working with telnet you can experiment with commands and see the notifications caused by them. With two or more telnet windows, you can simulate the entire game cycle.
 
