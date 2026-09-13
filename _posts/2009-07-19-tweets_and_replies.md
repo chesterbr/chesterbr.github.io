@@ -8,7 +8,6 @@ layout: post
 comments: true
 permalink: /archives/2009/07/tweets_and_replies.html/
 categories:
-  - Portfolio
 ---
 A confusing situation happens on Twitter whenever people you follow talk to people you don&#8217;t. Twitter &#8220;fixed&#8221; it by hiding such conversations from your timeline &#8211; but that gives you \*less\* information when you wanted a bit more.
 

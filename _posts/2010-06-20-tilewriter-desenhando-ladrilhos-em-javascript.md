@@ -9,7 +9,6 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751447428
 categories:
-  - Portfolio
 ---
 <img src="/wp-content/uploads/2010/06/mario.png" alt="" title="Super Mario em tiles" width="120" height="140" class="alignleft size-full wp-image-4131" />Eu fiquei vidrado no layout de &#8220;ladrinhos&#8221; do logotipo do [site do RHoK][1], que lembra os micros de 8 bits sem deixar de ser moderno, e pensei &#8220;taí, vou <del datetime="2010-06-20T14:22:59+00:00">roubar</del> <del datetime="2010-06-20T14:22:59+00:00">me inspirar</del> criar um trabalho artístico derivativo para o próximo update visual do meu blog&#8221;.
 

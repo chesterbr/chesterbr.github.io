@@ -5,7 +5,6 @@ layout: post
 comments: true
 permalink: /archives/2009/09/simpleyql-usando-as-apis-do-yahoo-em-java.html/
 categories:
-  - Portfolio
 ---
 O [simpleyql][1] é uma biblioteca que facilita bastante o desenvolvimento de aplicações em Java que manipulem dados de usuários do [Yahoo! Meme][2] (ou de quaisquer sites do Yahoo! que estejam expostos via [YQL][3] e [oAuth][4]).
 

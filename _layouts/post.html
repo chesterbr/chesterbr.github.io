@@ -7,11 +7,6 @@ single: true
   <article class="hentry" role="article">
     {% include article.html %}
     <footer>
-      {% if page.categories %}
-      <p class="meta">
-        {% include post/categories.html %}
-      </p>
-      {% endif %}
       <p class="meta">
         {% if page.previous.url %}
         <a class="basic-alignment left" href="{{page.previous.url}}"

@@ -10,7 +10,6 @@ permalink: /archives/2007/09/magias_e_barbar_1.html/
 dsq_thread_id:
   - 1751443597
 categories:
-  - quadrinhos
 ---
 <img alt="Trecho de Magias e Barbaridades, de Fabio Ciccone" src="/archives/img/magiasebarbaridades.png" width="338" height="208" align="right" style="margin-left:2px" />Graças a um comentário do [autor][1] num post recente descobri a existência de [Magias e Barbaridades][2] &#8211; um webcomic nacional pra ninguém botar defeito<sup><a href="#meb1">[1]</a></sup>.
 

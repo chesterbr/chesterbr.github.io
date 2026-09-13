@@ -4,7 +4,7 @@ layout: default
 
 <div>
   <article role="article">
-    {% if page.title %}
+    {% if page.title and page.hide_heading != true %}
     <header>
       <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}
       </h1>
@@ -16,7 +16,6 @@ layout: default
     <footer>
       {% if page.date %}<p class="meta">
         {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
-        {% if page.categories %}{% include post/categories.html %}{% endif %}
       </p>{% endif %}
     </footer>
     {% endunless %}
