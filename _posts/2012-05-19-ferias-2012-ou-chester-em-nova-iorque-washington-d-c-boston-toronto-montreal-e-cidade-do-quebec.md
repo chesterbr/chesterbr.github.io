@@ -11,6 +11,8 @@ categories:
 
 Juntamos Boston e Montreal ao roteiro e incluimos viagens bate-e-volta para Washington e Quebec City, o que resultou em uma viagem que eu não podia deixar de registrar.
 
+<!--more-->
+
 <h3 style="font-size: 22.825px; line-height: 28.5px;">
   Hospedagem e Transporte
 </h3>

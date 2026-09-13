@@ -15,6 +15,8 @@ Muito bacana esse [The Amazing Adventures of Puny Parker][1], do [Vitor Cafaggi]
   </p>
 </div>
 
+<!--more-->
+
 Ah, ele faz todas as tiras em dois idiomas. Pessoalmente, gosto mais da versão em inglês:
 
 <div id="attachment_5865" class="wp-caption aligncenter" style="width: 410px">

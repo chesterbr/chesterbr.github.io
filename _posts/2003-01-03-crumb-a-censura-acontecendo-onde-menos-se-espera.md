@@ -11,6 +11,8 @@ A Conrad lançou o especial &#8220;R. Crumb: Frtiz the Cat&#8221;, uma edição 
 
 Trata-se de uma compilação das histórias de Fritz, personagem de Robert Crumb que dispensa apresentações. O que me levou a escrever foi a história &#8220;R. Crumb Comics & Stories&#8221;. Eu já tinha lido esta no número 5 da revista &#8220;Porrada&#8221;, de 1998. Sem estragar muitas surpresas: Fritz retorna à casa de sua mãe no interior, depois de ter vivido um tempo na cidade, e acaba tendo uma relação sexual com uma garota.
 
+<!--more-->
+
 Na tradução da Porrada, a garota era a filha do vizinho. Qual não foi a minha surpresa ao ver que, na tradução da Conrad, a garota era a **irmã mais nova** do Fritz. Pesquisando na Internet, vi que a versão do incesto é a [correta][3]. Também descobri que esta história também sofreu este tipo de censura [na Espanha][4], na revista Star, mas em 1975.
 
 Pode ser que a Porrada tenha pirateado o material da revista espanhola, sem saber da censura. Mas também pode ter sido feito de caso pensado. Pior ainda: talvez eles tenham republicado a história da revista Grilo, ou de alguma outra que publicasse Crumb no Brasil. Eu não acredito que a Grilo fizesse coisas deste gênero (só li um exemplar dela até hoje, mas sei que fez a cabeça de muitos autores de quadrinhos no Brasil). Mas é uma possibilidade no mínimo frustrante.

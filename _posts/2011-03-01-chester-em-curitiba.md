@@ -13,6 +13,8 @@ Mais uma vez apelei para o velho truque de transformar o transtorno de voltar de
   <a href="http://www.flickr.com/photos/chesterbr/sets/72157626170985864/"><img class="aligncenter size-full wp-image-5889" style="border: 1px solid black;" title="Jardim Botânico em Curitiba" src="/wp-content/uploads/2011/03/curitiba.jpg" alt="Jardim Botânico em Curitiba" width="597" height="249" /></a>
 </p>
 
+<!--more-->
+
 Fiquei no [Hotel Confiance][2], que oferece um ótimo custo/benefício, destacando a internet sem fio de qualidade e o café da manhã amigável a vegetarianos. Um despretensioso folheto no quarto listava os restaurantes próximos por tipo de culinária e dava dicas de como chegar em lugares-chave, tais como a parada do [Aeroporto Executivo][3], um transporte rápido (~30min), confortável (ar condicionado, poltronas espaçosas) e barato (R$ 8) até o [Afonso Pena][4]. Excelente alternativa ao táxi.
 
 A mesma parada (na [Rua 24 Horas][5]) permite pegar a [Linha Turismo][6], que facilita o passeio. São ônibus de dois andares &#8211; sendo que o de cima fica aberto quando o tempo está bom &#8211; num trajeto que cobre cerca de [vinte e cinco pontos turísticos][7]. Por R$ 20 (pagos diretamente no ônibus) você tem direito a 4 reembarques &#8211; o que permite visitar até seis locais se você coordenar a chegada e a saída com locais próximos ao hotel e/ou aeroporto.

@@ -9,6 +9,8 @@ categories:
 ---
 De [Dresden][1] eu fui a Berlim, que também transpira história a cada esquina. Mas tem uma diferença: Dresden é um lugar mais &#8220;leve&#8221;, mesmo longe da zona-de-conto-de-fadas, enquanto que em Berlim vivencia-se o fato de estar em uma grande metrópole. Isso se junta às questões da história recente (que nem preciso abordar a fundo) para deixar o clima um pouco mais pesado. Mas só um pouco.
 
+<!--more-->
+
 [<img class="alignright right" style="border: 1px solid black;margin-left: 12px" src="http://farm4.static.flickr.com/3502/3844429706_a0c10e6d7c_m.jpg" alt="DSCN0228" width="240" height="180" />][2]Em termos de hostel, a experiência não foi muito boa. No [Mittes][3] os banheiros são coletivos, e a limpeza muitas vezes deixou a desejar. Os funcionários (no geral bem jovens) têm pouca fluência no inglês ou boa-vontade para qualquer coisa que não tenha a ver com bebida ou balada. Parece um lugar legal para adolescentes que querem sair da saia dos pais, fora isso não tem nenhum atrativo.
 
 O café da manhã variava muito: quando os caras abasteciam ele valia os €5.50, mas em dois dos quatro dias eu achei coisas melhores para comer na rua. Tem Wi-Fi, mas eles cobravam o dobro do pessoal de Dresden (e era o mesmo service provider) e, ao contrário de lá, não tinha uma taxa fixa diária.

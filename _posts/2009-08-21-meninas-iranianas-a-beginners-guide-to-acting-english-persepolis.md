@@ -12,6 +12,8 @@ categories:
 ---
 [<img class="alignright size-full wp-image-2110" style="float:right" src="/wp-content/uploads/2009/08/51TeqkjTMlL._SL500_AA240_1.jpg" alt="A Beginner's Guide to Acting English" width="156" height="239" />][1]Por uma coincidência curiosa, estou lendo um livro e um quadrinho que tratam basicamente do mesmo tema: iranianas que se viram forçadas a crescer fora do país por conta da Revolução Islâmica.
 
+<!--more-->
+
 [A Beginner&#8217;s Guide to Acting English][1] narra a história de Sahppi Khorsandi, cuja família estava temporariamente na Inglaterra quando a revolução ocorreu. A viagem era motivada pela ascensão na carreira do pai, o escritor e poeta Hadi Khorsandi, e a narrativa é marcada pela adoração da autora por ele &#8211; compreensível em se tratando de alguém que escreve versos como:
 
 > &#8220;The clock on the mantel<br/>

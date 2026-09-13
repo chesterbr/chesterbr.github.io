@@ -15,6 +15,8 @@ Está cada vez mais difícil convencer as pessoas de que eu não escolho meus tr
   <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/4395389176/in/set-72157623526482518/"><img class="aligncenter" style="border: 1px solid black" src="/wp-content/uploads/2010/03/qatar.jpg" alt="Mesquita em frente ao prédio moderno" width="300" height="225" /></a><span class="dead-link-mark">†</span>
 </p>
 
+<!--more-->
+
 Embora o Qatar seja um emirado (i.e., administrado por um emir, de forma semelhante a uma monarquia), não faz parte dos [Emirados Árabes][3]. Era um protetorado britânico que ia vivendo remediado de pérolas e pesca, até que os japoneses os tiraram do negócio. Mas Alá foi generoso: eles vivem sobre uma reserva de petróleo e gás natural, e focaram a economia nisso. Nos anos 90 o então herdeiro do emir deu um golpe branco, tomando o poder durante uma viagem do pai.
 
 O principal dividendo foi a aceleração do processo de democratização e desenvolvimento social: eleições municipais e parlamentares &#8211; incluindo o voto feminino &#8211; foram instituídas, e a lei islâmica, embora mantida, foi abrindo espaço para um estado mais liberal. A burca ainda é comum, mas as estrangeiras, por exemplo, já não usam. Eles ainda têm **muito** o que caminhar, mas é bastante progresso para pouco tempo. A presença massiva de estrangeiros (notadamente indianos) e os negócios com o ocidente seguramente influenciaram este movimento. Ah, e foi esse novo emir quem bancou (mas manteve independente) a [Al Jazeera][4], a &#8220;[CNN do mundo árabe][5]&#8220;.

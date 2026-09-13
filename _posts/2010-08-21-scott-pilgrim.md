@@ -9,6 +9,8 @@ categories:
 ---
 [<img src="/wp-content/uploads/2010/08/scottpilgrim.jpg" alt="Capa do Volume 3 (não é o que eu comprei, mas é uma capa legal :-) )" title="scottpilgrim" width="168" height="250" class="alignleft size-full wp-image-4465" />][1]Comecei a ler [Scott Pilgrim][2] sem saber do que se tratava &#8211; fui pelo burburinho e também por conta de [boas experiências][3] com a nova geração de quadrinhistas canadenses.
 
+<!--more-->
+
 A história começa num estilo adolescente-nerd-pós-*grunge*-sem-rumo, mas ganha alguns elementos de ação/comédia nonsense quando o personagem-título descobre que o seu novo romance adolescente depende de derrotar (na porrada mesmo) a &#8220;Liga dos Ex-namorados do Mal&#8221;. Cada edição nacional engloba dois volumes da original e, portanto, teremos três livros bem recheados.
 
 Essa mescla de clichês funciona absurdamente bem por conta do ritmo e da arte, e deixa a gente se coçando para ir atrás dos outros volumes. De quebra, descobri uma nova livraria online, a [Memee][4], que tinha o melhor preço e entregou rapidinho &#8211; claro que se você preferir comprar no Submarino, pode usar o [meu link patrocinado][1] que eu fico muito feliz! E também tem [aplicação iOS][5], que pode ser umas pra quem tem iPad (eu ainda gosto dos meus quadrinhos em papel).

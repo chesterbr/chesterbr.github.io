@@ -10,6 +10,8 @@ categories:
 
 It is not a secret to anyone how much of a [Dragon Ball][1] nerd I used to be. I collected the manga (having read it quite a few times) and watched the anime religiously, although I did not enjoy the post-manga material (Dragon Ball GT and the "TV specials") that much. Granted, I *did* watch it, but those always felt like something was missing. [Akira Toriyama][2] (original manga writer/artist) not being much involved on their production surely played a role.
 
+<!--more-->
+
 Well, things has changed: thanks to [Nick van Vugt][3], I have just watched [Dragon Ball Z: Kami to Kami][4] (*Battle of Gods*), and I REALLY, REALLY enjoyed it! Every single element of the series is there, bringing all the joy from the classic: I laughed, I got thrilled, I got embarassed. Just like the old days (with a bit of modern animation here and there).
 
 Announced as as the first "really canon" DBZ movie, it has a good share of Toriyama participation: he came up with the new characters' backgrounds and designs, steering what [would have been][5] another *higher-order-of-power-magnitude-but-heartless-guy* into a **way** more interesting character that blends in with the existing cast as few of the new ones in TV specials or GT did.

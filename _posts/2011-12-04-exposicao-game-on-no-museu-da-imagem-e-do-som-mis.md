@@ -11,6 +11,8 @@ A *Game On* é uma exposição de [origem inglesa][1] sobre a história dos jogo
 
 [<img src="/wp-content/uploads/2011/12/gameon.png" alt="Exposição Game On" title="Exposição Game On" width="546" height="225" class="aligncenter size-full wp-image-6720" />][2]
 
+<!--more-->
+
 Na abertura você já se depara com uma máquina de [Spacewar][3] e uma de [Pong][4]. Deu uma pequena frustração porque nenhuma estava funcionando (apesar de haver um emulador do último projetando na parede), mas só de tocar os controles e ficar em frente a elas já deu para reproduzir a sensação de época como nenhum texto ou documentário permitiria.
 
 Dali pra frente, no entanto, é interatividade total: na primeira área (dedicada aos primeiros arcades) foi obrigatório jogar [Asteroids][5] (que controla diretamente o canhão do tubo de TV ao invés de seguir o padrão de *scanlines*, o que resulta em um visual ímpar), [Puck-Man][6] (o original japonês do Pac-Man, ainda que a maior diferença esteja na decoração do arcade, com o Pac-Man narigudão) e vários outros.

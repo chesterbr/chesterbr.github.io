@@ -11,6 +11,8 @@ Aproveitando o assunto HQ: por esses dias eu recebi na USP um [panfleto][1], que
 
 O que me chamou a atenção é que o panfleto era propaganda de uma igreja. Quadrinhos costumam abordar temas eclesiásticos, especialmente a partir dos anos 70, mas é comum fazê-lo através de uma visão mais distante. Quando há um posicionamento, geralmente é crítico.
 
+<!--more-->
+
 Eu analisei como se fosse um fanzine &#8211; achei mais justo, dado que não é uma publicação profissional. A introdução foi muito feliz, dado o público-alvo (foi distribuída na porta do local de prova), e é até engraçada. Pena que, a partir da metade, o argumento descamba para as técnicas Instituto Universal Brasileiro de passar um recado (especialmente a terceira linha).
 
 Talvez o autor estivesse fazendo outra piada neste ponto (caso em que falhou), talvez tenha se empolgado demais com o tema (motivo que, a meu ver, mata na praia muito músico gospel de talento), ou talvez simplesmente ele tivesse se comprometido com uma mensagem densa demais para uma página só (os personagens começam a ser &#8220;empurrados&#8221; pelos balões pouco ortodoxos, erro comum em fanzines iniciantes). O fato é: se ele tivesse mantido o ritmo das duas primeiras linhas, o resultado final ia ser bacana.

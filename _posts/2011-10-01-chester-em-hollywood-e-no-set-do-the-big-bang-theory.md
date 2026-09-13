@@ -9,6 +9,8 @@ categories:
 ---
 [<img class="alignright size-full wp-image-6378" style="border: 1px solid black; padding: 0px;" title="Chester no lugar do Sheldon" src="/wp-content/uploads/2011/09/chester_sheldon_spot.jpg" alt="Chester no lugar do Sheldon" width="219" height="307" />][1]Não sei bem como introduzir o assunto, então vou direto ao ponto: ganhei um [concurso do Warner Channel][2], que levou eu e a [Bani][3] até Hollywood para, entre outras coisas, assistir à gravação do The Big Bang Theory. E o melhor: pudemos tirar [várias fotos][4], [bater][5] na porta da Penny e até [sentar][6] no sagrado lugar do Sheldon!
 
+<!--more-->
+
 O concurso pedia para responder à pergunta: &#8220;Por que você acha que a série The Big Bang Theory merece ganhar um [Emmy][7]?&#8221;, e eu não lembro das palavras exatas da minha resposta &#8211; mas foi na linha de &#8220;porque ainda não inventaram um [Prêmio Nobel][8] de Comédia&#8221;. Além da frase, era preciso responder a um questionário nada trivial sobre o Emmy, mas com esmero e a ajuda do IMDB, eu e a Bani concluimos a tarefa e esquecemos o assunto.
 
 O aviso da vitória veio em um momento crítico: eu entraria em cirurgia no dia seguinte &#8211; [nada muito sério][9], mas o passeio dependia de um OK do médico, e este de uma recuperação sem complicações. Ambos vieram e zarpamos para a cidade das estrelas.

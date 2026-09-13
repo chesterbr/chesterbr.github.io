@@ -9,6 +9,8 @@ categories:
 ---
 <img src="/img/blig/mccloud.jpg" border="1" alt="My Obsession With Chess, Scott McCloud" align="left">Eu só tinha ouvido falar do livro dele (<a href="http://www.amazon.com/exec/obidos/tg/detail/-/006097625X/qid=1075669290//ref=sr\_8\_xs\_ap\_i2_xgl14/102-3231085-8025729?v=glance&#038;s=books&#038;n=507846" >Understanding Comics</a>), mas quando li o Derek Kirk Kim falando bem, fui dar uma olhada nos <a href="http://www.scottmccloud.com/" >quadrinhos online de Scott McCloud</a>.
 
+<!--more-->
+
 E que quadrinhos! Fui fisgado por <a href="http://www.scottmccloud.com/comics/chess/chess.html" >My Obsession With Chess</a> &#8211; normalmente não sou muito fã de &#8220;formatos alternativos interligados com a história&#8221; (isso leva a aberrações como o malfadado Digital Justice), mas aqui a coisa deu um casamento perfeito.
 
 Outra bem bacana (e também com leitura exótica) é a quilométrica <a href="http://www.scottmccloud.com/comics/zot/index.html" >Hearts And Minds</a>, cujo protagonista é, como diz o autor, um herói dos anos 80. Correndo o risco de exagerar, eu diria que é uma daquelas histórias estilo Watchmen, i.e., tão competentes que devolvem o ânimo até a um descrente no gênero como eu.

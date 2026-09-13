@@ -11,6 +11,8 @@ Se o [Laerte][1] é o mais sofisticado dos quadrinhistas nacionais, o [Angeli][2
 
 <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/6862737956/in/set-72157629286821702/"><img src="/wp-content/uploads/2012/03/Ocupac%25A6%25BAa%25A6%25E2o-Angeli-Entrada.jpg" alt="" title="Ocupação Angeli - Entrada" width="598" height="349" class="aligncenter size-full wp-image-6833" /></a><span class="dead-link-mark">†</span>
 
+<!--more-->
+
 O [local][6] não poderia ser mais apropriado: a Avenida Paulista simboliza bem a metrópole onde viveriam um Bob Cuspe ou uma Rê Bordosa. A exposição fica em um espaço escuro, reproduzindo a realidade do Angeli, que (dizem) chega a ficar vinte horas num dia &#8220;trancado&#8221; no estúdio, desenhando. Tem até uma maquete:
 
 [<img src="/wp-content/uploads/2012/03/Maquete-Angeli.jpg" alt="" title="Maquete Angeli" width="600" height="530" class="aligncenter size-full wp-image-6835" />][7]

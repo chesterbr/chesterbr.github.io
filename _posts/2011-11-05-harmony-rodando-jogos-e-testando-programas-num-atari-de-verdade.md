@@ -13,6 +13,8 @@ categories:
 
 Um bom emulador é necessário para programar para qualquer dispositivo, seja ele um celular ou um console. O Atari tem o excelente [Stella][4] (cujo debugger é bom até para quem só quer entender como algum jogo funciona). Mas é igualmente importante testar o programa no console &#8220;de verdade&#8221;, pois só lá os detalhes vão aparecer.
 
+<!--more-->
+
 Foi com esse objetivo que eu encomendei o [Harmony][5]. Em termos simplificados, é um cartucho com slot para [cartão SD][6], que disponibiliza os jogos (ROMs) gravados no cartão através de um menu no console. Comparando com aqueles [cartuchos com 2 ou 4 jogos][7] selecionáveis através de chaves, é uma evolução incrível.
 
 <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/6296434661/"><img src="//farm7.static.flickr.com/6224/6296434661_1ac7df1365_m.jpg" width="240" height="180" alt="Cartucho Harmony: Menu" style="float:right;margin:4px;border:1px solid black" /></a><span class="dead-link-mark">†</span>Como tudo que é simples, tem uma engenharia sofisticada por trás. As [especificações][9] mostram que, só em termos de clock, a CPU do cartucho é 70 vezes mais rápida que o do videogame (na prática a diferença é ainda maior, afinal, é uma arquitetura ARM de 32 bits contra um 6502 de 8 bits). Talvez não precisasse de tudo isso, mas um hardware mais generoso pode embarcar um software que reconhece dezenas de formatos de ROMs, e que pode ser atualizado com faclidade.

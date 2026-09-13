@@ -9,6 +9,8 @@ categories:
 ---
 [<img class="alignright size-medium wp-image-5749" style="border: 1px solid black; padding: 0px;" title="Chester na Disney" src="/wp-content/uploads/2010/12/chester_disney-282x300.jpg" alt="Chester na Disney" width="282" height="300" />][1]A [viagem à Califórnia][2] foi seguida por um passeio à Disney de Orlando &#8211; ou, oficialmente, ao [Walt Disney World Resort][3]. O meu maior interesse era conhecer os parques temáticos &#8211; e entender o fascínio que gente como [Cory Doctorow][4] tem pelo assunto ([Down And Out in the Magic Kingdom][5] e [Makers][6] são dois ótimos livros dele que flertam com o tema).
 
+<!--more-->
+
 Visitar três parques (e um centro de compras com atrações próprias) é um programa para três ou quatro dias &#8211; mas eu só dispunha de dois. Felizmente a minha companheira de viagens era a [Bani][7] &#8211; uma verdadeira &#8220;[rata de Disney][8]&#8221; que conseguiu compactar a visita no tempo necessário. Muitas das dicas que compartilho nesse post vieram dela.
 
 Uma dessas sacadas foi prestar atenção aos dias em que cada parque tem [Extra Magic Hours][9], i.e., mantém as atrações abertas até mais tarde para quem se hospedar nos hotéis da Disney (como o [Dolphin][10], onde ficamos). Isso nos permitiu visitar o [Hollywood Studios][11] e o [Epcot][12] no mesmo dia, deixando o outro para o [Magic Kingdom][13] e encaixando as comprinhas no [Downtown Disney][14] (por exemplo, o [Lego a granel][15]) no tempo livre. Tudo isso usando o transporte gratuito que, além de numerosas linhas de ônibus, inclui [barcos][16] que ligam alguns hotéis ao Epcot/Hollywood Studios e outros ao Magic Kingdom &#8211; e até um [monotrilho][17].

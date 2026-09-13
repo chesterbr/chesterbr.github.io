@@ -13,6 +13,8 @@ categories:
 
 [Revolution in the Valley: The Insanely Great Story of How the Mac Was Made][4] é um livro que reúne dúzias de histórias sobre o fim da primeira fase, isto é, sobre a criação do Macintosh. Boa parte delas veio do site [Folklore.org: Macintosh Stories][5], organizado pelo autor &#8211; ninguém menos que [Andy Hertzfeld][6], que escreveu boa parte do sistema operacional original do Mac.
 
+<!--more-->
+
 Mesmo para quem (como eu) já tinha lido o site de alto a baixo, é bacana acompanhar as histórias revisadas, ampliadas e em ordem cronológica. As ilustrações também são um show à parte &#8211; só lamento que a coleção de *polaroids* mostrando a evolução da interface gráfica tenha sido publicada num tamanho tão minúsculo. Eu teria sacrificado algumas histórias ou aumentado o número de páginas, só para dar um pouco mais de *zoom* ali.
 
 Ao contrário de revelações bombásticas, o livro corrobora muitos dos estereótipos ligados a diversas personalidades citadas &#8211; em particular ao próprio Steve Jobs, cujo perfeccionismo muitas vezes torna a convivência difícil, mas ao qual o autor atribui a direta responsabilidade por introduzir o computador que efetivamente deu início à era da informática para leigos.

@@ -10,6 +10,8 @@ categories:
 ---
 O [Dev in Sampa][1] é um evento bacana, por conta do *blend* muito equilibrado entre aprendizado e networking. A edição deste ano foi, a meu ver, ainda melhor que [a do ano passado][2] &#8211; os organizadores ([@tinogomes][3], [@nuxlli][4] e [@lfcipriani][5]) e o pessoal de apoio da Abril estão de parabéns. Gostei da decisão de reverter ao formato de trilha única de palestras, que limita a quantidade de vagas mas mantém o nível alto e ajuda a galera a se manter na mesma estação.
 
+<!--more-->
+
 Das palestras que eu vi, destaco o [@shiota][6] [despertando o lado designer dos programadores][7], o convite do [@klauswuestefeld][8] a [repensar o compartilhamento de informações][9] e o [@qmx][10] [destrinchando a JVM][11]. E dessa vez eu também palestrei, falando sobre **[Programação para Atari 2600][12]**:
 
 <p style="text-align:center"><div id="__ss_9029368" style="width: 595px;margin-left:30px; text-align:center"><iframe src="//www.slideshare.net/slideshow/embed_code/9029368" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="595" height="497"></iframe></div></p>

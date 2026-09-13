@@ -13,6 +13,8 @@ O Leo &#8211; que fez parte da viagem comigo e ainda está na estrada &#8211; ma
 
 [<img class="right  alignright" style="border: 1px solid black;" title="Vista do Rio Elba (e parte da cidade velha) do alto da Frauenkirche" src="http://farm3.static.flickr.com/2596/3844356042_50e91fcb6e_m.jpg" alt="DSCN0134" width="240" height="180" />][4]
 
+<!--more-->
+
 Os guias não a [chamam][5] de &#8220;a Florença do Elba&#8221; (ou, como ouvi por lá &#8220;a Viena da Alemanha&#8221;) a toa. Seu status de centro cultural e artístico se refletiu ao longo dos tempos na arquitetura &#8211; tão própria que os caras reconstruiram tudo exatamente como era antes, depois do que foi possivelmente o [ataque mais sem-noção][6] executado pelos aliados na Segunda Guerra.
 
 O [A&O][7] (hostel onde eu fiquei) tem três coisas bem bacanas: banheiro/chuveiro dentro do quarto, um café da manhã honesto e boa localização. Dá para ir a pé da estação de trem até lá com a mala (importante para quem chega na cidade de trem), e de lá até o centro histórico é um pulinho.
