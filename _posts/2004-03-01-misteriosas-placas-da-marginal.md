@@ -1,10 +1,16 @@
 ---
+locale: pt-BR
 title: Misteriosas Placas da Marginal
-author: chester
-layout: page
-redirect_from: "/placas.html/"
+layout: post
+comments: true
+permalink: /archives/2004/03/misteriosas-placas-da-marginal.html/
+redirect_from:
+  - /placas/
+  - /placas.html/
+categories:
 ---
 De uns dois anos pra cá, começaram a surgir outdoors **muito** estranhos na Marginal Tietê (via expressa que corta São Paulo). Um dos mais antigos tinha a inscrição &#8220;TELEVISÃO &#8211; IMAGEM DA BESTA&#8221; (com o &#8220;B&#8221; imitando chifres), mas logo surgiram outros.
+<!--more-->
 
 Não há logotipo, nome de entidade, nada &#8211; apenas letras brancas em uma fonte chamativa, com fundo vermelho ou preto. Parecem tentar alguma espécie de pregação, mas o idioma utilizado é completamente desconhecido para mim &#8211; as frases são tão desconexas que é difícil até memorizá-las para contar a alguém.
 
@@ -13,7 +19,7 @@ Naturalmente, acabei fotografando algumas. Se alguém tiver alguma idéia do que
 * * *
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="../img/placas/idolatria.jpg" border="1" alt="IDOLATRIA / MORTE DE CHAGA / A BESTA FERIDA" width="640" height="480" />
+  <img class="aligncenter" src="/img/placas/idolatria.jpg" border="1" alt="IDOLATRIA / MORTE DE CHAGA / A BESTA FERIDA" width="640" height="480" />
 </p>
 
 <p style="text-align: center;">
@@ -24,7 +30,7 @@ Naturalmente, acabei fotografando algumas. Se alguém tiver alguma idéia do que
 
 <p style="text-align: center;">
   <p style="text-align: center;">
-    <img class="aligncenter" src="../img/placas/pregacao.jpg" border="1" alt="PREGAÇÃO / FILHOS A CHAVE" width="640" height="480" />
+    <img class="aligncenter" src="/img/placas/pregacao.jpg" border="1" alt="PREGAÇÃO / FILHOS A CHAVE" width="640" height="480" />
   </p>
 
   <p style="text-align: center;">
@@ -35,7 +41,7 @@ Naturalmente, acabei fotografando algumas. Se alguém tiver alguma idéia do que
 
   <p style="text-align: center;">
     <p style="text-align: center;">
-      <img class="aligncenter" src="../img/placas/televisao.jpg" border="1" alt="TELEVISÃO É A IMAGEM DA BESTA" width="640" height="480" />
+      <img class="aligncenter" src="/img/placas/televisao.jpg" border="1" alt="TELEVISÃO É A IMAGEM DA BESTA" width="640" height="480" />
     </p>
 
     <p style="text-align: center;">
@@ -46,7 +52,7 @@ Naturalmente, acabei fotografando algumas. Se alguém tiver alguma idéia do que
 
     <p style="text-align: center;">
       <p style="text-align: center;">
-        <img class="aligncenter" src="../img/placas/1ai_juros.jpg" border="1" alt="cartaz 1: '1o. AI: ESTRELAS CAÍDAS, ANJOS ATACAM A MENTE' / cartaz  2: 'JUROS DOS RICOS / DÍVIDA JÁ PAGA / DESTROEM O PAÍS'" width="640" height="480" />
+        <img class="aligncenter" src="/img/placas/1ai_juros.jpg" border="1" alt="cartaz 1: '1o. AI: ESTRELAS CAÍDAS, ANJOS ATACAM A MENTE' / cartaz  2: 'JUROS DOS RICOS / DÍVIDA JÁ PAGA / DESTROEM O PAÍS'" width="640" height="480" />
       </p>
 
       <p style="text-align: center;">

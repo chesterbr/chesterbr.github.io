@@ -1,8 +1,13 @@
 ---
+locale: pt-BR
 title: A primeira vez… no estádio
-author: chester
-layout: page
-redirect_from: "/estadio.html/"
+layout: post
+comments: true
+permalink: /archives/2004/09/a-primeira-vez-no-estadio.html/
+redirect_from:
+  - /estadio/
+  - /estadio.html/
+categories:
 ---
 <p style="text-align: right;">
   <em>Fotos: Adriana Garcia</em>
@@ -13,6 +18,7 @@ redirect_from: "/estadio.html/"
 [<img src="/img/estadio/tres.jpg" border="0" alt="Adriana (gremista), Juan (corinthiano) e eu (não-praticante)" align="right" />][1]Nunca me interessei por futebol. Não vou ser o primeiro nem o último nerd a dizer isso, mas o meu caso é crônico: não jogo bola, não acompanho campeonato, não assisto jogo na TV, nem copa do mundo eu vejo. O mais perto que eu cheguei foi gastar uma meia horinha no Winning Eleven (e mesmo assim só porque era da Konami).
 
 Mas eu sou, acima de tudo, um cientista. E neste espírito científico aceitei o convite de dois queridos amigos para ver um jogo no estádio, e tentar entender (ou ao menos sentir um pouco) a paixão nacional. Sendo meu amigo corinthiano e minha amiga gremista, nada mais natural que prestigiar o [Corínthians x Grêmio][2], que aconteceu no Estádio do Pacaembu em 21/Ago/2004.
+<!--more-->
 
 TV VERSUS ESTÁDIO
 
@@ -29,14 +35,14 @@ Fica a impressão de que assistir um jogo desses pela TV é como navergar nesses
 
   <tr>
     <td align="center">
-      <a href="../img/estadio/torcida_g.jpg"><img src="../img/estadio/torcida.jpg" border="0" alt="" align="center" /></a><br /> A torcida
+      <a href="/img/estadio/torcida_g.jpg"><img src="/img/estadio/torcida.jpg" border="0" alt="" align="center" /></a><br /> A torcida
     </td>
 
     <td>
     </td>
 
     <td align="center">
-      <a href="../img/estadio/golgremio_g.jpg"><img src="../img/estadio/golgremio.jpg" border="0" alt="" align="center" /></a><br /> Momento do gol do grêmio
+      <a href="/img/estadio/golgremio_g.jpg"><img src="/img/estadio/golgremio.jpg" border="0" alt="" align="center" /></a><br /> Momento do gol do grêmio
     </td>
   </tr>
 
@@ -72,14 +78,14 @@ Dizem os entendidos que um jogo &#8220;em casa&#8221; é forte vantagem. De fato
 
   <tr>
     <td align="center">
-      <a href="../img/estadio/fumaca_g.jpg"><img src="../img/estadio/fumaca.jpg" border="0" alt="" align="center" /></a><br /> Efeito de fumaça preta. Macabro.
+      <a href="/img/estadio/fumaca_g.jpg"><img src="/img/estadio/fumaca.jpg" border="0" alt="" align="center" /></a><br /> Efeito de fumaça preta. Macabro.
     </td>
 
     <td>
     </td>
 
     <td align="center">
-      <a href="../img/estadio/protesto_g.jpg"><img src="../img/estadio/protesto.jpg" border="0" alt="" align="center" /></a><br /> Faixa de protesto: &#8220;cadê o nosso estádio?&#8221;
+      <a href="/img/estadio/protesto_g.jpg"><img src="/img/estadio/protesto.jpg" border="0" alt="" align="center" /></a><br /> Faixa de protesto: &#8220;cadê o nosso estádio?&#8221;
     </td>
   </tr>
 
