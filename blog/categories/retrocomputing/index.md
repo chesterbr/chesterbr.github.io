@@ -1,4 +1,6 @@
 ---
+robots: "noindex, follow"
+sitemap: false
 layout: page
 title: Retrocomputing
 hide_heading: true

@@ -1,4 +1,6 @@
 ---
+robots: "noindex, follow"
+sitemap: false
 layout: page
 title: Atari 2600
 hide_heading: true

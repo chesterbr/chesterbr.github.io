@@ -1,4 +1,6 @@
 ---
+robots: "noindex, follow"
+sitemap: false
 layout: page
 title: Comics
 hide_heading: true
