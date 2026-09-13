@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Desmontando o Nintendo DS
 excerpt: |
-  |
     Estava o pequeno Chester feliz, brincando com seu NDS, quando a tela sensível ao toque perdeu a dita sensibilidade. Do nada. Os jogos e programas continuavam funcionando, mas qualquer um que dependesse da mesma (i.e., qualquer um que não fosse...
 layout: post
 comments: true

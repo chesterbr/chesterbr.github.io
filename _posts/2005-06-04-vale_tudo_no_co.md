@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Vale tudo no comprovante do cartão de crédito
 excerpt: |
-  |
     Eu me achava sacana por inventar telefones sempre que me pedem para colocar o número ao lado da assinatura nos comprovantes de compras com cartão - afinal, a última coisa que eu preciso é dar às pessoas que conhecem meu...
 layout: post
 comments: true

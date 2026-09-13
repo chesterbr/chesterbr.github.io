@@ -2,7 +2,6 @@
 locale: en
 title: 'OpenSocial 0.7: getting closer to Facebook, feature by feature'
 excerpt: |
-  |
     And OpenSocial 0.7 hits the door. Too sad I don't have John Battelle's balls to write down and publish predictions, otherwise I could be bragging about having expected "a serious version not until the end of January", as I suggested...
 layout: post
 comments: true

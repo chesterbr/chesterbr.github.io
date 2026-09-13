@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Wapsi Square
 excerpt: |
-  |
     Wapsi Square é uma tira muito bem-humorada sobre um grupo de pós-adolescentes que, sem maiores pretensões, me prendeu como poucas fizeram. As personagens são muito cativantes - tanto que o autor, mesmo tendo suas predileções, vira e mexe muda o...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Bubble City
 excerpt: |
-  |
     Bubble City é um romance serializado (sai um capítulo por dia), ambientado no mundo das empresas pontocom, cuja história tem se mostrado bastante interessante (e olha que eu atualmente não ando atraído por muita coisa do gênero). O estilo lembra...
 layout: post
 comments: true

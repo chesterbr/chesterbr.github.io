@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Seja você também uma garotinha &#8211; é divertido!'
 excerpt: |
-  |
     SissyFight 2000 é um jogo online das antigas para múltiplos jogadores que, para minha surpresa, ainda está no ar. O ponto forte, além da jogabilidade, é a ambientação: o jogo se passa em um playground, e os jogadores são......
 layout: post
 comments: true

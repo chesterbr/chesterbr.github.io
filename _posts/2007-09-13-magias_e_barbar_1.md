@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Magias e Barbaridades
 excerpt: |
-  |
     Graças a um comentário do autor num post recente descobri a existência de Magias e Barbaridades - um webcomic nacional pra ninguém botar defeito[1]. Fazer humor com temas medievais é uma missão ingrata - já vi veteranos como os autores...
 layout: post
 comments: true

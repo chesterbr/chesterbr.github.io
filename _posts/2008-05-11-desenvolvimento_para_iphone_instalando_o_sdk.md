@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Desenvolvimento para iPhone: instalando o toolchain'
 excerpt: |
-  |
     A capacidade de hardware e software já fazem do iPhone uma plataforma atrativa para criar aplicativos. É difícil falar em número de usuários no Brasil - oficialmente são zero, tem relatório dizendo que são um mol. Mas o fato é...
 layout: post
 comments: true

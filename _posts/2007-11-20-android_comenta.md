@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Android: Comentários e Desabafos'
 excerpt: |
-  |
     O Android é uma proposta anunciada recentemente pelo Google para uma arquitetura aberta de telefones celulares que privilegia o usuário e os desenvolvedores independentes de aplicativos - em contraste com as plataformas usadas nos aparelhos atuais (além das soluções para...
 layout: post
 comments: true

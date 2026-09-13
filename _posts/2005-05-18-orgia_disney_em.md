@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Orgia Disney, em cores
 excerpt: |
-  |
     Em 1960 e bolinha, Wally Wood (um desenhista da MAD da época em que MAD era coisa polêmica) criou o Disneyland Memorial Orgy para uma revista alternativa. Tratava-se de um único quadro que concentrava dúzias de personagens Disney em...
 layout: post
 comments: true

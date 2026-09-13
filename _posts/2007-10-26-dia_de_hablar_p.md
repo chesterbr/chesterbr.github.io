@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Dia de Hablar Portuñol
 excerpt: |
-  |
     Mira que rico: hoy es el Dia de Hablar Portuñol. Arriba, arriba, andate, andate! UPDATE: La canción de lo mamut, indispensable en ló aprendizado del portuñol....
 layout: post
 comments: true

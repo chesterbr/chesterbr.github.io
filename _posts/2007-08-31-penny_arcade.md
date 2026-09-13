@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Penny Arcade
 excerpt: |
-  |
     Não sei como até hoje nunca falei de Penny Arcade, que é praticamente o pai dos webcomics. Foi um dos primeiros a sair com regularidade, e também um dos pioneiros em atingir independência econômica - de certa forma sacramentando o...
 layout: post
 comments: true

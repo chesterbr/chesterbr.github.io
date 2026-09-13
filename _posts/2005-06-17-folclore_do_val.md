@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Folclore do Vale do Silício
 excerpt: |
-  |
     Já que falei em Steve Jobs, aproveito para mencionar o Folklore.org, um site dedicado a contar histórias dos bastidores da Apple no conturbado início da década de 80. É divertidíssimo ler sobre as tensões geradas pelo comportamento irascível de Jobs...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Conhecendo o autor dos Combo Rangers
 excerpt: |
-  |
     Não sou muito dado a cenas de fanboy, mas não resisti a ir conhecer pessoalmente o Fabio Yabu (dos já mencionados Combo Rangers) quando ele foi lançar o seu segundo livro da série Princesas do Mar (que é voltada para...
 layout: post
 comments: true

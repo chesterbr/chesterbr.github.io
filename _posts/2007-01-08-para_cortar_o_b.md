@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Para cortar o barulho da ventoinha, corte a voltagem
 excerpt: |
-  |
     Como um nerd que se preza, eu tenho um "servidorzinho" em casa. Após uma troca de ventoinha da CPU (Pentium III), me deparei com um problema muito chato: barulho. Depois de procurar inutilmente uma ventoinha de maior qualidade (só encontrei...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Sexo com os Cavaleiros do Zodíaco
 excerpt: |
-  |
     O que uma mulher não faz pra chamar a atenção dos nerds: essa aqui tirou fotos dos seus momentos de intimidade com bonecos dos Cavaleiros do Zodíaco (ATENÇÃO: LINK IMPRÓPRIO PARA ESCRITÓRIO). Cada um com os seus gostos - eu,...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: en
 title: I Want Sandy (and others like her)
 excerpt: |
-  |
     UPDATE: Bummer! The CEO of the company behind the software (apparently, a one-man-band) has been hired by Twitter, but they don't intend to keep the service online. :-( (another one posted on the SWAT blog - no time for translation,...
 layout: post
 comments: true

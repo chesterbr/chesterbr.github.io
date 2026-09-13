@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'O Universo em Um Átomo &#8211; O Encontro da Ciência com a Espiritualidade'
 excerpt: |
-  |
     Este livro é escrito por ninguém menos que Tenzin Gyatso, mais conhecido como o Dalai Lama. Para quem não sabe, o título é atribuído a uma linhagem de líderes espirituais do budismo tibetano, e o décimo-quarto e atual Dalai Lama...
 layout: post
 comments: true

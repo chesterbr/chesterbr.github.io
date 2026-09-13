@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Spore + Porn = sporn, uma nova categoria de pornografia
 excerpt: |
-  |
     É sabido que, via de regra, toda tecnologia que pode ser usada com a bênção de seus detentores para a pornografia dá certo. Dentre os exemplos incluem-se o VHS, o DVD e a Internet. Quando não há porn (LaserDisc) ou...
 layout: post
 comments: true

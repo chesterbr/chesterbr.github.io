@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Reciclagem de óleo de cozinha facilitada pela Porto Seguro
 excerpt: |
-  |
     Felizmente eu não sei o que é fritura em casa há anos, mas quem usa óleo de cozinha agora não tem mais desculpa para não reciclar: a Porto Seguro te dá de graça o galão para guardar o óleo e...
 layout: post
 comments: true

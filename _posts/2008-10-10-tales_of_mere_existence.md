@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Tales of Mere Existence
 excerpt: |
-  |
     Nem todo mundo entende ou curte, mas eu acho as animações do Lev Yilmaz geniais. Elas são quase todas autobiográficas, e consistem nele finalizando seqüências de desenhos e narrando os acontecimentos. Meu primeiro contato foi o hilário "I Have To...
 layout: post
 comments: true

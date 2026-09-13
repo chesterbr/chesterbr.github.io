@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Ensinando ao Palm a Velha Caligrafia
 excerpt: |
-  |
     Um dos fatores de sucesso dos computadores de mão é o sistema de reconhecimento de escrita. E isso demorou para surgir porque as pessoas têm caligrafias muito diferentes, e interpretá-las é uma tarefa complexa, mesmo para um computador de mesa....
 layout: post
 comments: true

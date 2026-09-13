@@ -2,7 +2,6 @@
 locale: en
 title: Internet Explorer Developer Toolbar
 excerpt: |
-  |
     Gone are the days of single-digit audience for Gecko-based browsers, but IE is far from disappearing (which is a good thing even for the diehard Firefox defenders and all five Opera users - after all, the lack of serious competition...
 layout: post
 comments: true

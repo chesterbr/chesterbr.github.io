@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Retrospectiva 2005, via Google
 excerpt: |
-  |
     O Google Zeitgeist é um apanhando que aponta semanalmente os termos de busca que estão em ascensão ou declínio. Ao final do mês, estes dados são categoriza-os de forma a oferecer interessantes visões sobre o que as pessoas procuram na...
 layout: post
 comments: true

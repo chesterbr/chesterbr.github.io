@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Susan Kare: de desktops a presentinhos'
 excerpt: |
-  |
     Nego fala muito do Oscar Niemeyer, mas eu fico pensando se ele teve mais influência visual sobre a minha vida do que Susan Kare, a ilustradora que desenhou praticamente todas as interfaces gráficas do mundo (como comentei no passado). A...
 layout: post
 comments: true

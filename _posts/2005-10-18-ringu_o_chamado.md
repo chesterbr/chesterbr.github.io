@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Ring(u) &#8211; o chamado'
 excerpt: |
-  |
     Não sou muito adepto do gênero terror - seja em quadrinhos, filmes ou livros (e nem é medo, antes fosse: o meu caso é uma certa insensibilidade ao assunto). No entanto, Ring - o chamado (mangá baseado na mesma história...
 layout: post
 comments: true

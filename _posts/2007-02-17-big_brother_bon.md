@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Big Brother Bonequinho
 excerpt: |
-  |
     Parece que o Fabio "Combo Rangers" Yabu não consegue ficar muito tempo sem aprontar uma das suas. Dessa vez foi o Big Brother Bonequinho - que mostra que, mesmo sem lápis, papel ou Photoshop (tá, o Photoshop ele usa aqui...
 layout: post
 comments: true

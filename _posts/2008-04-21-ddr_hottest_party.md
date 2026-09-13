@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Dance Dance Revolution Hottest Party
 excerpt: |
-  |
     A última coisa que eu esperava era ver um jogo da série DDR no Nintendo Wii. Mas parando para pensar, os dois têm tudo a ver: o Wii se caracteriza por um controle pouco usual e por colocar a jogabilidade...
 layout: post
 comments: true

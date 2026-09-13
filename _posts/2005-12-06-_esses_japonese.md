@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Line-Kill Spirits: bata e fotografe a calcinha'
 excerpt: |
-  |
     Line-Kill Spirits é um jogo de luta entre mulheres, com um detalhe interessante: a arma/golpe mais importante do jogo é uma câmera, que você usa para fotografar a calcinha da adversária quando ela se prepara para um golpe. Não joguei...
 layout: post
 comments: true

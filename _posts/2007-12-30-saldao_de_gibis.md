@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Saldão de Gibis do Chester
 excerpt: |
-  |
     UPDATE: Tudo vendido! Eis uma oportunidade para os fãs do gênero: resolvi me desfazer de cerca de 2000 dos quadrinhos da minha coleção. No geral todos encontram-se em excelente estado (todos foram conservados em sacos plásticos assim que caíram na...
 layout: post
 comments: true

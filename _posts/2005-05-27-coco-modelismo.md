@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Cocô-modelismo
 excerpt: |
-  |
     Dessa vez o Edu se superou, me apresentando ao site do Turd Twister. O aparelho é - pasmem - uma espécie de modelador de cocô. Isso mesmo: você escolhe um formato (no mesmo estilo daqueles chaveiros laser baratinhos), pluga ele...
 layout: post
 comments: true

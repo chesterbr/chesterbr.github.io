@@ -2,7 +2,6 @@
 locale: pt-BR
 title: http://www.lalalalalalalalalalalalalalalalalala.com/
 excerpt: |
-  |
     Não sei o que é mais bizarro: os caras registrarem o http://www.lalalalalalalalalalalalalalalalalala.com/, o que eles colocaram lá ou o link de propaganda que aparece logo abaixo do texto com o relógio... me dá medo pensar que nego vai ver o...
 layout: post
 comments: true

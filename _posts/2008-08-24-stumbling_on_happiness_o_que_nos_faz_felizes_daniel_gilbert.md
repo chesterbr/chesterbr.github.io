@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Stumbling on Happiness (O Que Nos Faz Felizes), de Daniel Gilbert
 excerpt: |
-  |
     Stumbling on Happiness é um dos livros mais interessantes que li este ano. O autor é professor de psicologia de Harvard, e aborda um dos temas mais espinhosos das ciências humanas: a felicidade (ou, mais especificamente: por que é tão...
 layout: post
 comments: true

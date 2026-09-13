@@ -2,7 +2,6 @@
 locale: pt-BR
 title: A Matemática dos Vampiros
 excerpt: |
-  |
     Outro dia chegou a uma lista de discussões da qual participo a notícia de que um cientista teria "provado matematicamente" que vampiros não existem. Como estudante de matemática de plantão, fiz a elocubração que se segue: Seja m o mês...
 layout: post
 comments: true

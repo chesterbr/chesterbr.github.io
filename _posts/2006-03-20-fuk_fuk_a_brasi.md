@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Fuk Fuk à Brasileira (agora no eMule)
 excerpt: |
-  |
     O que dizer de um filme com a sinopse abaixo? (fonte: Cineprojeto 365) "Siri, um anão negro, feio, semi-analfabeto, mudo (mas dotado de telepatia) é adotado por um casal com certa queda por orgias. Um dia a esposa se recusa...
 layout: post
 comments: true

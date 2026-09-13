@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Eleições 2008 &#8211; meu voto é Soninha'
 excerpt: |
-  |
     Pensando na adminsitração da cidade de São Paulo, meu voto iria para Marta. Mas num momento em que o mundo volta sua atenção para a questão da corrupção e cada vez mais se vê discrepância entre discurso e atitude quando...
 layout: post
 comments: true

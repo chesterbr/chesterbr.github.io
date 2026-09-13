@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Some Of My Best Friends Are White
 excerpt: |
-  |
     Quando viajei pela primeira vez para a África do Sul (em 2007) fiz algumas considerações sobre a convivência entre os diversos grupos étnicos no pós-apartheid. A idéia de "rainbow nation" descrita ali é válida, mas numa nova (e mais longa)...
 layout: post
 comments: true

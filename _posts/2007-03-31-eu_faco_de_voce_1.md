@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Eu faço de você um mestre do KUNG FU CHINÊS
 excerpt: |
-  |
 No final dos anos 80 uma propaganda curiosa apareceu em praticamente todas as revistas. Tratava-se de um livro que ensinaria a qualquer pessoa a arte do KUNG FU (ênfase nas maiúsculas: não é Kung Fu, é KUNG FU!) Claro que...
 layout: post
 comments: true

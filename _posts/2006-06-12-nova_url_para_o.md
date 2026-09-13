@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Nova URL para o miniTruco
 excerpt: |
-  |
     Como muita gente estava tendo problemas para instalar o miniTruco, fiz um link direto para ele. Agora, para instalar o jogo. basta abrir o navegador do celular e, na opção "Ir para URL" ou equivalente, digitar: m.chester.inf.br O multiplayer está...
 layout: post
 comments: true

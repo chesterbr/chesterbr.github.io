@@ -2,7 +2,6 @@
 locale: pt-BR
 title: E o tecno-onanismo continua em alta
 excerpt: |
-  |
     Depois do esquema feito-em-casa para fazer sexo remoto via XBox, o Boing Boing anuncia que começaram a vender acessórios nesta linha - não são para comunicação, mas sincronizam seus movimentos físicos com movimentos de personagens virtuais na tela. Atendendo a...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Daltony: Sou eu quem come'
 excerpt: |
-  |
     A Dani tirou uma foto tão engraçada da minha pessoa com a boca cheia de biscoitos Daltony que não foi possível evitar o comentário (mesmo considerando que o mestre é assunto inesgotável na web). Para quem não conhece, Daltony é...
 layout: post
 comments: true

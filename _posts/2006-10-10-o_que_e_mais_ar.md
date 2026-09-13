@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'O que é mais arriscado &#8211; investir no YouTube ou nos filhotes da privatização?'
 excerpt: |
-  |
     Não ia mais me meter a comentar esse tipo de coisa, mas foi impagável ver o Google desprender uma quantia fabulosa (na verdade ações, mas do próprio bolso) para comprar o YouTube, e, na mesma página, tomar ciência da liberação...
 layout: post
 comments: true

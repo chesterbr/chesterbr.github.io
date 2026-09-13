@@ -2,7 +2,6 @@
 locale: pt-BR
 title: O Mundo de Yakko
 excerpt: |
-  |
     O Mundo de Yakko (Yakko's World) era um sketch do desenho animado Animaniacs. Nele, Yakko Warner canta uma versão da "Dança do Chapéu" mexicana (mp3), cuja letra é uma relação de países do mundo (que ele vai apontando enquanto enumera)....
 layout: post
 comments: true

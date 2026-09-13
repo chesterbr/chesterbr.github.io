@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Bira Dantas e os Trapalhões da Bloch
 excerpt: |
-  |
     Fui surpreendido por um e-mail pra lá de simpático: o Bira Dantas, integrante "das antigas" do quase mítico Estúdio Ely Barbosa (o link mostra algumas das criações que surgiram ali) me escreve pra falar da sua participação nas histórias em...
 layout: post
 comments: true

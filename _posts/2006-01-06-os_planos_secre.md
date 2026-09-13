@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Os &#8220;planos secretos&#8221; da Organização para a Libertação da Barbie'
 excerpt: |
-  |
     Isso é notícia bem velha: no começo dos anos 90, foi lançada uma série da Barbie que, através de um circuito de voz embutido, brindava as crianças com frases bastante edificantes para o desenvolvimento feminino, tais como "matemática é difícil"...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Budismo Essencial &#8211; A Arte de Viver o Dia-a-Dia'
 excerpt: |
-  |
     O Reverendo Gyomay Kubose, autor de Budismo Essencial, vive um dualismo interessante: nasceu nos EUA, mas cresceu no Japão, dividindo-se entre os estudos acadêmicos no ocidente e a ordenação como monge budista da Escola Shin na terra do sol nascente....
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Linguagens de Programação Comparadas
 excerpt: |
-  |
     A comparação entre linguagens de programação (e incluem-se aí os ambientes sob os quais estas linguagens operam) é um assunto quase que inesgotável. Quando abordado de forma leviana, acaba em discussões que pouco diferem das mesas-redondas futebolísticas: programadores movidos por...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Bento XVI, eu escolho você!
 excerpt: |
-  |
     (este artigo ia ter uma ilustração fantástica - mas ela é protegida por copyright, portanto clique aqui para visualizá-la)Aos infiéis que não acreditam em milagres: nesta sexta-feira eu estava jogando Pokémon Pearl e, por conta de um travamento, o jogo...
 layout: post
 comments: true

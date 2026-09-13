@@ -2,7 +2,6 @@
 locale: pt-BR
 title: A babá do superbebê
 excerpt: |
-  |
     Elsewords é a linha de histórias em quadrinhos da DC Comics ambientada fora da cronologia oficial dos personagens (se é tal conceito ainda existe, dada a bagunça que fizeram para tentar encaixar os eventos do seriado Smallville na história como...
 layout: post
 comments: true

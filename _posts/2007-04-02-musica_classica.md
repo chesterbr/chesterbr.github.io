@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Música clássica: leia e ouça'
 excerpt: |
-  |
     O site do estúdio de piano de Chalres K. Moss abriga uma coleção de textos sobre música clássica, com um toque extra: você pode ir ouvindo trechos de cada composição à medida que lê as biografias dos seus autores. É...
 layout: post
 comments: true

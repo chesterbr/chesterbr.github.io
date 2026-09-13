@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Carros Exóticos Batidos
 excerpt: |
-  |
     Ainda tentando entender o rolo todo em torno do cara da Gizmondo (empresa que fabricava o natimorto console portátil de mesmo nome), dei de cara com o Wrecked Exotics - site especializado em fotos de carros sofisticados batidos. A dedicação...
 layout: post
 comments: true

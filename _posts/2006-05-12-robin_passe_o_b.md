@@ -2,7 +2,6 @@
 locale: pt-BR
 title: '&#8220;Robin, passe o bat-repelente&#8230;&#8221;'
 excerpt: |
-  |
     Não importa quantos filmes do Batman façam, nenhum deles supera o clássico As Novas Aventuras de Batman e Robin, com a impagável dupla Adam West e Burt Ward. Duvida? Então assita à hilária cena do helicóptero e reveja seus conceitos....
 layout: post
 comments: true

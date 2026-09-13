@@ -2,7 +2,6 @@
 locale: pt-BR
 title: A Central do Código Tosco
 excerpt: |
-  |
     Pra fechar a semana, vou falar do The Daily WTF. Apesar do nome (WTF="what the f@#$"), é um blog sobre programação, especializado nas "barbeiragens" que a gente cansa de ver nos sistemas comerciais, particularmente quando as consultorias topo-de-linha cobram...
 layout: post
 comments: true

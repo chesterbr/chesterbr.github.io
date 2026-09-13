@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Tinha que ser brasileiro&#8230;'
 excerpt: |
-  |
     A singela ilustração aí do lado é a vencedora do Phallic Logo Awards, uma coletânea do site B3ta que reuniu peças publicitárias com motivos acidentalmente (ou incidentalmente) fálicos. O artigo saiu no meio do ano, mas graças a uma menção...
 layout: post
 comments: true

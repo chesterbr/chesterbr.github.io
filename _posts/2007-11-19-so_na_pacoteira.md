@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Só na pacoteira
 excerpt: |
-  |
     O NadShot é mais uma daquelas coleções temáticas de cenas de quadrinhos. No caso, retrata situações em que os personagens tenham tomado um soco, chute, pancada, enfim, sofrido qualquer tipo de agressão nas gônadas (daí o nome). Ouch....
 layout: post
 comments: true

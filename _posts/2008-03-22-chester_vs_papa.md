@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Chester versus O Papa
 excerpt: |
-  |
     Essa quase me passou pelo radar: o Vaticano resolveu dar um upgrade na lista de pecados capitais, no estilo Office: botou mais sete no pacote. Os novos pecados são focados no comportamento coleitivo (tanto que tem sido chamados de "Os...
 layout: post
 comments: true

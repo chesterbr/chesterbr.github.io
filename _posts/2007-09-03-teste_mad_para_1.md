@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Teste MAD para Primeiros Socorros &#8211; só que fora da MAD'
 excerpt: |
-  |
     Numa possível boa intenção, o Detran/RJ postou um simulado da prova de direção defensiva e primeiros socorros (que todo mundo que tira ou renova a carteira de motorista precisa fazer). Tá, a prova real tem lá as suas questões sem...
 layout: post
 comments: true

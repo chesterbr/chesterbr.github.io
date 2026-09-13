@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Doutor Sorvete
 excerpt: |
-  |
     O Professor H. Goff parece ser um acadêmico divertido: sua área de pesquisa é a físico-química, estrutura e formação de laticínios e comida congelada. Trocando em miúdos: o cara é um especialista em sorvete - e compilou uma porrada de...
 layout: post
 comments: true

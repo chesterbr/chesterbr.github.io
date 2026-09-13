@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Freakonomics: O lado oculto (e, muitas vezes, bizarro) da  socioeconomia'
 excerpt: |
-  |
     Freakonomics é uma leitura que adiei bastante, mas a edição americana em papel-jornal (na casa dos R$ 20) me permitiu tirar o atraso. Trata-se de um interessante apanhado de análises em torno de questões sociais como criminalidade e sucesso profissional,...
 layout: post
 comments: true

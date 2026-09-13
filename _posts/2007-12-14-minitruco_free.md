@@ -2,7 +2,6 @@
 locale: en
 title: 'miniTruco: free multiplayer card game for Java-enabled mobile phones'
 excerpt: |
-  |
     miniTruco is an open-source implementation of Truco Paulista (a very popular card game in Brazil) for Java-enabled mobile phones. It can be played standalone, or in groups of up to four people (using Bluetooth or GPRS). You can also play...
 layout: post
 comments: true

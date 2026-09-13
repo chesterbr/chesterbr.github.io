@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Chester na África (III)
 excerpt: |
-  |
     02/10 (Terça) - Semi-encoxada(!), trabalho, shopping center e um velho conhecido Fechamos o evento pela manhã com um passeio de quadriciclo pelo campo. O quadriciclo é como uma moto, só que com quatro rodas (claro), o que o torna um...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'O meu autógrafo (póstumo) do Pedro de Lara (ou: como a Bruna Beber virou minha bff)'
 excerpt: |
-  |
     Um dos meus passatempos favoritos no trabalho é transcrever algum dos aforismos do Livro da Sabedoria do Pedro de Lara no quadro-branco, tirando um pouco os programadores da sua zona de conforto intelectual. Qual não foi a minha surpresa quando...
 layout: post
 comments: true

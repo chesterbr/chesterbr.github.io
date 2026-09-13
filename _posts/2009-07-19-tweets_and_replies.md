@@ -2,7 +2,6 @@
 locale: en
 title: Tweets And Replies
 excerpt: |
-  |
     A confusing situation happens on Twitter whenever people you follow talk to people you don't. Twitter "fixed" it by hiding such conversations from your timeline - but that gives you *less* information when you wanted a bit more. With that...
 layout: post
 comments: true

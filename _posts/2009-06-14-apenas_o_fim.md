@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Apenas o Fim
 excerpt: |
-  |
     Achei bastante simpático Apenas o Fim, produção nacional da qual fiquei sabendo através do Nerdcast #163 - Profissão: Cineasta. O filme narra a última hora do relacionamento entre uma jovem ligeiramente despirocada e um rapaz com forte tendências nerd -...
 layout: post
 comments: true

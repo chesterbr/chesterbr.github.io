@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Papai Noel dos Correios
 excerpt: |
-  |
     Não vou negar: sempre tive um pé atrás com o natal. Quando vejo o povo atarantado entre compras e preparativos, só consigo pensar nos excluídos que não têm razão, companhia ou (principalmente) condições para comemorar. Não, não sofri destes males...
 layout: post
 comments: true

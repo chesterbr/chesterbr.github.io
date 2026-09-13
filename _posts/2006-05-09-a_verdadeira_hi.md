@@ -2,7 +2,6 @@
 locale: pt-BR
 title: A verdadeira história da Loira Fantasma
 excerpt: |
-  |
     Quem nunca ouviu falar da "loira fantasma", tambem conhecida como a "loira do banheiro"? Lenda urbana recorrente nas escolas de primeiro e segundo grau (ao menos nos anos 80 e no pouco dos 90 que nelas passei), teve sua origem...
 layout: post
 comments: true

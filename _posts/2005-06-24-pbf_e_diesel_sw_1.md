@@ -2,7 +2,6 @@
 locale: pt-BR
 title: PBF e Diesel Sweeties
 excerpt: |
-  |
     Achei mais dois sites com quadrinhos bacanas e gratuitos. O primeiro, PBF, é refinado no traço e no humor. Raramente se vê coisa tão inspirada na rede: Já Diesel Sweeties tem um humor mais leve, apesar da galeria de personagens...
 layout: post
 comments: true

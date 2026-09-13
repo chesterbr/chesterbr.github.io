@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Darth Vader e seu Falo de Luz
 excerpt: |
-  |
     O site 3D4ALL organiza concursos de ilustração baseada em modelagem 3D. O interessante é que os participantes colocam na web todos os passos do seu trabalho, do rascunho feito no papel de pão até a figura renderizada final, passando...
 layout: post
 comments: true

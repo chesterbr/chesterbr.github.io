@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Tigarah: Onna no inu tachi dake![1]'
 excerpt: |
-  |
     Pizzicato Five, trilha de Katamari Damaci, não importa: o mundo da música japonesa com influências ocidentais "tá dominado" pelo pancadão nipônico da Tigarah. Ao menos é o que sugerem os vídeos que correm na rede, mostrando a performance da Tati...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Bussunda: enterro de 2006 fotografado em 2000'
 excerpt: |
-  |
     Quando me falaram que o Bussunda tinha falecido, meu primeiro pensamento foi num possível trote do Cocadaboa - ainda mais considerando que o tal falecimento teria se dado durante um jogo de futebol na Alemanha, em plena copa do mundo....
 layout: post
 comments: true

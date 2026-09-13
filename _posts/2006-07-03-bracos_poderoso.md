@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Braços poderosos, sem exercícios, em algumas semanas
 excerpt: |
-  |
     Encontrei este anúncio em um gibi do Hulk (Ed. Abril, no. 41), publicado em 1986. Não sei o que me deixa mais confuso: tentar descobrir o princípio físico/biológico por trás deste prodígio, ou me questionar se o anúncio foi colocado...
 layout: post
 comments: true

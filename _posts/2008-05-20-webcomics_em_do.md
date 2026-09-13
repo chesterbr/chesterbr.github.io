@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Webcomics em dobro!
 excerpt: |
-  |
     Excelente início de semana para webcomics: não apenas Rene Engström retomou a produção de Anders Loves Maria (após um período assustada por conta de um idiota passador de trotes) mas também achei outro quadrinho muito simpático: Wasted Talent, da (supostamente)...
 layout: post
 comments: true

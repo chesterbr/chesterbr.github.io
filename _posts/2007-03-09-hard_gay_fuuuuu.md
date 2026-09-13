@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Hard Gay! Fuuuuuuuuuuu!
 excerpt: |
-  |
     A última da terra do sol nascente é o ex-lutador de telecatch e humorista Masaki Sumitani - mais conhecido quando assume a identidade de Hard Gay (ou, para ouvidos ocidentais, "haado gay"). Vestindo sua roupa de couro, chapéu e óculos...
 layout: post
 comments: true

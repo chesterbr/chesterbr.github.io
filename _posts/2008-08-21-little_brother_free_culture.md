@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Little Brother / Free Culture
 excerpt: |
-  |
     Estou devendo comentários sobre inúmeros livros que andei lendo, e começo a pagar esta dívida resenhando dois no mesmo post: Little Brother é uma excelente obra de ficção de Cory Doctorow (um dos co-editores do popular Boing Boing), na qual...
 layout: post
 comments: true

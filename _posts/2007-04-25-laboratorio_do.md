@@ -2,7 +2,6 @@
 locale: pt-BR
 title: '&#8220;Laboratório do Dequest&#8221; &#8211; desenho inédito, exclusivo do M&#038;M'
 excerpt: |
-  |
     Eu ando por fora dos gostos da garotada: nunca assisti o desenho dos Quadrinhos Mágicos, e nem o Laboratório do Dequest. De videogames também estou fraco: não joguei nenhum jogo no Mega Driver, nem no Big Boy. Essas e outras...
 layout: post
 comments: true

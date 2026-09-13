@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Anders Loves Maria
 excerpt: |
-  |
     Este deveria ser um artigo a respeito de Anders Loves Maria, um webcomic que trabalha o universo dos "jovens adultos" através das relações pouco usuais entre os personagens-título e o elenco de apoio, tudo isso apoiado em uma arte que...
 layout: post
 comments: true

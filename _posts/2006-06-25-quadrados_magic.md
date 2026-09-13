@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Quadrados Mágicos, Pan-Mágicos e Diabólicos
 excerpt: |
-  |
     Ok, eu já conhecia o quadrado mágico (aquela grade de números cujas somas ao longo de quaisquer linhas ou colunas dão o mesmo resultado). Mas nunca tinha ouvido falar do quadrado pan-mágico (que, além das somas na horizontal e na...
 layout: post
 comments: true

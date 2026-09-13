@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Oswald De Souza
 excerpt: |
-  |
     Quem tem umas primaveras a mais lembra bem deste nome - o "matemático Oswald de Souza" nunca aparecia na TV, mas a ele eram atribuídas estatísticas como a quantidade estimada de vencedores da loteria para um dado resultado. Curiosamente, nem...
 layout: post
 comments: true

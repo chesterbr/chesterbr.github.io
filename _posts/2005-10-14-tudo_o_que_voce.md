@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Tudo o que você queria saber sobre sexo
 excerpt: |
-  |
     O College Sex Advice é uma coleção massiva de pequenos fatos sobre sexo. O tom é bem-humorado, mas, no geral, os fatos apresentados são precisos. O que me divertiu mais foi o lado "cientista" do site, que se apresenta em...
 layout: post
 comments: true

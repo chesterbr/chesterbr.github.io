@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Chester&#8217;s book is on the table'
 excerpt: |
-  |
     Algumas pessoas se surpreenderam com os últimos posts em inglês. Eu sempre quis blogar neste idioma (afinal, o alcance é bem maior), mas, por outro lado, não queria abandonar o velho e bom português. O fato é que eu tenho...
 layout: post
 comments: true

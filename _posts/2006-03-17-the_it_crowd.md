@@ -2,7 +2,6 @@
 locale: pt-BR
 title: The IT Crowd
 excerpt: |
-  |
     The IT Crowd é um seriado inglês sobre o departamento de tecnologia de uma empresa, no qual dois nerds completamente incapazes de manter uma conversa com um ser humano trabalham com uma chefe completamente incapaz de trocar uma lâmpada. Questionamentos...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Galileu testa AB Toner, Celebrity Juice Fast e outros
 excerpt: |
-  |
     A revista Galileu deste mês está com uma matéria interessante sobre aquelas traquitanas mágicas que só não curam o câncer, popularizadas no Brasil através do Grupo Imagem, que vendia as Facas Ginsu, os Óculos AmberVision e outros pelo (incessantemente repetido)...
 layout: post
 comments: true

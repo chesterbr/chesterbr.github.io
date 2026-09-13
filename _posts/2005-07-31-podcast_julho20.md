@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Podcast: Julho/2005'
 excerpt: |
-  |
     Segue (um pouco atrasado) o apanhado geral do que rolou no mês. podcast...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Entrevista com Mussum, d&#8217;Os Trapalhões'
 excerpt: |
-  |
     A revista Casseta Popular nº 47 (de Outubro de 1991) apresenta esta pérola: uma entrevista com ninguém menos que Antonio Carlos, o Mussum (o link mostra ele, Tião Macalé e Didi salvando uma piada horrenda com atuações e gags impagáveis)....
 layout: post
 comments: true

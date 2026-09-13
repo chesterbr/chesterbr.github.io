@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Notícias Populares &#8211; Vida, Paixão e Morte'
 excerpt: |
-  |
     O título não é, nem de longe, bombástico - ainda mais quando se considera que ele trata do jornal cuja cereja do bolo eram justamente as manchetes chamativas. Isso pouco importa: o documentário em vídeo sobre o NP está no...
 layout: post
 comments: true

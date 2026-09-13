@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Chester na África (II)
 excerpt: |
-  |
     01/10 (Segunda) - Acampamento, carnes exóticas e drinking games Nosso primeiro destino foi o Clara Anna Fontein, uma reserva florestal que contava com as tendas mais fantásticas que eu já vi - com chuveiro, banheiro e proteção total contra insetos,...
 layout: post
 comments: true

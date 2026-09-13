@@ -2,7 +2,6 @@
 locale: en
 title: '&#8220;No, thanks, I can use Meebo for that&#8221;'
 excerpt: |
-  |
     A friend of mine called me this Sunday, happy as a child in a candy shop: she had just got herself a shinny new MacBook, after years lusting over my old-but-cute iBook G4. Of course she wanted tips on how...
 layout: post
 comments: true

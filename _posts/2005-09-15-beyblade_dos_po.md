@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Beyblade dos Pobres
 excerpt: |
-  |
     Quando foi a última vez em que você se divertiu com uma moeda de R$ 0,05? O povo do IME consegue, e eu peguei uma palhinha em vídeo (exige Quicktime ou assemelhado)....
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Ato contra a Lei Azeredo (&#8220;AI-5 digital&#8221;)'
 excerpt: |
-  |
     Antes de tudo, devo confessar que não sou exatamente um fã de movimentos "offline" originados na web: quase sempre são grandes focos de vergonha alheia e/ou associações baseadas em análise superficial, muitas vezes colocando causas socialmente importantes em pé de...
 layout: post
 comments: true

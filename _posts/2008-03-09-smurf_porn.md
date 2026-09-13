@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Smurf Porn &#8211; a Internet não fica mais bizarra que isso'
 excerpt: |
-  |
     Quando eu estiver fazendo algo muito, muito deturpado, pensarei: "pelo menos não juntei uma galera pra se pintar de azul, vestir roupinhas brancas e encenar um curta pornô dos Smurfs" (ATENÇÃO: LINK IMPRÓPRIO PARA MENORES/ESCRITÓRIO). Não dá pra não comentar....
 layout: post
 comments: true

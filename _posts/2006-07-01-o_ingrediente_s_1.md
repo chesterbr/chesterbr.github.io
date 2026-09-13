@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'O ingrediente secreto do exército americano: Hello Kitty'
 excerpt: |
-  |
     A Ludmila (que consegue escrever sobre mangá e ciência política sem deixar a peteca cair em nenhum dos assuntos) me falou disso: por algum motivo estranho, a Sanrio (empresa que fabrica as famosas quinquilharias da Hello Kitty) tem um site...
 layout: post
 comments: true

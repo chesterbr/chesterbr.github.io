@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Zen e a Arte da Manutenção de Motocicletas
 excerpt: |
-  |
     Comecei a ler este livro anos atrás, mas acabei não terminando, e retomei ele após ler o recém-comentado Os Vagabundos Iluminados, já que ambos são histórias semi-autobiográficas nas quais o zen-budismo exerce influência num contexto urbano ocidental (especificamente, nos EUA)....
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Deuses Americanos
 excerpt: |
-  |
     Raramente deixo livros inacabados. No entanto, o indigesto A Voz do Fogo, do Alan Moore, foi um desses casos. Dizem que fica bom lá pelo meio - mas a caminhada é longa, e a vida é curta. Pra piorar, deixou...
 layout: post
 comments: true

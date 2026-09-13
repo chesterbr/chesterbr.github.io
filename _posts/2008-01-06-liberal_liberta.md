@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Liberal Libertário Libertino &#8211; Crônicas'
 excerpt: |
-  |
     Estou terminando de ler o Liberal Libertário Libertino - Crônicas, mas posso escrever com segurança, pois se trata de uma coletânea de textos publicados no blog homônimo - beneficiados pela organização e conveniência que só as árvores mortas proporcionam. Os...
 layout: post
 comments: true

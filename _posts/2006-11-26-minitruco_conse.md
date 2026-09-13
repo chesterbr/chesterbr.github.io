@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'miniTruco &#8211; conserto de bugs'
 excerpt: |
-  |
     Está no ar uma nova versão do miniTruco, na qual eu acertei alguns bugs. Se o seu celular é um Nokia 3220, 5140, 6230, 6101, 6111, 6265 ou 6820 (ou qualquer outro que estivesse dando mensagens em aramaico, do tipo...
 layout: post
 comments: true

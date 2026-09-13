@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Um Golpe mais leve
 excerpt: |
-  |
     Mesmo depois de dois anos do lançamento ainda tem bastante gente interessada no Golpe, o Super Trunfo dos políticos brasileiros. Só entre o Internet Archive (hospedeiro oficial), o SuperDownloads e o Baixaki foram mais de 25 mil downloads - e...
 layout: post
 comments: true

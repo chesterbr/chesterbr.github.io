@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Robot Chicken
 excerpt: |
-  |
     Quando você junta um maníaco por bonequinhos (ok, ok, action figures) e um animador com um pé forte no stop motion, sai um lance como Robot Chicken, que deve aparecer em breve no Cartoon Network, via Adult Swim. Pra dar...
 layout: post
 comments: true

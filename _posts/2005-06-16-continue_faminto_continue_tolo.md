@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Continue Faminto, Continue Tolo
 excerpt: |
-  |
     O Wired News informa que Steve Jobs fez um discurso para formandos da Universidade de Stanford, e, de fato, a íntegra do discurso já foi postada na Internet. Ao contrário de outros discursos do gênero, eu achei este tão bacana...
 layout: post
 comments: true

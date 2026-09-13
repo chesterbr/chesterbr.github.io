@@ -2,7 +2,6 @@
 locale: pt-BR
 title: As incríveis novidades tecnológicas de 1985
 excerpt: |
-  |
     Claro que é muito cômodo zombar dos absurdos do passado quando se tem a perspectiva de hoje. Aliás, como bem retrata o Arnaldo Branco: no geral, é fácil falar. No entanto, isso não tira a diversão do Engadget 1985, na...
 layout: post
 comments: true

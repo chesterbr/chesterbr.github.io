@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'The Klein Four &#8211; Um Coral de Matemáticos'
 excerpt: |
-  |
     O Tornado me mandou o vídeo de Finite Simple Group (of order two), no qual um coral afinadíssimo trilha o espinhoso caminho de misturar matemática e comédia, com bons resultados (o que não é impossível - o xkcd está aí...
 layout: post
 comments: true

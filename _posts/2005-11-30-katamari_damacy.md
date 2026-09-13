@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Katamari Damacy
 excerpt: |
-  |
     Com tantos jogos que disfarçam sua falta de conteúdo através da carga massiva de efeitos especiais (à semelhança dos blockbusters de Hollywood), é muito bom ver uma novidade como Katamari Damacy. Difícil saber o que é mais kitsch: o visual...
 layout: post
 comments: true

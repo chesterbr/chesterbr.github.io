@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Logotipo do Metrô (ou: nenhuma imagem vale tantas palavras)'
 excerpt: |
-  |
     Por mais que eu respeite o trabalho de criação de logomarcas, não dá pra engolir as hipérboles que a explicação oficial do significado do logotipo do Metrô de São Paulo faz. O metrô tem um ícone muito eficiente, mas, depois...
 layout: post
 comments: true

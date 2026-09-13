@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Chester na África (V)
 excerpt: |
-  |
     05/10 (Quinta) - Um pedaço da Califórnia e Camps Bay Desta vez foi a vez do Michael Yolland nos levar para conhecer a noite sul-africana. E para derrubar de vez os estereótipos, abrimos com uma rápida passada na Apple Centre...
 layout: post
 comments: true

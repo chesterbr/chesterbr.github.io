@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Vídeos do Alborghetti
 excerpt: |
-  |
     Quem deu boas risadas com o programa do Alborghetti vai poder repetir a dose: alguma alma bem-humorada compilou uma seleção de vídeos do telejornal onde a figura gastava 1/5 do tempo lendo notícias no estilo "mundo cão" e o restante...
 layout: post
 comments: true

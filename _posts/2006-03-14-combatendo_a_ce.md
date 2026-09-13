@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Combatendo a Censura ao Boing Boing
 excerpt: |
-  |
     O Distributed Boing Boing foi uma maneira que um cara bolou para garantir o acesso ao blog mais invocado do planeta, cujo conteúdo tem sido cada vez mais bloqueado por filtros corporativos e governamentais. A sacada está no fato de...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Colocando o Nintendo DS na sua rede sem fio (ou: o diabo mora nos detalhes)'
 excerpt: |
-  |
     Uma das características mais legais do Nintendo DS (NDS) é a comunicação sem fio: você pode jogar pessoalmente contra os amigos, ou, através de uma rede Wi-Fi, desafiar pessoas do mundo todo. O sucesso do NDS com o público infantil...
 layout: post
 comments: true

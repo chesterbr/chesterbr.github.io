@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Uncyclopedia e Desciclopédia
 excerpt: |
-  |
     A Uncyclopedia surgiu como um contraponto cômico da Wikipedia - ali, o critério é a paródia e a falta de conteúdo. O resultado cômico nem sempre é incrível, embora verbetes como Java, AAAAAAAAA! e o dos gatinhos (aqueles que Deus...
 layout: post
 comments: true

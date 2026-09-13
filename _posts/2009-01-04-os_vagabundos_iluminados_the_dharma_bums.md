@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Os Vagabundos Iluminados (The Dharma Bums)
 excerpt: |
-  |
     O mais perto que eu cheguei do nirvana foi ler Os Vagabundos Iluminados enquanto tomava sol e cerveja na praia, cercado de mulheres. Confesso que, por ser do mesmo autor de Pé na Estrada (que imortalizou a chamada geração beat)...
 layout: post
 comments: true

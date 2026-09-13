@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Os Movimentos e a USP &#8211; Parte II'
 excerpt: |
-  |
     Vários colegas observaram que os comentários que fiz sobre o movimento estudantil pró-greve na USP se pautam por um tom de imparcialidade que, para um ex-aluno que já ouviu tanta bobagem ser dita por integrantes deste movimento, peca pela inocência...
 layout: post
 comments: true

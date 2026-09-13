@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Semana do Serviço Voluntário da Mozilla (Mozilla Service Week)
 excerpt: |
-  |
     Dentre as muitas pessoas simpáticas que eu conheci/reencontrei no último FISL estava o pessoal da Mozilla. Além de levar da melhor forma possível as hordas de pessoas que passavam o tempo todo lá perguntando a mesma coisa, i.e., se vendiam...
 layout: post
 comments: true

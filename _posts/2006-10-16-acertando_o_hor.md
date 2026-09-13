@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Acertando o Horário de Verão em Java
 excerpt: |
-  |
     ATUALIZAÇÃO: O método sugerido aqui não lê a configuração de timezone do servidor (e, portanto, exige atualização a cada ano) . Se o seu servidor é Linux ou assemelhado, sugiro usar o timefix. Se você desenvolve aplicações Java para rodar...
 layout: post
 comments: true

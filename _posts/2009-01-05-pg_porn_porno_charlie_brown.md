@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'PG Porn: Pornô até do Charlie Brown &#8211; só que sem o sexo!'
 excerpt: |
-  |
     Quando você tem no currículo coisas que vão desde filmes da Troma até produções mais mainstream como Scooby Doo, o que resta pra fazer da vida? No caso de James Gunn, a resposta foi o PG Porn - que se...
 layout: post
 comments: true

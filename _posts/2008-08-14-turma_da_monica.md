@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Turma da Mônica Jovem (versão mangá)
 excerpt: |
-  |
     Acabei de ler o número 1 (parece que rolou um número zero em alguns eventos) da versão "reloaded" da Turma da Mônica. E posso dizer que me surpreendeu positivamente. (eu, pessoalmente, sempre tive uma teoria de que a Tina era...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Nokia E62 &#8211; Avaliação, Dicas e Programas'
 excerpt: |
-  |
     Depois de inúmeros Palms e dois anos com o "guerreiro" Nokia 6600, a empresa onde trabalho me cedeu um Nokia E62. Como o aparelho está relativamente acessível no Brasil (e algumas coisas eu suei pra fazer funcionar), vou falar um...
 layout: post
 comments: true

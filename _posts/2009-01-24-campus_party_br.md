@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Campus Party Brasil 2009
 excerpt: |
-  |
     Escrever qualquer coisa informativa sobre o evento é chover no molhado: blogueiros e tuiteiros cobriram todo e qualquer aspecto sobre o mesmo. Tudo o que eu tenho a dizer é que eu curti bastante esse ano, por conta do tripé:...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Do Karatê Sem Mestre ao Campus Party (em apenas 20 anos)
 excerpt: |
-  |
     Nessa sexta-feira eu causei fortemente no escritório ao mencionar que uma das minhas primeiras compras pelo correio foi o Karatê Sem Mestre - um dos inúmeros livros que a Ediouro oferecia em suas populares revistas de passatempos. Lembro muito pouco...
 layout: post
 comments: true

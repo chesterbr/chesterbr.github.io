@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Migrando o Movable Type de BerkleyDB para MySQL
 excerpt: |
-  |
     As novas versões do Movable Type (publicador deste blog) não vão mais suportar o formato BerkleyDB para guardar os posts, comentários e configurações. Como pretendo atualizar em breve, resolvi adiantar o expediente e migrar para MySQL. Nada muito esotérico: o...
 layout: post
 comments: true

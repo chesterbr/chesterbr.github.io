@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Chester na África (XI)
 excerpt: |
-  |
     10/10 (Quarta) e 11/10 (Quinta): Fechamento Gastronômico O trabalho e as últimas reuniões nos deixaram tempo "apenas" para a gastronomia. Na quarta o Leon nos levou ao Bloemendal - um casarão estilo medieval no topo de uma montanha ao norte...
 layout: post
 comments: true

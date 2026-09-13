@@ -2,7 +2,6 @@
 locale: pt-BR
 title: A Busca de Epaminondas Jr.
 excerpt: |
-  |
     Este jogo, criado no início dos anos 90, foi uma das primeiras coisas que disponibilizei na web, não sem um certo constrangimento: minha definição de "humor" mudou um pouco ao longo dos últimos quinze anos. Embora o jogo não use...
 layout: post
 comments: true

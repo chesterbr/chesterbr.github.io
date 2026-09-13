@@ -2,7 +2,6 @@
 locale: pt-BR
 title: HowStuffWorks em Português
 excerpt: |
-  |
     Acabo de descobrir que existe uma versão em português do HowStuffWorks, o site que se propõe a explicar os detalhes praticamente tudo: de bombas atômicas e tatuagens até a roupa do Batman. É um excelente complemento a fontes como a...
 layout: post
 comments: true

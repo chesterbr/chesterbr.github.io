@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Dois &#8220;chips&#8221; GSM no mesmo celular'
 excerpt: |
-  |
     Sim, é possível usar dois chips no mesmo celular, através de um adaptador que, além de acomodar os dois chips, habilita no aparelho um programa para a seleção do chip a ser usado. Dá um certo trabalho (conforme o caso),...
 layout: post
 comments: true

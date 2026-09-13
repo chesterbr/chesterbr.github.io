@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Dance Dance Immolation
 excerpt: |
-  |
     Pense no clássico Dance Dance Revolution, com um "molho" a mais: você bota essa roupa de amianto e começa a jogar. Se mandar bem, a máquina cospe chamas para o alto, em sua homenagem. Se errar os passos, ela lança...
 layout: post
 comments: true

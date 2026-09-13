@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Nike+iPod versus Puma+Apple II
 excerpt: |
-  |
     Uma má notícia para quem queimou uma grana no Nike+iPod Sports Kit só para estar na crista da onda: vocês estão mais de 20 anos atrasados. Em 1986 a Puma lançou o Puma RS Computer Shoe, um tênis com pedômetro...
 layout: post
 comments: true

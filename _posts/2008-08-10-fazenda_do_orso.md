@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Fazenda do Orson &#8211; as tiras perdidas'
 excerpt: |
-  |
     Quem assistiu ao desenho animado do Garfield deve se lembrar que ele era "dividido" com um outro grupo de personagens, a Fazenda do Orson (U. S. Acres no original). Já naquela época Garfield sofria da crise criativa que o tornou...
 layout: post
 comments: true

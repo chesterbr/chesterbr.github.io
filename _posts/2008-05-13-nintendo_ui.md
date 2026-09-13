@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Nintendo Uí
 excerpt: |
-  |
     A criatividade chinesa não parou no PolyStation - estão chegando no Brasil os clones baratinhos do Nintendo Wii. Veja os detalhes e prepare-se para a AÇÃO!...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: É disso que o povo gosta, é isso que o povo quer
 excerpt: |
-  |
     Os dados são de 2006, mas isso não tira o brilho: o Internet Pornography Statistics dá um panorama geral dessa indústria vital: quanto se gasta, quanto se ganha, quanta gente está se divertindo (separando por país, atividade e várias outras...
 layout: post
 comments: true

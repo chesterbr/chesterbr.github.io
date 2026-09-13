@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Quadrinhos sobre DDR
 excerpt: |
-  |
     Não é preciso nenhum exercício mais sofisticado de raciocínio para perceber que a web conseguiu viabilizar publicações extremamente especializadas, já que ela derruba as barreiras da tiragem e da distribuição - obstáculos que, na mídia impressa, impedem tais trabalhos de...
 layout: post
 comments: true

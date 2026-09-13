@@ -2,7 +2,6 @@
 locale: pt-BR
 title: The Parlor
 excerpt: |
-  |
     O Massa (do Videos Show) me mandou o link para The Parlor, um curta que brinca com a idéia de bate-papo na Internet de uma maneira muito simples, mas eficiente. Assim como o recém-comentado Consent, não muda a vida de...
 layout: post
 comments: true

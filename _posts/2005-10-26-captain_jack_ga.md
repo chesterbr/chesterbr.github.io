@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Captain Jack: Game Over'
 excerpt: |
-  |
     As versões americanas do DDR (Dance Dance Revolution) têm a vantagem de permitir que a gente conheça os artistas por trás de cada música - especialmente as interpretações diferenciadas das mais conhecidas. Por conta disso, fiquei sabendo que essa...
 layout: post
 comments: true

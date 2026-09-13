@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Dúvidas? Pergunte a um ninja!
 excerpt: |
-  |
     Não sei explicar exatamente o motivo, mas é divertido ver um "ninja" gesticulando nervosamente enquanto explica, com seu sotaque peculiar, assuntos que vão desde a relação entre os ninjas e a física até a neutralidade na rede. Se interessou? Então...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Apple II com VGA, CompactFlash, USB, teclado externo&#8230; e em um único chip!'
 excerpt: |
-  |
     Uma verdadeira obra de arte: o cidadão pegou um FPGA (que, grosso modo, é um tipo de "chip programável", cujos transístores podem ser reconfigurados por software) e a custa de muita engenharia de hardware e software o programou para se...
 layout: post
 comments: true

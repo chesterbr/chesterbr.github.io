@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Chester na África (VIII)
 excerpt: |
-  |
     08/10 (Domingo) - Feira, universidades, rugby e bossa nova (bônus: mais DDR) O Leo, coitado, perdeu um jogo da Copa do Mundo de Rugby, no qual a África do Sul enfrentou Fiji (não exatamente um favorito, mas deu um susto)...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Fritz the Cat &#8211; He&#8217;s X-Rated and Animated!'
 excerpt: |
-  |
     Assisti à (antiga) versão animada do (mais antigo ainda) personagem Fritz The Cat, de Robert Crumb. O filme não é dele, e Crumb não perde uma oportunidade de falar mal do mesmo - até a morte de Fritz teria sido...
 layout: post
 comments: true

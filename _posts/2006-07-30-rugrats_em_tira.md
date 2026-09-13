@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Rugrats em tiras
 excerpt: |
-  |
     Eu não sabia que existiam - nem que eram até mais divertidas que o desenho. Mas alguém juntou as melhores tiras dos Rugrats (Os Anjinhos), com créditos completos dos artistas e curiosidades diversas, garantindo uma boa horinha de diversão....
 layout: post
 comments: true

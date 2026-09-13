@@ -2,7 +2,6 @@
 locale: pt-BR
 title: The Daily WTF
 excerpt: |
-  |
     Ao invés de me frustrar quando vejo alguma bizarrice no mundo do software (e eu vejo muita, acreditem), eu simplesmente mando pro The Dailiy WTF (como fiz com essa)....
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Drawn! The Illustration and Cartooning Blog
 excerpt: |
-  |
     Drawn! é uma fonte constantemente atualizada de curiosidades para fãs de quadrinhos, cartuns, animação e arte seqüencial, mantida como blog de forma descompromissada por profissionais do setor. Poucos lugares cavariam coisas como os cartuns pré-Calvin do Bill Watterson ou esta...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Questionable Content
 excerpt: |
-  |
     Nada como falar de quadrinhos um pouco para desopilar. Ando lendo um bocado de coisas ultimamente, mas hoje o assunto é Questionable Content. Não faço a menor idéia de como encontrei este webcomic - mas dado que o autor (Jeph...
 layout: post
 comments: true

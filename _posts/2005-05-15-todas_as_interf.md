@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'GUIdebook &#8211; Interfaces Gráficas do Universo'
 excerpt: |
-  |
     O GUIdebook é uma gigantesca (e organizadíssima) coleção de screenshots de diversas interfaces gráficas (GUIs) dos mais variados computadores e sistemas operacionais. Ali é possível encontrar pérolas como o Apple II DeskTop, que tirava água da pedra colocando uma interface...
 layout: post
 comments: true

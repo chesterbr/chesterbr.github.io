@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Sexo remoto via Xbox &#8211; a vida imita a arte'
 excerpt: |
-  |
     O BoingBoing hoje mencionou um post do Tiny Nibbles sobre um cidadão que conseguiu adaptar um vibrador num controle de Xbox. Seguindo os links é possível encontrar uma montagem semelhante para PS2, e também o protótipo de uma "versão fêmea",...
 layout: post
 comments: true

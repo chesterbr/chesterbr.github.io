@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Finalmente, o miniTruco multiplayer
 excerpt: |
-  |
     Ainda está bastante experimental (e eu não sei se o servidor aqui segura a onda), mas resolvi colocar no ar assim mesmo a versão multiplayer do miniTruco, i.e., o miniTruco 2. Para jogar online, você precisa ter conexão internet (GPRS)...
 layout: post
 comments: true

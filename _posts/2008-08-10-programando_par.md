@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Programando para iPhone no Eee PC com Ubuntu
 excerpt: |
-  |
     A combinação Eee PC + Ubuntu continua me surpreendendo positivamente: consegui compilar o iphone-dev toolchain, isto é, o kit de desenvolvimento da comunidade para o iPhone (não confundir com o da Apple, que é bacanudo, mas só roda em Macs...
 layout: post
 comments: true

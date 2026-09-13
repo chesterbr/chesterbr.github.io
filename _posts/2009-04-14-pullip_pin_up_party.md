@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Pullip Pin-Up Party
 excerpt: |
-  |
     Um dia a Ludmila cometeu o erro de deixar duas bonecas colecionáveis Pullip muito bem ornamentadas na mão da galera do mal. O resultado foi uma sessão de fotos bastante desinibida, da qual a minha favorita é a que está...
 layout: post
 comments: true

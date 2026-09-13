@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'BroxaMusic &#8211; Música Ruim de Qualidade!'
 excerpt: |
-  |
     Nunca assinou um Podcast? Sugestão, comece com BroxaMusic (feed) - uma seleção do que há de pior na música, sem fronteiras temporais. Quer uma amostra? Baixe o episódio 1 da série Novos Clássicos (mp3) e role de rir....
 layout: post
 comments: true

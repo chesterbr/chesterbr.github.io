@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Dia do Quadrinho Nacional e o Blog dos Quadrinhos
 excerpt: |
-  |
     Confesso que ia deixar passar este dia em branco, pois cada vez mais me convenço de que a publicação na web tem mais potencial para fazer virar os grandes talentos do que as editoras, jornais, governos e datas comemorativas. Mas...
 layout: post
 comments: true

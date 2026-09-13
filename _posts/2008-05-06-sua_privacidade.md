@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Sua privacidade vale um chocolate?
 excerpt: |
-  |
     Fui supreendido pelo panfleto da ilustração ao entrar no prédio de uma grande empresa de mídia paulistana. A proposta é que a pessoa entregue dados pessoais, vínculo com a empresa, informações do veículo e da residência para uma empresa de...
 layout: post
 comments: true

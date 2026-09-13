@@ -2,7 +2,6 @@
 locale: pt-BR
 title: The Starfish and the Spider / Founders at Work
 excerpt: |
-  |
     Novamente uma dobradinha de resenhas, que abro com The Starfish and The Spider, que apresenta uma maneira inusitada de classificar as organizações (empresariais ou não). Ele as divide entre "aranhas" (spiders), isto é, organizações altamente centralizadas e "estrelas-do-mar" (starfishs), que...
 layout: post
 comments: true

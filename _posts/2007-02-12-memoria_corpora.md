@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Memória corporativa é isso aí
 excerpt: |
-  |
     Segundo o GameSpot, ex-funcionários da RedOctane (fabricante de tapetes de DDR legais e de jogos como Guitar Hero) que saíram da empresa para fundar a a sua própria estão sendo processados pela atual dona da RedOctane, a Activision. Nada de...
 layout: post
 comments: true

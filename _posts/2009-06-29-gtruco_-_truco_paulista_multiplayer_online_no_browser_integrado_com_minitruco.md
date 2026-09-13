@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'gTruco &#8211; Truco Paulista Multiplayer Online no browser (integrado com miniTruco)'
 excerpt: |
-  |
     Ter iniciado o miniTruco foi uma sucessão de alegrias para mim. A primeira foi tornar disponível um jogo gratuito, mesmo com operadoras e fabricantes trabalhando contra. Já a segunda foi constatar o sucesso do mesmo: só neste site foram mais...
 layout: post
 comments: true

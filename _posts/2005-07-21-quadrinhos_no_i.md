@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Quadrinhos no iPod
 excerpt: |
-  |
     Para quem estava buscando uma última desculpa para comprar um iPod:o Clickwheel promete, por US$ 25, colocar quadrinhos disponíveis na web dentro do brinquedo, usando o (já carne-de-vaca) formato RSS. Os caras estão estimulando a produção de quadrinhos especialmente adaptados...
 layout: post
 comments: true

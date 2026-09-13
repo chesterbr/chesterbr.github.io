@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'A &#8220;civilidade&#8221; feminina em 1920'
 excerpt: |
-  |
     Este Manual de civildade destinado às meninas para uso nas escolas é um livro do início do século passado, que, sob o pretexto alegado no título, desfila um humor que julgo ora sofistcado, ora grosseiro - mas nunca deixo de...
 layout: post
 comments: true

@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Chester na África (IX)
 excerpt: |
-  |
     08/10 (Segunda) - Fatos da África do Sul: Idioma, Racismo e Apartheid Esse dia foi puro trabalho, então aproveito para falar de dois assuntos muito requisitados no meu e-mail desde que esta série começou: Idioma: A África do Sul tem...
 layout: post
 comments: true

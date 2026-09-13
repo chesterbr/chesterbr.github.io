@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Tropa de Elite
 excerpt: |
-  |
     Longe de mim adicionar mais barulho à cacofonia que este filme gerou antes e depois da estréia - esse post é só pra falar três coisas rápidas: A questão do vazamento é complicada. Pouco importa quanta bilheteria o filme gere:...
 layout: post
 comments: true

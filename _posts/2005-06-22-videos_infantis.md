@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Vídeos infantis &#8211; para adultos'
 excerpt: |
-  |
     A versão online da Red Hat Magazine está mostrando alguns vídeos, nos quais ela tenta vendar a idéia de que Linux representa uma espécie de revolução que irá libertar os povos oprimidos da tirania do Império da Microsoft, yadda, yadda,...
 layout: post
 comments: true

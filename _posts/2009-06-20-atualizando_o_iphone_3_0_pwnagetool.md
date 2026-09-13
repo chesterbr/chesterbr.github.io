@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Atualizando o iPhone (incluindo jailbreak e unlock) para o OS 3.0 usando o PwnageTool
 excerpt: |
-  |
     Fiz a atualização do meu iPhone californiano não-3G para o OS 3.0, com o auxílio do PwnageTool - que faz isso garantindo o jailbreak (que permite instalar as apps que eu quero, independente da vontade e do DRM do Steve...
 layout: post
 comments: true

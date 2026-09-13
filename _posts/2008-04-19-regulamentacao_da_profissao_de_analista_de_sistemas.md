@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Considerações sobre a regulamentação da profissão de Analista de Sistemas
 excerpt: |
-  |
     A primeira coisa que é relevante dizer sobre o PLS 607/2007 (em tramitação no Senado e já causando barulho) é que a alcunha de "regulamentação da profissão de Analista de Sistemas" passa a falsa idéia de que o texto só...
 layout: post
 comments: true

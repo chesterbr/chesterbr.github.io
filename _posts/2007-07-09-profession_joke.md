@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Profession Jokes
 excerpt: |
-  |
     A coleção de piadas sobre profissões de David Shay é vasta em quantidade e diversidade de áreas: matemáticos, engenheiros, biólogos e até mesmo corretores de seguro não foram poupados. Tem dois defeitos: muitas piadas exigem conhecimento de campo, e outras...
 layout: post
 comments: true

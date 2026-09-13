@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'MegaTokyo: HQ bacana, online e também em português'
 excerpt: |
-  |
     MegaTokyo é mais uma série de quadrinhos exclusivos para a web que conheci recentemente. Conta a história de dois geeks americanos: Piro (o introvertido) e Largo (o beberrão completamente joselito) que acabam indo parar no Japão e, sem dinheiro...
 layout: post
 comments: true

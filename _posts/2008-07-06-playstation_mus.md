@@ -2,7 +2,6 @@
 locale: pt-BR
 title: PlayStation Museum
 excerpt: |
-  |
     Enquanto a Nintendo tinha o Mario e a Sega o Sonic, a Sony tinha... essa coisa horrenda aí do lado, o Polygon Man! O PlayStationMuseum.com é divertido não só por esse tipo de curiosidade, mas também pelos completíssimos dossiês sobre...
 layout: post
 comments: true

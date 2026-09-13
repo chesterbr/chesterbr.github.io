@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Queima Ele!
 excerpt: |
-  |
     Esses caras experimentaram todas as maneiras possíveis de ligar na tomada equipamentos de informática que jamais deveriam ser ligados na tomada, fritando os pobrezinhos. A mente vazia é realmente a oficina do capeta....
 layout: post
 comments: true

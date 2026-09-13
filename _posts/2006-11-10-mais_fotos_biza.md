@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Mais fotos bizarras
 excerpt: |
-  |
     As coisas estranhas continuam me atropelando, mas de vez em quando eu consigo capturar. Seguem os últimos updates do mondo bizarro....
 layout: post
 comments: true

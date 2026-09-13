@@ -2,7 +2,6 @@
 locale: en
 title: iPhone Development Rants
 excerpt: |
-  |
     (previously published on the MIH SWAT Blog) When we talk about Apple, mankind is pretty much divided into three camps: lovers, haters and developers. Seriously, I never thought the day would come when I&#8217;d say such a thing, but the...
 layout: post
 comments: true

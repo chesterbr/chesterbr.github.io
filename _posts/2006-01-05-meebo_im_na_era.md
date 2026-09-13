@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Meebo: mensagens instantâneas na era AJAX'
 excerpt: |
-  |
     Aplicações como o GMail mostraram que é possível ter níveis de interatividade na web muito próximos dos de uma aplicação desktop (com a praticidade de alguém cuidar da infra-estrutura para você). Nesta linha, tive uma sensação positiva com o Meebo,...
 layout: post
 comments: true

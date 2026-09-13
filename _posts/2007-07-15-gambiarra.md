@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Gambiarra!
 excerpt: |
-  |
     O blog Gambiarra! dá link para dezenas de projetos interessantes para quem tem tempo nas mãos e espírito do-it-yourself. Navegar nos arquivos é diversão garantida por uma bela hora - e se você tiver a sorte/azar de se identificar com...
 layout: post
 comments: true

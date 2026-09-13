@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Bruxaria moderna
 excerpt: |
-  |
     Clique aqui (ou aqui) e você verá um círculo formado por manchas cor-de-rosa. A animação faz com que uma delas esteja sempre apagada, como na ilustração ao lado. Até aí, tudo bem, mas... Coisa bizarra 1: se você olhar fixamente...
 layout: post
 comments: true

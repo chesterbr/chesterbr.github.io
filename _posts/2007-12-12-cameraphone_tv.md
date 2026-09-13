@@ -2,7 +2,6 @@
 locale: en
 title: Cameraphone + TV + Social Network = mob?
 excerpt: |
-  |
     Act 1, Saturday: In São Paulo, three guys cowardly attack a family (including a pregnant woman and an 11-year old girl) because of a traffic discussion. Somebody films the whole scene. Act 2, Sunday: Fantastico, a variety/news show from TV...
 layout: post
 comments: true

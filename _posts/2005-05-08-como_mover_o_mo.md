@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Como mover o Monte Fuji?
 excerpt: |
-  |
     Me deparei por acaso com Como Mover o Monte Fuji, livro recomendado por Joel Spolsky, e que não sabia existir em português. O tema são os famosos quebra-cabeças de entrevista - cosutmeiramente atribuídos à Microsoft, mas usados na prática por...
 layout: post
 comments: true

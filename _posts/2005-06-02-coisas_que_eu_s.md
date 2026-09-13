@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Coisas que eu sempre quis fazer
 excerpt: |
-  |
     Mais uma vez, o Arnaldo se supera....
 layout: post
 comments: true

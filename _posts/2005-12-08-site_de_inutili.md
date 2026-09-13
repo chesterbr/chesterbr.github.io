@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Site de Inutilitdades
 excerpt: |
-  |
     O site UseFool (note o trocadilho) reúne links para artigos sobre invenções de gosto (e principalmente, de uso) duvidoso. Ótimo para conhecer novidades indispensáveis, como o anel detector de Wi-Fi ou o projeto conceitual da máquina que imprime RSS em...
 layout: post
 comments: true

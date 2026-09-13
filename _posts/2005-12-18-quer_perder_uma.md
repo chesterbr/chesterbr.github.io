@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Stupid.com &#8211; loja de coisas bizarras'
 excerpt: |
-  |
     Quer perder uma meia hora vendo besteiras como a toalha com indicadores cara x bunda? Talvez você prefira o jogo onde quem perde toma um choque, ou ainda, a incrível manga de camisa com tatuagens. Tudo isso se encontra no...
 layout: post
 comments: true

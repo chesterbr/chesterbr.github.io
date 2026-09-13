@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Chester na África (I)
 excerpt: |
-  |
     Estou trabalhando no braço brasileiro da MIH, uma empresa sediada na África do Sul. Como a equipe é geograficamente dispersa (além de brasileiros e sul-africanos, temos chineses também), fomos convocados para um team building. Resultado: desde o último sábado eu...
 layout: post
 comments: true

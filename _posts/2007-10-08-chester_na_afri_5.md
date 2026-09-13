@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Chester na África (VII)
 excerpt: |
-  |
     07/10 (Sábado) - Safari e fotos Chegou o tão esperado dia: fomos ao safari. Mais especifciamente, um foto-safari - a diferença básica é que você vai num jipe, e, ao invés de matar os bichos, tira foto deles. E por...
 layout: post
 comments: true

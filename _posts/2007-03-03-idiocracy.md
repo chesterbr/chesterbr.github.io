@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Idiocracy
 excerpt: |
-  |
     Idiocracy já vale pela introdução, que compara a árvore genealógica de um casal de indivíduos inteligentes (praticantes do planejamento familiar) com a de um par mais obtuso (que se reproduz como coelhos). A idéia é que, à medida em que...
 layout: post
 comments: true

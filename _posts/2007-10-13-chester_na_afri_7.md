@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Chester na África (X)
 excerpt: |
-  |
     09/10 (Terça) - Table Mountain e jantar no porto Após mais de uma semana convivendo com a Table Mountain (para quem não leu: o nome se deve ao visual do topo coberto pelas nuvens), chegou a hora de subir ela....
 layout: post
 comments: true

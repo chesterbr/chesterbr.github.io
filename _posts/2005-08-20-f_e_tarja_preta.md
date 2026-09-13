@@ -2,7 +2,6 @@
 locale: pt-BR
 title: F. e Tarja Preta
 excerpt: |
-  |
     Tive a oportunidade de mandar pra dentro de casa todos os exemplares da F. e da Tarja Preta, revistas que têm em comum a presença do Allan Sieber e do Arnaldo Branco - dois dos caras mais presença do quadrinho...
 layout: post
 comments: true

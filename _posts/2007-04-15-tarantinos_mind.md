@@ -2,7 +2,6 @@
 locale: pt-BR
 title: 'Tarantino&#8217;s Mind'
 excerpt: |
-  |
     Sei lá se precisava realmente fazer um curta - afinal, hoje em dia a grande mídia divulgadora das teorias malucas e/ou conspiratórias é o e-mail-corrente. De qualquer forma, Tarantino's Mind é um curta-metragem que já vale pelo pastiche de juntar...
 layout: post
 comments: true

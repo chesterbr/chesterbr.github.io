@@ -2,7 +2,6 @@
 locale: pt-BR
 title: Os Movimentos e a USP
 excerpt: |
-  |
     O episódio recente envolvendo o confronto entre policiais e estudantes/professores/funcionários da USP trouxe a público uma questão que se arrasta há anos dentro dos muros da Cidade Universitária: o movimento sindical pelos direitos dos funcionários e sua relação conturbada com...
 layout: post
 comments: true

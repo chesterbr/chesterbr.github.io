@@ -2,7 +2,6 @@
 locale: en
 title: Tweet xkcd bookmarklet
 excerpt: |
-  |
     Since people love to post their favorite xkcd strips on Twitter, I thought this might help: drag the link below onto your links toolbar (it will create a button). Whenever you read an xkcd comic you want to share, just...
 layout: post
 comments: true
