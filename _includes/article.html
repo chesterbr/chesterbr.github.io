@@ -17,9 +17,9 @@
 <div class="entry-content">{{ content | excerpt }}</div>
 {% if read_more == 'show' %}
 <footer>
-  <a rel="full-article" href="{{ root_url }}{{ post.url }}" data-i18n="readMore">{{ site.excerpt_link }}</a>
+  <a rel="full-article" href="{{ root_url }}{{ post.url }}{% if post.content contains '<!--more-->' %}#more{% endif %}" data-i18n="readMore">{{ site.excerpt_link }}</a>
 </footer>
 {% endif %}
 {% else %}
-<div class="entry-content">{{ content }}</div>
+<div class="entry-content">{{ content | replace: '<!--more-->', '<span id="more" class="more-anchor"></span>' }}</div>
 {% endif %}

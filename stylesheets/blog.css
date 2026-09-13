@@ -301,6 +301,9 @@ p.meta {
 p.meta .separator { padding: 0 0.4em; }
 
 .entry-content { margin-top: 1em; }
+/* Anchor where the excerpt was cut, so "read more" lands the reader there
+   (see _includes/article.html). scroll-margin gives it breathing room. */
+.more-anchor { scroll-margin-top: 1rem; }
 .entry-content::after { content: ""; display: table; clear: both; }
 .entry-content img, .entry-content video { border-radius: 6px; }
 .entry-content .basic-alignment.left, .entry-content img.left { float: left; margin: 0.2em 1.5em 0.8em 0; }
