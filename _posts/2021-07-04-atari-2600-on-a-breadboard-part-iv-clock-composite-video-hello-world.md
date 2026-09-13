@@ -6,6 +6,7 @@ og_image: /img/2021/07/hello-world-atari.jpg
 description: "Some adventures with clock and composite circuits, but our baby now talks to the TV set!"
 comments: true
 categories:
+  - atari-2600
 ---
 
 * [Part I: CPU (6507)](/archives/2017/09/atari-2600-cpu-running-on-a-breadboard/)

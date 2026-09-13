@@ -6,6 +6,7 @@ description: "I got a new computer. Or is it a 38 years old one?"
 comments: true
 og_image: /img/2020/04/next_large.jpg
 categories:
+  - retrocomputing
 ---
 
 The [ZX Spectrum Next](https://www.kickstarter.com/projects/1835143999/zx-spectrum-next) was a Kickstarter-backed initiative aiming to recreate the iconic ZX Spectrum using FPGA and lots of ingenuity. I am a bit too Marie-Kondo-ed for physical retrocomputing these days, and, on top of that, have been skeptical of such projects (for [good reasons](https://vintageisthenewold.com/failed-campaign-recreated-zx-spectrum-backers-unlikely-to-get-their-devices/)).

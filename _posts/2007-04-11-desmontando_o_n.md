@@ -10,6 +10,7 @@ permalink: /archives/2007/04/desmontando_o_n.html/
 dsq_thread_id:
   - 1751443036
 categories:
+  - retrocomputing
 ---
 <img title="NDS desmontado, rodando Elite Beat Agents" src="/archives/img/nds_desmontado.jpg" width="250" height="187" border="1" align="right" style="margin-left:2px" />Estava o pequeno Chester feliz, brincando com seu NDS, quando a tela sensível ao toque perdeu a dita sensibilidade. Do nada. Os jogos e programas continuavam funcionando, mas qualquer um que dependesse da mesma (i.e., qualquer um que não fosse o Mario Kart DS) não rolava.
 

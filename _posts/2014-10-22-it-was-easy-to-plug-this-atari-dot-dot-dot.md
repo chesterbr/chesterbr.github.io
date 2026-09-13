@@ -5,6 +5,7 @@ title: "It was easy to plug this Atari in..."
 comments: true
 og_image: /img/2014/10/atari.jpg
 categories:
+  - atari-2600
 ---
 
 ![](/img/2014/10/atari.jpg){: .center }

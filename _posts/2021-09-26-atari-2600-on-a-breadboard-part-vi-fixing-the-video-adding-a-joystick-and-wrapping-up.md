@@ -6,6 +6,7 @@ og_image: /img/2021/09/board.jpg
 description: "Can't believe, but I got from absolutely nothing to a working Atari on a breadboard, learning a thousand things in the process. 🎉"
 comments: true
 categories:
+  - atari-2600
 
 ---
 

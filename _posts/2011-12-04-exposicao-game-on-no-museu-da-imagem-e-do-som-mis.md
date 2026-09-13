@@ -20,6 +20,7 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751448205
 categories:
+  - retrocomputing
 ---
 A *Game On* é uma exposição de [origem inglesa][1] sobre a história dos jogos eletrônicos, que visitei no último sábado e gostei bastante. É muito completa e detalhada, apresentando desde os primeiros protótipos até jogos da atualidade, mas o diferencial é a interatividade: a idéia é que os participantes joguem de verdade, sempre que possível no hardware real, proporcionando uma imersão que remakes e emuladores não permitem alcançar.
 

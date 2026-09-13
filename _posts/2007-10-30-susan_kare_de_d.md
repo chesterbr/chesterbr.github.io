@@ -10,6 +10,7 @@ permalink: /archives/2007/10/susan_kare_de_d.html/
 dsq_thread_id:
   - 1751442297
 categories:
+  - retrocomputing
 ---
 <img title="O 'Happy Mac', ícone que transmitia com perfeição a idéia de que 'tudo está bem'" src="/archives/img/happymac.png" width="31" height="41" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />Nego [fala muito][1] do Oscar Niemeyer, mas eu fico pensando se ele teve mais influência visual sobre a minha vida do que Susan Kare, a ilustradora que desenhou praticamente todas as interfaces gráficas do mundo (como [comentei][2] no passado).
 

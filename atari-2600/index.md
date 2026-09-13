@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Retrocomputing
+title: Atari 2600
 hide_heading: true
-category: retrocomputing
-permalink: /micros/
-redirect_from: "/micros.html/"
+category: atari-2600
+permalink: /atari-2600/
 ---
 <header>
-  <h1 class="entry-title" data-i18n="retrocomputing">Retrocomputing</h1>
+  <h1 class="entry-title" data-i18n="atari2600">Atari 2600</h1>
 </header>
 
 <div class="blog-index">

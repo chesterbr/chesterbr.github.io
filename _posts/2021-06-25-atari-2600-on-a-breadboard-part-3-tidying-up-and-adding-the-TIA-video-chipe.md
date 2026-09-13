@@ -6,6 +6,7 @@ og_image: /img/2021/06/final-board.jpg
 description: "Don't have an image yet, but the chip that will generate it is up and running."
 comments: true
 categories:
+  - atari-2600
 ---
 
 * [Part I: CPU (6507)](/archives/2017/09/atari-2600-cpu-running-on-a-breadboard/)

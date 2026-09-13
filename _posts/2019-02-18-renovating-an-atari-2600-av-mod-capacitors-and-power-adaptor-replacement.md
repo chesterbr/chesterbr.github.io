@@ -6,6 +6,7 @@ og_image: /img/2019/02/atari.jpg
 description: "Giving this venerable dark beauty a bit of love for improved audio, video and fun."
 comments: true
 categories:
+  - atari-2600
 ---
 
 A while ago I got this beautiful Atari 2600 all-black, 4-switch model - often nicknamed "Darth Vader", for obvious reasons:

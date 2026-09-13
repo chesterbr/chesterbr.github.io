@@ -5,7 +5,8 @@ layout: post
 og_image: "/img/2021/07/breadboard-with-riot-and-audio.jpeg"
 description: "Image is still not great, but hey, I can hear Pac-Man dying \U0001F47B"
 comments: true
-categories: []
+categories:
+  - atari-2600
 ---
 
 * [Part I: CPU (6507)](/archives/2017/09/atari-2600-cpu-running-on-a-breadboard/)
