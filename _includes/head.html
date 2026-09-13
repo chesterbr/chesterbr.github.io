@@ -48,6 +48,7 @@
   <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
   <script src="{{ root_url }}/javascripts/libs/jquery.min.js" type="text/javascript"></script>
   <script src="{{ root_url }}/javascripts/blog.js?{{ site.time | date: '%s' }}" type="text/javascript"></script>
+  <script>window.categoryLabelsPt={ {% for cat in site.data.categories %}"cat-{{ cat.slug }}": {{ cat.label.pt | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %} };</script>
   <script src="{{ root_url }}/javascripts/lang_switcher.js?{{ site.time | date: '%s' }}" type="text/javascript"></script>
   {% include custom/head.html %}
 </head>

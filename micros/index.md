@@ -7,7 +7,7 @@ permalink: /micros/
 redirect_from: "/micros.html/"
 ---
 <header>
-  <h1 class="entry-title" data-i18n="retrocomputing">Retrocomputing</h1>
+  <h1 class="entry-title" data-i18n="cat-retrocomputing">Retrocomputing</h1>
 </header>
 
 <div class="blog-index">

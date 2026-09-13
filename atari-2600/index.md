@@ -6,7 +6,7 @@ category: atari-2600
 permalink: /atari-2600/
 ---
 <header>
-  <h1 class="entry-title" data-i18n="atari2600">Atari 2600</h1>
+  <h1 class="entry-title" data-i18n="cat-atari-2600">Atari 2600</h1>
 </header>
 
 <div class="blog-index">

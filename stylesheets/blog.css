@@ -263,9 +263,28 @@ body > nav {
   font-size: 1em;
 }
 
-.main-navigation { display: flex; gap: 16px; list-style: none; margin: 0; }
+.main-navigation { display: flex; gap: 16px; list-style: none; margin: 0; align-items: baseline; }
 .main-navigation a { color: var(--text); text-decoration: none; font-weight: 700; }
 .main-navigation a:hover { color: var(--accent-text); }
+
+/* "Topics" dropdown (categories) — native <details>, no JS, flat panel */
+.topics-widget { position: relative; }
+.topics-widget details { margin: 0; }
+.topics-widget summary {
+  display: inline; margin: 0; cursor: pointer; font-weight: 700; color: var(--text);
+  list-style: none; /* drop the default disclosure triangle */
+}
+.topics-widget summary::-webkit-details-marker { display: none; }
+.topics-widget summary:hover { color: var(--accent-text); }
+.topics-widget summary::after { content: "\25BE"; font-size: 0.8em; margin-left: 4px; } /* static ▾, never swaps (no reflow) */
+.topics-menu {
+  position: absolute; top: 100%; left: 0; z-index: 30;
+  margin: 8px 0 0; padding: 4px 0; min-width: 170px; list-style: none;
+  background: var(--bg); border: 1px solid var(--border); border-radius: 4px;
+}
+.topics-menu li { margin: 0; }
+.topics-menu a { display: block; padding: 5px 16px; white-space: nowrap; font-weight: 400; }
+.topics-menu a:hover { color: var(--accent-text); }
 
 /* ---------- Content / articles ---------- */
 

@@ -5,9 +5,8 @@
   var translationsPt = {
     blogTitle: "blog do chester",
     langAll: "TODOS",
-    archives: "Arquivo",
-    retrocomputing: "Retrocomputação",
-    atari2600: "Atari 2600",
+    archives: "Histórico",
+    categories: "Categorias",
     subtitle: "tecnologia, viagens, quadrinhos, livros, matemática, web, software e divagações",
     readMore: "Leia mais &rarr;",
     postedBy: "Publicado por",
@@ -39,6 +38,13 @@
     commentErrorText: "Ocorreu um erro.",
     commentClose: "Fechar"
   };
+
+  // Category labels (keys "cat-<slug>") come from _data/categories.yml, emitted
+  // into window.categoryLabelsPt in <head> so their translations live in one
+  // place alongside the category definition rather than being hand-kept here.
+  if (window.categoryLabelsPt) {
+    for (var k in window.categoryLabelsPt) translationsPt[k] = window.categoryLabelsPt[k];
+  }
 
   // Caches each tagged element's original (English) content/attributes the
   // first time we touch it, so switching back to English can restore it
