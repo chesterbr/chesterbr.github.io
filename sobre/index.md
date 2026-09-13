@@ -25,7 +25,7 @@ Quer saber mais? É só [entrar em contato][9], ou continuar [lendo o blog][10].
  [2]: http://www.infantv.com.br/pesada.htm
  [3]: http://www.jaroo.com/watch/beverly-hills-teens
  [4]: http://www.ime.usp.br
- [5]: /archives/category/portfolio
+ [5]: https://github.com/chesterbr
  [6]: http://www.programmableweb.com/
  [7]: http://cruzalinhas.com/#api
  [8]: http://twitter.com/chesterbr

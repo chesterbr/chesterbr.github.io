@@ -16,7 +16,7 @@
     {% if paginator.next_page_path %}
       <a class="prev" href="{{ root_url }}{{ paginator.next_page_path }}">&larr; Older</a>
     {% endif %}
-    <a href="{{ root_url }}/archives">Blog Archives</a>
+    <a href="{{ root_url }}/archives" data-i18n="archives">Blog Archives</a>
     {% if paginator.previous_page_path %}
       <a class="next" href="{{ root_url }}{{ paginator.previous_page_path }}">Newer &rarr;</a>
     {% endif %}
