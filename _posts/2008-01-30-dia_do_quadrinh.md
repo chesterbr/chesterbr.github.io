@@ -10,6 +10,7 @@ permalink: /archives/2008/01/dia_do_quadrinh.html/
 dsq_thread_id:
   - 1751442220
 categories:
+  - comics
 ---
 <img title="Detalhe de quadrinho de Ângelo Agostini, italiano autor da primeira história em quadrinhos publicada no Brasil, cuja data - 30 de Janeiro - definiu o Dia do Quadrinho Nacional" src="/img/agostini.png" width="239" height="238" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Confesso que ia deixar passar este dia em branco, pois cada vez mais me convenço de que a publicação na web tem mais potencial para fazer virar os grandes talentos do que as editoras, jornais, governos e datas comemorativas.
 

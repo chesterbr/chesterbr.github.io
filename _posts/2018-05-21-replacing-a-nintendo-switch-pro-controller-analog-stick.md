@@ -6,6 +6,7 @@ og_image: /img/2018/05/joystick_2_l.jpg
 description: "It seems analog sticks are the first thing to fail in controllers nowadays. Here is how I replaced mine."
 comments: true
 categories:
+  - electronics
 ---
 
 This was a rough year for me, so I haven't done much regarding hobby projects. But my BFFs had a Switch Pro Controller intermittently failing in one direction. I [saw this before on a Wii U](https://chester.me/archives/2016/02/wii-u-gamepad-left-analog-stick-replacement/), so I offered to repair when I had the chance.

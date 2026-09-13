@@ -6,6 +6,7 @@ comments: true
 og_image: /img/2016/02/gamepad_open.jpg
 description: No need to buy a new Gamepad (or Wii U) if an analog stick isn't working properly.
 categories:
+  - electronics
 ---
 
 Our [Wii U Gamepad][9]'s analog stick was intermittently failing to register, causing frustration right when I most needed fun and happiness. [Recalibration][14] didn't help, and a new Gamepad would be [expensive][15], so I tested my luck by replacing the analog stick with an aftermarket one.

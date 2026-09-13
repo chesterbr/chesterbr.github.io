@@ -12,6 +12,7 @@ onswipe_thumb:
 
     Painéis com <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/6862737148/in/set-72157629286821702/">capas da revista</a><span class="dead-link-mark">†</span> e <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/7008854289/in/set-72157629286821702/">fotos do autor</a><span class="dead-link-mark">†</span> encerram a exposição, que deve agradar a qualquer fã. A popularidade do Angeli é confirmada pela lotação no fim-de-semana. A dica é ir durante a semana - salvo excursões-relâmpago escolares, é bem tranquilo./0.jpg
 categories:
+  - comics
 ---
 Se o [Laerte][1] é o mais sofisticado dos quadrinhistas nacionais, o [Angeli][2] é de longe o que mais me influenciou. Quase tudo o que eu lia/ouvia no final dos anos 80 vinha pela [Chiclete com Banana][3], e sua crítica social e de costumes me mostrou um mundo bem maior que a vidinha católico-suburbana que me cercava. Uma visita à [exposição][4] exclusiva do autor era mais do que obrigatória!
 

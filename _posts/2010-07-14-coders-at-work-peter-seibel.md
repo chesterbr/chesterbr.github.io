@@ -7,6 +7,7 @@ permalink: /archives/2010/07/coders-at-work-peter-seibel.html/
 onswipe_thumb:
   - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/07/coders-at-work.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
+  - books
 ---
 [<img class="alignright margin-left:6px; margin-bottom:4px; size-full wp-image-4290" title="coders-at-work" src="/wp-content/uploads/2010/07/coders-at-work.jpg" alt="Coders At Work, Peter Seibel" width="167" height="246" />][1]Depois de ter curtido tanto as entrevistas com os fundadores das startups mais famosas no [Founders At Work][2], eu esperava que o [Coders at Work][1]<img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=blogdochester-20&l=as2&o=1&a=1430219483" border="0" alt="" width="1" height="1" /> &#8211; fosse ser ainda mais bacana. Afinal, a [lista de entrevistados][3] é diversificada e impressionante: vai de gente mais &#8220;próxima&#8221; como os criadores do [memcached][4], [JavaScript][5] e [JSON][6] até decanos como [Fran Allen][7] e [Donald Knuth][8], cujos méritos acadêmicos e na indústria tornam desnecessárias quaisquer apresentações.
 

@@ -10,6 +10,7 @@ permalink: /archives/2007/02/arte_e_piratari.html/
 dsq_thread_id:
   - 1751441304
 categories:
+  - comics
 ---
 <img title="Scott McCloud em modo autobiográfico: 'What, do I have to *explain* that one?'" src="/archives/img/mccloud_explain.png" width="221" height="154" style="margin-right:2px" align="left" />O futuro da indústria fonográfica (e, para quem consegue dissociar, dos artistas) num mundo onde o download de MP3 e o CD pirata do camelô estão ao alcance de qualquer um é um tema que rende muita conversa. Além disso, a relação dos quadrinhos impressos com as inúmeras alternativas online, se não tem a universalidade do outro tema, possui muitas semelhanças &#8211; e é igualmente interessante.
 

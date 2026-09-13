@@ -5,6 +5,7 @@ title: "A Trip To Japan"
 comments: true
 og_image: /img/2015/03/map.jpg
 categories:
+  - travel
 ---
 
 Judging by how much of my life I spent reading *manga*, watching *anime* and *tokusastu*, playing *Pokémon* on *Nintendo*, eating *tempura*, *yakisoba* and *mochi*, learning *kanji*, and so on, it just **had** to happen: [Bani][1000] and I went to Japan!

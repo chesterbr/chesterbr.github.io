@@ -10,6 +10,7 @@ permalink: /archives/2005/06/por_que_almocei.html/
 dsq_thread_id:
   - 1751442142
 categories:
+  - books
 ---
 <img title="porquealmocei.jpg" src="/archives/img/porquealmocei.jpg" width="121" height="180" align="right" style="margin-width:2px" />Leitura leve e divertida, <a href="http://tinyurl.com/9pkth" target="_blank">Por Que Almocei Meu Pai</a> é um livro de 1960 que já foi publicado sob diferentes nomes (mesmo no idioma original) e redescoberto algumas vezes em diversos lugares do mundo. Apesar do histórico conturbado, ele se mantém atual &#8211; ao menos é a impressão que tive ao ler esta edição de 2005.
 

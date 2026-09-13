@@ -10,6 +10,7 @@ permalink: /archives/2007/10/chester_na_afri_6.html/
 dsq_thread_id:
   - 1751449665
 categories:
+  - travel
 ---
 *08/10 (Segunda) &#8211; Fatos da África do Sul: Idioma, Racismo e Apartheid*
 

@@ -10,6 +10,7 @@ permalink: /archives/2007/05/bira_dantas_e_o.html/
 dsq_thread_id:
   - 1751443881
 categories:
+  - comics
 ---
 Fui surpreendido por um e-mail pra lá de simpático: o [Bira Dantas][1], integrante &#8220;das antigas&#8221; do quase mítico [Estúdio Ely Barbosa][2] (o link mostra algumas das criações que surgiram ali) me escreve pra falar da sua participação nas histórias em quadrinhos dos Trapalhões.
 

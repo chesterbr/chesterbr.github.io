@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2004/08/life-with-leslie.html/
 categories:
+  - comics
 ---
 <img src="/img/blig/lifewithles.gif" border="2" alt="um momento da vida de Leslie McClaine" align="left">Problemas de saúde (física e mental) me fizeram dar uma pausa, e li bastante para desestressar e esquecer a enxaqueca. Pensei ter escolhido meu favorito do dia na nota anterior, mas Les McClaine me fez escrever novamente com seu <a href="http://web.archive.org/web/20130602052123/http://www.evilspacerobot.com/comics/lifewithleslie/index.htm" >Life With Leslie</a>.
 

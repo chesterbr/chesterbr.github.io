@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2003/05/sigam-me-os-bonzinhos.html/
 categories:
+  - comics
 ---
 Não, não é do Chapolin que eu vou falar, e sim dos <a href="http://www.comborangers.com.br" >Combo Rangers</a>. A história começou na época &#8220;pré-bolha&#8221; (~1999), com o site **PutaQuePariu.com** (não adianta procurar, nem o <a href="http://archive.org/" >Internet Archive</a> tem vestígio).
 </br/>O site era uma coleção de piadas e textos de humor no melhor estilo &#8220;5ª. série&#8221; (&#8220;mande seus amigos para a putaquepariu.com&#8221; era o mote de marketing), e tiveram o bom senso de terminar quando estavam por cima. Um dos webmasters (o Fabio &#8220;Sr. Y&#8221; Yabu), criou no Flash uma espécie de sátira dos seriados *super sentai* (Changeman, Power Rangers e similares), e com isso nasceram os Combo Rangers.

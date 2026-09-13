@@ -6,6 +6,7 @@ og_image: /img/2016/06/coimbra.jpg
 description: A great place for Brazilian expats to visit, but actually enjoyable by anyone!
 comments: true
 categories:
+  - travel
 ---
 A week in Portugal surely came with a special flavour for Brazilian expats like myself and [Vanessa][103], but it is a trip anyone can enjoy. You get by with English, and also with [Romance languages][1] such as Spanish or French. Otherwise, just point the food and enjoy the sights!
 

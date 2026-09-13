@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2004/10/apocamon-vai-anjo-picachu.html/
 categories:
+  - comics
 ---
 <img src="/img/blig/apocamon.jpg" border="1" alt="trecho de Apocamon" align="right">Mesmo nos meus tempos de fervoroso estudante da Bíblia, nunca tive muito saco para o livro do Apocalipse &#8211; aliás, me interessava por pouca coisa do Novo Testamento que fosse muito além dos Atos dos Apóstolos. Patrick Farley foi melhor que eu, sacando a semelhança entre as infindáveis bestas do Livro do Apocalipse e a franquia da Nintendo, o que o levou a produzir <a href="http://www.e-sheep.com/apocamon/" >Apocamon</a>.
 

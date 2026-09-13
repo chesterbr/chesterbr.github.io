@@ -6,6 +6,7 @@ og_image: /img/2019/06/arduino_assembled.jpg
 description: "A hacky but low-cost way of getting notifications on my phone if a pipe bursts while I'm away."
 comments: true
 categories:
+  - electronics
 ---
 
 Water incidents in a condo can be catastrophic, and surely things like shutting your main water valve when you go out for long periods and having the proper coverage in your insurance are important. But for added peace of mind, leak detectors aren't a bad idea.

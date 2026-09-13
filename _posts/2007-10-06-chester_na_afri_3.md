@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2007/10/chester_na_afri_3.html/
 categories:
+  - travel
 ---
 <img title="Apple Center no shopping do Waterfront. Pequena, mas bem completa" border="1" src="/archives/img/applecentre.jpg" width="250" height="188" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />*05/10 (Quinta) &#8211; Um pedaço da Califórnia e Camps Bay*
 

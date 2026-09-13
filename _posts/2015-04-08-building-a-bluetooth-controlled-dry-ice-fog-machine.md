@@ -5,6 +5,7 @@ title: "Building a Bluetooth-Controlled Dry Ice Fog Machine"
 comments: true
 og_image: /img/2015/03/fog_dry_ice.jpg
 categories:
+  - electronics
 ---
 
 Last weekend brought an interesting challenge: to create a remote-controlled, small-sized dry ice "fog" dispenser for a company event. In the end it wasn't used, but I had a lot of fun building it anyway. Here is how it was done:

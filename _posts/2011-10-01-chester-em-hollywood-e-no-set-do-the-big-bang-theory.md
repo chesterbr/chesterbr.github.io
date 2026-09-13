@@ -22,6 +22,7 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751442040
 categories:
+  - travel
 ---
 [<img class="alignright size-full wp-image-6378" style="border: 1px solid black; padding: 0px;" title="Chester no lugar do Sheldon" src="/wp-content/uploads/2011/09/chester_sheldon_spot.jpg" alt="Chester no lugar do Sheldon" width="219" height="307" />][1]Não sei bem como introduzir o assunto, então vou direto ao ponto: ganhei um [concurso do Warner Channel][2], que levou eu e a [Bani][3] até Hollywood para, entre outras coisas, assistir à gravação do The Big Bang Theory. E o melhor: pudemos tirar [várias fotos][4], [bater][5] na porta da Penny e até [sentar][6] no sagrado lugar do Sheldon!
 

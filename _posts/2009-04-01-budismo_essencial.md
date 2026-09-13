@@ -10,6 +10,7 @@ permalink: /archives/2009/04/budismo_essencial.html/
 dsq_thread_id:
   - 1751852809
 categories:
+  - books
 ---
 <img title="Capa de Budismo Essencial, de Gyomay Kubose" src="/archives/img/mt/2009/04/01/budismo-essencial.gif" width="124" height="189" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />O Reverendo Gyomay Kubose, autor de [Budismo Essencial][1], vive um dualismo interessante: nasceu nos EUA, mas cresceu no Japão, dividindo-se entre os estudos acadêmicos no ocidente e a ordenação como monge budista da [Escola Shin][2] na terra do sol nascente. Esta situação lhe dá um ponto de vista bastante equilibrado (como convém a um budista) sobre o lado de lá e o lado de cá.
 

@@ -10,6 +10,7 @@ permalink: /archives/2007/08/penny_arcade.html/
 robotsmeta:
   - index,follow
 categories:
+  - comics
 ---
 Não sei como até hoje nunca falei de [Penny Arcade][1], que é praticamente o pai dos webcomics. Foi um dos primeiros a sair com regularidade, e também um dos pioneiros em atingir independência econômica &#8211; de certa forma sacramentando o modelo baseado em propaganda e venda de produtos promocionais (eles até fazem caridade e promovem um evento de games).
 

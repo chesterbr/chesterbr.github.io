@@ -7,6 +7,7 @@ permalink: /archives/2003/06/revista-crocodilo-trash-que-satisfaz.html/
 dsq_thread_id:
   - 1751447346
 categories:
+  - comics
 ---
 <img src="img/blig/croc.jpg"align="left" border="2">Ah, o que seria de nós sem os amigos bizarros? Por indicação de <a href="http://www.stoneagescanners.com/edu/1p.htm" >um deles</a> comprei a <a href="http://www.crocodilo.com.br">Crocodilo</a>, uma revista de humor e quadrinhos sem um gênero muito definido, mas que pega forte no lado trash.
 

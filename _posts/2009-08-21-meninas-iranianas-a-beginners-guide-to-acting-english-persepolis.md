@@ -9,6 +9,8 @@ bb-custom-tags:
 dsq_thread_id:
   - 1751448273
 categories:
+  - comics
+  - books
 ---
 [<img class="alignright size-full wp-image-2110" style="float:right" src="/wp-content/uploads/2009/08/51TeqkjTMlL._SL500_AA240_1.jpg" alt="A Beginner's Guide to Acting English" width="156" height="239" />][1]Por uma coincidência curiosa, estou lendo um livro e um quadrinho que tratam basicamente do mesmo tema: iranianas que se viram forçadas a crescer fora do país por conta da Revolução Islâmica.
 

@@ -10,6 +10,7 @@ permalink: /archives/2009/01/os_vagabundos_iluminados_the_dharma_bums.html/
 dsq_thread_id:
   - 1751450268
 categories:
+  - books
 ---
 <img title="Os Vagabundos Iluminados, de Jack Kerouac" src="/archives/img/mt/2009/01/04/vagabundos_iluminados.jpg" width="149" height="241" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />O mais perto que eu cheguei do nirvana foi ler [Os Vagabundos Iluminados][1] enquanto tomava sol e cerveja na praia, cercado de mulheres. Confesso que, por ser do mesmo autor de [Pé na Estrada][2] (que imortalizou a chamada [geração beat][3]) eu esperava algo na linha &#8220;mais do mesmo&#8221;, mas fui positivamente surpreendido.
 

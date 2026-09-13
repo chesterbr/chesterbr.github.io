@@ -5,6 +5,8 @@ title: 'Visiting Cuba'
 og_image: /img/2024/01/cuba-map-illustration.png
 description: "This year's vacation in Cuba was both a break from the Canadian winter and an opportunity to understand the country beyond the usual left-vs-right political narratives"
 comments: true
+categories:
+  - travel
 ---
 
 ![Me at the airport, with a suitcase. Above a billboard with Fidel Castro and a quote in Spanish ("The grateful go with you"), from a Raul Torres song, with some tourist-y photos](/img/2024/01/chester-mala-fidel.jpeg){: .right }

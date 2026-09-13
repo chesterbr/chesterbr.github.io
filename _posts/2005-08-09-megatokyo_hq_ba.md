@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2005/08/megatokyo_hq_ba.html/
 categories:
+  - comics
 ---
 <img title="megatokyo.png" src="/archives/img/megatokyo.png" width="300" height="300" align="right" />
 [MegaTokyo][1] é mais uma série de quadrinhos exclusivos para a web que conheci recentemente. Conta a história de dois geeks americanos: Piro (o introvertido) e Largo (o beberrão completamente joselito) que acabam indo parar no Japão e, sem dinheiro pra voltar, vão se estabelecendo por ali.

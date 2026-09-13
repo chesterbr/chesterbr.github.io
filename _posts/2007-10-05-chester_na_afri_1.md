@@ -10,6 +10,7 @@ permalink: /archives/2007/10/chester_na_afri_1.html/
 dsq_thread_id:
   - 1751442288
 categories:
+  - travel
 ---
 <img alt="Tenda do Clarra Anna Fontein" src="/archives/img/tenda.jpg" width="260" height="281" class="mt-image-right" border="1" style="float: right; margin: 0  0 20px 20px;" />*01/10 (Segunda) &#8211; Acampamento, carnes exóticas e drinking games*
 

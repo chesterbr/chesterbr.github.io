@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2008/01/liberal_liberta.html/
 categories:
+  - books
 ---
 <img title="Capa do Liberal Libertário Libertino - Crônicas" src="/archives/img/lll_cronicas.jpg" width="140" height="210" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />Estou terminando de ler o [Liberal Libertário Libertino &#8211; Crônicas][1], mas posso escrever com segurança, pois se trata de uma coletânea de textos publicados no [blog][2] homônimo &#8211; beneficiados pela organização e conveniência que só as árvores mortas proporcionam.
 

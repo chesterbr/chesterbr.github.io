@@ -10,6 +10,7 @@ permalink: /archives/2005/08/f_e_tarja_preta.html/
 dsq_thread_id:
   - 1751444727
 categories:
+  - comics
 ---
 Tive a oportunidade de mandar pra dentro de casa todos os exemplares da [F.][1] e da [Tarja Preta][2], revistas que têm em comum a presença do [Allan Sieber][3] e do [Arnaldo Branco][4] &#8211; dois dos caras mais presença do quadrinho nacional da atualidade, dentro e fora da web.
 

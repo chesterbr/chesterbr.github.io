@@ -8,6 +8,7 @@ redirect_from:
   - /gibis/
   - /gibis.html/
 categories:
+  - comics
 ---
 Depois de incontáveis finais-de-semana, consegui organizar e catalogar os meus gibis, e, só de farra, coloquei a lista no site pra quem tiver curiosidade &#8211; ela está logo abaixo (e foi crescendo com o tempo).
 <!--more-->

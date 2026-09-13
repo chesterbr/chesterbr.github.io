@@ -7,6 +7,7 @@ permalink: /archives/2010/11/nas-redes-do-sexo-os-bastidores-do-porno-brasileiro
 onswipe_thumb:
   - '/wp-content/plugins/onswipe/thumb/thumb.php?src=/wp-content/uploads/2010/11/nas_redes_do_sexo.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
+  - books
 ---
 [<img class="alignright size-full wp-image-4865" title="Nas Redes do Sexo, por María Elvira Díaz-Benítez" src="/wp-content/uploads/2010/11/nas_redes_do_sexo.jpg" alt="" width="250" height="250" />][1][Nas Redes do Sexo][2] foi mais um daqueles livros &#8220;fora da caixa&#8221; inseridos entre uma e outra leitura mais próxima do meu cotidiano &#8211; uma tática de expansão de horizontes que raramente me decepciona.
 

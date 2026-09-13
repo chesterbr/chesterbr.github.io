@@ -11,6 +11,7 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751447450
 categories:
+  - books
 ---
 [<img class="alignright size-full wp-image-3936 right" style="margin-left: 2px; border: 1px solid black;" title="A Arte de Entrevistar Bem" src="/wp-content/uploads/2010/04/a_arte_de_entrevistar_bem.jpg" alt="A Arte de Entrevistar Bem" width="121" height="180" />][1]Pode parecer estranho, mas algumas das minhas leituras mais agradáveis (e reveladoras) foram não-ficção fora da minha &#8220;zona de conforto&#8221; profissional e pessoal. É o caso de [A Arte de Entrevistar Bem][1], um livro que busca orientar estudantes e profissionais nessa complicada tarefa de transformar conversas em jornalismo.
 

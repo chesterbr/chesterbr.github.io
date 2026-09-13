@@ -11,6 +11,7 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751447374
 categories:
+  - travel
 ---
 No fim do ano passado fiz uma viagem curta para o Canadá a trabalho &#8211; e por conta das escalas de vôo, decidi passar o final-de-semana em Nova Iorque. Sei que já faz um tempinho, e também admito que é uma viagem &#8220;normal&#8221; (comparando com as que já bloguei) &#8211; mas é um lugar que eu queria conhecer há tempos. Seguem, portanto, as [fotos][1] e as minhas impressões:
 

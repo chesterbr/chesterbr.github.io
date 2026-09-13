@@ -7,6 +7,7 @@ permalink: /archives/2004/02/manga-para-leigos.html/
 robotsmeta:
   - index,follow
 categories:
+  - comics
 ---
 <img src="/img/blig/hokusai_wave.jpg" border="1" alt="'A Grande Onda de Kanagawa, por Katsushita Hokusai. Ilustração do início do século XIX." align="left">O iG Ler publicou um <a href="http://web.archive.org/web/20040220043945/http://www.ig.com.br/home/igler/artigos/0,,1520907,00.html">guia sobre mangá</a> que eu escrevi, voltado a pessoas que não conhecem nada de HQ japonesa. Para que a coisa não virasse um livro, algumas generalizações tiveram que ser feitas (e até agora as pessoas me cobram por não ter falado deste ou daquele mangá). É a vida.
 

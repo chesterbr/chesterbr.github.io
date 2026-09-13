@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2004/06/kazu-kibuishi.html/
 categories:
+  - comics
 ---
 O que mais me alegra nos quadrinhos online é que eles seguem uma espécie de corrente do bem: os bons autores recomendam bons autores, que recomendam outros bons autores, e por aí vai. Seguindo esta linha, encontrei Kazu Kibuishi e seu excelente site [Bolt City][1].
 

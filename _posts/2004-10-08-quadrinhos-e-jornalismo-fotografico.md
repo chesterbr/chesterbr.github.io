@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2004/10/quadrinhos-e-jornalismo-fotografico.html/
 categories:
+  - comics
 ---
 <img src="/img/blig/palestina.jpg"  alt="capa de Palestina, Uma Nação Ocupada" align="left">Joe Sacco é um reporter fotógrafico que passou um bom tempo em contato direto com a população palestina. Esta experiência se materializou em <a href="https://www.amazon.com.br/Palestina-Na%C3%A7%C3%A3o-Ocupada-Joe-Sacco/dp/8587193171" >Palestina, uma nação ocupada</a>, uma inusitada reportagem&#8230; isso mesmo, em quadrinhos!
 

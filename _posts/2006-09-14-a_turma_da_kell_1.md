@@ -10,6 +10,7 @@ permalink: /archives/2006/09/a_turma_da_kell_1.html/
 dsq_thread_id:
   - 1751441806
 categories:
+  - comics
 ---
 Uma coisa legal da repercussão do [Golpe][1] foi que eu acabei visitando vários blogs e sites bacanas. Um deles me levou até [A Turma da Kelly][2], um *webcomic* nacional que me impressionou por abordar temas-tabu como homossexualismo, uso de maconha e ateísmo como eu acho que devem ser tratados, i.e., como parte do dia-a-dia de muita gente por aí, sem hipérboles nem preâmbulos. Coisas que as pessoas são, coisas que as pessoas fazem, ponto.
 

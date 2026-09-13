@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2003/05/hqs-classicas-disponiveis-para-download.html/
 categories:
+  - comics
 ---
 <img src="/img/blig/diasfutesq.jpg" align="left" border="2" hspace="3">Os fãs de mangá e animê já conhecem o trabalho dos *fansubbers* e dos *manga translators* &#8211; indivíduos que traduzem os desenhos e gibis, disponbilizando-os na Internet. A qualidade das traduções varia, mas é muitas vezes o único jeito de ter acesso a coisas que não são lançadas num determinado idioma ou país.
 </br/>No Brasil já existem alguns grupos que fazem isto &#8211; mas eles costumam obedecer a regra de ouro: só disponibilizar o que não existe no país, de forma a viabilizar a atividade das editoras locais. Um exemplo é o <a href="http://www.lovehina.hpg.ig.com.br/" >Love Hina Brasil</a>, que, apesar do nome, está trabalhando em outros mangás desde que a JBC começou a publicar Love Hina (um dos meus prediletos, mas já citei isto <a href="/archives/2002/11/e-de-menina-mas-eu-gosto.html/">em outra ocasião</a>).

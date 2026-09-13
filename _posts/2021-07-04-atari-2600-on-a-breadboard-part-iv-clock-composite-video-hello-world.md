@@ -7,6 +7,7 @@ description: "Some adventures with clock and composite circuits, but our baby no
 comments: true
 categories:
   - atari-2600
+  - electronics
 ---
 
 * [Part I: CPU (6507)](/archives/2017/09/atari-2600-cpu-running-on-a-breadboard/)

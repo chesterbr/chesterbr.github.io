@@ -3,7 +3,7 @@
   <li class="topics-widget">
     <details>
       <summary data-i18n="categories">Categories</summary>
-      <ul class="topics-menu">
+      <ul id="topics-menu" class="topics-menu">
         {% for cat in site.data.categories %}
         <li><a href="{{ cat.url }}" data-i18n="cat-{{ cat.slug }}">{{ cat.label.en }}</a></li>
         {% endfor %}

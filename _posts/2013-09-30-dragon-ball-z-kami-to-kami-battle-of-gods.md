@@ -4,6 +4,7 @@ layout: post
 title: "Dragon Ball Z: Kami to Kami (Battle of Gods)"
 comments: true
 categories:
+  - comics
 ---
 ![Dragon Ball Z: Kami to Kami (Battle of Gods)](/wp-content/uploads/2013/09/dbz-kamitokami.jpg){: .center }
 

@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2007/12/drawn_the_illus.html/
 categories:
+  - comics
 ---
 <img title="logotipo do Drawn!" src="/archives/img/drawnbanner4.gif" width="234" height="60" class="mt-image-left" style="float: right; margin: 0 0 20px 20px ;" />[Drawn!][1] é uma fonte constantemente atualizada de curiosidades para fãs de quadrinhos, cartuns, animação e arte seqüencial, mantida como blog de forma descompromissada por profissionais do setor.
 

@@ -12,6 +12,7 @@ robotsmeta:
 dsq_thread_id:
   - 1751443132
 categories:
+  - travel
 ---
 <img border="1" title="Mapa da África do Sul. Note que Joanesburgo é bem longe de Cape Town" src="/archives/img/south_africa_map.gif" width="500" height="432" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Estou trabalhando no braço brasileiro da [MIH][1], uma empresa sediada na África do Sul. Como a equipe é geograficamente dispersa (além de brasileiros e sul-africanos, temos chineses também), fomos convocados para um *team building*. Resultado: desde o último sábado eu estou na Cidade do Cabo (ou Cape Town, como chamamos aqui), e os próximos posts vão falar disso. Divirtam-se.
 

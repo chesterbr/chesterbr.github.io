@@ -10,6 +10,7 @@ permalink: /archives/2009/01/zen_e_a_arte_da_manutencao_de_motocicletas.html/
 dsq_thread_id:
   - 1751450236
 categories:
+  - books
 ---
 <a class="dead-link" title="este link morreu" href="http://www.submarino.com.br/produto/1/1966289/zen+e+a+arte+da+manutencao+de+motocicletas:+uma+investigacao+sobre+...?franq=273452"><img class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" title="Zen e a Arte da Manutenção de Motocicletas (clique para comprar)" src="/archives/img/mt/2009/01/15/zamm.jpg" border="0" alt="" width="119" height="180" /></a><span class="dead-link-mark">†</span>Comecei a ler este livro anos atrás, mas acabei não terminando, e retomei ele após ler o [recém-comentado][1] Os Vagabundos Iluminados, já que ambos são histórias semi-autobiográficas nas quais o zen-budismo exerce influência num contexto urbano ocidental (especificamente, nos EUA).
 

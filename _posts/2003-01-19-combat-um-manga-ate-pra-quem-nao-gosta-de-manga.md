@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2003/01/combat-um-manga-ate-pra-quem-nao-gosta-de-manga.html/
 categories:
+  - comics
 ---
 <img src="/img/blig/combatvol01.gif" align="left" border="2" hspace="2">Só o fato de ser do mesmo autor de &#8220;Mai&#8221; (um dos primeiros mangás a sair no Brasil, na época da onda Akira/Lobo Solitário) já valeria uma olhada neste gibi &#8211; e pelo jeito o Sr. Kazuya Kudo não perdeu a mão, o gibi é ótimo.
 

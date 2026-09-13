@@ -10,6 +10,7 @@ permalink: /archives/2007/10/chester_na_africa_viii.html/
 dsq_thread_id:
   - 1751450771
 categories:
+  - travel
 ---
 <img title="Otávio, Allen e André na feira de Green Point" border="1" src="/archives/img/feira_green_point.jpg" width="250" height="188" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />*08/10 (Domingo) &#8211; Feira, universidades, rugby e bossa nova (bônus: mais DDR)*
 

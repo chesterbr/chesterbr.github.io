@@ -12,6 +12,7 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751444014
 categories:
+  - books
 ---
 <img title="freakonomics.jpg" src="/archives/img/freakonomics.jpg" width="125" height="185" align="left" border="1" style="margin-right:2px" />Freakonomics é uma leitura que adiei bastante, mas a [edição americana em papel-jornal][1] (na casa dos R$ 20) me permitiu tirar o atraso. Trata-se de um interessante apanhado de análises em torno de questões sociais como criminalidade e sucesso profissional, cuja metodologia e conclusões desafiam o senso comum de uma forma muito original.
 

@@ -6,6 +6,7 @@ og_image: /img/2020/06/tv-usb-esp.png
 description: "Making Home Assistant turn a non-CEC TV on/off based on Chromecast usage required it to know if the TV is on or off. Here is how I did it."
 comments: true
 categories:
+  - electronics
 ---
 
 One convenient feature of Chromecast is that it turns on your TV automatically when you connect to it - as long as your TV has HDMI-CEC. Mine doesn't, but it is already [remote-controlled via Raspberry Pi](https://chester.me/archives/2017/12/voice-control-for-a-non-smart-tv-with-google-home-raspberry-pi-lirc-nginx-lua-ifttt/), and thanks to [Home Assistant](https://www.home-assistant.io/), I can easily detect when the Chromecast is in use, so in theory I could just blast a command to the IR when it switches away from "off".

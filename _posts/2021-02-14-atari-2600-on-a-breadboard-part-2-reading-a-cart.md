@@ -7,6 +7,7 @@ description: "Back to building an Atari from scratch, let's run some real code -
 comments: true
 categories:
   - atari-2600
+  - electronics
 ---
 
 * [Part I: CPU (6507)](/archives/2017/09/atari-2600-cpu-running-on-a-breadboard/)

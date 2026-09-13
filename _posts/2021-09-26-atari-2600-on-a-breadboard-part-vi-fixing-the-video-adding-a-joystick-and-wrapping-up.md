@@ -7,6 +7,7 @@ description: "Can't believe, but I got from absolutely nothing to a working Atar
 comments: true
 categories:
   - atari-2600
+  - electronics
 
 ---
 

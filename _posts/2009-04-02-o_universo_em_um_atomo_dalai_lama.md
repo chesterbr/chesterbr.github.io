@@ -10,6 +10,7 @@ permalink: /archives/2009/04/o_universo_em_um_atomo_dalai_lama.html/
 bb-custom-tags:
   - dalai lama
 categories:
+  - books
 ---
 <img class="mt-image-left" style="float: left;margin: 0 20px 20px 0" src="/archives/img/mt/2009/04/02/universo_atomo.jpg" alt="" width="128" height="190" />Este livro é escrito por ninguém menos que Tenzin Gyatso, mais conhecido como o [Dalai Lama][1]. Para quem não sabe, o título é atribuído a uma linhagem de líderes espirituais do budismo tibetano, e o décimo-quarto e atual Dalai Lama é um integrante bastante peculiar desta linhagem.
 

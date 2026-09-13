@@ -7,6 +7,7 @@ description: "Giving this venerable dark beauty a bit of love for improved audio
 comments: true
 categories:
   - atari-2600
+  - electronics
 ---
 
 A while ago I got this beautiful Atari 2600 all-black, 4-switch model - often nicknamed "Darth Vader", for obvious reasons:

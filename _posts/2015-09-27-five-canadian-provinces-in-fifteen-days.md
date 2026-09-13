@@ -6,6 +6,7 @@ comments: true
 og_image: /img/2015/09/map.png
 description: "As part of my current sabbatical, I decided to learn more about Canada. This is a wrap-up on this 6-city, 5-province trip"
 categories:
+  - travel
 ---
 
 ![](/img/2015/09/map.png){: .right }

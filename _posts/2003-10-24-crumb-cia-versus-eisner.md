@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2003/10/crumb-cia-versus-eisner.html/
 categories:
+  - comics
 ---
 Não vou me alongar demais explicando o que foi o Zap Comix (tem <a href="http://www.google.com/search?hl=&#038;cat=&#038;meta=&#038;q=zap+comix" >muito material</a> na Internet sobre o assunto). Como o gibi/fanzine influenciou meio mundo &#8211; incluindo o meio mundo que **me** influenciou &#8211; comprei assim que vi na frente (apesar do preço salgado, na faixa dos R$ 30).
 

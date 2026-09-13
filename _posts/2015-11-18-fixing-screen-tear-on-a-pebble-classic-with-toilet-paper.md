@@ -6,6 +6,7 @@ comments: true
 og_image: /img/2015/11/tearing.jpg
 description: Just fixed my first-gen Pebble with this unusual choice of padding material.
 categories:
+  - electronics
 ---
 
 The first-generation Pebble (now dubbed Pebble Classic) is, in my opinion, the best smartwatch in terms of cost/benefit. Unfortunately, a few of them start to manifest [screen tearing][1] after a few months of use, and mine was one of the "lucky" ones:

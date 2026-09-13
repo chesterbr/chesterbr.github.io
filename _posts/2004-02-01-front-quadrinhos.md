@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2004/02/front-quadrinhos.html/
 categories:
+  - comics
 ---
 A <a href="http://fabricadequadrinhos.virgula.terra.com.br/front/" >Front Quadrinhos</a> é um projeto/publicação bastante interessante, que usa o experimentalismo com responsabilidade. Isso, aliado ao fato de cada edição abordar um tema específico, acaba fazendo com que nem tudo o que se vê agrade a todos os paladares, mas no final das contas sempre tem alguma história que se sobressai e justifica as experiências.
 

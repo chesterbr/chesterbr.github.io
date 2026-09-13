@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2003/01/quadrinhos-a-servico-da-igreja.html/
 categories:
+  - comics
 ---
 Aproveitando o assunto HQ: por esses dias eu recebi na USP um [panfleto][1], que me chamou a atenção por ser todo feito em quadrinhos. Não é novidade nego usar HQ para tentar passar um recado: o formato junta o apelo visual de mídias como a TV com a densidade dos meios escritos.
 

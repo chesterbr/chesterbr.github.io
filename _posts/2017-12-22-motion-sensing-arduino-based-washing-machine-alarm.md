@@ -6,6 +6,7 @@ og_image: /img/2017/12/w_alarm_final.jpg
 description: "Soft end-of-cycle sound = wrinkled clothes. Arduino to the rescue!"
 comments: true
 categories:
+  - electronics
 ---
 
 I don't iron clothes. Heck, I don't even own an iron - [quickly folding clothes](https://www.youtube.com/watch?v=pLuuktlaqRU) _right when I remove them from the dryer_ works for most of them (and a [steamer](https://jiffysteamer.com/steamers/jiffy-esteam-handheld-clothes-steamer.html#156=20&166=58&158=25) does the job when that fails).

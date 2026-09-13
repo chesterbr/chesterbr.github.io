@@ -105,9 +105,23 @@
     });
   }
 
+  // Keep the Categories dropdown alphabetical by the *displayed* label. Because
+  // labels are localized, the order differs per language, so re-sort after each
+  // translation pass rather than fixing an order in the data file.
+  function sortTopicsMenu() {
+    var menu = document.getElementById("topics-menu");
+    if (!menu) return;
+    Array.prototype.slice.call(menu.children)
+      .sort(function (a, b) {
+        return a.textContent.trim().localeCompare(b.textContent.trim());
+      })
+      .forEach(function (li) { menu.appendChild(li); });
+  }
+
   function apply(mode) {
     document.documentElement.setAttribute("data-reader-lang", mode);
     applyTranslations(chromeLangFor(mode));
+    sortTopicsMenu();
     updateHomeLink(mode);
     updateSwitcherState(mode);
   }

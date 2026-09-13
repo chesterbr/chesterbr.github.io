@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2007/10/chester_na_afri_2.html/
 categories:
+  - travel
 ---
 <img title="Pub do Peddlars" border="1" src="/archives/img/peddlars_pub.jpg" width="230" height="176" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />*04/10 (Quarta) &#8211; A escolha do chefe, rugby e um bar &#8220;estáile&#8221;*
 

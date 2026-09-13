@@ -10,6 +10,7 @@ permalink: /archives/2008/08/stumbling_on_happiness_o_que_nos_faz_felizes_daniel
 dsq_thread_id:
   - 1751449896
 categories:
+  - books
 ---
 <img title="capa do Stumbling On Happiness" src="/archives/img/stumbling_on_happiness.jpg" width="200" height="309" class="mt-image-right" style="border-style: solid; border-width: 1px; float: right; margin: 0 0 20px 20px;" />[Stumbling on Happiness][1] é um dos livros mais interessantes que li este ano. O [autor][2] é professor de psicologia de Harvard, e aborda um dos temas mais espinhosos das ciências humanas: a felicidade (ou, mais especificamente: por que é tão difícil definir, encontrar ou manter por perto esse monstrinho).
 

@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2007/10/chester_na_afri_7.html/
 categories:
+  - travel
 ---
 [<img border="0" src="http://www.vodacom4me.co.za/vodacom4me-personal-resources/infocam/Cam@10.113.41.21_352x288.jpg" style="float:right; margin-left:10px; margin-bottom: 10px;" title="vista da Table Mountain - clique e fique dando reload à vontade" />][1]*09/10 (Terça) &#8211; Table Mountain e jantar no porto*
 

@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2005/02/quadrinhos-sobre-graduacao.html/
 categories:
+  - comics
 ---
 <a href="http://www.phdcomics.com/" >PhD: Piled Higher and Deeper</a> é mais uma daquelas tiras gratuitas online que, mesmo existindo desde 1900 e guaraná com rolha, eu só descobri agora. O autor (Jorge Cham) aparentemente começou a tira quando estava na faculdade, meio que para desestressar, e a coisa foi engrenando.
 

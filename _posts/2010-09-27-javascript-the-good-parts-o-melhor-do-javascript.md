@@ -11,6 +11,7 @@ robotsmeta:
 dsq_thread_id:
   - 1751441288
 categories:
+  - books
 ---
 <img class="alignright size-full wp-image-4561" title="crockford" src="/wp-content/uploads/2010/09/crockford.jpg" alt="Douglas Crockford, autor de JavaScript: The Good Parts" width="199" height="295" />Não ia escrever sobre esse livro, simplesmente porque não teria muito a acrescentar, mas o [Lucas][1] me convenceu de que valeria a pena nem que fosse só pra convocar as pessoas a ler. Se você programa em JavaScript (mais ainda: se não programa ou não gosta dela por ter tido experiências ruins), preste atenção:
 

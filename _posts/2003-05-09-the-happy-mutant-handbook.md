@@ -7,6 +7,7 @@ permalink: /archives/2003/05/the-happy-mutant-handbook.html/
 dsq_thread_id:
   - 1751447236
 categories:
+  - books
 ---
 <img src="/img/blig/happymutant.jpg" border="2" alt="" hspace="3" align="left" />Uma coisa leva à outra: ao ler *The Hacker Files* (HQ sobre Internet muito à frente de sua época, mas eu falo dela outro dia) tomei conhecimento do fanzine *bOING bOING* (hoje um &#8220;[diretório de coisas fantásticas][1]&#8220;). O zine era ótimo, mas difícil de conseguir por aqui. Em 1995 os autores publicaram o livro [The Happy Mutant Handbook: Mischievous Fun For Higher Primates][2], e em 1998 eu perdi o medo do e-commerce e comprei na Amazon.
 

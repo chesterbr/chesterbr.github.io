@@ -9,6 +9,7 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751448203
 categories:
+  - comics
 ---
 Muito bacana esse [The Amazing Adventures of Puny Parker][1], do [Vitor Cafaggi][2]. É um quadrinho *fanfic* absurdamente bem desenhado, colorido e finalizado que ilustra as hipotéticas aventuras de uma versão infantil daquele que se tornaria o Homem-Aranha. O resultado lembra um pouco Calvin e Haroldo, em termos de leveza e profundidade, mas tem sotaque próprio:
 

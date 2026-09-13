@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2005/03/filho-de-jor-el.html/
 categories:
+  - comics
 ---
 <img src="/img/blig/superdick.jpg" border="1" align="left" alt="Esse Super é mesmo um FDP...">Qualquer que seja a leitura &#8211; do &#8220;escoteirinho&#8221; dos quadrinhos de Frank Miller ao &#8220;cara decente&#8221; do seriado *SmallVille* &#8211; o Superman sempre será o ícone do bom-mocismo&#8230; ou não?
 

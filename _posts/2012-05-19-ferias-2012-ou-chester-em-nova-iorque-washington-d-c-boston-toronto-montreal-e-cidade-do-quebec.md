@@ -43,6 +43,7 @@ onswipe_thumb:
     	<li><a href="http://www.flickr.com/photos/chesterbr/sets/72157629580722736/">Star Wars Expo</a></li>
     </ul>/0.jpg
 categories:
+  - travel
 ---
 <img class="alignright  wp-image-6886" style="border: 1px solid black; padding: 0px;" title="Mapa das Férias 2012" src="/wp-content/uploads/2012/05/mapa_ferias_2012_esq.png" alt="" width="271" height="355" />A [Bani][1] queria participar da [Toronto eMetrics][2] (uma conferência de [gente que tortura os números da web até que eles confessem][3]). Era a desculpa que eu precisava para conhecer Toronto de verdade e [retornar][4] a Nova Iorque.
 

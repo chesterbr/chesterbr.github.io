@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2006/05/o_marketing_dep.html/
 categories:
+  - books
 ---
 <img title="Ilustração da capa do livro, estendida" src="/archives/img/cava.jpg" width="300" height="162" align="left"/ style="margin-right:6px" border="1">[O Marketing Depois de Amanhã][1], livro mais recente do Ricardo Cavallini, é de difícil definição. Seu primeiro trabalho ([Boa Bronha &#8211; A arte de desperdiçar energia][2]) usava a experiência de criar um dos mais divertidos sites adultos brasileiros para comentar, de forma irreverente, diversos aspectos sobre criação, produção e marketing na web.
 

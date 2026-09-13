@@ -7,6 +7,7 @@ permalink: /archives/2003/09/restolhada-do-marcatti.html/
 onswipe_thumb:
   - SKIP
 categories:
+  - comics
 ---
 Com o trabalho e as provas se acumulando, sobra pouco tempo para ler, assistir, navegar, fuçar, enfim, garimpar matéria prima para escrever aqui. Mas acabei dando de cara com o álbum <a href="http://www.marcatti.net/hqs/restolhada.htm" >Restolhada</a>. O autor, Marcatti, dispensa apresentações &#8211; ou melhor, eu achava que dispensava &#8211; até ler o álbum.
 

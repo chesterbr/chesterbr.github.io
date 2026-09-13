@@ -10,6 +10,7 @@ permalink: /archives/2005/06/pbf_e_diesel_sw_1.html/
 dsq_thread_id:
   - 1756603744
 categories:
+  - comics
 ---
 Achei mais dois sites com quadrinhos bacanas e gratuitos. O primeiro, [PBF][1], é refinado no traço e no humor. Raramente se vê coisa tão inspirada na rede:
 <center>

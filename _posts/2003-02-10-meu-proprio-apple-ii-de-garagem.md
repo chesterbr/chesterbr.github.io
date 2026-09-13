@@ -9,6 +9,7 @@ redirect_from:
   - /iigs.html/
 categories:
   - retrocomputing
+  - electronics
 ---
 <img src="/img/blig/tupperiigs.jpg" border="2" alt="Apple IIGS montado num gabinete de tupperware" hspace="2" align="right" />Correndo o risco de denunciar meus vinte e muitos anos, confesso que boa parte da minha formação como programador veio dos saudosos clones do Apple II (TK3000, Unitron AP II, etc.). Juntando o desejo de voltar a brincar com uma dessas máquinas com o sonho de moleque de ter um Apple II<tt>GS</tt> (modelo mais avançado que não chegou ao Brasil), resolvi comprar uma placa-mãe de IIGS no eBay (lá vendem o micro completo de baciada, mas o envio é proibitivo), improvisando um gabinete e adaptando periféricos de PC/Mac.
 

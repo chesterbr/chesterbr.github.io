@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2005/10/ringu_o_chamado.html/
 categories:
+  - comics
 ---
 <img title="sada.jpg" src="/archives/img/sada.jpg" width="245" height="189" align="right" border="1" />Não sou muito adepto do gênero terror &#8211; seja em quadrinhos, filmes ou livros (e nem é medo, antes fosse: o meu caso é uma certa insensibilidade ao assunto).
 

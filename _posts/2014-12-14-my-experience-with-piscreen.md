@@ -5,6 +5,7 @@ title: "My Experience With PiScreen"
 comments: true
 og_image: https://farm8.staticflickr.com/7534/16019992942_1ea99dba61.jpg
 categories:
+  - electronics
 ---
 
 Even though you can plug a Raspberry Pi to any modern TV/monitor, its diminutive size *screams* for a smaller screen, ideally a touch-sensitive one. PiScreen was one of the first (relatively) inexpensive screens like that. Excited by the video below, I backed [its KickStarter][1] in April, received it in October and just found the time to build it.

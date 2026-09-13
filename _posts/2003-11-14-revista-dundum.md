@@ -7,6 +7,7 @@ permalink: /archives/2003/11/revista-dundum.html/
 robotsmeta:
   - index,follow
 categories:
+  - comics
 ---
 <img src="img/blig/dundum.jpg"style="float:right;border:1px solid black; margin:4px">A Dundum foi publicada em Porto Alegre, bem no começo dos anos 90. Além de ser o berço de gente como Adão Iturrusgarai e Edgar Vasques, ficou famosa por ter recebido apoio da Secretaría Municipal de Cultura (gestão PT), seguida pelas tradicionais reações da oposição quanto à &#8220;imoralidade subsidiada pelo dinheiro público&#8221;, aquela papagaiada de sempre, mas que, no fim das contas, parece ter ajudado tanto a prefeitura quanto a revista.
 

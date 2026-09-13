@@ -7,6 +7,7 @@ description: "Image is still not great, but hey, I can hear Pac-Man dying \U0001
 comments: true
 categories:
   - atari-2600
+  - electronics
 ---
 
 * [Part I: CPU (6507)](/archives/2017/09/atari-2600-cpu-running-on-a-breadboard/)

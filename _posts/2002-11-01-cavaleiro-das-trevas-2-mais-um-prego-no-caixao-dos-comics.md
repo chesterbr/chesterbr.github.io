@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2002/11/cavaleiro-das-trevas-2-mais-um-prego-no-caixao-dos-comics.html/
 categories:
+  - comics
 ---
 Agora que finalmente saiu o terceiro volume, meu parecer: Cavaleiro das Trevas sintetiza tudo o que me levou a começar a ler gibis de super-heróis. Cavaleiro das Trevas 2, por sua vez, resume bem tudo aquilo que me fez \*parar\* de ler este gênero de quadrinhos (que me trouxe muita diversão e &#8211; por que não dizer &#8211; cultura nestes últimos quinze anos).
 

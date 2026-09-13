@@ -9,6 +9,7 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751442002
 categories:
+  - comics
 ---
 [<img class="alignright size-full wp-image-6003" title="FoxTrot sobre iPad e Quadrinhos (c) Bill Amend http://www.foxtrot.com" src="/wp-content/uploads/2011/06/ipad_comics_foxtrot1.png" alt="FoxTrot sobre iPad e Quadrinhos (c) Bill Amend http://www.foxtrot.com" width="288" height="195" />][1]Resisti bastante à idéia de comprar um tablet. A inevitável comparação com o netbook mostra duas coisas que fazem falta: um teclado de verdade (indispensável para quem produz conteúdo) e a [liberdade][2] para usar os softwares que eu quiser. Mas fui seduzido pela novidade e, principalmente, pelo tempo generoso de bateria (algo muito útil em eventos de TI) e comprei um [iPad 2][3] na minha última [viagem][4]. Claro que uma das primeiras coisas que eu quis tentar com ele foi ler quadrinhos &#8211; a tela e a resolução pareciam ideais para o formato.
 

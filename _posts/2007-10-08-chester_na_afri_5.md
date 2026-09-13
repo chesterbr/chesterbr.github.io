@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2007/10/chester_na_afri_5.html/
 categories:
+  - travel
 ---
 <p><img title="Gosto muito de você, leãozinho..." border="1" src="/archives/img/chester_leoa.jpg" width="300" height="225" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;"/><em>07/10 (Sábado) &#8211; Safari e fotos</em></p>
 <p>Chegou o tão esperado dia: fomos ao safari. Mais especifciamente, um foto-safari &#8211; a diferença básica é que você vai num jipe, e, ao invés de matar os bichos, tira foto deles. E por mais que este texto procure desmistificar os estereótipos, ir pra África e não ver um único animal selvagem também já é demais!</p>

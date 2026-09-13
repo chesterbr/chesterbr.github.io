@@ -7,6 +7,7 @@ permalink: /archives/2009/09/chester-na-europa-2-berlim.html/
 dsq_thread_id:
   - 1751441175
 categories:
+  - travel
 ---
 De [Dresden][1] eu fui a Berlim, que também transpira história a cada esquina. Mas tem uma diferença: Dresden é um lugar mais &#8220;leve&#8221;, mesmo longe da zona-de-conto-de-fadas, enquanto que em Berlim vivencia-se o fato de estar em uma grande metrópole. Isso se junta às questões da história recente (que nem preciso abordar a fundo) para deixar o clima um pouco mais pesado. Mas só um pouco.
 

@@ -10,6 +10,7 @@ permalink: /archives/2007/02/linguagens_de_p.html/
 dsq_thread_id:
   - 1751444127
 categories:
+  - books
 ---
 A comparação entre linguagens de programação (e incluem-se aí os ambientes sob os quais estas linguagens operam) é um assunto quase que inesgotável.
 

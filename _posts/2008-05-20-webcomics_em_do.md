@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2008/05/webcomics_em_do.html/
 categories:
+  - comics
 ---
 Excelente início de semana para webcomics: não apenas Rene Engström retomou a produção de [Anders Loves Maria][1] (após um período [assustada][2] por conta de um idiota passador de trotes) mas também achei outro quadrinho muito simpático: [Wasted Talent][3], da (supostamente) canadense Angela Melick.
 

@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2002/04/mataram-o-kenny-de-vez-bastardos-ou-nao.html/
 categories:
+  - comics
 ---
 Dessa vez, mataram o Kenny [mesmo][1]. E essa notícia me fez pensar: por que os autores de quadrinhos e desenhos de sucesso precisam tão desesperadamente assassinar suas criações quando estas estão no auge?
 

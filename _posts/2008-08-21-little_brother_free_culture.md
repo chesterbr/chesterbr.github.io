@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2008/08/little_brother_free_culture.html/
 categories:
+  - books
 ---
 Estou devendo comentários sobre inúmeros livros que andei lendo, e começo a pagar esta dívida resenhando dois no mesmo post:
 

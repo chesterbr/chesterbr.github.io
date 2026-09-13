@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2005/02/mundinho-animal.html/
 categories:
+  - comics
 ---
 <img src="/img/blig/mundinho.jpg"  align="left" alt="Trecho de tira do Arnaldo Branco">Quem já conhece o Allan Sieber (<a href="http://www.tonto.com.br/tiras/allan.htm" >Preto no Branco</a>) provavelmente já viu ele elogiando um tal Arnaldo Branco (e olha que para o rei do mau humor elogiar algo ou alguém é difícil).
 

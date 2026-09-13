@@ -5,6 +5,8 @@ title: 'Making an old-school doorbell "ring" on Telegram (via Home Assistant + E
 og_image: /img/2022/10/all-together.jpg
 description: "A circuit that detects the 12V AC doorbell and triggers Home Assistant via an ESP8226 (Wemos D1 Mini board) and ESPHome"
 comments: true
+categories:
+  - electronics
 ---
 
 After years of living in single-room condos, we decided to try a more spacious, two-store house, which has a very old and low-tech doorbell: a button on the door triggers a "ding-dong" classic doorbell - very easy to miss if you are on the upper floor, causing all sorts of issues with deliveries.

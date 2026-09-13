@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2002/05/hq-a-volta-do-formatinho.html/
 categories:
+  - comics
 ---
 A Abril decidiu <a class="dead-link" title="este link morreu" href="http://www.omelete.com.br/quadrinhos/news/base\_para\_news.asp?artigo=2472" >voltar</a><span class="dead-link-mark">†</span> a publicar seus gibis no polêmico &#8220;formatinho&#8221;. Num primeiro momento, achei uma boa, já que HQ de super-herói raramente justifica um grande investimento, mas a preços populares dá pra correr mais riscos.
 

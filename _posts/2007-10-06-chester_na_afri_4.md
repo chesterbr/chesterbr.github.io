@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2007/10/chester_na_afri_4.html/
 categories:
+  - travel
 ---
 *06/10 (Sexta) &#8211; Table Mountain, Devil&#8217;s Peak e um pouco da Jamaica em Woodstock*
 

@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2007/08/sam_and_fuzzy.html/
 categories:
+  - comics
 ---
 Para compensar a longa ausência (motivada por juntar um emprego *muito* bacana à tradicionalmente enroscada USP), resolvi postar nesta semana uma série com webcomics que eu ando lendo (e que não tenha comentado anteriormente).
 

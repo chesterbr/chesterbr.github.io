@@ -9,6 +9,7 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751447796
 categories:
+  - travel
 ---
 [<img class="alignright size-medium wp-image-5749" style="border: 1px solid black; padding: 0px;" title="Chester na Disney" src="/wp-content/uploads/2010/12/chester_disney-282x300.jpg" alt="Chester na Disney" width="282" height="300" />][1]A [viagem à Califórnia][2] foi seguida por um passeio à Disney de Orlando &#8211; ou, oficialmente, ao [Walt Disney World Resort][3]. O meu maior interesse era conhecer os parques temáticos &#8211; e entender o fascínio que gente como [Cory Doctorow][4] tem pelo assunto ([Down And Out in the Magic Kingdom][5] e [Makers][6] são dois ótimos livros dele que flertam com o tema).
 

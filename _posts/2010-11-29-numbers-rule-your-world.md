@@ -12,6 +12,7 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751447487
 categories:
+  - books
 ---
 <img class="alignleft size-full wp-image-4881" style="margin-right: 4px;" title="Numbers Rule Your World" src="/wp-content/uploads/2010/11/numbers_rule_your_world.jpg" alt="Numbers Rule Your World" width="140" height="206" />Seria um exagero dizer que todo mundo curte um bom livro sobre matemática. Mas não dá para ignorar a popularidade dos que tentam jogar fora a interpretação natural dos números em favor de uma nova ordem que possa emergir do caos aparente. Exemplos incluem o [Freakonomics][1], com a sua investigação baseada em números; o [Outliers][2], que olha para as pessoas e coisas que se destacam; o [Free][3]; o [The Long Tail][4] e toda uma série de livros cujo tema é a &#8220;matemática fora da caixa&#8221;.
 

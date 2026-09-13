@@ -5,6 +5,7 @@ title: "Canada Day Comics"
 comments: true
 og_image: /img/2014/07/canada_bubble.png
 categories:
+  - comics
 ---
 
 <a href="https://en.wikipedia.org/wiki/User:Curly_Turkey"><img src="/img/2014/07/canada_bubble.png" style="border:0; box-shadow:0px 0px 0px" align="right" alt="CC-BY Curly Turkey" title="CC-BY Curly Turkey" /></a>An untrained observer would infer I'd spend this <a class="dead-link" title="this link died" href="http://canadaday.gc.ca">Canada Day</a><span class="dead-link-mark">†</span> lazily reading comics. That isn't true: to honor the spirit of the day, I've been lazily reading **Canada-related** comic books (by author or subject).

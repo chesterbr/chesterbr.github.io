@@ -17,6 +17,7 @@ enclosure:
 dsq_thread_id:
   - 1751443981
 categories:
+  - comics
 ---
 <img title="Sílvio Santos" src="/archives/img/silvio_santos.jpg" width="150" height="225" align="left" border="1" style="margin-right:2px" />Lendo o álbum [Minha Vida][1], do sempre genial Robert Crumb, descobri um fato inusitado sobre a música que anunciava a entrada dos jurados do Show De Calouros.
 

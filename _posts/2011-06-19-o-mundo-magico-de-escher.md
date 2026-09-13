@@ -9,6 +9,7 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751447173
 categories:
+  - books
 ---
 Foi preciso coragem para vencer o frio e a preguiça, mas eu e a [Bani][1] fomos ver [O Mundo Mágico de Escher][2], a tão falada exposição da arte de [M.C. Escher][3]. Qualquer nerd de respeito (e até alguns humanos normais) conhece muitas das [ilustrações][4] apresentadas ali, mas é bacana ver essas obras em tamanho grande &#8211; isso sem falar na parte interativa e no filminho 3D.
 

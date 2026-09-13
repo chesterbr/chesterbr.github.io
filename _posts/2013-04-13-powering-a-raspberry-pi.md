@@ -9,6 +9,7 @@ robotsmeta:
 dsq_thread_id:
   - 1751448369
 categories:
+  - electronics
 ---
 The [Raspberry Pi][1] is powered through an standard micro-USB conector. That is great, since it allows you to use pretty much any phone charger you got lying around. Or at least one that supplies 700mA of current (maybe a bit more if you plug extra USB stuff on the Pi).
 

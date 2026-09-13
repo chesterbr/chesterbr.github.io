@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2005/05/como_mover_o_mo.html/
 categories:
+  - books
 ---
 <img title="Capa de 'Como Mover o Monte Fuji'" src="/archives/img/montefuji.jpg" width="130" height="130" align="left" />Me deparei por acaso com [Como Mover o Monte Fuji][1], livro [recomendado][2] por Joel Spolsky, e que não sabia existir em português. O tema são os famosos quebra-cabeças de entrevista &#8211; cosutmeiramente atribuídos à Microsoft, mas usados na prática por uma boa parcela das empresas da era pontocom na sua declarada (embora nem sempre sincera) busca pelos melhores talentos.
 

@@ -7,6 +7,7 @@ description: "First step of an ambitious idea: rebuilding an Atari on a solderle
 comments: true
 categories:
   - atari-2600
+  - electronics
 ---
 
 * Part I: CPU (6507)

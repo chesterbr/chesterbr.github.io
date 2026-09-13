@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2002/05/filmes-sobre-quadrinhos-desconfie-sempre.html/
 categories:
+  - comics
 ---
 Depois de produções bem-cuidadas e com pelo menos um pouco de respeito à inteligência do público, como foram X-Men e Homem-Aranha, as pessoas parecem estar perdendo o medo das adaptações de quadrinhos para filmes.
 

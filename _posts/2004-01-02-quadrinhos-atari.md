@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2004/01/quadrinhos-atari.html/
 categories:
+  - comics
 ---
 <img src="img/blig/atariage.jpg"alt="capa da revista em quadrinhos do Yars' Revenge" align="left" >O <a href="http://www.atariage.com" >Atari Age</a> se destaca dos outros sites sobre o videogame pelo preciosismo com que é construído. Eu comecei a fuçar por causa dos <a href="http://www.atariage.com/development_list.html" >jogos&nbsp;em&nbsp;desenvolvimento</a>: tem até um clone do Dance Dance Revolution!
 

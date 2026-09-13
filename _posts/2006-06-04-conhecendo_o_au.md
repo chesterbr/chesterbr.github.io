@@ -10,6 +10,7 @@ permalink: /archives/2006/06/conhecendo_o_au.html/
 dsq_thread_id:
   - 1751441850
 categories:
+  - comics
 ---
 <img title="Eu sou o cara sem cabelo, o Yabu é o outro" src="/archives/img/chester_yabu_crop.jpg" width="200" height="167" align="right" style="margin-left:2px" border="1" />Não sou muito dado a cenas de *fanboy*, mas não resisti a ir conhecer pessoalmente o Fabio Yabu (dos [já][1] [mencionados][2] Combo Rangers) quando ele foi lançar o seu [segundo livro da série Princesas do Mar][3] (que é voltada para um público mais novo que o de Combo Rangers). Aproveitei pra pegar o tradicional autógrafo e tirar algumas [fotos][4].
 

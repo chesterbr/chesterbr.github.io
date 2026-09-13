@@ -6,6 +6,7 @@ og_image: "/img/2019/06/joycon_replacement.jpg"
 description: "Joy-Con sliding out of the console during gameplay? Replacing a tiny latch on the controller fixes that."
 comments: true
 categories:
+  - electronics
 ---
 
 The Nintendo Switch is surprisingly sturdy, but this is a common problem: joy-cons that still click (and oh, how I _love_ [that click](https://www.youtube.com/watch?v=JFu6l6Gqh7o)) and snap to the console, but slide off when they shouldn't (e.g., right in the middle of an online game match).

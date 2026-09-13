@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2007/08/striptease.html/
 categories:
+  - comics
 ---
 <img alt="striptease.png" src="/archives/img/striptease.png" width="163" height="237" align="right" style="margin-left:2px" />Parece que preto-e-branco é o novo preto: [Striptease][1] é mais um webcomic que dispensa o colorido, mas sem abrir mão da qualidade.
 

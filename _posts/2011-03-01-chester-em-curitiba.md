@@ -9,6 +9,7 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751448027
 categories:
+  - travel
 ---
 Mais uma vez apelei para o velho truque de transformar o transtorno de voltar de uma viagem a trabalho numa sexta-feira em um passeio de final de semana de baixo custo. Os curitibanos se orgulham de morar em uma cidade que alia qualidade de vida a comodidades urbanas, e resolvi passar o sábado conferindo, aproveitando as dicas da [Bani][1], que **sempre** tem um mapinha turístico no fundo do armário.
 

@@ -6,6 +6,7 @@ comments: true
 og_image: /img/2016/12/front.jpg
 categories:
   - retrocomputing
+  - electronics
 ---
 
 When I saw this person [building a Raspberry Pi inside a vintage Apple Keyboard][1], I thought it could be a comfortable way to play Apple II games on a TV. More important, I happen to have an [Apple Extended Keyboard II][8] just waiting for such an experiment...

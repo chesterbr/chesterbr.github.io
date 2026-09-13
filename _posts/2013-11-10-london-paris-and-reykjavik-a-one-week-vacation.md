@@ -4,6 +4,7 @@ layout: post
 title: "London, Paris and Reykjavík: A One-Week Vacation"
 comments: true
 categories:
+  - travel
 ---
 
 [Bani][1] noticed this winter would be one of the [best][319] to see the

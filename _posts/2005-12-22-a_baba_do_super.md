@@ -10,6 +10,7 @@ permalink: /archives/2005/12/a_baba_do_super.html/
 dsq_thread_id:
   - 1751445005
 categories:
+  - comics
 ---
 <img title="Cenas de 'A babá do Superman'" src="/archives/img/supermanbs.jpg" width="142" height="238" align="left" style="margin-right:2px" />Elsewords é a linha de histórias em quadrinhos da DC Comics ambientada fora da cronologia oficial dos personagens (se é tal conceito ainda existe, dada a [bagunça][1] que fizeram para tentar encaixar os eventos do seriado Smallville na história como vinha sido contada até então).
 

@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2007/10/chester_na_africa_iii.html/
 categories:
+  - travel
 ---
 
   <img title="eu, depois do episódio deprimente" src="/archives/img/chester_quadriciclo.jpg" width="150" height="178" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" border="1" />

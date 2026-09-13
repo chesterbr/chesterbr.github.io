@@ -12,6 +12,7 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751443834
 categories:
+  - comics
 ---
 <img title="Capas de alguns 'catecismos' de Carlos Zéfiro. Fonte: carloszefiro.com." src="/archives/img/carloszefiro_catecismos.jpg" width="270" height="237" align="right" style="margin-left:2px" />**ATENÇÃO:** Links impróprios para escritório (é quase softcore para os dias de hoje, mas não custa avisar.)
 

@@ -6,6 +6,7 @@ og_image: "/img/2020/07/box-final.jpg"
 description: "Mine was missing the USB plug. With some wiring, the groove continues in 2020!"
 comments: true
 categories:
+  - electronics
 ---
 
 As a [Dance Dance Revolution (DDR)](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) enthusiast on its heyday, I spent a lot of time [adapting dance pads](https://chester.me/tapete/) to improve comfort and durability, until I [got myself an Ignition pad](https://chester.me/ignition/). Its thick rubber interior, superior sensors and [RedOctane](https://en.wikipedia.org/wiki/RedOctane) (of Guitar Hero fame) quality resulted in no mis-/over-/continued registering of arrows, less knee strain and happier downstairs neighbours.

@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2003/11/same-difference-and-other-stories.html/
 categories:
+  - comics
 ---
 <img src="img/blig/samediffother.gif"align="right" border="2">Finalmente chegou o meu exemplar da <a href="http://www.smallstoriesonline.com/Loot/loot.htm" >versão papel</a> das histórias do fantástico Derek Kirk Kim. Já falei dele <a href="/archives/2003/03/quadrinho-bom-de-graca-e-online.html/">antes</a> por aqui, mas nunca é demais: suas histórias são fantásticas, particularmente a história-título, <a href="http://www.smallstoriesonline.com/Comics/SameDifference/SameDifferenceIndex.htm" >Same Difference</a>.
 

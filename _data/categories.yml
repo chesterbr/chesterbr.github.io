@@ -1,4 +1,4 @@
-# Source of truth for the blog's categories. Each entry drives the "Topics"
+# Source of truth for the blog's categories. Each entry drives the "Categories"
 # dropdown (_includes/custom/navigation.html), the reader-language label
 # (fed to javascripts/lang_switcher.js via _includes/head.html), and points at
 # the category's listing page.
@@ -7,14 +7,37 @@
 # `categories:` front matter, and create a listing page at `url` (copy an
 # existing one, e.g. blog/categories/retrocomputing/index.md, and set both
 # `permalink` and `category` to the new slug).
-# Order here is the order shown in the dropdown.
-- slug: retrocomputing
-  url: /blog/categories/retrocomputing/
-  label:
-    en: Retrocomputing
-    pt: Retrocomputação
+#
+# Order here doesn't matter for the dropdown — it is sorted alphabetically by
+# the displayed (localized) label at render time. This list is kept
+# alphabetical by the English label just for readability.
 - slug: atari-2600
   url: /blog/categories/atari-2600/
   label:
     en: Atari 2600
     pt: Atari 2600
+- slug: books
+  url: /blog/categories/books/
+  label:
+    en: Books
+    pt: Livros
+- slug: comics
+  url: /blog/categories/comics/
+  label:
+    en: Comics
+    pt: Quadrinhos
+- slug: electronics
+  url: /blog/categories/electronics/
+  label:
+    en: Electronics
+    pt: Eletrônica
+- slug: retrocomputing
+  url: /blog/categories/retrocomputing/
+  label:
+    en: Retrocomputing
+    pt: Retrocomputação
+- slug: travel
+  url: /blog/categories/travel/
+  label:
+    en: Travel
+    pt: Viagens

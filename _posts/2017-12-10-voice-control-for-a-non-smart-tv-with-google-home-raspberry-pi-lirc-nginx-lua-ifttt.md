@@ -6,6 +6,7 @@ og_image: /img/2017/12/multi_led.jpg
 description: "Teaching voice tricks to an old TV and sound bar requires some hacking, but pays off nicely."
 comments: true
 categories:
+  - electronics
 ---
 
 Despite my privacy concerns, I could not resist the [low price](https://mobilesyrup.com/2017/11/23/google-canada-home-mini-black-friday-2017/) of the Google Home Mini. It is _really_ convenient to control the ChromeCast with it, but turning my (non-smart) TV on/off, or switching the input between different devices still required reaching the remote...

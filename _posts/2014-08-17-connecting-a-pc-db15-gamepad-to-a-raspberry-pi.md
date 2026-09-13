@@ -5,6 +5,7 @@ title: "Connecting a PC (DB15) Gamepad to a Raspberry Pi"
 comments: true
 og_image: /img/2014/08/final.jpg
 categories:
+  - electronics
 ---
 
 ### A Hack is Born

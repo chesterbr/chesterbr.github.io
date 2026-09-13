@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2003/03/quadrinho-bom-de-graca-e-online.html/
 categories:
+  - comics
 ---
 Tem horas em que a vida nos surpreende: você gasta uma bala comprando <a href="http://web.archive.org/web/20060720183652/http://www.livrariaexotica.com.br:80/playboy.htm" >quadrinhos que supostamente deveriam ser legais</a>, e coisas bacanas de verdade pintam na web, de graça. Como foram dois casos só esse mês, me senti na obrigação de compartilhar:
 

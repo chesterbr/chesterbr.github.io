@@ -12,6 +12,7 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751450600
 categories:
+  - comics
 ---
 <img title="detalhe de um papel de parede do site da Turma da Mônica jovem" src="/archives/img/monica_jovem.jpg" width="220" height="300" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />Acabei de ler o número 1 (parece que [rolou um número zero][1] em alguns eventos) da <a href="http://web.archive.org/web/20100701112628/http://www.assinepanini.com:80/turmadamonicajovem/">versão &#8220;reloaded&#8221; da Turma da Mônica</a>. E posso dizer que me surpreendeu positivamente.
 

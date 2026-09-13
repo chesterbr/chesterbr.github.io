@@ -9,6 +9,7 @@ onswipe_thumb:
 dsq_thread_id:
   - 1751445096
 categories:
+  - books
 ---
 [<img class="alignleft size-full wp-image-4266" title="Outliers (Fora de Série) - livro" src="/wp-content/uploads/2010/07/outliers.jpg" alt="" width="129" height="199" />][1]Peguei [Outliers][1] para ler no ano passado, mas só agora deu tempo de escrever. Ele abre apontando uma relação estatística entre o horóscopo e as chances de sucesso de um jogador de hóquei &#8211; e o nome original¹ pode dar a entender que se trata de outro livro na linha do [Freakonomics][2].
 
