@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2010/06/cruzalinhas.html/
 categories:
+  - software
 ---
 O site da [SPTrans][1] oferece várias informações sobre as linhas de ônibus, trem e metrô que operam na cidade de São Paulo. A navegação, entretanto, deixa um pouco a desejar &#8211; razão que leva as pessoas a alternativas como o [Tô a Pé][2] e o eficiente sistema de rotas do [Google Maps][3].
 

@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2006/03/fuk_fuk_a_brasi.html/
 categories:
+  - mondo-bizarro
 ---
 <img title="Cena do Siri carregando seu 'porno-shop ambulante' (não devia existir o termo 'sex-shop' na época...)" src="/archives/img/ffab.jpg" width="325" height="256" align="right" border="1" style="margin-left:2px" />O que dizer de um filme com a sinopse abaixo? (fonte: [Cineprojeto 365][1])
 

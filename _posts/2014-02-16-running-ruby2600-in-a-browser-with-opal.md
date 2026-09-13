@@ -6,6 +6,7 @@ comments: true
 og_image: /img/2014/02/ruby2600_fb_logo.png
 categories:
   - atari-2600
+  - software
 ---
 
 ![ruby2600](/img/2014/02/ruby2600.png){: .right }

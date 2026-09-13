@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2005/08/a_exfesta_de_ca.html/
 categories:
+  - mondo-bizarro
 ---
 <img title="casamento.jpg" src="/archives/img/casamento.jpg" width="128" height="128" align="right" style="border-left:1px" />E quando eu achava que já tinha visto de tudo no Orkut, encontro essa [comunidade][1] surreal. O próprio dono explica:
 

@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2011/03/sms-denuncia.html/
 categories:
+  - software
 ---
 [<img class="size-full wp-image-5912  alignright" title="Cartaz do SMS-Denúncia no Metrô-SP" src="/wp-content/uploads/2011/03/smsdenuncia.jpg" alt="SMS-Denúncia" width="250" height="377" />][1]
 

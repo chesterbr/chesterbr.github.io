@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2002/05/um-homem-entra-num-restaurante-e-pede-uma-sopa-de-gaivota.html/
 categories:
+  - mondo-bizarro
 ---
 &#8230; ele prova a sopa, pega uma faca e se mata&#8221;. Esse trecho surreal é parte de uma brincadeira de salão, cujo nome eu nunca soube, mas que rende boas risadas. Funciona assim: uma pessoa conta uma história curta (como a que acabei de citar), e os outros têm que descobrir o que aconteceu, explicando o paradoxo presente na história contada (no caso: as pessoas não costumam se suicidar após tomarem uma sopa de gaivota).
 

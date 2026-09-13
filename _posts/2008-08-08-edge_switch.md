@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2008/08/edge_switch.html/
 categories:
+  - software
 ---
 <img src="/archives/img/on.png" width="57" height="59" class="mt-image-right right alignright" />O EDGE Switch é um programa que desenvolvi para o iPhone com o objetivo de bloquear/liberar a conexão de dados da operadora ([EDGE][1]). Isso é necessário porque o sistema operacional da Apple assume que o seu plano de dados é generoso e usa esta conexão sem perguntar quando não encontra uma rede sem fio.
 

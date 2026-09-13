@@ -5,6 +5,7 @@ title: "Enable dynamic DNS (DynDNS, Duck DNS, etc.) inside networks without NAT 
 description: "TL;DR: install dnsmasq with custom entry, configure devices to use it"
 comments: true
 categories:
+  - software
 ---
 
 Dynamic DNS providers like [DynDNS](https://dyn.com/dns/) or [Duck DNS](https://www.duckdns.org) are great to let you access software like [Home Assistant](https://www.home-assistant.io/) running on your [properly secured](https://www.raspberrypi.org/documentation/configuration/security.md) computer or Raspberry Pi from anywhere.

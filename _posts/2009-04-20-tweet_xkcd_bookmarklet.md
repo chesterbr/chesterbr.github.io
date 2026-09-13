@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2009/04/tweet_xkcd_bookmarklet.html/
 categories:
+  - software
 ---
 **UPDATE**: This was fun thing I did back when it wasn't so trivial to post things to social media (and we had to worry about IE6 😂). The bookmarklet isn't draggable anymore, but the code is formatted for posteriority.
 

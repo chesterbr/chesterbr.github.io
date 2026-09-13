@@ -7,6 +7,7 @@ description: "After making the dumb doorbell smarter, it's time to do the same t
 comments: true
 categories:
   - electronics
+  - software
 ---
 
 In the [last post](/archives/2022/10/making-an-old-school-dorbell-ring-on-telegram-home-assistant/) I described how I used an [ESP8266 board](https://makersportal.com/blog/2019/6/12/wemos-d1-mini-esp8266-arduino-wifi-board) to detect when my ancient doorbell rings, and trigger a notification on my phone. This time, I'm going to use the same board and a relay to unlock the front door, which, combined with the ring detection, will allow me to get deliveries past the front door, open it for visitors, and even unlock both that door and the internal one (which already has a smart lock) when I arrive home!

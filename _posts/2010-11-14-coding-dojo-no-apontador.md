@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2010/11/coding-dojo-no-apontador.html/
 categories:
+  - software
 ---
 O [Encontro Ágil 2010][1] (que merecia seu próprio post) se destacou pelo face-to-face: os open spaces e interações entre participantes foram tão produtivos que a tradicional carência de conectividade sem fio da USP trabalhou a favor. E foi justamente uma dessas interações, o Coding Dojo ([saiba o que é um][2]) organizado pelo <a href="http://web.archive.org/web/20181222053450/http://brunogola.com.br/">Bruno Gola</a> (com o forte apoio do [Asa][4]) que me inspirou a organizar uma sessão equivalente no [Apontador][5]. Segue uma visão geral da experiência:
 

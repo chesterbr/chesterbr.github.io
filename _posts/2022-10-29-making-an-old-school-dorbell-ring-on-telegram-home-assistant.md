@@ -7,6 +7,7 @@ description: "A circuit that detects the 12V AC doorbell and triggers Home Assis
 comments: true
 categories:
   - electronics
+  - software
 ---
 
 After years of living in single-room condos, we decided to try a more spacious, two-store house, which has a very old and low-tech doorbell: a button on the door triggers a "ding-dong" classic doorbell - very easy to miss if you are on the upper floor, causing all sorts of issues with deliveries.

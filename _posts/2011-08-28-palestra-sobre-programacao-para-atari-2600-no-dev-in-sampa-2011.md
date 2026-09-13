@@ -6,6 +6,7 @@ comments: true
 permalink: /archives/2011/08/palestra-sobre-programacao-para-atari-2600-no-dev-in-sampa-2011.html/
 categories:
   - atari-2600
+  - software
 ---
 O [Dev in Sampa][1] é um evento bacana, por conta do *blend* muito equilibrado entre aprendizado e networking. A edição deste ano foi, a meu ver, ainda melhor que [a do ano passado][2] &#8211; os organizadores ([@tinogomes][3], [@nuxlli][4] e [@lfcipriani][5]) e o pessoal de apoio da Abril estão de parabéns. Gostei da decisão de reverter ao formato de trilha única de palestras, que limita a quantidade de vagas mas mantém o nível alto e ajuda a galera a se manter na mesma estação.
 

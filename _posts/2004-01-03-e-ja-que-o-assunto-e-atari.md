@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2004/01/e-ja-que-o-assunto-e-atari.html/
 categories:
+  - mondo-bizarro
 ---
 Eu já vi coisas espantosas serem feitas no Excel &#8211; de geradores de código a sistemas de geoprocessamento real-time. Mas esse Nobuya Chikada fez por merecer seu singelo pseudônimo de *Japanese Excel Crazy Guy*: ele criou um <a href="http://www1.plala.or.jp/chikada/vba/pac/pacelle.zip">Pac-Man</a> e um <a href="http://www1.plala.or.jp/chikada/vba/cellvader/cellvader_e.zip">Space Invaders</a>, ambos usando células de tamanho microscópico e macros!
 

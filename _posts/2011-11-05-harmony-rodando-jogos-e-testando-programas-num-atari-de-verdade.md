@@ -7,6 +7,7 @@ permalink: /archives/2011/11/harmony-rodando-jogos-e-testando-programas-num-atar
 categories:
   - atari-2600
   - electronics
+  - software
 ---
 [<img src="//farm7.static.flickr.com/6037/6296967178_6e1753e599_m.jpg" width="180" height="240" alt="Cartucho Harmony" style="float:left;margin:4px;border:1px solid black" />][1]A programação para Atari 2600 é uma curiosidade que já me levou a escrever <a href="http://web.archive.org/web/20040810001018/http://fliperama.ig.com.br/emuladores/atari/program/index.html">artigo</a> e minstrar [palestras][3] sobre o assunto. Vira e mexe estou lendo e experimentando, e até acredito que um dia alguma dessas brincadeiras pode se tornar um jogo de verdade.
 

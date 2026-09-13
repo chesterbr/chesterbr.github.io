@@ -8,6 +8,7 @@ redirect_from:
   - /gep/
   - /gep.html/
 categories:
+  - mondo-bizarro
 ---
 <img src="/img/blig/garotasepiadas.jpg" border="2" alt="" hspace="3" style="float:left; margin-right:4px;" />Fuçando num sebo eu me deparei com esta *Garotas e Piadas no. 1*. É uma espécie de Playboy (nos limites do Brasil de 1975), com uma tentativa (bastante infeliz) de dar um toque humorístico.
 <!--more-->

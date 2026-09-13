@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2005/08/seja_voce_tambe.html/
 categories:
+  - mondo-bizarro
 ---
 <img title="sissy.png" src="/archives/img/sissy.png" width="348" height="141" align="left" />
 [SissyFight 2000][1] é um jogo online das antigas para múltiplos jogadores que, para minha surpresa, ainda está no ar. O ponto forte, além da jogabilidade, é a ambientação: o jogo se passa em um playground, e os jogadores são&#8230; garotinhas (*sissies*)! O objetivo: zerar a auto-estima das outras meninas, mantendo a sua em alta.

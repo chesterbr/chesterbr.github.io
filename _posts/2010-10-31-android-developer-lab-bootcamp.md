@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2010/10/android-developer-lab-bootcamp.html/
 categories:
+  - software
 ---
 [<img class="alignright" src="http://farm2.static.flickr.com/1205/5130986938_393c4f8df6_m.jpg" alt="Karen e Lucas ganhando o Lego Mindstorms" width="240" height="180" />][1]Quase como um &#8220;esquenta&#8221; para o [GDD][2], o Google marcou na véspera (e no mesmo local) o [Android Developer Lab Bootcamp][3], cuja proposta foi ocupar metade do dia com um &#8220;bootstrap&#8221; da tecnologia, no qual desenvolvedores participaram de:
 

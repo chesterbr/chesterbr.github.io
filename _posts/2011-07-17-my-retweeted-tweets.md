@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2011/07/my-retweeted-tweets.html/
 categories:
+  - software
 ---
 [<img class="alignright size-full wp-image-6137" title="My Retweeted Tweets" src="/wp-content/uploads/2011/07/myretweetedtweets1.png" alt="My Retweeted Tweets" width="88" height="285" />][1]Eu nunca me animei a colocar o [widget do Twitter][2] no blog porque meus tweets variam bastante, e nem todos são interessantes para um público mais amplo. Isso mudou quando ouvi, nos dois últimos minutos do [Nerdcast 264][3], o [Rafinha Bastos][4] confessar que:
 

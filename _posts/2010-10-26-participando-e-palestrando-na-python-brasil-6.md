@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2010/10/participando-e-palestrando-na-python-brasil-6.html/
 categories:
+  - software
 ---
 Estive na [PythonBrasil[6]][1], isto é, no &#8220;6º Encontro Brasileiro da Comunidade Python&#8221;, que rolou em Curitiba entre 21 e 23 de Outubro. Por conta da [aula na UNESP][2], só pude chegar na sexta (22), mas ainda assim deu pra aproveitar bastante.
 

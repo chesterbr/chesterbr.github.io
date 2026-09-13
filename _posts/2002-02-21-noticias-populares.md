@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2002/02/noticias-populares.html/
 categories:
+  - mondo-bizarro
 ---
 Sites gringos sobre notícias &#8220;anormais&#8221; já me inspiraram diversas vezes a escrever aqui. Mas eu nunca tinha visto um site nacional que aliasse qualidade jornalística a &#8220;senso freak&#8221; &#8211; até encontrar o canal <a href="http://www.terra.com.br/noticias/popular/" >Popular</a> do portal Terra.
 

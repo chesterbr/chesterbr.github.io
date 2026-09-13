@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2007/09/migrando_o_mova.html/
 categories:
+  - software
 ---
 As novas versões do Movable Type (publicador deste blog) [não vão mais suportar o formato BerkleyDB][1] para guardar os posts, comentários e configurações. Como pretendo atualizar em breve, resolvi adiantar o expediente e migrar para MySQL. Nada muito esotérico: o MT tem um script de migração e uma [receita de bolo][2] bem simples.
 

@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2013/08/should-gmail-blacklist-spam-senders.html/
 categories:
+  - software
 ---
 My friend [FZero][1] said today on Facebook:
 

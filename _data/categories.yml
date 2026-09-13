@@ -31,11 +31,21 @@
   label:
     en: Electronics
     pt: Eletrônica
+- slug: mondo-bizarro
+  url: /blog/categories/mondo-bizarro/
+  label:
+    en: Mondo Bizarro
+    pt: Mondo Bizarro
 - slug: retrocomputing
   url: /blog/categories/retrocomputing/
   label:
     en: Retrocomputing
     pt: Retrocomputação
+- slug: software
+  url: /blog/categories/software/
+  label:
+    en: Software
+    pt: Software
 - slug: travel
   url: /blog/categories/travel/
   label:

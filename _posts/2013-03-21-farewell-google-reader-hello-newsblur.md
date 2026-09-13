@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2013/03/farewell-google-reader-hello-newsblur.html/
 categories:
+  - software
 ---
 [<img src="/wp-content/uploads/2013/03/newsblur.png" alt="NewsBlur" width="200" height="200" class="alignright size-full wp-image-7450" />][1]As a content addict, I&#8217;ve always sought tools that ease its consumption, from primitive ones such as [PointCast][2], [Plucker][3] and [Hands][4] to modern-day RSS aggregators like Google Reader.
 

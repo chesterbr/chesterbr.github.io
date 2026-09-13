@@ -6,6 +6,7 @@ comments: true
 og_image: /img/2014/08/final.jpg
 categories:
   - electronics
+  - software
 ---
 
 ### A Hack is Born

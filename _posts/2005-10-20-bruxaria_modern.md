@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2005/10/bruxaria_modern.html/
 categories:
+  - mondo-bizarro
 ---
 <img title="bruxaria.gif" src="/archives/img/bruxaria.gif" width="120" height="120" align="left" style="margin-right:2px" border="1"/>Clique [aqui][1] (ou [aqui][2]) e você verá um círculo formado por manchas cor-de-rosa. A animação faz com que uma delas esteja sempre apagada, como na ilustração ao lado. Até aí, tudo bem, mas&#8230;
 

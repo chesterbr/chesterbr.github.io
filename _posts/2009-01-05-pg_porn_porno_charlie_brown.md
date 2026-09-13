@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2009/01/pg_porn_porno_charlie_brown.html/
 categories:
+  - mondo-bizarro
 ---
 Quando você tem no currículo coisas que vão desde filmes da [Troma][1] até produções mais *mainstream* como [Scooby Doo][2], o que resta pra fazer da vida? No caso de [James Gunn][3], a resposta foi o [PG Porn][4] &#8211; que se auto-define como um projeto para &#8220;pessoas que gostam de tudo na pornografia &#8211; menos o sexo&#8221;.
 

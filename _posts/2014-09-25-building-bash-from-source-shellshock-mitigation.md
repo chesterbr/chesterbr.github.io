@@ -5,6 +5,7 @@ title: "Building bash from source (Shellshock mitigation for Ubuntu 13.04 and ot
 comments: true
 og_image: /img/2014/09/tmnt.png
 categories:
+  - software
 ---
 
 [Shellshock][1] is a serious server security issue that was made public yesterday. The best fix is to apply security updates from your Linux distribution, as they become available.

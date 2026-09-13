@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2003/07/j2ee-net-o-ovo-e-a-galinha.html/
 categories:
+  - software
 ---
 Um dos motivos que me deixam um pouco reticente para escrever sobre informática é que este é um assunto sério, que normalmente é tratado de forma leviana. É fácil perceber neste site que eu prefiro escrever sobre assuntos levianos e tratá-los de forma séria.
 

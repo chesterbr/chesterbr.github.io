@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2002/03/procura-se-programador-para-jogo-de-truco.html/
 categories:
+  - software
 ---
 <img style="margin-right: 4px; margin-bottom:4px; float: left;" src="/img/blig/truco.gif" alt="" width="100" height="106" />Há alguns anos eu comecei a desenvolver um jogo de Truco para Windows. O projeto caminhou bastante, mas nunca tive tempo de acabar.
 

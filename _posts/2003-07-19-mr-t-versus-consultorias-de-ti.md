@@ -8,6 +8,7 @@ redirect_from:
   - /mrtversusitconsulting/
   - /mrtversusitconsulting.html/
 categories:
+  - mondo-bizarro
 ---
 Ah, as férias da USP&#8230; depois de um semestre usando todo o tempo livre para estudar, estou extrapolando todos os limites no que se refere a fazer coisas inúteis.
 

@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2008/02/pornografia_com.html/
 categories:
+  - mondo-bizarro
 ---
 **ATENÇÃO: LINKS NÃO-SEGUROS PARA ESCRITÓRIO, CASA DA AVÓ OU COLÉGIO ADVENTISTA.**
 

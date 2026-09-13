@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2001/11/feira-sobre-banheiros-em-cingapura.html/
 categories:
+  - mondo-bizarro
 ---
 Esse lance de ir em Fenasoft e Salão do Automóvel já era &#8211; em Cingapura os caras estão fazendo <a class="dead-link" title="este link morreu" href="http://www.bbc.co.uk/portuguese/noticias/011123_banheiroscg.shtml">uma feira sobre \*banheiros\*</a><span class="dead-link-mark">†</span>, é mole?
 

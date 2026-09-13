@@ -5,6 +5,8 @@ title: 'A workaround to fix the Firefox emoji keyboard shortcut on macOS Sonoma'
 og_image: /img/2024/02/hammer-keyboard.jpeg
 description: "A macOS update broke the Firefox emoji keyboard shortcut, and the official fix will take a while to be released. Here's a workaround to fix it now."
 comments: true
+categories:
+  - software
 ---
 
 macOS 14 (Sonoma) [broke](https://bugzilla.mozilla.org/show_bug.cgi?id=1855346) the "Emoji & Symbols" keyboard shortcuts (`fn/🌐`+`e` or `control`+`cmd`+`space`) on Firefox: instead of opening, the emoji picker briefly flashes and disappears:

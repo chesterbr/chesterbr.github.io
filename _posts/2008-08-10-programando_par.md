@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2008/08/programando_par.html/
 categories:
+  - software
 ---
 A combinação[ Eee PC + Ubuntu][1] continua me surpreendendo positivamente: consegui compilar o [iphone-dev toolchain][2], isto é, o kit de desenvolvimento da comunidade para o iPhone (não confundir com o da Apple, que é bacanudo, mas só roda em Macs e tem um mol de restrições).
 

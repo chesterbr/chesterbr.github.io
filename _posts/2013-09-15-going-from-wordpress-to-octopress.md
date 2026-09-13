@@ -5,6 +5,7 @@ title: "Going from WordPress to Octopress"
 comments: true
 published: true
 categories:
+  - software
 ---
 
 ![I don't always write blog posts, but when I do...](/wp-content/uploads/2013/09/most_interesting_man_blog.jpg){: .center }

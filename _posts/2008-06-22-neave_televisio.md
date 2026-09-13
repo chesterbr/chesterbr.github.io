@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2008/06/neave_televisio.html/
 categories:
+  - mondo-bizarro
 ---
 O [Lucas][1] me mandou esse [Neave Television][2]. É uma página na qual filmes curtíssimos e altamente bizarros são exibidos em sucessão aleatória e ininterrupta &#8211; e você ainda pode manter o dedo nervoso no mouse, clicando para pular. É como se fosse um cruzamento do [AnimaMundi][3] com a série [WarioWare][4].
 

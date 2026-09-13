@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2010/05/minificacao-automatica-de-javascript-no-eclipse.html/
 categories:
+  - software
 ---
 *Esse post mostra como configurar o Eclipse/Aptana para gerar uma versão compacta e unificada dos .js do seu projeto sempre que você salvar um deles &#8211; um lance que eu tentei [explicar em 140 caracteres][1], mas [não deu muito certo][2]&#8230;*
 

@@ -6,6 +6,7 @@ og_image: "/img/2019/04/raspberry-pi-with-ir-blaster-rf-transmitter.jpg"
 description: ""
 comments: true
 categories:
+  - software
 ---
 
 A while ago I built a couple inexpensive hacks that added [voice-command to my tv]({% post_url 2017-12-10-voice-control-for-a-non-smart-tv-with-google-home-raspberry-pi-lirc-nginx-lua-ifttt %}) and then [to my lights]({% post_url 2017-12-26-controlling-rf-outlets-from-a-raspberry-pi %}) using a Raspberry Pi, Google Home Mini, infrared and RF radio. Since then, I added other things, which prompted me to move the hacks into the popular [Home Assistant](https://www.home-assistant.io/) home hub software.

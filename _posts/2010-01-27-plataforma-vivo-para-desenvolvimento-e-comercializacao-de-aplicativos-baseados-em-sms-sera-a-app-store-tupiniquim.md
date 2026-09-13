@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2010/01/plataforma-vivo-para-desenvolvimento-e-comercializacao-de-aplicativos-baseados-em-sms-sera-a-app-store-tupiniquim.html/
 categories:
+  - software
 ---
 <img src="/wp-content/uploads/2010/01/vivo_grana1.png" alt="Show me the money!" width="85" height="75" class="alignright right size-full wp-image-3589" />Parece que ontem a operadora de telefonia móvel Vivo [apresentou][1] no Campus Party sua plataforma de desenvolvimento de aplicativos para celulares &#8211; apresentação que infelizmente eu perdi por causa de trabalho e *[tchuva][2]*.
 

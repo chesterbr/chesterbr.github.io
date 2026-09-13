@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2009/11/a-linguagem-mais-importante-para-um-programador.html/
 categories:
+  - software
 ---
 Fiz o [comentário][1] no Twitter, mas o ponto é tão importante que vale a pena estender aqui: na semana passada dei uma <a href="http://web.archive.org/web/20091119021119/http://olhardigital.uol.com.br:80/central_de_videos/video_wide.php?id_conteudo=9822&/PROGRAMADOR+CONHECA+A+PROFISSAO">entrevista</a> no programa Olhar Digital, e surgiu a pergunta que aspirantes e programadores iniciantes sempre me fazem: &#8220;qual a primeira/próxima linguagem que eu devo aprender?&#8221;
 

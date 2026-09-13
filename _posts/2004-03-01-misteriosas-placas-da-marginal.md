@@ -8,6 +8,7 @@ redirect_from:
   - /placas/
   - /placas.html/
 categories:
+  - mondo-bizarro
 ---
 De uns dois anos pra cá, começaram a surgir outdoors **muito** estranhos na Marginal Tietê (via expressa que corta São Paulo). Um dos mais antigos tinha a inscrição &#8220;TELEVISÃO &#8211; IMAGEM DA BESTA&#8221; (com o &#8220;B&#8221; imitando chifres), mas logo surgiram outros.
 <!--more-->

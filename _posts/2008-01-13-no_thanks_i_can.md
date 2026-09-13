@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2008/01/no_thanks_i_can.html/
 categories:
+  - software
 ---
 <img title="Detail from Ludwig Gatzke's rendering of Web 2.0 logos, full image at http://tinyurl.com/3dslx2" src="/archives/img/web2gatzke.png" width="215" height="183" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />A friend of mine called me this Sunday, happy as a child in a candy shop: she had just got herself a shinny new MacBook, after years lusting over my old-but-cute iBook G4.
 

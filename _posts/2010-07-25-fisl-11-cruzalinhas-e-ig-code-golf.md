@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2010/07/fisl-11-cruzalinhas-e-ig-code-golf.html/
 categories:
+  - software
 ---
 <img class="alignright size-full wp-image-4358" title="fisl" src="/wp-content/uploads/2010/07/fisl.jpg" alt="" width="90" height="89" />A edição desse ano do [Fórum Internacional Software Livre][1] foi interessante como de costume: palestrantes de renome e a troca de experiências dentro e fora do evento com as pessoas que fazem o software livre acontecer seguramente justificam passar esses dias em Porto Alegre. Esse ano fiz dois lances bacanas por lá:
 

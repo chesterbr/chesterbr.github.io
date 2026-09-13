@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2010/06/random-hacks-of-kindness-1-sp-urban-fact-fato-urbano.html/
 categories:
+  - software
 ---
 [<img class="alignright" title="urbanfact - screenshot" src="/wp-content/uploads/2010/06/fatourbano.jpg" alt="" width="400" height="294" />][1]O [Random Hacks of Kindness (RHoK)][2] reuniu programadores em vários locais do mundo simultaneamente ao longo do último fim-de-semana, com o objetivo de desenvolver ferramentas que possam ajudar a lidar com os desafios gerados pelo risco de desastres naturais.
 

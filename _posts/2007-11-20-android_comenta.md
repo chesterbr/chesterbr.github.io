@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2007/11/android_comenta.html/
 categories:
+  - software
 ---
 <img alt="Android" src="/archives/img/android_logo.png" width="200" height="29" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />O [Android][1] é uma proposta anunciada recentemente pelo Google para uma arquitetura aberta de telefones celulares que privilegia o usuário e os desenvolvedores independentes de aplicativos &#8211; em contraste com as plataformas usadas nos aparelhos atuais (além das soluções para aplicativos de terceiros, como J2ME), que favorecem fabricantes e operadoras.
 

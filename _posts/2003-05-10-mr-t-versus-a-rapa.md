@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2003/05/mr-t-versus-a-rapa.html/
 categories:
+  - mondo-bizarro
 ---
 <img class="alignright size-full wp-image-4401" title="mrt" src="/wp-content/uploads/2003/05/mrt.jpg" alt="Mr. T" width="289" height="362" />Eu passei anos acreditando que &#8220;Mr. T versus &#8230;&#8221; era o assunto freak mais conhecido da Internet. Só que sempre que eu comento me perguntam o que diabos é isso. Então lá vai:
 

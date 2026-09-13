@@ -7,6 +7,7 @@ permalink: /archives/2011/01/revolution-in-the-valley-the-insanely-great-story-o
 categories:
   - retrocomputing
   - books
+  - software
 ---
 [<img class="alignleft size-full wp-image-5820" title="Revolution in the Valley: How the Mac Was Made" src="/wp-content/uploads/2011/01/51+MmbKBC1L._SL154.jpg" alt="" width="154" height="154" />][1]Antes de se tornar objeto da admiração de uns e desinteresse/suspeita de outros, a Apple passou por três fases bem definidas: a &#8220;[era de ouro][2]&#8221; em que o Apple II e o Macintosh original foram criados; a queda em parafuso rumo à irrelevância; e a volta por cima. O papel evidente de [Steve Jobs][3] nas fases virtuosas alavanca o culto em torno de sua pessoa  a um ponto que fica difícil separar a verdade do mito, valorizando qualquer testemunho de quem esteve mais próximo.
 

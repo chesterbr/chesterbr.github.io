@@ -5,6 +5,8 @@ title: 'Budget-friendly hosting for personal projects'
 og_image: /img/2023/11/build-server.jpg
 description: "People get surprised when I tell them I keep all my personal software projects running on a single server, and that it costs me not much more than a cup of coffee per month. In this post I'll explain how I do it, and how you can do it too!"
 comments: true
+categories:
+  - software
 ---
 
 ![UI button](/img/2023/11/build-server.jpg){: .right }

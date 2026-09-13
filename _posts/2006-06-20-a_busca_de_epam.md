@@ -9,6 +9,7 @@ comments: true
 og_image: /img/epamin.gif
 permalink: /archives/2006/06/a_busca_de_epam.html/
 categories:
+  - software
 ---
 <img width="300" height="127" src="/img/epamin.gif" alt="tela do jogo 'A Busca de Epaminondas Jr.'" align="right" style="margin-left:4px" />Este jogo, criado no início dos anos 90, foi uma das primeiras coisas que disponibilizei na web, não sem um certo constrangimento: minha definição de &#8220;humor&#8221; mudou um pouco ao longo dos últimos quinze anos.
 

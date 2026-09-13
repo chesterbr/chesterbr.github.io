@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi.html/
 categories:
+  - software
 ---
 *(TL;DR: if you just want to know how to make ChameleonPI v0.3 work with BerryBoot, jump [here][1])*
 

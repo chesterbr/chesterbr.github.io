@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2012/06/facebook-hack-toronto.html/
 categories:
+  - software
 ---
 Na minha breve (e ainda não definitiva) passagem por Toronto tive a chance de participar do [Facebook HACK &#8211; Toronto][1]. Já tinha participado de eventos desse gênero no Brasil (como o [RHoK-SP][2] e o[ Yahoo! Open Hack Day BR][3]), mas essa foi a primeira vez em outro país. E foi bem bacana!
 

@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2010/10/aula-sobre-mashups-web-na-unesp-seccomp-2010.html/
 categories:
+  - software
 ---
 [<img src="/wp-content/uploads/2010/10/computacao_unesp.jpg" alt="Um prédio do Campus (fonte: site UNESP)" title="Um prédio do Campus (fonte: site UNESP)" width="188" height="143" class="alignleft size-full wp-image-4671" />][1]A organização da <a href="http://web.archive.org/web/20170831095536/http://www.rc.unesp.br/seccomp/">XVIII Semana da Ciência da Computação (SECCOMP 2010)</a> me convidou, por intermédio do [Eduardo Maçan][3] (o [Kevin Bacon do software livre][4]: todo mundo no meio o conhece), a ministrar uma aula (mini-curso) sobre *mashups web* para os alunos de Ciências da Computação no último dia 21.
 

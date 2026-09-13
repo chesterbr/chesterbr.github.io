@@ -8,6 +8,7 @@ comments: true
 categories:
   - atari-2600
   - electronics
+  - software
 ---
 
 * Part I: CPU (6507)

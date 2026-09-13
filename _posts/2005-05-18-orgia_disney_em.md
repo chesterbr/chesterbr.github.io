@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2005/05/orgia_disney_em.html/
 categories:
+  - mondo-bizarro
 ---
 <img title="Mickey tomando um pico (essa é uma das cenas mais light)" src="/archives/img/mickey.jpg" width="90" height="90" align="right" border="1" />
 Em 1960 e bolinha, Wally Wood (um desenhista da MAD da época em que MAD era coisa polêmica) criou o [Disneyland Memorial Orgy][1] para uma revista alternativa. Tratava-se de um único quadro que concentrava dúzias de personagens Disney em atos sexuais, escatológicos ou usando drogas pesadas.

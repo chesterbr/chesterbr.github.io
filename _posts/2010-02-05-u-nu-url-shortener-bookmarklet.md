@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2010/02/u-nu-url-shortener-bookmarklet.html/
 categories:
+  - software
 ---
 <p style="text-align:center;font-style:italic">
   Unfortunately, u.nu ceased to exist as an URL shortener,<br /> but I decided to keep the article as a curiosity.

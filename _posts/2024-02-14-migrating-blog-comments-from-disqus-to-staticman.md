@@ -5,6 +5,8 @@ title: 'Migrating blog comments from Disqus to Staticman'
 og_image: /img/2024/02/staticman-logo-with-text.jpeg
 description: "After years of using an external service for comments in my blog, I can now host and publish them alongside the posts, thanks to Staticman. Here's how I did it."
 comments: true
+categories:
+  - software
 ---
 
 

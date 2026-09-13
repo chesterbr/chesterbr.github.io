@@ -9,6 +9,7 @@ comments: true
 permalink: /archives/2007/06/getting_real.html/
 categories:
   - books
+  - software
 ---
 <img title="Capa do livro Getting Real (versão papel)" src="/archives/img/gettingreal.jpg" width="300" height="199" align="left" style="margin-right:2px" border="1" />[Getting Real][1] abre com uma proposta atraente: ajudar a construir aplicações web de sucesso. Não se trata de uma metodologia &#8211; até porque ele se dispõe a questionar muito do material e da cultura que compõem as metodologias (formais ou práticas) existentes.
 

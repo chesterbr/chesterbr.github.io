@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2008/03/maskate_e_crau.html/
 categories:
+  - mondo-bizarro
 ---
 <img title="Uma capa típica do Maskate" src="/archives/img/maskate.jpg" width="200" height="279" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />Acabo de conhecer a edição online do [Maskate][1], um jornal sensacionalista de Manaus que não fica devendo nada ao clássico [Notícias Populares][2]: manchetes sensacionalistas, [ocorrências policiais toscamente relatadas][3], ensaios de mulépelada e [relatos eróticos classe C][4], enfim, tem tudo o que há de trash para se ver num jornal.
 

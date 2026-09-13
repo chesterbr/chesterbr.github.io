@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2008/10/iphone_development_rants.html/
 categories:
+  - software
 ---
 (previously [published][1] on the [MIH SWAT Blog][2])
 

@@ -8,6 +8,7 @@ layout: post
 comments: true
 permalink: /archives/2006/10/acertando_o_hor.html/
 categories:
+  - software
 ---
 * * *
 

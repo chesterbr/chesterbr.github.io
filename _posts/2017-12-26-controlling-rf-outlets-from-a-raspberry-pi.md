@@ -7,6 +7,7 @@ description: "For less than $100, my Google Home lets me talk to my floor lamps 
 comments: true
 categories:
   - electronics
+  - software
 ---
 
 [IKEA floor lamps](http://www.ikea.com/ca/en/catalog/products/10139879/) aren't bad - as long as your house has sufficient outlets with properly wired and positioned wall switches. Mine doesn't 😐 and, being a renter, I can't simply rewire them, so I decided to try the [Etekcity RF-controlled outlet kit](https://www.ebay.ca/itm/182259352786).

@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2004/12/sexo-em-publico.html/
 categories:
+  - mondo-bizarro
 ---
 <img src="/img/blig/programasexo.jpg" border="1" align="right" alt="cena do programa de TV: a apresentadora agita o público, enquanto a participante 'mete as caras' na sua 'tarefa'.">(**ATENÇÃO**: os links deste artigo são impróprios para escritório)
 

@@ -6,6 +6,7 @@ comments: true
 permalink: /archives/2011/08/clean-code-codigo-limpo-por-robert-uncle-bob-martin.html/
 categories:
   - books
+  - software
 ---
 [<img src="/wp-content/uploads/2011/08/cleancode.jpg" alt="" title="Clean Code" width="199" height="265" class="alignleft size-full wp-image-6241" />][1]Já observei que a maior parte dos programadores com algum tempo de estrada tende a se acomodar, acreditando que o que quer que fosse estado da arte (ou apenas popular) quando a pessoa era ultra-jovem é a verdade absoluta e inenarrável. Não sei se por preguiça, insegurança, ou cansaço, mas muita gente, depois de um tempo, se recusa a a aprender qualquer tecnologia, paradigma ou modo de trabalho novo, em muitos casos se afastando da programação porque já &#8220;aprendeu tudo&#8221;.
 

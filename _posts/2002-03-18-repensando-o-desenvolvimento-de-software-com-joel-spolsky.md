@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2002/03/repensando-o-desenvolvimento-de-software-com-joel-spolsky.html/
 categories:
+  - software
 ---
 Eu sempre fui contra a idolatria de pessoas, vivas ou mortas, até que conheci o trabalho de Joel Spolsky. Ele já foi desenvolvedor da Microsoft, da Juno e outros lugares interessantes. Hoje Joel tem sua própria empresa, e se tornou o meu guru espiritual quando o assunto é desenvolvimento de software. Não estou falando da parte técnica do assunto (isso já tem ótimos autores), mas sim da parte gerencial, que na maioria das empresas é *dilbertiana* demais para uma suposta ciência exata&#8230;
 

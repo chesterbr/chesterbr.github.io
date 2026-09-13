@@ -5,6 +5,7 @@ layout: post
 comments: true
 permalink: /archives/2013/04/a-step-by-step-guide-to-configure-encrypted-time-machine-backups-over-a-non-time-capsule-network-share.html/
 categories:
+  - software
 ---
 [Time Machine][1] is a wonderful piece of software, in no small part for following Mac OS X&#8217;s philosophy of simplifying common tasks, but allowing advanced users to go &#8220;under the hood&#8221;. My issue: I wanted to back up to a hard disk shared by [this nice router][2], and I also wanted encryption.
 
