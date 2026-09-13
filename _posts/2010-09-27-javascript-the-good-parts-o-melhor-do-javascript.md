@@ -10,6 +10,8 @@ categories:
 ---
 <img class="alignright size-full wp-image-4561" title="crockford" src="/wp-content/uploads/2010/09/crockford.jpg" alt="Douglas Crockford, autor de JavaScript: The Good Parts" width="199" height="295" />Não ia escrever sobre esse livro, simplesmente porque não teria muito a acrescentar, mas o [Lucas][1] me convenceu de que valeria a pena nem que fosse só pra convocar as pessoas a ler. Se você programa em JavaScript (mais ainda: se não programa ou não gosta dela por ter tido experiências ruins), preste atenção:
 
+<!--more-->
+
 [Douglas Crockford][2] é possivelmente um dos caras que mais manjam de JavaScript do mundo: um dos responsáveis pela padronização e disseminação do [JSON][3], ele teve papel fundamental nos comitês que deram (e ainda dão) o rumo da linguagem &#8211; quem foi ao [QCon][4] teve a oportunidade de ouvir algumas histórias &#8220;do front&#8221; em primeira mão.
 
 Ele começa desmontando o primeiro mito comum sobre a linguagem: revela que JavaScript **não é** um mero subset de Java (embora esse fosse o &#8220;[argumento de venda][5]&#8221; nos seus primórdios), e sim algo mais parecido com Lisp ou Scheme: uma linguagem funcional extremamente poderosa, que permite escrever código muito elegante &#8211; se for usada corretamente.

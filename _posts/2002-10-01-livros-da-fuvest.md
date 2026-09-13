@@ -9,6 +9,8 @@ categories:
 ---
 Quem já prestou FUVEST sabe do grande dilema do vestibulando. Não, não é qual carreira escolher, e sim decidir se deve ou não ler as &#8220;obras recomendadas&#8221;. Por um lado, há a possibilidade de recorrer aos resumos e investir o tempo economizado em outras matérias. Por outro, é uma boa maneira de misturar estudo e lazer.
 
+<!--more-->
+
 O mais inteligente, pensei, seria procurar saber quais livros têm uma leitura compensadora (tanto do ponto de vista do vestibular, quanto do prazer da leitura), e combinar a sua leitura com os resumos dos que não fossem tão interessantes. Entretanto, ao procurar as opiniões das pessoas sobre este assunto descobri que há, basicamente, dois &#8220;partidos&#8221;: os *literatos*, que defendem que todas as obras, sem exceção, são os expoentes máximos dos seus períodos, e portanto ótimas, e a *geração malhação*, que acha que livro bom é aquele que acompanha os lápis de cor &#8211; de preferência com números indicando quais cores vão aonde.
 
 Na falta de uma opinião menos polarizada, optei por ler **todos** os livros. E achei por bem deixar aqui minha opinião sobre eles, que, embora esteja longe de ser uma palavra final, ao menos é uma opinião sincera de &#8220;consumidor&#8221;. Para manter a objetividade, me limitei a um parágrafo por livro. Vamos a eles:

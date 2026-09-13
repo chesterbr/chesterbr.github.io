@@ -9,6 +9,8 @@ categories:
 ---
 <img src="/img/blig/cachorromorto.jpg" border="1" alt="capa de O Estranho Caso do Cachorro Morto" align="right">Nunca me decepcionei com as <a href="http://www.joelonsoftware.com/navLinks/fog0000000262.html" >resenhas de livros do Joel Spolsky</a>. Mas o assunto costuma ser o processo de desenvolvimento de software, o que me deixou supreso ao ler seu <a href="http://www.joelonsoftware.com/items/2004/08/20.html" >comentário</a> a respeito de <a href="http://www.americanas.com.br/cgi-bin/WebObjects/eacom.woa/wa/prod?pitId=141449&#038;source=NAVIGATION_LINE&#038;sourcevalue=1493" >O Estranho Caso do Cachorro Morto</a> (bem, talvez nem tão surpreso assim, já que ele é o único outro desenvolvedor que eu conheço que cita Gilmore Girls do nada).
 
+<!--more-->
+
 O narrador/personagem principal é um jovem portador da Síndrome de Asperger, uma forma muito particular de autismo cujos sintomas incluem uma dificuldade em interpretar linguagem corporal e facial &#8211; geralmente sem prejuízo da capacidade intelectual. O ponto de partida é sua tentativa de encontrar o assassino do tal cachorro, o que o leva a descobertas muito mais comprometedoras sobre a vizinhança que o cerca.
 
 Tal descrição pode dar a falsa ilusão de que é apenas mais um drama ou romance policial, mas o livro vai muito além disso. É um convite a conhecer o mundo através de uma nova ótica &#8211; tão racional que desconhece a metáfora e é incapaz de recorrer à mentira. Uma visão objetiva, mas não desprovida de sentimentos, que analisa uma simples viagem de metrô e a mais complexa crise conjugal com o mesmo rigor científico, numa tentativa diligente de encontrar ordem no caos que nós chamamos de mundo.

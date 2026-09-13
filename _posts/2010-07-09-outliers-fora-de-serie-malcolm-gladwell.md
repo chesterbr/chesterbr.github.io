@@ -9,6 +9,8 @@ categories:
 ---
 [<img class="alignleft size-full wp-image-4266" title="Outliers (Fora de Série) - livro" src="/wp-content/uploads/2010/07/outliers.jpg" alt="" width="129" height="199" />][1]Peguei [Outliers][1] para ler no ano passado, mas só agora deu tempo de escrever. Ele abre apontando uma relação estatística entre o horóscopo e as chances de sucesso de um jogador de hóquei &#8211; e o nome original¹ pode dar a entender que se trata de outro livro na linha do [Freakonomics][2].
 
+<!--more-->
+
 Mas a proposta é outra: Malcolm Gladwell desconstrói alguns mitos sobre o que faz alguém se destacar nos negócios, esportes, artes ou qualquer outro campo. Ele ataca em particular aquela idéia comum de que o sucesso depende largamente do talento, em menor grau da dedicação e bem pouquinho da sorte.
 
 Sem negar a influência desses fatores, o livro demonstra que o que entendemos por sorte tem muito a ver com as oportunidades e com estar no lugar e na hora certa. Também desfaz a lenda do &#8220;expert instantâneo&#8221;, chegando a postular que existe uma quantidade de tempo mínima que qualquer pessoa de destaque (dos Beatles a [Bill Joy][3]) dedica ao assunto de interesse antes ser considerada um expert: 10.000 horas.

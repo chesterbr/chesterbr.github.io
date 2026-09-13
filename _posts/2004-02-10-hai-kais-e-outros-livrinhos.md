@@ -9,6 +9,8 @@ categories:
 ---
 <img src="/img/blig/haikais.jpg"  alt="Livro 'Hai-Kais', do Millôr" align="left">Achei este <a href="http://www.submarino.com.br/books_productdetails.asp?Query=ProductPage&#038;ProdTypeId=1&#038;ProdId=32673&#038;ST=SE" >Hai-Kais</a>, do Millôr Fernandes, em um sebo. Ele abre explicando o uso da grafia &#8220;Hai-Kai&#8221; no lugar de &#8220;Haiku&#8221; (que é o nome original dos tradicionais versos japoneses de três linhas). Infelizmente, o buraco é <a href="http://www.toyomasu.com/haiku/#whatishaiku" >mais embaixo</a>.
 
+<!--more-->
+
 Eu não sou extremamente fã de poesia em geral ou de Haiku em particular (coisas de *vilaemense* rústico), inclusive questionando até que ponto dá pra escrever Haiku sem ser em japonês. Mas esse eu levei ao reparar que cada Haiku acompanha uma ilustração nada trivial.
 
 Algumas são do próprio Millor, mas os outros ilustradores incluem <a href="http://www.artpassions.net/dore/dore.html" >Gustave Doré</a> (ilustrador do século 19, famoso por suas ilustrações para A Divina Comédia), além de gênios dos quadrinhos como <a href="http://www.milomanara.it/" >Milo Manara</a>, <a href="http://www.lambiek.net/crepax.htm" >Guido Crepax</a> e <a href="http://perso.club-internet.fr/batmouse/" >Hugo Pratt</a>. Isso tudo num livro de bolso!

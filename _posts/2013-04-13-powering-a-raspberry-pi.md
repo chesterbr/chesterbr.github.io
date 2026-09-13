@@ -13,6 +13,8 @@ I thought I had it covered with my <a class="dead-link" title="this link died" h
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/XX3kiRUf7mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
+<!--more-->
+
 [USB specs][4] say you should have 5V ± 0.25V from a source, and the Pi also expects that, so I bought a $9 KDL-5100A at my [electronics parts supplier][5]. It is physically identical to [the FY0501000 linked on the video][6], and indeed, performed better than the iPad charger&#8230; but still below 4.75.
 
 After some head-scratching, I found the issue: the cable. Apparently, [cheap cables have quite some resistance][7], which causes voltage drops as you need more current ([Ohm&#8217;s Law][8], I suppose). Replaced it with [a Samsung one][9], and *voilà*: iPad charger got almost good, and new charger worked **great.**

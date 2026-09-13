@@ -9,6 +9,8 @@ categories:
 ---
 Foi preciso coragem para vencer o frio e a preguiça, mas eu e a [Bani][1] fomos ver [O Mundo Mágico de Escher][2], a tão falada exposição da arte de [M.C. Escher][3]. Qualquer nerd de respeito (e até alguns humanos normais) conhece muitas das [ilustrações][4] apresentadas ali, mas é bacana ver essas obras em tamanho grande &#8211; isso sem falar na parte interativa e no filminho 3D.
 
+<!--more-->
+
 Dois obstáculos ficam no caminho do visitante potencial. O primeiro é a popularidade da exposição: já tínhamos tentado uma vez, mas a fila dava a volta no quarteirão. Hoje ela &#8220;só&#8221; ia até a esquina, e resolvemos ter paciência e encarar. Mas o pior mesmo é que pra chegar no [Centro Cultural Banco do Brasil][5] foi preciso enfrentar o centro da cidade, que está **bem** abandonado. Fomos do Metrô São Bento pela Rua São Bento e voltamos pela 15 de Novembro até o Metrô Sé. Os dois caminhos foram uma desventura de cheiros ruins e ruas semi-desertas com abordagens desagradáveis. Ir pela Sé foi o menos desagradável, mas mesmo eu que sou &#8220;rato&#8221; do centro fiquei tenso.
 
 Voltando à fila: ela continua dentro do CCBB, mas  pelo menos você pode ver algumas obras enquanto aguarda sua vez para entrar no salão de cada piso. Dica: a fila do lado de fora vai direto para a exposição, passando ao lado da bilheteria onde tem os ingressos para o filme, e se for um grupo pequeno, dá para uma pessoa pegar os ingressos enquanto a outra aguarda na fila. O nosso ingresso era para uma seção dali a 1h &#8211; que foi o tempo certinho de ver a exposição e, ao final dela, o filme de 8 minutos.

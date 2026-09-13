@@ -15,6 +15,8 @@ Não tem muita &#8220;regra&#8221; no jogo, e isso só o torna mais divertido, p
 
 A brincadeira é velhíssima, mas estou falando dela porque hoje eu descobri que existe uma **porrada** de histórias aplicáveis (eu só conhecia a da gaivota). Num serviço de utilidade pública para nerds, resolvi colocar aqui algumas dessas histórias. Clique em &#8220;explicação&#8221; para saber a resposta, isto é, a história que explica o fato.
 
+<!--more-->
+
 Claro que não tem a menor graça ler aqui, o legal é aplicar a brincadeira. Por isso, não coloquei muitas (pra não estragar a diversão dos mais afoitos) &#8211; a idéia é que você aprenda duas ou três para usar com os amigos, certamente alguém vai conhecer outra e você passa ao papel de &#8220;perguntador&#8221;.
 
 Aí vai:

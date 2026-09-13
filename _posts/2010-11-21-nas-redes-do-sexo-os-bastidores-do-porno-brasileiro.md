@@ -9,6 +9,8 @@ categories:
 ---
 [<img class="alignright size-full wp-image-4865" title="Nas Redes do Sexo, por María Elvira Díaz-Benítez" src="/wp-content/uploads/2010/11/nas_redes_do_sexo.jpg" alt="" width="250" height="250" />][1][Nas Redes do Sexo][2] foi mais um daqueles livros &#8220;fora da caixa&#8221; inseridos entre uma e outra leitura mais próxima do meu cotidiano &#8211; uma tática de expansão de horizontes que raramente me decepciona.
 
+<!--more-->
+
 Baseado na pesquisa de campo da colombiana María Elvira Díaz-Benítez (doutora em antropologia social pela UFRJ), é uma análise interessante e minuciosa dos personagens (atores, produtores, recrutadores, técnicos, etc.) que formam a &#8220;rede&#8221; responsável pela produção de filmes pornográficos no Brasil, com foco particular na última década e na cidade de São Paulo &#8211; que, ao que tudo indica, é a Hollywood tupiniquim do gênero.
 
 É um estudo bastante sério, livre de qualquer conteúdo erótico ou similar &#8211; se você procura pornografia, não é nele que vai encontrar. Mas abre espaço para alguma experimentação, cujo exemplo mais óbvio é a divisão da análise em capítulos que remetem à retratação cinematográfica do ato sexual em si: *Preliminares* foca no processo de recrutamento e pré-filmagem; *Transa* descreve os pormenores da captação e as polêmicas relacionadas (ex.: uso de camisinha), *Consumação* continua esse processo até a pós-produção/venda e *Elenco* faz um balanço sobre a vida e as perspectivas de atores e atrizes, dentro e fora do set.
