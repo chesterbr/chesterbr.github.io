@@ -106,7 +106,7 @@ Eles falam em sapato de uso interno, mas isso é pra dois lugares: o refeitório
 
 Não era explicitamente obrigatório remover piercings, mas eu achei que chamaria a atenção (algo que é importante atentar), então o do septo e os brincos ficaram em casa (felizmente os furos já estavam bem abertos e deu pra recolocar na volta). Eu levei camisetas de manga comprida pra não chamar a atenção por conta das tatuagens, mas quando bateu o calor eu desencanei - e no final acho que nem precisava me preocupar, tinha gente muito mais tatuada que eu (e a idéia era não ficarmos olhando uns pros outros de qualquer forma). As pilhas do relógio e lanterna deram e sobraram, não precisa levar sobressalentes.
 
-Eu levei um repelente super fraquinho de cheiro, desses que não tem [DEET](https://pt.wikipedia.org/wiki/DEET), mas não deu nem pro cheiro - parece que os mosquitos e pernilongos lá já se adaptaram ao repelente. Procure algo com cheiro discreto, mas forte. E leve uma lata grande, você vai usar bastante.
+Eu levei um repelente super fraquinho, desses que não tem [DEET](https://pt.wikipedia.org/wiki/DEET), mas não deu muito certo - parece que os mosquitos e pernilongos lá já se adaptaram ao repelente. Procure algo com cheiro discreto, mas _forte_. E leve uma lata grande, você vai usar bastante.
 
 Finalmente, eu recomendo dar uma boa lida no [Código de Disciplina](https://www.dhamma.org/pt-BR/about/code) - muito do que eu falo aqui é a versão prática do que está lá.
 
