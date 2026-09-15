@@ -146,7 +146,7 @@ O objetivo é que a mente se acalme e se volte para dentro, sem distrações ext
 
 ### A meditação
 
-Não tenho a menor pretensão de explicar aqui o que eu aprendi lá. Não é que seja uma técnica complexa ou misteriosa (muito pelo contrário), mas quando ela não é acompanhada da prática, soa tão arbitrária quanto qualquer ritual, religião ou superstição. Mas grosso modo: uma vez que você inicia alinhado com os princípios (_sīla_), o começo consiste em desenvolver a técnica (_samādhi_).
+Não tenho a menor pretensão de explicar aqui o que eu aprendi lá. Não é que seja uma técnica complexa ou misteriosa (muito pelo contrário), mas quando ela não é acompanhada da prática, soa tão arbitrária quanto qualquer ritual, religião ou superstição. Mas grosso modo: uma vez que você inicia alinhado com os princípios (_sīla_), o processo avança para o aprendizado da técnica (_samādhi_).
 
 [![O salão de meditação, cheio de almofadas](/img/2026/09/vipassana-salao-intacto.jpeg){: .left }](/img/2026/09/vipassana-salao-intacto-large.jpeg)
 
