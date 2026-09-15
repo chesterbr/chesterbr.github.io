@@ -112,7 +112,7 @@ Finalmente, eu recomendo dar uma boa lida no [Código de Disciplina](https://www
 
 ### Indo pra lá
 
-Oficialmente, o centro se chama Ontario Vipassana Centre, mas seu nome extra-oficial é Dhamma Torana. *Torana*, em Pali, significa "Auspicioso Portal", e provavelmente foi escolhido pela proximidade com "Toronto" (em particular se considerarmos [como os locais pronunciam o nome da cidade](https://www.youtube.com/watch?v=H9vkaASnQWE&t=19s)). A localização combina acessibilidade da cidade (que o próprio Goenka via como um portal para o mundo, por seu multiculturalismo) com o isolamento necessário para a prática.
+Oficialmente, o centro se chama Ontario Vipassana Centre, mas seu nome extra-oficial é Dhamma Torana. *Torana*, em Pali, significa "Auspicioso Portal", e provavelmente foi escolhido pela proximidade com "Toronto" (em particular se considerarmos [como os locais pronunciam o nome da cidade](https://www.youtube.com/watch?v=H9vkaASnQWE&t=19s)). A localização combina acessibilidade da cidade (que o próprio Goenka via como um portal para o mundo ocidental, por seu multiculturalismo) com o isolamento necessário para a prática.
 
 [![Painel de partidas na estação GO, mostrando os horários da linha Barrie](/img/2026/09/vipassana-painel-go.jpeg){: .right }](/img/2026/09/vipassana-painel-go-large.jpeg)
 
