@@ -9,7 +9,7 @@ comments: true
 
 Entre livros, aplicativos e visitas ocasionais ao templo fundado pela Monja Coen ([Zendo Brasil](https://zendobrasil.org.br/quem-somos/)), eu já tinha flertado com a meditação, mas nunca fui muito a fundo. E nem estava super atrás disso, mas numa busca por opções de retiro, acabei conhecendo o [Vipassana](https://www.dhamma.org/pt-BR/about/vipassana) (🔈 [pronúncia](https://pt.howtopronounce.com/vipassana)).
 
-Trata-se de uma técnica de meditação não-religiosa, não-sectária e universal, ensinada em centros ao redor do mundo (incluindo vários [no Brasil](https://www.dhamma.org/pt-BR/locations/directory#BR)). Ela exige 10 dias de isolamento em silêncio quase total numa rotina pesada - mas que, em troca, ensina o _Dhamma_ ("lei da natureza", em Pali, o idioma falado na época do Buda), uma arte de viver que promete remediar problemas universais e erradicar o sofrimento.
+Trata-se de uma técnica de meditação não-religiosa, não-sectária e universal, ensinada em centros ao redor do mundo (incluindo vários [no Brasil](https://www.dhamma.org/pt-BR/locations/directory#BR)). Ela exige 10 dias de isolamento em silêncio quase total numa rotina intensa - mas que, em troca, ensina o _Dhamma_ ("lei da natureza", em Pali, o idioma falado na época do Buda), uma arte de viver que promete remediar problemas universais e erradicar o sofrimento.
 
 [![Satya Narayan Goenka, sorrindo, de camisa simples (foto: Vipassana Research Institute)](/img/2026/09/vipassana-goenka.jpeg){: .right }](https://www.vridhamma.org/S.N.-Goenka)
 
