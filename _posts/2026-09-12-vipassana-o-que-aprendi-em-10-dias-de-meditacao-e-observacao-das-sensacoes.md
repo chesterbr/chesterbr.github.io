@@ -164,7 +164,7 @@ E é justamente por depender do _bhāvanā-mayā paññā_ que tudo o que eu est
 
 O dia começa cedo: 4h da manhã toca um sino/gongo, e a primeira sessão de meditação é às 4h30. Algumas das sessões podem ser feitas individualmente nos aposentos, mas ao menos três sessões de 1h são feitas obrigatoriamente no salão de meditação, e essas são particularmente importantes porque nelas a orientação é mais detalhada. Ao final do dia, tem o "discurso": cerca de 1h15 da aula original do Goenka em vídeo, na qual ele ensina de forma correta o que eu regurgitei aí em cima.
 
-E vou te falar: ele é um **excelente** orador e professor. Não era incomum que no final de um dia exaustivo eu estivesse perdido, confuso e prestes a fazer as malas; aí assistia o discurso e as dúvidas estavam esclarecidas, o espírito acalmado e a vontade de meditar voltava redobrada. Essas vídeo-aulas também traziam a evolução da técnica que seria praticada ao longo do dia seguinte, então lá pelos últimos eu já aguardava ansiosamente o próximo "episódio" da "série do Goenka".
+E vou te falar: ele é um **excelente** orador e professor. Não era incomum que no final de um dia exaustivo eu estivesse perdido, confuso e prestes a fazer as malas; aí assistia o discurso e as dúvidas estavam esclarecidas, o espírito acalmado e a vontade de meditar voltava redobrada. Essas vídeo-aulas também traziam a evolução da técnica que seria praticada ao longo do dia seguinte, então lá pelos últimos eu já aguardava ansiosamente o próximo episódio da "série do Goenka".
 
 <details markdown="1">
 <summary>Cronograma completo (clique para abrir)</summary>
