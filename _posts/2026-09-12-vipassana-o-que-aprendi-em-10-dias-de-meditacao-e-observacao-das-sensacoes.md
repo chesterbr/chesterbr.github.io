@@ -128,7 +128,7 @@ O registro é rápido e os voluntários muito gentis: nele, a gente deixa perten
 
 Embora eu chame muitas vezes de "retiro", o Vipassana é na verdade um curso de meditação. Ele gira em torno de uma técnica até que relativamente simples, que eu só não me aventuro a detalhar porque o elemento central é a prática, e justamente por isso é feita em isolamento, com uma estrutura de horários rígida, na qual você vai meditar cerca de 8-10 horas por dia.
 
-As regras parecem rígidas e arbitrárias, mas na verdade elas são baseadas no _sīla_ - a ética por trás do Vipassana. O _sīla_ é um dos três pilares do caminho budista, e é a base para que a mente se acalme e se torne apta a observar a realidade como ela é. Essencialmente são cinco:
+As regras parecem rígidas e arbitrárias, mas na verdade elas são baseadas no _sīla_ - a ética por trás do Vipassana. O _sīla_ é um dos três pilares do caminho budista, e é a base para que a mente se acalme e se torne apta a observar a realidade como ela é. Os cinco preceitos iniciais (que dão a base para as regras) são:
 
 1. Não matar seres vivos
 2. Não roubar
