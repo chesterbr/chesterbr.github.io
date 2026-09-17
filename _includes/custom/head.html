@@ -8,7 +8,7 @@ localized title, everything else falls back to the default. {% endcomment %}
 {% assign site_name = site.title %}
 {% if page.locale == 'pt-BR' %}{% assign site_name = site.title_pt %}{% endif %}
 
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="{% if page.og_image or page.url == '/index.html' %}summary_large_image{% else %}summary{% endif %}">
 <meta name="twitter:site" content="@chesterbr">
 <meta name="twitter:creator" content="@chesterbr">
 <meta name="twitter:title" content="{% if page.title and page.title != site.title %}{{ page.title }} - {% endif %}{{ site_name }}">
@@ -23,7 +23,8 @@ localized title, everything else falls back to the default. {% endcomment %}
   <meta property="og:image"  content="{% unless page.og_image contains 'http://' or page.og_image contains 'https://' %}{{ site.url }}{% endunless %}{{ page.og_image }}" />
   <meta name="twitter:image" content="{% unless page.og_image contains 'http://' or page.og_image contains 'https://' %}{{ site.url }}{% endunless %}{{ page.og_image }}" />
 {% endif %}
-<meta property="og:type" content="website"/>
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}"/>
+<meta property="og:locale" content="{% if page.locale == 'pt-BR' %}pt_BR{% else %}en_US{% endif %}"/>
 <meta property="og:url" content="{{ canonical }}"/>
 <meta property="og:site_name" content="{{ site_name }}"/>
 <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}"/>
