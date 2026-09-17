@@ -14,6 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: chester's blog
+# Localized blog name used in social-share meta tags for Portuguese posts
+# (og:site_name, og:title, twitter:title). See _includes/custom/head.html.
+title_pt: blog do Chester
 email: cd@pobox.com
 repository: chesterbr/chesterbr.github.io
 author: Chester (Carlos Duarte do Nascimento)
