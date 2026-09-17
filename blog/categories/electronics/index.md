@@ -3,6 +3,7 @@ robots: "noindex, follow"
 sitemap: false
 layout: page
 title: Electronics
+description: "Posts about electronics: hardware projects, tinkering, and repairs."
 hide_heading: true
 category: electronics
 permalink: /blog/categories/electronics/

@@ -3,6 +3,7 @@ robots: "noindex, follow"
 sitemap: false
 layout: page
 title: Travel
+description: "Posts about travel: trips, places, and stories from the road."
 hide_heading: true
 category: travel
 permalink: /blog/categories/travel/

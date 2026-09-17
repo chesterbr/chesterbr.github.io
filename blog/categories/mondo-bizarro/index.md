@@ -3,6 +3,7 @@ robots: "noindex, follow"
 sitemap: false
 layout: page
 title: Mondo Bizarro
+description: "The odd, funny, and bizarre finds that don't fit anywhere else."
 hide_heading: true
 category: mondo-bizarro
 permalink: /blog/categories/mondo-bizarro/

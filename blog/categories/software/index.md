@@ -3,6 +3,7 @@ robots: "noindex, follow"
 sitemap: false
 layout: page
 title: Software
+description: "Posts about software: development, tools, and the craft of coding."
 hide_heading: true
 category: software
 permalink: /blog/categories/software/

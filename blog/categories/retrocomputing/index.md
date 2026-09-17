@@ -3,6 +3,7 @@ robots: "noindex, follow"
 sitemap: false
 layout: page
 title: Retrocomputing
+description: "Posts about retrocomputing: vintage machines, emulation, and old-school programming."
 hide_heading: true
 category: retrocomputing
 permalink: /blog/categories/retrocomputing/

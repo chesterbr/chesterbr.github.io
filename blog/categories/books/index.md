@@ -3,6 +3,7 @@ robots: "noindex, follow"
 sitemap: false
 layout: page
 title: Books
+description: "Posts about books: reviews, recommendations, and reading notes."
 hide_heading: true
 category: books
 permalink: /blog/categories/books/

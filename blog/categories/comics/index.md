@@ -3,6 +3,7 @@ robots: "noindex, follow"
 sitemap: false
 layout: page
 title: Comics
+description: "Posts about comics and graphic novels."
 hide_heading: true
 category: comics
 permalink: /blog/categories/comics/

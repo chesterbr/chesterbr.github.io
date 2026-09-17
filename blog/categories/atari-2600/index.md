@@ -3,6 +3,7 @@ robots: "noindex, follow"
 sitemap: false
 layout: page
 title: Atari 2600
+description: "Posts about the Atari 2600: homebrew, programming, and hardware for the classic console."
 hide_heading: true
 category: atari-2600
 permalink: /blog/categories/atari-2600/
