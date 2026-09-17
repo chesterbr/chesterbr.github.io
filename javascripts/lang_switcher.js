@@ -9,7 +9,6 @@
     categories: "Categorias",
     subtitle: "tecnologia, viagens, quadrinhos, livros, matemática, web, software e divagações",
     readMore: "Leia mais &rarr;",
-    postedBy: "Publicado por",
     recentPosts: "Posts Recentes",
     aboutMe: "Sobre mim",
     aboutMeBlurb: 'Meu nome é Carlos, mas a maioria me chama de Chester. <a href="/">Saiba mais sobre mim.</a>',
