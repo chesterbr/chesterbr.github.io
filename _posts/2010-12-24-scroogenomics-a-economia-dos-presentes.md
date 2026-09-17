@@ -19,8 +19,6 @@ Um exemplo desse tipo de presente são os gift cards do [Kiva][5]. O Kiva é um 
 
 Mesmo que você não considere esse tipo de iniciativa, ainda é interessante aprender com este economista para onde vai o dinheiro (e, mais importante, o valor) toda vez que dá ou recebe um presente, e, no mínimo, conseguir mais satisfação do presenteado por real gasto.
 
-(Interessado? Compre o meu na [lojinha][8]!)
-
  [1]: http://pt.wikipedia.org/wiki/A_Christmas_Carol
  [2]: http://pt.wikipedia.org/wiki/Tio_Patinhas
  [3]: http://press.princeton.edu/titles/8972.html
@@ -28,4 +26,3 @@ Mesmo que você não considere esse tipo de iniciativa, ainda é interessante ap
  [5]: http://kiva.org
  [6]: /archives/2008/09/kiva.html
  [7]: http://www.kiva.org/gifts
- [8]: /lojinha

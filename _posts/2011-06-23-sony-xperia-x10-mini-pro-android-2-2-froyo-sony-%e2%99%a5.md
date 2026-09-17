@@ -6,10 +6,6 @@ comments: true
 permalink: /archives/2011/06/sony-xperia-x10-mini-pro-android-2-2-froyo-sony-%e2%99%a5.html/
 categories:
 ---
-<div style="border:1px solid red; padding:8px; margin:8px; text-align:center">
-  Estou <b>vendendo</b> meu X10 Mini Pro (com o update 2.3 instalado)<br />clique na <a href="/lojinha">lojinha</a> e veja mais detalhes
-</div>
-
 [<img class="alignleft size-full wp-image-6043" title="Animação do boot do Froyo. Hit the road, Sony Ericsson!" src="/wp-content/uploads/2011/06/froyo_cyanogen_x10_mini_pro.jpg" alt="Animação do boot do Froyo. Hit the road, Sony Ericsson!" width="200" height="200" />][1]*Este post falava originalmente de um upgrade para o Android 2.2 (que continua válido), mas já consegui atualizar o celular para o 2.3, daí a mudança no título. Pule para o [final][2] para obter os links para 2.3.*
 
 Demorou, mas finalmente rolou: um programador ([slade87][3]) juntou código dele com o [MiniCM][4] (baseada no [CyanogenMod][5]) e conseguiu gerar uma versão do Android 2.2 (conhecido como &#8220;Froyo&#8221;) que funciona no X10 Mini Pro. Um amigo me [avisou][6] da existência de um <a class="dead-link" title="este link morreu" href="http://www.plusgsm.com.br/forums/showthread.php/99581-TUTORIAL-Debranding-Root-XRecovery-e-Froyo-para-o-X10-Mini-Pro">tutorial em português</a><span class="dead-link-mark">†</span> escrito pelo [NightCrawler][8], e foi o que eu segui.

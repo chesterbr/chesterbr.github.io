@@ -6,10 +6,6 @@ comments: true
 permalink: /archives/2011/01/sony-ericsson-xperia-x10-mini-pro-avaliacao.html/
 categories:
 ---
-<div style="border:1px solid red; padding:8px; margin:8px; text-align:center">
-  Estou <b>vendendo</b> meu X10 Mini Pro (com o update 2.3 instalado)<br />clique na <a href="/lojinha">lojinha</a> e veja mais detalhes
-</div>
-
 [<img class="alignright size-full wp-image-5789" title="Sony Ericsson Xperia X10 Mini Pro" src="/wp-content/uploads/2011/01/x10minipro.jpg" alt="" width="219" height="211" />][1]Passei dois anos com um iPhone, e uma das coisas que me incomodava era digitar nele. Fato: o melhor teclado virtual do universo é pior que o teclado físico mais vagabundo. Eu escrevo muito (basta [me seguir no Twitter][2] para conferir) e quem produz conteúdo &#8220;na estrada&#8221; precisa de teclas de verdade. É o motivo pelo qual eu não trocaria meu netbook por um tablet &#8211; e que me fez desencanar de um iPhone 4 quando o 2G se foi.
 
 Juntando a isso o fato de já estar de olho no Android [há pelo menos três anos][3], comecei a procurar aparelhos com este sistema cujo preço não superasse os três dígitos. Também era importante contornar outras limitações do iPhone: a falta do flash na câmera e o formato/tamanho. A busca terminou no [Sony Ericsson Xperia X10 Mini Pro][1].
