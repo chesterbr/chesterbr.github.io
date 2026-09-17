@@ -6,7 +6,12 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{% if page.title and page.title != site.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  {% comment %} Blog name shown in the tab title and social-share tags: Portuguese
+  posts use the localized title, everything else falls back to the default.
+  Reused by _includes/custom/head.html. {% endcomment %}
+  {% assign site_name = site.title %}
+  {% if page.locale == 'pt-BR' %}{% assign site_name = site.title_pt %}{% endif %}
+  <title>{% if page.title and page.title != site.title %}{{ page.title }} - {% endif %}{{ site_name }}</title>
   <meta name="author" content="{{ site.author }}">
   {% capture description %}{% if page.url == '/index.html' %}{{ site.subtitle }}{% elsif page.description %}{{
   page.description }}{% elsif page.layout == 'post' %}{{ content | raw_content }}{% else %}{{ site.description }}{% endif %}{% endcapture %}

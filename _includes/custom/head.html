@@ -2,11 +2,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=PT+Sans:wght@400;700&display=swap" rel="stylesheet">
 
 <!-- twitter card and open graph, from http://www.lukaszielinski.de/blog/posts/2013/01/28/twitter-cards-and-open-graph-metatags-in-octopress/ -->
-
-{% comment %} Blog name shown when a post is shared: Portuguese posts use the
-localized title, everything else falls back to the default. {% endcomment %}
-{% assign site_name = site.title %}
-{% if page.locale == 'pt-BR' %}{% assign site_name = site.title_pt %}{% endif %}
+{% comment %} site_name (localized blog name) is assigned in _includes/head.html,
+which includes this file. {% endcomment %}
 
 <meta name="twitter:card" content="{% if page.og_image or page.url == '/index.html' %}summary_large_image{% else %}summary{% endif %}">
 <meta name="twitter:site" content="@chesterbr">
