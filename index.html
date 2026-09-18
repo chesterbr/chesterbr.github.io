@@ -53,7 +53,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
         introP1: "Crio e melhoro software para resolver problemas, trazer alegria, melhorar vidas — e também simplesmente porque adoro programar.",
         introP2: "Um autista curioso, empático e atencioso que apoia a justiça, a inclusão e a dignidade para todas as pessoas.",
         socialMediaTitle: "Redes sociais e contato",
-        aboutMe: "Sobre mim",
+        aboutMe: "Pessoal",
         aboutMeItems: [
           "Brasileiro de nascença, italiano por herança, canadense por escolha.",
           'Adoro videogames e quadrinhos, mas evito seus <a href="https://pt.wikipedia.org/wiki/Gamergate">redutos</a> mais <a href="https://super.abril.com.br/cultura/o-que-e-o-comicsgate-movimento-contra-a-diversidade-nos-quadrinhos/">tóxicos</a>.',
@@ -61,7 +61,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
           'Meu nome real é Carlos Duarte Do Nascimento.',
           'O apelido vem do <a href="https://youtu.be/sPZ8Xxh1vK4?si=hOu66SLMLDTacv4F&t=65">Chester McTech</a>, do desenho <a href="https://pt.wikipedia.org/wiki/Beverly_Hills_Teens">Turma da Pesada</a>.',
         ],
-        aboutWork: "Código e Trabalho",
+        aboutWork: "Trabalho, diversão e arte",
         aboutWorkItems: [
           "Programador há mais de 30 anos - e adoro fazer isso até hoje!",
           'Bacharel em Matemática Aplicada e Computacional (<a href="https://www.ime.usp.br/">IME</a>/<a href="https://www5.usp.br/">USP</a>, 2008).',
@@ -72,7 +72,10 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
         ],
         snarkyTwitterTitle: "Twitter / X / seja lá como se chama esta semana",
         twitterConfirmMessage: "Este lugar é tóxico; só entro pra ver DMs e menções.\n\nSugiro o Mastodon ou Instagram para interações em redes sociais. Ainda deseja prosseguir?",
-        blogLinkTitle: "blog do chester"
+        blogLinkTitle: "blog do chester",
+        blogCta: "Leia o blog <span class=\"blog-cta-chevron\">&rsaquo;</span>",
+        blogRecent: "No meu blog",
+        blogRecentAll: "ver todos os posts &rarr;"
       };
 
       const urlParams = new URLSearchParams(window.location.search);
@@ -89,6 +92,13 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
         document.getElementById("twitter-link").setAttribute("data-confirm-message", translationsPt.twitterConfirmMessage);
         document.getElementById("twitter-link").setAttribute("title", translationsPt.snarkyTwitterTitle);
         document.getElementById("blog-link-icon").setAttribute("title", translationsPt.blogLinkTitle);
+        document.getElementById("blog-cta").innerHTML = translationsPt.blogCta;
+        document.getElementById("blog-recent-title").innerHTML = translationsPt.blogRecent;
+        document.getElementById("blog-recent-en").style.display = "none";
+        document.getElementById("blog-recent-pt").style.display = "";
+        var blogAllLink = document.getElementById("blog-recent-all");
+        blogAllLink.innerHTML = translationsPt.blogRecentAll;
+        blogAllLink.setAttribute("href", "/blog/pt-br/");
         document.getElementById("about-me-title").innerHTML = translationsPt.aboutMe;
 
         const aboutMeItems = document.querySelectorAll("#about-me-items li");
@@ -166,11 +176,15 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
     }
 
     .profile-box img {
-      width: 220px;
-      height: 220px;
+      width: 200px;
+      height: 200px;
       border-radius: 50%;
+      background-color: rgb(56, 206, 229);
+      border: 2px solid #222831;
+      object-fit: cover;
+      object-position: top;
       position: absolute;
-      top: -110px;
+      top: -106px;
     }
 
     .profile-box h3 {
@@ -199,9 +213,44 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
 
     .profile-box p.social-media-title {
       font-family: "PT Sans", sans-serif;
-      font-size: 1em;
-      margin: 0;
-      color: white;
+      display: inline-block;
+      font-size: 0.72em;
+      font-weight: bold;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #fff;
+      background-color: rgba(0, 0, 0, 0.28);
+      padding: 3px 12px;
+      border-radius: 14px;
+      margin: 0 0 4px;
+    }
+
+    #intro-p2 {
+      margin-bottom: 0;
+    }
+
+    .blog-cta {
+      display: inline-block;
+      margin: auto 0;
+      padding: 9px 20px;
+      background-color: #222831;
+      color: #fff !important;
+      border-radius: 20px;
+      font-family: "PT Sans", sans-serif;
+      font-weight: bold;
+      text-decoration: none;
+      transition: background-color 0.3s;
+    }
+
+    .blog-cta:hover {
+      background-color: #000;
+      text-decoration: none;
+    }
+
+    .blog-cta-chevron {
+      margin-left: 3px;
+      font-weight: normal;
+      opacity: 0.7;
     }
 
     .icon-links {
@@ -209,7 +258,6 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       gap: 10px;
       justify-content: center;
       flex-wrap: wrap;
-      margin-top: auto;
     }
 
     .icon-links a {
@@ -262,6 +310,47 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       line-height: 1.5;
     }
 
+    .blog-recent {
+      margin-bottom: 1em;
+    }
+
+    .blog-recent ul {
+      padding-left: 0;
+      margin: 0 0 .4em;
+      list-style: none;
+    }
+
+    .blog-recent li {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 1em;
+    }
+
+    .blog-recent .fi {
+      margin-right: 4px;
+      opacity: 0.85;
+    }
+
+    .blog-item-title {
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .blog-date {
+      color: #888;
+      white-space: nowrap;
+      font-size: 0.82em;
+      flex-shrink: 0;
+    }
+
+    #blog-recent-all {
+      font-size: 0.9em;
+      font-weight: bold;
+    }
+
     .language-switch {
       position: absolute;
       top: 20px;
@@ -293,6 +382,10 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       .about-text {
         max-width: 100%;
         width: 100%;
+      }
+
+      .blog-cta {
+        margin: 24px 0 18px;
       }
     }
 
@@ -351,7 +444,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
   </div>
   <div class="container">
     <div class="profile-box">
-      <img src="img/root-profile-photo.jpg" alt="My profile photo" />
+      <img src="/img/root-profile-photo-nobg.png" alt="My profile photo" />
       <h3 id="greeting">Hello! I'm Chester</h3>
       <h4>(Carlos Duarte Do Nascimento)</h4>
       <p id="intro-p1">
@@ -360,6 +453,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       <p id="intro-p2">
         {{ page.description_p2 }}
       </p>
+      <a id="blog-cta" class="blog-cta" href="/blog/">Read the blog <span class="blog-cta-chevron">&rsaquo;</span></a>
       <p class="social-media-title" id="social-media-title">
         Social media and contact
       </p>
@@ -379,7 +473,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
       </div>
     </div>
     <div class="about-text">
-      <h1 id="about-me-title">About me</h1>
+      <h1 id="about-me-title">Personal</h1>
       <ul id="about-me-items">
         <li data-bullet="🌎">
           Brazilian by birthright, Italian by heritage, Canadian by choice.
@@ -401,7 +495,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
           <br />
         </li>
       </ul>
-      <h1 id="about-work-title">Work and code</h1>
+      <h1 id="about-work-title">Work, fun &amp; art</h1>
       <ul id="about-work-items">
         <li data-bullet="🤓">
           Computer programmer for 30+ years - and still loving it!
@@ -425,6 +519,30 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
             href="https://github.com/chesterbr">GitHub</a> and on <a href="/blog/">my blog</a>.
         </li>
       </ul>
+      <div class="blog-recent">
+        <h1 id="blog-recent-title">From my blog</h1>
+        <ul id="blog-recent-en">
+          {% assign en_recent = site.posts | where: "locale", "en" %}
+          {% for post in en_recent limit:3 %}
+          <li data-bullet="📝">
+            <span class="blog-item-title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></span>
+            <span class="blog-date">{{ post.date | date: "%b %Y" }}</span>
+          </li>
+          {% endfor %}
+        </ul>
+        <ul id="blog-recent-pt" style="display:none">
+          {% assign pt_recent = site.posts | where: "locale", "pt-BR" %}
+          {% assign months_pt = "jan,fev,mar,abr,mai,jun,jul,ago,set,out,nov,dez" | split: "," %}
+          {% for post in pt_recent limit:3 %}
+          {% assign m = post.date | date: "%m" | plus: 0 | minus: 1 %}
+          <li data-bullet="📝">
+            <span class="blog-item-title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></span>
+            <span class="blog-date">{{ months_pt[m] }} {{ post.date | date: "%Y" }}</span>
+          </li>
+          {% endfor %}
+        </ul>
+        <a href="/blog/en/" id="blog-recent-all">See all posts &rarr;</a>
+      </div>
     </div>
   </div>
 </body>
