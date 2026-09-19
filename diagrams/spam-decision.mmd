@@ -1,0 +1,11 @@
+%% Spam decision cycle for the "Comments without a server, again" post.
+%% Lean on purpose: the sequence diagram (comment-sequence.mmd) shows who does
+%% what; this one shows only what happens to a comment and where it ends up.
+%% Render: mmdc -i diagrams/spam-decision.mmd -o img/spam-decision.svg -b transparent
+flowchart TD
+    C([New comment]) --> D{Looks automated?}
+    D -->|yes| X([Drop])
+    D -->|no| F[Akismet + Claude Haiku] --> V{Spam verdict?}
+    V -->|clean| P([Publish])
+    V -->|unsure / disagree| R([Open PR])
+    V -->|spam| L([Drop + log])
