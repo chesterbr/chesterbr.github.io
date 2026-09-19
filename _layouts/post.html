@@ -21,3 +21,21 @@ single: true
   </article>
   {% include comments.html %}
 </div>
+
+<script>
+  // "Read more" links from the listing land here at #more, skipping the intro
+  // the reader already saw. Once the browser has positioned them, drop #more
+  // from the URL (without scrolling) so a link copied from here opens at the
+  // top of the post, not halfway down. Other fragments are left untouched.
+  (function () {
+    if (window.location.hash !== '#more') return;
+    var strip = function () {
+      history.replaceState(null, '', window.location.pathname + window.location.search);
+    };
+    if (document.readyState === 'complete') {
+      requestAnimationFrame(strip);
+    } else {
+      window.addEventListener('load', function () { requestAnimationFrame(strip); });
+    }
+  })();
+</script>
