@@ -63,7 +63,7 @@ description_p2: Curious by nature, I strive to be empathetic and welcoming. I'm 
         aboutWorkItems: [
           "Programador há mais de 30 anos - e adoro fazer isso até hoje!",
           'Bacharel em Matemática Aplicada e Computacional (<a href="https://www.ime.usp.br/">IME</a>/<a href="https://www5.usp.br/">USP</a>, 2008).',
-          "Trabalhei em empresas de todos os tamanhos, como iG, Apontador, Shopify e GitHub.",
+          "Trabalhei no iG, Apontador, Shopify, GitHub e um tanto de lugares.",
           'Criador do <a href="https://play.google.com/store/apps/details?id=me.chester.minitruco">miniTruco</a>, um jogo de cartas para celular bastante popular.',
           'Entusiasta de retrocomputação; escrevi um <a href="https://github.com/chesterbr/ruby2600">emulador</a> e um <a href="https://github.com/chesterbr/2048-2600">jogo</a> de Atari.',
           'Mais detalhes no <a href="https://www.linkedin.com/in/chesterbr/">LinkedIn</a>; projetos de código no <a href="https://github.com/chesterbr">GitHub</a> e no <a href="/blog/">meu blog</a>.',
@@ -135,7 +135,17 @@ description_p2: Curious by nature, I strive to be empathetic and welcoming. I'm 
       font-family: "PT Sans", sans-serif;
       background-color: white;
       color: #333;
-      padding-top: 150px;
+      min-height: 100vh;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      /* Top padding exceeds bottom by ~60px to partly offset the photo that
+         overhangs the card's top: a middle ground that nudges the photo+card
+         side toward center without dropping the taller right column too low.
+         Top stays >106px so the overhanging photo never clips when content
+         scrolls; min-height (not height) lets tall content scroll, uncut. */
+      padding: 120px 0 60px;
     }
 
     a:link,
@@ -158,6 +168,8 @@ description_p2: Curious by nature, I strive to be empathetic and welcoming. I'm 
       padding: 20px;
       max-width: 1200px;
       margin: 0 auto;
+      box-sizing: border-box;
+      width: 100%;
     }
 
     .profile-box {
@@ -376,6 +388,10 @@ description_p2: Curious by nature, I strive to be empathetic and welcoming. I'm 
     }
 
     @media (max-width: 880px) {
+      body {
+        padding: 116px 0 20px;
+      }
+
       .container {
         flex-direction: column;
         align-items: flex-start;
