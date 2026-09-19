@@ -1,7 +1,7 @@
 ---
 title: Carlos Duarte Do Nascimento (Chester)
-description_p1: I build and improve software to solve problems, bring joy, and improve lives — and also simply because I love coding.
-description_p2: A curious, compassionate, and thoughtful autistic person who supports fairness, inclusion, and dignity for all.
+description_p1: I build and fix software to solve problems, bring joy, and improve lives - but mostly because I love programming.
+description_p2: Curious by nature, I strive to be empathetic and welcoming. I'm also autistic, and stand up for social justice, inclusion, and dignity.
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -50,8 +50,8 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
     document.addEventListener("DOMContentLoaded", function () {
       const translationsPt = {
         greeting: "Olá! Eu sou o Chester",
-        introP1: "Crio e melhoro software para resolver problemas, trazer alegria, melhorar vidas — e também simplesmente porque adoro programar.",
-        introP2: "Um autista curioso, empático e atencioso que apoia a justiça, a inclusão e a dignidade para todas as pessoas.",
+        introP1: "Crio e conserto software para resolver problemas, trazer alegria e melhorar vidas - mas principalmente porque adoro programar.",
+        introP2: "Sou uma pessoa curiosa, que busca ser empática e acolhedora. Também sou autista, e defendo a justiça social, a inclusão e a dignidade.",
         socialMediaTitle: "Redes sociais e contato",
         aboutMe: "Pessoal",
         aboutMeItems: [
@@ -96,9 +96,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
         document.getElementById("blog-recent-title").innerHTML = translationsPt.blogRecent;
         document.getElementById("blog-recent-en").style.display = "none";
         document.getElementById("blog-recent-pt").style.display = "";
-        var blogAllLink = document.getElementById("blog-recent-all");
-        blogAllLink.innerHTML = translationsPt.blogRecentAll;
-        blogAllLink.setAttribute("href", "/blog/pt-br/");
+        document.getElementById("blog-recent-all").innerHTML = translationsPt.blogRecentAll;
         document.getElementById("about-me-title").innerHTML = translationsPt.aboutMe;
 
         const aboutMeItems = document.querySelectorAll("#about-me-items li");
@@ -541,7 +539,7 @@ description_p2: A curious, compassionate, and thoughtful autistic person who sup
           </li>
           {% endfor %}
         </ul>
-        <a href="/blog/en/" id="blog-recent-all">See all posts &rarr;</a>
+        <a href="/blog/" id="blog-recent-all">See all posts &rarr;</a>
       </div>
     </div>
   </div>
