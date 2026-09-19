@@ -20,9 +20,8 @@ description_p2: Curious by nature, I strive to be empathetic and welcoming. I'm 
   The design is inspired by a few pages and templates from different places, but otherwise created
   from scratch, hennce no particular attribution. LMK if you think I should credit someone.
 
-  Font Awesome (public) and flag-icons are used under their respective licenses. See:
+  Font Awesome (public) is used under its license. See:
   - https://fontawesome.com/license/free
-  - https://github.com/lipis/flag-icons?tab=MIT-1-ov-file
 -->
 
 <head>
@@ -32,7 +31,6 @@ description_p2: Curious by nature, I strive to be empathetic and welcoming. I'm 
   <link href="/fontawesome/css/fontawesome.css" rel="stylesheet" />
   <link href="/fontawesome/css/brands.css" rel="stylesheet" />
   <link href="/fontawesome/css/solid.css" rel="stylesheet" />
-  <link href="/flag-icons/css/flag-icons.min.css" rel="stylesheet" />
 
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:description" content="{{ page.description_p1 }}\n\n{{ page.description_p2 }}" />
@@ -93,6 +91,9 @@ description_p2: Curious by nature, I strive to be empathetic and welcoming. I'm 
         document.getElementById("twitter-link").setAttribute("title", translationsPt.snarkyTwitterTitle);
         document.getElementById("blog-link-icon").setAttribute("title", translationsPt.blogLinkTitle);
         document.getElementById("blog-cta").innerHTML = translationsPt.blogCta;
+        var langToggle = document.getElementById("lang-toggle");
+        langToggle.setAttribute("href", "/?lang=en");
+        langToggle.innerHTML = '<i class="fa-solid fa-globe" aria-hidden="true"></i> English';
         document.getElementById("blog-recent-title").innerHTML = translationsPt.blogRecent;
         document.getElementById("blog-recent-en").style.display = "none";
         document.getElementById("blog-recent-pt").style.display = "";
@@ -356,14 +357,22 @@ description_p2: Curious by nature, I strive to be empathetic and welcoming. I'm 
     }
 
     .language-switch a {
-      margin: 0 5px;
-      font-size: 1.5em;
-      color: #333;
+      font-family: "PT Sans", sans-serif;
+      font-size: 0.9em;
+      color: #0056b3;
       text-decoration: none;
+      transition: color 0.2s;
     }
 
     .language-switch a:hover {
-      color: #000;
+      color: #003f7f;
+      text-decoration: underline;
+    }
+
+    .language-switch .fa-globe {
+      margin-right: 4px;
+      font-size: 0.9em;
+      opacity: 0.85;
     }
 
     @media (max-width: 880px) {
@@ -421,11 +430,11 @@ description_p2: Curious by nature, I strive to be empathetic and welcoming. I'm 
       }
 
       .language-switch a {
-        color: #e0e0e0;
+        color: #90caf9;
       }
 
       .language-switch a:hover {
-        color: #ffffff;
+        color: #64b5f6;
       }
 
       .about-text ul li::before {
@@ -437,8 +446,7 @@ description_p2: Curious by nature, I strive to be empathetic and welcoming. I'm 
 
 <body>
   <div class="language-switch">
-    <a href="/?lang=en"><span class="fi fi-gb"></span></a>
-    <a href="/?lang=pt"><span class="fi fi-br"></span></a>
+    <a id="lang-toggle" href="/?lang=pt"><i class="fa-solid fa-globe" aria-hidden="true"></i> Português</a>
   </div>
   <div class="container">
     <div class="profile-box">
