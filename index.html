@@ -170,6 +170,7 @@ description_p2: Curious by nature, I strive to be empathetic and welcoming. I'm 
       margin: 0 auto;
       box-sizing: border-box;
       width: 100%;
+      position: relative;
     }
 
     .profile-box {
@@ -362,9 +363,14 @@ description_p2: Curious by nature, I strive to be empathetic and welcoming. I'm 
       font-weight: bold;
     }
 
+    /* Anchored to .container (the invisible 1200px box), not the window, so it
+       tracks the vertically-centered content: right:20px sits at the box's
+       content-right edge, and the negative top lifts it level with the top of the
+       photo, which overhangs 86px above the container top (20px container padding
+       minus the photo's 106px overhang). */
     .language-switch {
       position: absolute;
-      top: 20px;
+      top: -95px;
       right: 20px;
     }
 
@@ -461,10 +467,10 @@ description_p2: Curious by nature, I strive to be empathetic and welcoming. I'm 
 </head>
 
 <body>
-  <div class="language-switch">
-    <a id="lang-toggle" href="/?lang=pt"><i class="fa-solid fa-globe" aria-hidden="true"></i> Português</a>
-  </div>
   <div class="container">
+    <div class="language-switch">
+      <a id="lang-toggle" href="/?lang=pt"><i class="fa-solid fa-globe" aria-hidden="true"></i> Português</a>
+    </div>
     <div class="profile-box">
       <img src="/img/root-profile-photo-nobg.png" alt="My profile photo" />
       <h3 id="greeting">Hello! I'm Chester</h3>
