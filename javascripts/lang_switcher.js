@@ -91,6 +91,18 @@
     });
   }
 
+  // Dates on co-mingled listings (archive, /blog/, categories) are rendered in
+  // both languages at build time (data-date-en / data-date-pt) so the whole list
+  // can read in one language - the reader's chrome language - instead of each
+  // date following its own post's locale, which looks jumbled when languages mix.
+  function applyDates(chromeLang) {
+    var wantPt = chromeLang === "pt-BR";
+    document.querySelectorAll(".rl-date").forEach(function (el) {
+      var v = wantPt ? el.getAttribute("data-date-pt") : el.getAttribute("data-date-en");
+      if (v != null) el.textContent = v;
+    });
+  }
+
   function updateHomeLink(mode) {
     var link = document.getElementById("blog-home-link");
     if (link) link.href = blogUrlFor(mode);
@@ -119,7 +131,9 @@
 
   function apply(mode) {
     document.documentElement.setAttribute("data-reader-lang", mode);
-    applyTranslations(chromeLangFor(mode));
+    var chromeLang = chromeLangFor(mode);
+    applyTranslations(chromeLang);
+    applyDates(chromeLang);
     sortTopicsMenu();
     updateHomeLink(mode);
     updateSwitcherState(mode);

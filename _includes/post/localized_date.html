@@ -1,0 +1,17 @@
+{% comment %}
+Renders a post's date in a given language.
+locale/date come from include params when passed (reader_date.html passes an
+explicit locale); otherwise they fall back to whichever of page.* / post.* is set
+(single post vs. listing loop), mirroring _includes/post/date.html - so a plain
+{% include post/localized_date.html %} renders in the post's own locale.
+  pt-BR: "19 set 2026"   en (and default): "Sep 19, 2026"
+{% endcomment %}
+{%- if include.locale -%}{%- assign ld_locale = include.locale -%}{%- else -%}{%- capture ld_locale %}{{ page.locale }}{{ post.locale }}{% endcapture -%}{%- endif -%}
+{%- if include.date -%}{%- assign ld_date = include.date -%}{%- else -%}{%- capture ld_date %}{{ page.date }}{{ post.date }}{% endcapture -%}{%- endif -%}
+{%- if ld_locale == "pt-BR" -%}
+{%- assign ld_months = "jan,fev,mar,abr,mai,jun,jul,ago,set,out,nov,dez" | split: "," -%}
+{%- assign ld_m = ld_date | date: "%m" | plus: 0 | minus: 1 -%}
+{{- ld_date | date: "%-d" }} {{ ld_months[ld_m] }} {{ ld_date | date: "%Y" -}}
+{%- else -%}
+{{- ld_date | date: "%b %-d, %Y" -}}
+{%- endif -%}

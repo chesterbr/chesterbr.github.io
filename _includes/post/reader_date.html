@@ -1,0 +1,8 @@
+{% comment %}
+Date for co-mingled listings (archive, /blog/, categories) where posts of both
+languages appear side by side. Emits both language strings; lang_switcher.js swaps
+the visible text to the reader's chrome language (the browser's preferred language
+by default, or the selected ENG/PORT filter), so a mixed list reads uniformly.
+Default text is English, so the no-JS fallback is uniform too.
+{% endcomment %}
+<span class="rl-date" data-date-en="{% include post/localized_date.html locale='en' %}" data-date-pt="{% include post/localized_date.html locale='pt-BR' %}">{% include post/localized_date.html locale='en' %}</span>

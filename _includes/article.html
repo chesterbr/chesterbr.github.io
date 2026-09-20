@@ -8,7 +8,7 @@
   {% endif %}
   {% unless page.meta == false %}
   <p class="meta">
-    {% include post/date.html %}{{ date | date_to_string }}
+    {% include post/date.html %}{% if index %}{% include post/reader_date.html %}{% else %}{% include post/localized_date.html %}{% endif %}
   </p>
   {% endunless %}
 </header>

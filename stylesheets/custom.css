@@ -16,10 +16,10 @@ a.dead-link {
     on purpose - everything shows by default, which is also the correct
     no-JS fallback. */
 [data-reader-lang="en"] [data-lang="pt-BR"] {
-    display: none;
+    display: none !important;
 }
 [data-reader-lang="pt-BR"] [data-lang="en"] {
-    display: none;
+    display: none !important;
 }
 
 /* /archives/ groups posts under a year heading; hide the whole group
