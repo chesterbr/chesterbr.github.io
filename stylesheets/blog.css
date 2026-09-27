@@ -476,7 +476,7 @@ div.pagination a.prev, div.pagination a.next { color: var(--text); font-weight: 
   padding: 0.08em 0;
 }
 #blog-archives article time { flex-shrink: 0; width: 6em; color: var(--muted); font-size: 0.85em; }
-#blog-archives article h1 { font-size: 1em; font-weight: 400; margin-bottom: 0; font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif; }
+#blog-archives article h1 { flex: 1; min-width: 0; font-size: 1em; font-weight: 400; margin-bottom: 0; font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif; }
 #blog-archives article h1 a { color: var(--text); text-decoration: none; }
 #blog-archives article h1 a:hover { color: var(--accent-text); }
 #blog-archives article footer { color: var(--muted); font-size: 0.8em; }
@@ -573,6 +573,5 @@ figure.code .highlight { border-radius: 0 0 6px 6px; margin-top: -1px; }
   body > nav { gap: 10px; font-size: 0.8em; }
   .subscribe-rss span { display: none; }
   .main-navigation { margin-left: 0; }
-  #blog-archives article { flex-wrap: wrap; }
-  #blog-archives article time { width: auto; }
+  #blog-archives article { gap: 0.6em; }
 }
