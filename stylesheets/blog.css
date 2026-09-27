@@ -172,6 +172,7 @@ body > nav {
   flex-wrap: wrap;
   align-items: center;
   gap: 16px;
+  position: relative; /* containing block so the Categories menu can right-align to the content edge */
   padding-top: 0.8em;
   padding-bottom: 0.8em;
   border-top: 1px solid var(--border);
@@ -233,7 +234,7 @@ body > nav {
 .subscribe-rss:hover { background: var(--accent-soft); }
 .subscribe-rss i { color: var(--accent); }
 
-.search-widget { display: inline-flex; align-items: center; position: relative; margin-left: auto; }
+.search-widget { display: inline-flex; align-items: center; }
 .search-toggle {
   background: none;
   border: 0;
@@ -244,31 +245,119 @@ body > nav {
   line-height: 1;
 }
 .search-toggle:hover { color: var(--accent-text); }
-.search-form {
-  overflow: hidden;
-  max-width: 0;
-  opacity: 0;
-  transition: max-width 0.25s ease, opacity 0.2s ease;
-}
-.search-widget.search-open .search-form { max-width: 180px; opacity: 1; margin-left: 8px; }
-.search-form fieldset { border: 0; }
-.search-form input.search {
-  width: 160px;
-  padding: 4px 8px;
-  border: 1px solid var(--border);
-  border-radius: 999px;
+.search-widget.search-open .search-toggle { color: var(--accent-text); }
+/* Unified nav dropdowns (search + Categories): both hang from just below the
+   nav's separator rail, right-aligned to the content edge, flat with a whisper
+   shadow. Anchoring both to the nav (position: relative on body > nav) is what
+   makes their top and right edges line up for free. */
+.search-panel,
+.topics-menu {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  left: auto;
+  margin-top: 8px;
+  z-index: 100;
   background: var(--bg);
-  color: var(--text);
-  font-family: inherit;
-  font-size: 1em;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
+.search-panel { width: min(92vw, 360px); padding: 12px; }
+.search-panel[hidden] { display: none; }
+/* Theme Pagefind's default UI to the site's tokens, and dial the type down to
+   the site's compact chrome — Pagefind's default scale (.8) still reads large
+   next to 19px body text, and its search input (21px * scale) largest of all. */
+.search-panel .pagefind-mount {
+  --pagefind-ui-primary: var(--accent-text);
+  --pagefind-ui-text: var(--text);
+  --pagefind-ui-background: var(--bg);
+  --pagefind-ui-border: var(--border);
+  --pagefind-ui-tag: var(--bg);
+  --pagefind-ui-font: inherit;
+  --pagefind-ui-border-radius: 8px;
+  --pagefind-ui-border-width: 1px; /* match the comment form fields (1px, not Pagefind's 2px) */
+  --pagefind-ui-scale: 0.72;
+}
+/* Square the search input to match the comment form fields; the blue focus ring
+   is the browser default (same as those fields) and follows the square corners.
+   34px height matches the comment fields and the comment submit button. The left
+   padding is trimmed since we drop Pagefind's magnifier (redundant with the lens
+   that opens this panel); right padding leaves room for the × clear button. */
+.search-panel .pagefind-ui__search-input {
+  border-radius: 0 !important;
+  height: 34px !important;
+  padding: 0 30px 0 12px !important;
+}
+.search-panel .pagefind-ui__form::before { display: none !important; } /* drop the magnifier */
+/* Clear control: a centered × instead of the "Limpar/Clear" text label. */
+.search-panel .pagefind-ui__search-clear {
+  top: 0 !important;
+  right: 0 !important;
+  height: 34px !important;
+  padding: 0 9px !important;
+  font-size: 0 !important; /* hide the text label */
+  display: flex !important;
+  align-items: center !important;
+  background: transparent !important;
+}
+.search-panel .pagefind-ui__search-clear::after {
+  content: "\00D7"; font-size: 1.15rem; line-height: 1; color: var(--muted);
+}
+.search-panel .pagefind-ui__search-clear:hover::after { color: var(--text); }
+/* Result text and spacing are tuned independently of the (now well-sized) input:
+   scale keeps the input compact, but the excerpt/title it yields are too small
+   and too far apart for a dropdown. !important beats Pagefind's own scoped,
+   double-class Svelte selectors. */
+.search-panel .pagefind-ui__result { padding: 4px 0 !important; border: 0 !important; }
+/* min-width:0 lets the flex column shrink below its content so the title's
+   ellipsis can trigger; Pagefind's excerpt min-width would otherwise force it wide. */
+.search-panel .pagefind-ui__result-inner { margin-top: 2px !important; gap: 1px !important; min-width: 0 !important; }
+/* Result titles link to posts, so give them the site's link blue (hover-underline
+   stays); the UI controls (Clear, Load more) keep Pagefind's menu-like styling. */
+.search-panel .pagefind-ui__result-link { color: var(--accent-text) !important; }
+/* Titles to one line with an ellipsis (Google-style) to keep the list scannable. */
+.search-panel .pagefind-ui__result-title {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+  display: block !important;
+  max-width: 100%;
+  min-width: 0 !important; /* shrink below content so nested titles can clip too */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.search-panel .pagefind-ui__result-excerpt {
+  font-size: 0.85rem !important;
+  line-height: 1.3 !important;
+  margin-top: 1px !important;
+  min-width: 0 !important;
+}
+/* Sub-result titles get the same one-line ellipsis. Their ⤷ marker is absolutely
+   positioned to the link's left (outside it), which overflow:hidden would clip, so
+   move it inside a left pad first. */
+.search-panel .pagefind-ui__result-nested { min-width: 0 !important; max-width: 100% !important; }
+.search-panel .pagefind-ui__result-nested .pagefind-ui__result-link {
+  display: block !important;
+  max-width: 100%;
+  padding-left: 1.1em !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+.search-panel .pagefind-ui__result-nested .pagefind-ui__result-link::before {
+  left: 0 !important;
+  right: auto !important;
+}
+/* Tighten the big default padding around the "N results for X" line. */
+.search-panel .pagefind-ui__message { padding: 6px 0 !important; height: auto !important; }
 
-.main-navigation { display: flex; gap: 16px; list-style: none; margin: 0; align-items: baseline; }
+.main-navigation { display: flex; gap: 16px; list-style: none; margin: 0 0 0 auto; align-items: baseline; }
 .main-navigation a { color: var(--text); text-decoration: none; font-weight: 700; }
 .main-navigation a:hover { color: var(--accent-text); }
 
 /* "Topics" dropdown (categories) — native <details>, no JS, flat panel */
-.topics-widget { position: relative; }
+.topics-widget { position: static; } /* let .topics-menu anchor to the nav, not this label */
 .topics-widget details { margin: 0; }
 .topics-widget summary {
   display: inline; margin: 0; cursor: pointer; font-weight: 700; color: var(--text);
@@ -277,11 +366,7 @@ body > nav {
 .topics-widget summary::-webkit-details-marker { display: none; }
 .topics-widget summary:hover { color: var(--accent-text); }
 .topics-widget summary::after { content: "\25BE"; font-size: 0.8em; margin-left: 4px; } /* static ▾, never swaps (no reflow) */
-.topics-menu {
-  position: absolute; top: 100%; left: 0; z-index: 30;
-  margin: 8px 0 0; padding: 4px 0; min-width: 170px; list-style: none;
-  background: var(--bg); border: 1px solid var(--border); border-radius: 4px;
-}
+.topics-menu { padding: 4px 0; min-width: 170px; list-style: none; }
 .topics-menu li { margin: 0; }
 .topics-menu a { display: block; padding: 5px 16px; white-space: nowrap; font-weight: 400; }
 .topics-menu a:hover { color: var(--accent-text); }
@@ -487,7 +572,7 @@ figure.code .highlight { border-radius: 0 0 6px 6px; margin-top: -1px; }
   .logo-left h1 { font-size: 1.25em; }
   body > nav { gap: 10px; font-size: 0.8em; }
   .subscribe-rss span { display: none; }
-  .search-widget { margin-left: 0; }
+  .main-navigation { margin-left: 0; }
   #blog-archives article { flex-wrap: wrap; }
   #blog-archives article time { width: auto; }
 }

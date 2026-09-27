@@ -34,6 +34,9 @@ textarea {
   padding: 4px 5px;
   width: 100%;
 }
+/* Single-line fields: 34px tall, matching the search input and submit button
+   (the textarea keeps its compact padding). */
+input.textfield__input { padding: 8px 5px; }
 
 .checkbox-email-notification {
   font-size: 0.9rem;

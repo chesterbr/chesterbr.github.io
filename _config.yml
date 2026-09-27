@@ -20,7 +20,7 @@ title_pt: blog do Chester
 email: cd@pobox.com
 repository: chesterbr/chesterbr.github.io
 author: Chester (Carlos Duarte do Nascimento)
-simple_search: //duckduckgo.com
+search: pagefind # client-side static search; index built in CI (see pages.yml)
 subscribe_rss: /atom.xml
 # Used only by jekyll-feed for the Atom/RSS <subtitle>. Previously supplied
 # at build time by jekyll-github-metadata (fetched live from this repo's

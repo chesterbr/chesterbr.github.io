@@ -4,9 +4,9 @@ single: true
 ---
 
 <div>
-  <article class="hentry" role="article">
+  <article class="hentry" role="article" data-pagefind-body>
     {% include article.html %}
-    <footer>
+    <footer data-pagefind-ignore>
       <p class="meta">
         {% if page.previous.url %}
         <a class="basic-alignment left" href="{{page.previous.url}}"

@@ -137,6 +137,9 @@
     sortTopicsMenu();
     updateHomeLink(mode);
     updateSwitcherState(mode);
+    // Let other scripts (e.g. the Pagefind search UI) re-render their own
+    // strings in the new reader language, same as the chrome above.
+    document.dispatchEvent(new CustomEvent("readerlangchange", { detail: { mode: mode, chromeLang: chromeLang } }));
   }
 
   function isBlogListingPath(path) {

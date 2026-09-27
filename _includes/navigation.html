@@ -16,15 +16,12 @@
   <span data-i18n="email">Email</span>
 </a>
 {% endif %}
-{% if site.simple_search %}
+{% include custom/navigation.html %}
+{% if site.search == 'pagefind' %}
 <div class="search-widget">
   <button type="button" class="search-toggle" aria-label="Search" aria-expanded="false"><i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i></button>
-  <form class="search-form" action="{{ site.simple_search }}" method="get">
-    <fieldset role="search">
-      <input type="hidden" name="sites" value="{{ site.url | shorthand_url }}" />
-      <input class="search" type="text" name="q" results="0" data-i18n-placeholder="search" placeholder="Search"/>
-    </fieldset>
-  </form>
+  <div class="search-panel" hidden>
+    <div class="pagefind-mount" data-i18n-placeholder="search"></div>
+  </div>
 </div>
 {% endif %}
-{% include custom/navigation.html %}

@@ -41,6 +41,20 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # Static search index. Runs against the built HTML (after Jekyll, before
+      # upload) and writes _site/pagefind/, so results come from our own posts
+      # instead of whatever a web crawler happened to index. Version pinned.
+      # --force-language builds ONE index for the whole bilingual site so a
+      # search from any page returns matches across pt-BR and English posts,
+      # rather than being restricted to the current page's language.
+      - name: Index with Pagefind
+        run: npx -y pagefind@1.5.2 --site _site --force-language pt
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
