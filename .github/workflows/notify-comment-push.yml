@@ -1,11 +1,16 @@
 name: Notify me of auto-published comments
 
-# When a comment passes the filters it's committed straight to main (no PR), so
-# there's nothing to assign and I'd never hear about it. On each push, this looks
-# for the Worker's auto-publish commits ("Comment by ... on ...", but not
-# "Rejected comment by ...") and, as github-actions[bot], leaves a commit comment
-# @-mentioning me - a native notification, no Issue to clean up. Rejections and
-# my own unrelated commits are skipped.
+# Auto-published comments go straight to main (no PR), so nothing would notify
+# me. On each push, this finds the Worker's auto-publish commits ("Comment by ..."
+# but not "Rejected comment by ...") and, as github-actions[bot], leaves a commit
+# comment @-mentioning me - a native notification, no Issue to clean up.
+#
+# The body carries the comment text, read from the added entryN.yml. For a reply
+# (replying_to_uid set) the parent is entry{replying_to_uid}.yml in the same slug
+# dir - a direct path, no thread search - so we show who/what it replied to. That
+# path holds only for Worker-era parents (_id == filename timestamp); replies to
+# legacy Staticman comments just drop the reply-context line. Any unreadable file
+# falls back to the commit subject, never to silence.
 on:
   push:
     branches: ["main"]
@@ -21,13 +26,75 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
+            const { owner, repo } = context.repo;
+
+            // Worker writes each field as a JSON scalar, one per line (writeComment
+            // in comments-worker/src/index.ts): JSON.parse a "..." value, else raw.
+            const parseEntry = (text) => {
+              const out = {};
+              for (const line of text.split("\n")) {
+                const i = line.indexOf(":");
+                if (i < 0) continue;
+                const key = line.slice(0, i).trim();
+                const rest = line.slice(i + 1).trim();
+                if (!rest) { out[key] = ""; continue; }
+                try { out[key] = JSON.parse(rest); }
+                catch { out[key] = rest.replace(/^['"]|['"]$/g, ""); }
+              }
+              return out;
+            };
+
+            const readFile = async (path, ref) => {
+              try {
+                const res = await github.rest.repos.getContent({ owner, repo, path, ref });
+                return Buffer.from(res.data.content, "base64").toString("utf8");
+              } catch { return null; }
+            };
+
+            // Excerpt for the "in reply to" line; wrapped in inline code below so
+            // stray @mentions / #refs don't resolve, so strip backticks and cap it.
+            const excerpt = (s) =>
+              (s || "").replace(/`/g, "").replace(/\s+/g, " ").trim().slice(0, 140);
+
             for (const c of context.payload.commits || []) {
               const first = (c.message || "").split("\n")[0];
               if (!first.startsWith("Comment by ") || first.startsWith("Rejected")) continue;
+
+              const files = (c.added || []).filter((p) =>
+                /^_data\/comments\/.+\/entry\d+\.ya?ml$/.test(p),
+              );
+
+              let body;
+              if (files.length === 0) {
+                body = `@chesterbr novo comentário publicado — ${first}`; // fallback
+              } else {
+                const parts = [];
+                for (const path of files) {
+                  const raw = await readFile(path, c.id);
+                  if (!raw) { parts.push(first); continue; }
+                  const e = parseEntry(raw);
+                  const slug = path.split("/")[2];
+                  let head = `**${e.name || "?"}** em \`${slug}\``;
+                  if (e.replying_to_uid) {
+                    const parentPath = `_data/comments/${slug}/entry${e.replying_to_uid}.yml`;
+                    const praw = await readFile(parentPath, c.id);
+                    if (praw) {
+                      const p = parseEntry(praw);
+                      const ex = excerpt(p.message);
+                      const more = (p.message || "").length > 140 ? "…" : "";
+                      head += ` — em resposta a **${p.name || "?"}**: \`${ex}${more}\``;
+                    }
+                  }
+                  // Fenced block: verbatim text, and no @mention / #ref resolves.
+                  parts.push(`${head}\n\n\`\`\`\n${e.message || ""}\n\`\`\``);
+                }
+                body = `@chesterbr novo comentário publicado —\n\n${parts.join("\n\n---\n\n")}`;
+              }
+
               await github.rest.repos.createCommitComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
+                owner,
+                repo,
                 commit_sha: c.id,
-                body: `@chesterbr novo comentário publicado — ${first}`,
+                body,
               });
             }
