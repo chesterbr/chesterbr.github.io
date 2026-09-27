@@ -12,5 +12,5 @@ categories:
 
 É o [Dance Dance Immolation][1], com uma apresentação convenientemente programada para o Burning Man deste ano. Um cara da Wired [experimentou][2] e ficou bem louco. Dá pra entender.
 
- [1]: http://www.interpretivearson.com/ddi/
- [2]: http://www.wired.com/wired/archive/14.11/posts.html?pg=2
+ [1]: http://www.interpretivearson.com
+ [2]: https://www.wired.com/2006/11/disco-inferno/
