@@ -108,5 +108,12 @@ exclude:
   - comments-rejected    # spam audit log, never published
   - diagrams             # Mermaid diagram sources + notes, not site content
 
+# The Pagefind search index (_site/pagefind/) is written after Jekyll by a
+# separate step (pages.yml in CI, _jekyll.sh locally). Jekyll doesn't know
+# about it, so without this its cleaner would delete it on every rebuild -
+# which is what wipes local search when the watch server regenerates.
+keep_files:
+  - pagefind
+
 # jekyll_admin:
 #   homepage: "posts"
