@@ -101,6 +101,7 @@ button:hover {
 }
 
 .comment__meta {
+  grid-column: 2;
   text-align: left;
   color: var(--accent-text);
   font-size: small;

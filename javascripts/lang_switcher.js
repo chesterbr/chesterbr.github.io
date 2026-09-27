@@ -35,7 +35,9 @@
     commentSubmittedText: "Valeu! Seu comentário será publicado após a aprovação.",
     commentErrorTitle: "Erro",
     commentErrorText: "Ocorreu um erro.",
-    commentClose: "Fechar"
+    commentClose: "Fechar",
+    reply: "Responder",
+    cancelReply: "(cancelar resposta)"
   };
 
   // Category labels (keys "cat-<slug>") come from _data/categories.yml, emitted
