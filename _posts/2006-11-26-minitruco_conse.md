@@ -10,6 +10,6 @@ categories:
 ---
 <img title="tela de abertura" src="/archives/img/minitruco_titulo.png" width="113" height="116" align="left" border="1" />Está no ar uma [nova versão do miniTruco][1], na qual eu acertei alguns bugs.
 
-Se o seu celular é um Nokia 3220, 5140, 6230, 6101, 6111, 6265 ou 6820 (ou qualquer outro que estivesse dando mensagens em aramaico, do tipo *NullPointerException* ou *ArrayIndexOutOfBoundsException*), experimente esta versão &#8211; e deixe um feedback, se puder.
+Se o seu celular é um Nokia 3220, 5140, 6230, 6101, 6111, 6265 ou 6820 (ou qualquer outro que estivesse dando mensagens em aramaico, do tipo *NullPointerException* ou *ArrayIndexOutOfBoundsException*), experimente esta versão – e deixe um feedback, se puder.
 
  [1]: /archives/2006/01/mt.html

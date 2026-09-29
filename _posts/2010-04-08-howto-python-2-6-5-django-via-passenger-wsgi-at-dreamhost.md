@@ -9,11 +9,11 @@ bb-custom-tags:
 categories:
   - software
 ---
-<img src="/wp-content/uploads/2010/04/django.jpg" alt="django" title="django" width="246" height="360" class="alignleft size-full wp-image-6235" />[Dreamhost][1] is a pretty decent provider for people with lots of small websites. I didn&#8217;t expect them to have, say, Python 3 (although I&#8217;d love to), but I was surprised to find their official support is just for **2.4**!
+<img src="/wp-content/uploads/2010/04/django.jpg" alt="django" title="django" width="246" height="360" class="alignleft size-full wp-image-6235" />[Dreamhost][1] is a pretty decent provider for people with lots of small websites. I didn't expect them to have, say, Python 3 (although I'd love to), but I was surprised to find their official support is just for **2.4**!
 
-There are [instructions for custom builds][2], but they are not much supportive (&#8220;If you are positive that you need to install Python, reconsider&#8221;), and a few [unofficial][3] ones. Here are the steps **I** used &#8211; try them at your own risk, since I can&#8217;t give any guarantees other than the fact that they worked for me (hint: create a new subdomain **with its own user** and try that there first.)
+There are [instructions for custom builds][2], but they are not much supportive ("If you are positive that you need to install Python, reconsider"), and a few [unofficial][3] ones. Here are the steps **I** used – try them at your own risk, since I can't give any guarantees other than the fact that they worked for me (hint: create a new subdomain **with its own user** and try that there first.)
 
-(These instructions **might** also work for Python 3.0 &#8211; just replace the version numbers accordingly. I did not test that (yet), but if you do, please let me know.)
+(These instructions **might** also work for Python 3.0 – just replace the version numbers accordingly. I did not test that (yet), but if you do, please let me know.)
 
 <!--more-->
 
@@ -32,7 +32,7 @@ The first step is to download, build and install the desired Python version (2.6
 
 You can do all this because the `--prefix` ensures files will be inside your home dir (but outside the `yourdomain.com` dir, so they will be private), under `~/local/bin`, `~/local/lib`, and so on.
 
-Now prepend the `~/local/bin` directory to your path (to force your shell to &#8220;see&#8221; this Python install before Dreamhost&#8217;s) by appending the following lines to the `.bash_profile` file located on your home directory (using `vi`, `pico` or other editor):
+Now prepend the `~/local/bin` directory to your path (to force your shell to "see" this Python install before Dreamhost's) by appending the following lines to the `.bash_profile` file located on your home directory (using `vi`, `pico` or other editor):
 
 <div class="code">
         <pre class="bash" style="font-family:monospace;"><span style="color: #666666; font-style: italic;"># Added for custom-built python 2.6</span>
@@ -50,7 +50,7 @@ Type <span style="color: #ff0000;">"help"</span>, <span style="color: #ff0000;">
 <span style="color: #000000; font-weight: bold;">&gt;&gt;&gt;</span></pre>
 </div>
 
-Most add-ons will find your site-packages and related directories automatically. Some `configure` scripts for makefiles may not, but adding a `--prefix=${HOME}/.local` parameter (or something like that, check the script&#8217;s help if that happens) should solve the issue.
+Most add-ons will find your site-packages and related directories automatically. Some `configure` scripts for makefiles may not, but adding a `--prefix=${HOME}/.local` parameter (or something like that, check the script's help if that happens) should solve the issue.
 
 Django can be installed onto this Python setup by following the [standard instructions][6]. In my case:
 
@@ -73,7 +73,7 @@ python setup.py build
 python setup.py <span style="color: #c20cb9; font-weight: bold;">install</span></pre>
 </div>
 
-For most libraries, however, you will prefer `easy_install`, which is part of [setuptools][8]. However, if you type `easy_install` now, it will use the Python 2.4 version (to which you can&#8217;t add libraries anyway). Let&#8217;s fix it with:
+For most libraries, however, you will prefer `easy_install`, which is part of [setuptools][8]. However, if you type `easy_install` now, it will use the Python 2.4 version (to which you can't add libraries anyway). Let's fix it with:
 
 <div class="code">
         <pre class="bash" style="font-family:monospace;"><span style="color: #7a0874; font-weight: bold;">cd</span> ~<span style="color: #000000; font-weight: bold;">/</span>work
@@ -81,17 +81,17 @@ For most libraries, however, you will prefer `easy_install`, which is part of [s
 <span style="color: #c20cb9; font-weight: bold;">bash</span> setuptools-0.6c11-py2.6.egg</pre>
 </div>
 
-After that, `easy_install` should work &#8211; if not, try `easy_install-2.6`. One caveat is that libraries that build against native binaries must have access to them on the correct places. My issue was with [lxml][9], but I solved it with [these instructions][10] (only changing `.local` to `local`).
+After that, `easy_install` should work – if not, try `easy_install-2.6`. One caveat is that libraries that build against native binaries must have access to them on the correct places. My issue was with [lxml][9], but I solved it with [these instructions][10] (only changing `.local` to `local`).
 
-That should allow you to add everything you need until your app works fine &#8211; that is, if you can enter `python manage.py shell` under the Django project dir, import some stuff, run your unit tests (you have coded tests, right?), etc.
+That should allow you to add everything you need until your app works fine – that is, if you can enter `python manage.py shell` under the Django project dir, import some stuff, run your unit tests (you have coded tests, right?), etc.
 
-Unfortunately, Dreamhost&#8217;s web server (Apache) will still use the old Python &#8211; and you need to change that to put your app online. I guess there is [some FastCGI trickery][11] for that, but a cleaner way (in my humble opinion) is to use [Passenger][12] (aka &#8220;mod_rails&#8221;, which Dreamhost [supports][13] due to the popularity of Ruby on Rails) with [Python Web Server Gateway Interface (WSGI)][14].
+Unfortunately, Dreamhost's web server (Apache) will still use the old Python – and you need to change that to put your app online. I guess there is [some FastCGI trickery][11] for that, but a cleaner way (in my humble opinion) is to use [Passenger][12] (aka "mod_rails", which Dreamhost [supports][13] due to the popularity of Ruby on Rails) with [Python Web Server Gateway Interface (WSGI)][14].
 
-[Dreamhost&#8217;s documentation os Passenger WSGI][15] has a useful bootstrap script (at least if you did not start your Django project already), but let&#8217;s assume you already have one (if not, you should really [play a little bit][16] beforehand.)
+[Dreamhost's documentation os Passenger WSGI][15] has a useful bootstrap script (at least if you did not start your Django project already), but let's assume you already have one (if not, you should really [play a little bit][16] beforehand.)
 
-In this process, we&#8217;ll separate &#8220;static&#8221; content (in fact, all non-Python stuff, including PHP/Perl pages) from the Python/Django files. Return to your domain&#8217;s configuration on Dreamhost Panel and change the &#8220;Web Directory&#8221; from `"<home dir>/yourdomain.com"` to `"<home dir>/yourdomain.com/public"` (i.e., append a &#8220;public&#8221; sub-directory), then tick the &#8220;Passenger (Ruby/Python apps only)&#8221; checkbox.
+In this process, we'll separate "static" content (in fact, all non-Python stuff, including PHP/Perl pages) from the Python/Django files. Return to your domain's configuration on Dreamhost Panel and change the "Web Directory" from `"<home dir>/yourdomain.com"` to `"<home dir>/yourdomain.com/public"` (i.e., append a "public" sub-directory), then tick the "Passenger (Ruby/Python apps only)" checkbox.
 
-After that, wait until the `public` directory shows up and move your existing static files (if any) to it. If you haven&#8217;t already uploaded your Django project dir, put it under `yourdomain.com`, that is, side-by-side with `public`.
+After that, wait until the `public` directory shows up and move your existing static files (if any) to it. If you haven't already uploaded your Django project dir, put it under `yourdomain.com`, that is, side-by-side with `public`.
 
 You should now have a directory structure like this:
 *
@@ -107,7 +107,7 @@ You should now have a directory structure like this:
     *   logs/
     *   work/
 
-Create a `passenger_wsgi.py` file on the &#8220;`yourdomain.com`&#8221; directory, with the lines below (replace `/home/XXXXXX` with your real home and `YYYYYY` with your Django project directory):
+Create a `passenger_wsgi.py` file on the "`yourdomain.com`" directory, with the lines below (replace `/home/XXXXXX` with your real home and `YYYYYY` with your Django project directory):
 
 <div class="code">
         <pre class="python" style="font-family:monospace;"><span style="color: #ff7700;font-weight:bold;">import</span> <span style="color: #dc143c;">sys</span><span style="color: #66cc66;">,</span> <span style="color: #dc143c;">os</span>
@@ -119,9 +119,9 @@ INTERP <span style="color: #66cc66;">=</span> <span style="color: #483d8b;">"/ho
 application <span style="color: #66cc66;">=</span> django.<span style="color: black;">core</span>.<span style="color: black;">handlers</span>.<span style="color: black;">wsgi</span>.<span style="color: black;">WSGIHandler</span><span style="color: black;">&#40;</span><span style="color: black;">&#41;</span></pre>
 </div>
 
-The magic here is that this file will be detected by Passenger and will be used by it whenever an URL that is not an static file under public is called. It will first switch the environment from the default Python (which we can&#8217;t change anyway) to our custom-built one, then build a Django environment (the `application` variable) which will handle valid URLs.
+The magic here is that this file will be detected by Passenger and will be used by it whenever an URL that is not an static file under public is called. It will first switch the environment from the default Python (which we can't change anyway) to our custom-built one, then build a Django environment (the `application` variable) which will handle valid URLs.
 
-The beauty of this setup is that non-Python files (static content and stuff such as PHP) located inside `public` will be served directly by Apache, and your Python stuff will reside outside &#8211; [Django&#8217;s URL dispatcher][17] will control access, avoiding nasty accidents with leftover files.
+The beauty of this setup is that non-Python files (static content and stuff such as PHP) located inside `public` will be served directly by Apache, and your Python stuff will reside outside – [Django's URL dispatcher][17] will control access, avoiding nasty accidents with leftover files.
 
 After everything is set up, you can remove the `~/work` directory, and have fun with your (cheaply) hosted Python application!
 

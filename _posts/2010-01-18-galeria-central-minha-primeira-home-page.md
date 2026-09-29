@@ -8,9 +8,9 @@ categories:
 ---
 [<img class="alignright size-medium wp-image-3573 right" src="/wp-content/uploads/2010/01/galeria-300x208.png" alt="" width="200" height="138" />][1]Depois que o Yahoo tirou o Geocities da tomada, todo aquele passado de [`<blink>`][2] e [`<marquee>`][3] que a galera das antigas escondia no fundo do armário digital passou a ser [retrô-cool][4].
 
-Isso sem contar que olhar sites antigos das pessoas é tão ou mais divertido do que olhar álbuns de fotos &#8211; experimente fuçar a vida online dos seus amigos (em particular a velha guarda) e vai entender o que eu estou falando.
+Isso sem contar que olhar sites antigos das pessoas é tão ou mais divertido do que olhar álbuns de fotos – experimente fuçar a vida online dos seus amigos (em particular a velha guarda) e vai entender o que eu estou falando.
 
-Posto isso, ajuste o [DeLorean][5] rumo a 1997/98 (eu tinha uma versão anterior, mas essa foi a que eu achei), ignore links quebrados e acesse a&#8230;
+Posto isso, ajuste o [DeLorean][5] rumo a 1997/98 (eu tinha uma versão anterior, mas essa foi a que eu achei), ignore links quebrados e acesse a...
 
 <p style="text-align: center">
   <a href="/galeriacentral">Galeria Central</a><br /> a <em>home page</em> do Chester

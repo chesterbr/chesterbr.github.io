@@ -7,17 +7,17 @@ permalink: /archives/2002/05/um-homem-entra-num-restaurante-e-pede-uma-sopa-de-g
 categories:
   - mondo-bizarro
 ---
-&#8230; ele prova a sopa, pega uma faca e se mata&#8221;. Esse trecho surreal é parte de uma brincadeira de salão, cujo nome eu nunca soube, mas que rende boas risadas. Funciona assim: uma pessoa conta uma história curta (como a que acabei de citar), e os outros têm que descobrir o que aconteceu, explicando o paradoxo presente na história contada (no caso: as pessoas não costumam se suicidar após tomarem uma sopa de gaivota).
+... ele prova a sopa, pega uma faca e se mata". Esse trecho surreal é parte de uma brincadeira de salão, cujo nome eu nunca soube, mas que rende boas risadas. Funciona assim: uma pessoa conta uma história curta (como a que acabei de citar), e os outros têm que descobrir o que aconteceu, explicando o paradoxo presente na história contada (no caso: as pessoas não costumam se suicidar após tomarem uma sopa de gaivota).
 
-Para isso, todos podem fazer perguntas ao &#8220;contador&#8221; da história, que só pode responder na linha: &#8220;sim&#8221;, não&#8221;, &#8220;é indiferente&#8221; ou &#8220;refaça a pergunta&#8221;. Quando reunem bastante informação, podem tentar contar a história que há por trás, e o &#8220;contador&#8221; diz se tem a ver com a &#8220;resposta&#8221; (que só ele sabe) ou não.
+Para isso, todos podem fazer perguntas ao "contador" da história, que só pode responder na linha: "sim", não", "é indiferente" ou "refaça a pergunta". Quando reunem bastante informação, podem tentar contar a história que há por trás, e o "contador" diz se tem a ver com a "resposta" (que só ele sabe) ou não.
 
-Não tem muita &#8220;regra&#8221; no jogo, e isso só o torna mais divertido, pois as pessoas fazem as maiores viagens, tanto nas perguntas quanto nas tentativas de explicar a história. Claro, uma vez revelada, uma história não é aproveitável dentro do mesmo grupo, mas todos os integrantes acabam indo aplicar a outros grupos (e basta chegar um novato que dá pra repetir uma história &#8211; com vários &#8220;contadores&#8221; também é engraçado, porque começam a rolar controvérsias com perguntas dúbias).
+Não tem muita "regra" no jogo, e isso só o torna mais divertido, pois as pessoas fazem as maiores viagens, tanto nas perguntas quanto nas tentativas de explicar a história. Claro, uma vez revelada, uma história não é aproveitável dentro do mesmo grupo, mas todos os integrantes acabam indo aplicar a outros grupos (e basta chegar um novato que dá pra repetir uma história – com vários "contadores" também é engraçado, porque começam a rolar controvérsias com perguntas dúbias).
 
-A brincadeira é velhíssima, mas estou falando dela porque hoje eu descobri que existe uma **porrada** de histórias aplicáveis (eu só conhecia a da gaivota). Num serviço de utilidade pública para nerds, resolvi colocar aqui algumas dessas histórias. Clique em &#8220;explicação&#8221; para saber a resposta, isto é, a história que explica o fato.
+A brincadeira é velhíssima, mas estou falando dela porque hoje eu descobri que existe uma **porrada** de histórias aplicáveis (eu só conhecia a da gaivota). Num serviço de utilidade pública para nerds, resolvi colocar aqui algumas dessas histórias. Clique em "explicação" para saber a resposta, isto é, a história que explica o fato.
 
 <!--more-->
 
-Claro que não tem a menor graça ler aqui, o legal é aplicar a brincadeira. Por isso, não coloquei muitas (pra não estragar a diversão dos mais afoitos) &#8211; a idéia é que você aprenda duas ou três para usar com os amigos, certamente alguém vai conhecer outra e você passa ao papel de &#8220;perguntador&#8221;.
+Claro que não tem a menor graça ler aqui, o legal é aplicar a brincadeira. Por isso, não coloquei muitas (pra não estragar a diversão dos mais afoitos) – a idéia é que você aprenda duas ou três para usar com os amigos, certamente alguém vai conhecer outra e você passa ao papel de "perguntador".
 
 Aí vai:
 

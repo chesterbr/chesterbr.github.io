@@ -17,7 +17,7 @@ Fuçando um pouco, descobri que a tela agia como se tivesse um toque permanente 
 
 Imaginando que alguma partícula estivesse travada lá dentro, limpei a não mais poder, sem muito resultado. Como não tem assistência técnica no Brasil (e a garantia já foi pro saco quando eu instalei o [firmware alternativo][2] para usar programas não-oficiais, como o Axe), resolvi abrir o bicinho por conta própria.
 
-Não é trivial: em primeiro lugar, a Nintendo usa um tipo de parafuso alternativo: o [Tri-Wing][3], cuja fenda em &#8220;Y&#8221; é um meio-termo entre a tradicional e o formato Phillips. Claro, nenhum lugar vende a chave Tri-Wing &#8211; ao menos nenhum lugar físico, já que no Mercado Livre tem [várias opções][4] (e eu me dei bem com [esta][5]).
+Não é trivial: em primeiro lugar, a Nintendo usa um tipo de parafuso alternativo: o [Tri-Wing][3], cuja fenda em "Y" é um meio-termo entre a tradicional e o formato Phillips. Claro, nenhum lugar vende a chave Tri-Wing – ao menos nenhum lugar físico, já que no Mercado Livre tem [várias opções][4] (e eu me dei bem com [esta][5]).
 
 O bom de viver na era YouTube é que foi fácil encontrar um [vídeo que ensina a desmontar o DS][6]. O cara, meio gripado (chuif), mostra passo a passo (chuif) como desmontar o brinquedo. Chave e vídeo à mão, fui à luta.
 
@@ -28,11 +28,11 @@ Foi tão divertido operar o videogame desmontado que eu até filmei um pouco (be
 <p align="center">
 </p>
 
-Assim como no alpinismo, a volta é a pior parte. Montar os botões L e R é praticamente um jogo por si só, e você deve tomar \*muito\* cuidado para não misturar os parafusos &#8211; em particular, cuidado com o parafuso que fica sob a bateria (eu coloquei um grande ao invés de um pequeno ali, e por pouco não danifiquei bem a carcaça do meu DS).
+Assim como no alpinismo, a volta é a pior parte. Montar os botões L e R é praticamente um jogo por si só, e você deve tomar \*muito\* cuidado para não misturar os parafusos – em particular, cuidado com o parafuso que fica sob a bateria (eu coloquei um grande ao invés de um pequeno ali, e por pouco não danifiquei bem a carcaça do meu DS).
 
 No final das contas, o brinquedo foi remontado, e pude voltar a tomar as surras regulares do EBA. E depois deste episódio, o [Trauma Center][8] perdeu toda a graça.
 
-**UPDATE: ** O Tornado abriu bem o blog dele com uma [descrição detalhada da troca do case plástico do Nintendo DS][9]. Dicas úteis como o mapa dos parafusos tornam o artigo dele referência para quem for fazer essa &#8220;cirurgia&#8221;.
+**UPDATE: ** O Tornado abriu bem o blog dele com uma [descrição detalhada da troca do case plástico do Nintendo DS][9]. Dicas úteis como o mapa dos parafusos tornam o artigo dele referência para quem for fazer essa "cirurgia".
 
  [1]: http://www.pineight.com/ds/#axe
  [2]: http://my.opera.com/knwt/blog/show.dml/509725

@@ -7,6 +7,6 @@ permalink: /archives/2004/03/brinquedos-novos.html/
 categories:
   - retrocomputing
 ---
-<img src="/img/blig/spectrum.jpg" border="1" alt="ZX Spectrum +2" align="left">Pra variar, a USP me sequestrou &#8211; mas o sumiço foi mais porque o velho e bom &#8220;museu dos micros de 8 bits&#8221; voltou à atividade: além de arrumar os disquetes que faltavam para o [Mac512](/mac512/), recuperei diversos micros e acessórios da coleção antiga.
+<img src="/img/blig/spectrum.jpg" border="1" alt="ZX Spectrum +2" align="left">Pra variar, a USP me sequestrou – mas o sumiço foi mais porque o velho e bom "museu dos micros de 8 bits" voltou à atividade: além de arrumar os disquetes que faltavam para o [Mac512](/mac512/), recuperei diversos micros e acessórios da coleção antiga.
 
 Além disso, arranjei várias coisas novas, que estou ligando e fotografando aos poucos. Comecei por este [Spectrum +2](/spectrumplus2/) inglês: é a evolução do TK90x, com direito a gravador cassete embutido, teclado decente, tração nas 4 rodas, etc. Vou penar pra ligar (por causa da tomada e do sistema de TV europeus), mas vai valer a pena. Aguardem.

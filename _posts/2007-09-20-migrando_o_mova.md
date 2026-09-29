@@ -13,7 +13,7 @@ As novas versões do Movable Type (publicador deste blog) [não vão mais suport
 
 A migração rolou sem problemas, mas um problema irritante aconteceu desde então: a tela de login passou a aparecer a cada vez que eu clicava em um link no administrador. Se eu voltasse para o BerkleyDB, o problema desaparecia.
 
-Em 99% das aplicações web, esse tipo de coisa é problema com o cookie que identifica a sessão do usuário &#8211; mas o fato de só acontecer com o banco novo me fez desconfiar que este caso era dos 1% restantes. De fato, o script de migração BerkleyDB->MySQL não cria a tabela de sessões, e o @#%@ do MT simplesmente manda para a tela de login, ao invés de dar erro logo de cara &#8211; como [programadores pragmáticos](http://web.archive.org/web/20140212000143/http://www.codinghorror.com:80/blog/files/Pragmatic%20Quick%20Reference.htm) (#32) teriam feito.
+Em 99% das aplicações web, esse tipo de coisa é problema com o cookie que identifica a sessão do usuário – mas o fato de só acontecer com o banco novo me fez desconfiar que este caso era dos 1% restantes. De fato, o script de migração BerkleyDB->MySQL não cria a tabela de sessões, e o @#%@ do MT simplesmente manda para a tela de login, ao invés de dar erro logo de cara – como [programadores pragmáticos](http://web.archive.org/web/20140212000143/http://www.codinghorror.com:80/blog/files/Pragmatic%20Quick%20Reference.htm) (#32) teriam feito.
 
 De qualquer forma, uma boa alma postou o [script de criação da tabela faltante](http://web.archive.org/web/20080217010356/http://forums.sixapart.com/lofiversion/index.php/t56070.html), e resolvi registrar aqui para quem vier a precisar.
 

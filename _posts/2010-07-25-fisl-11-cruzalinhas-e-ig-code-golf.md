@@ -11,11 +11,11 @@ categories:
 
 O primeiro foi preparar e apresentar uma palestra-relâmpago sobre o [cruzalinhas][2] ([slides aqui][3], vídeo em breve). Resolvi fazer isso na última hora, e me surpreendi com o interesse de pessoas de outras cidades (Manaus, Campinas, Florianópolis e da própria Porto Alegre) em fazer a mesma coisa, já que, segundo esse pessoal, a dificuldade em obter informações sobre o transporte público é a mesma.
 
-O outro foi participar do [Code Golf do iG][4], uma proposta inusitada, na qual são apresentados cinco problemas de programação. Eles são relativamente simples &#8211; o desafio é escrever o **menor código-fonte** que resolva cada um.
+O outro foi participar do [Code Golf do iG][4], uma proposta inusitada, na qual são apresentados cinco problemas de programação. Eles são relativamente simples – o desafio é escrever o **menor código-fonte** que resolva cada um.
 
 Claro que um código Python é bem menor que o seu equivalente Java, e por isso haviam categorias isoladas para cada linguagem suportada (Perl, Python, PHP, Java e Ruby). Fui o [vencedor][5] da categoria Java, com os códigos que estão no final do post.
 
-Um aviso: **NUNCA escreva código assim**, a não ser que esteja participando de um Code Golf. O objetivo era sempre reduzir o tamanho e compensar a [proibição][6] de imports explícitos. Isso tem um custo: a performance quase sempre é horrível, a legibilidade é zero, é quase impossível modificar. Senti esse último lance na prática: tive que fazer uma gambiarra na questão 4 (o formato da entrada mudou, e o fix apropriado implicaria em reescrever tudo) &#8211; o tamanho dobrou e fui penalizado por isso.
+Um aviso: **NUNCA escreva código assim**, a não ser que esteja participando de um Code Golf. O objetivo era sempre reduzir o tamanho e compensar a [proibição][6] de imports explícitos. Isso tem um custo: a performance quase sempre é horrível, a legibilidade é zero, é quase impossível modificar. Senti esse último lance na prática: tive que fazer uma gambiarra na questão 4 (o formato da entrada mudou, e o fix apropriado implicaria em reescrever tudo) – o tamanho dobrou e fui penalizado por isso.
 
 * * *
 

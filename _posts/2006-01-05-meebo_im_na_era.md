@@ -12,7 +12,7 @@ categories:
 
 Nesta linha, tive uma sensação positiva com o [Meebo][1], que ainda não tem o nível de maturidade de um GMail, mas impressiona pela eficiência com que cobre a funcionalidade básica do Yahoo! Messenger, MSN, ICQ/AIM e Jabber.
 
-Se continuar no ritmo em que está, mais alguns meses darão a esta aplicação potencial para rivalizar com Gaim e similares &#8211; tanto pela instalação zero quanto pelo fato de deixar logs e outros rastros no servidor.
+Se continuar no ritmo em que está, mais alguns meses darão a esta aplicação potencial para rivalizar com Gaim e similares – tanto pela instalação zero quanto pelo fato de deixar logs e outros rastros no servidor.
 
 Fonte: [Geek4Fun (Russo)][2]
 

@@ -45,7 +45,7 @@ Nem todas as tiras são coloridas, mas a arte é sempre excelente:
   </p>
 </div>
 
-Curiosamente, a própria Marvel já fez algo assim: algumas edições gringas de gibis do Homem-Aranha traziam [Petey &#8211; The Adventures of Peter Parker Long Before He Became Spider-Man][3]. Também é interessante (e eu me impressiono com o letreiramento fora do &#8220;esquema&#8221; Marvel), mas a verdade é que nem se compara ao trabalho do Cafaggi:
+Curiosamente, a própria Marvel já fez algo assim: algumas edições gringas de gibis do Homem-Aranha traziam [Petey – The Adventures of Peter Parker Long Before He Became Spider-Man][3]. Também é interessante (e eu me impressiono com o letreiramento fora do "esquema" Marvel), mas a verdade é que nem se compara ao trabalho do Cafaggi:
 
 [<img class="aligncenter size-full wp-image-5862" title="Petey" src="/wp-content/uploads/2011/01/petey.jpg" alt="Petey" width="496" height="245" />][4]
 

@@ -26,17 +26,17 @@ O [código-fonte][4] está disponível sob a licença GPL. Os ícones são mais 
 
 **Instalação, Uso e Remoção**
 
-Para instalar, é preciso ter o iPhone liberado para instalar aplicativos de terceiros. No Installer, entre em &#8220;Sources&#8221; e adicione o meu repositório: <font face="courier">/iphone</font>. Com isso o programa vai aparecer na categoria &#8220;Utilities&#8221;.
+Para instalar, é preciso ter o iPhone liberado para instalar aplicativos de terceiros. No Installer, entre em "Sources" e adicione o meu repositório: <font face="courier">/iphone</font>. Com isso o programa vai aparecer na categoria "Utilities".
 
 Depois de instalar ou atualizar o software, você verá o ícone amarelo. Clique uma vez nele, e o fone irá reiniciar, mostrando o ícone vermelho (EDGE bloqueado) ou o azul (EDGE liberado).
 
-Não é preciso entrar no programa para saber se o EDGE está bloqueado ou liberado &#8211; é só olhar o ícone (que reflete o estado em que o programa deixou o iPhone na última vez em que foi chamado).
+Não é preciso entrar no programa para saber se o EDGE está bloqueado ou liberado – é só olhar o ícone (que reflete o estado em que o programa deixou o iPhone na última vez em que foi chamado).
 
 **IMPORTANTE:** Antes de remover o programa, certifique-se de que o EDGE está liberado (ícone azul). Se você remover com o EDGE desligado, vai ter que reinstalar pra ligar (ou remover manualmente).
 
 **Funcionamento e Limitações**
 
-O que o programa faz é automatizar o procedimento de entrar nos menus e invalidar/revalidar a configuração do EDGE (colocando ou retirando um &#8220;[off]&#8221; no final do endereço APN). A parte mais chata é que ele reinicia o telefone (porque eu não consegui fazer o iPhone reconhecer a mudança de outra forma &#8211; se alguém souber como, me fale ou altere no [código-fonte][6]).
+O que o programa faz é automatizar o procedimento de entrar nos menus e invalidar/revalidar a configuração do EDGE (colocando ou retirando um "[off]" no final do endereço APN). A parte mais chata é que ele reinicia o telefone (porque eu não consegui fazer o iPhone reconhecer a mudança de outra forma – se alguém souber como, me fale ou altere no [código-fonte][6]).
 
 Ele foi testado com o firmware 1.1.4, e imagino que funcione em versões anteriores sem problemas (mas não testei). Também não foi testado ainda no 2.0, e não tenho certeza se funcionará (por conta das mudanças introduzidas para suportar conexões 3G). Procurei ser extremamente conservador ao editar o arquivo, abortando a operação ao primeiro sinal de diferenças com o que eu tenho no meu telefone, mas o uso é por sua conta e risco.
 

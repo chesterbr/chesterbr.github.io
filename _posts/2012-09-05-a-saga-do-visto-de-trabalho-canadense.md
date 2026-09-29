@@ -8,7 +8,7 @@ categories:
 ---
 <img class="alignright size-thumbnail wp-image-7200" title="canada flag" src="/wp-content/uploads/2012/08/canada-flag-150x150.png" alt="" width="150" height="150" />Quem vai para o Canadá através de uma oferta de trabalho (ao invés dos já conhecidos [processos de imigração][1]) precisa solicitar um visto de trabalho. O [site oficial][2] explica em detalhes como fazer isso, mas resolvi documentar alguns detalhes que aprendi solicitando o meu.
 
-Devo lembrar que não sou especialista no assunto e não tenho nenhuma relação com o governo do Canadá &#8211; apenas passei pelo processo e resolvi compartilhar o que aprendi. A sua experiência pode ser diferente, pode ter mudado tudo, [**se informe**][2]. Se tiver compreendido que não me responsabilizo por **nada** sobre o seu caso, continue lendo sobre o meu.
+Devo lembrar que não sou especialista no assunto e não tenho nenhuma relação com o governo do Canadá – apenas passei pelo processo e resolvi compartilhar o que aprendi. A sua experiência pode ser diferente, pode ter mudado tudo, [**se informe**][2]. Se tiver compreendido que não me responsabilizo por **nada** sobre o seu caso, continue lendo sobre o meu.
 
 <!--more-->Dependendo de vários fatores, o processo pode levar algo entre 2 e 5 meses. Assumindo que você tenha uma proposta de emprego de uma empresa que esteja disposta a passar pelo processo, ele se divide em dois passos:
 
@@ -16,7 +16,7 @@ Devo lembrar que não sou especialista no assunto e não tenho nenhuma relação
 
 A empresa é que faz esta parte. Ela coloca o caso para o governo, justificando que não encontrou um canadense para a vaga, e que o candidato que está pleiteando será uma aquisição positiva para o país como um todo, e o governo faz a análise.
 
-O processo normal costuma demorar uns 3 meses, mas **se** a empresa já teve um LMO emitido nos últimos tempos, ela pode ir pelo A-LMO &#8211; o meu caso foi um desses, e demorou uns 10 dias úteis.
+O processo normal costuma demorar uns 3 meses, mas **se** a empresa já teve um LMO emitido nos últimos tempos, ela pode ir pelo A-LMO – o meu caso foi um desses, e demorou uns 10 dias úteis.
 
 ***UPDATE***: O A-LMO está [suspenso por tempo indeterminado][3], e LMOs devem sofrer um escrutínio maior nos próximos tempos (afetando o tempo mencionado acima).
 
@@ -34,7 +34,7 @@ Uma pessoa confere o pacote todo, devolve os documentos a mais e avisa se faltar
 
 #### Andamento
 
-O status começou em &#8220;Solicitação em trânsito para a Embaixada&#8221; e &#8220;Solicitação recebida pela Embaixada – Sob consideração&#8221;. Depois de uma semana, emoção: foi para &#8220;Documentos adicionais solicitados pela embaixada&#8221;.
+O status começou em "Solicitação em trânsito para a Embaixada" e "Solicitação recebida pela Embaixada – Sob consideração". Depois de uma semana, emoção: foi para "Documentos adicionais solicitados pela embaixada".
 
 Mandei um e-mail (não precisava) e responderam (de um dia pro outro) que se tratava do exame médico. Mas quando fui buscar a guia no VAC havia, de fato, uma solicitação de documentos adicionais:
 
@@ -46,7 +46,7 @@ Os atestados que pediram para mim e para minha acompanhante foram os que [consta
 *   *Original da Certidão de Distribuição do Poder Judiciário Civil e Criminal (Justiça Federal: [www.justicafederal.gov.br][8])*
 *   *Original do Atestado de Antecedentes Criminais emitidos por todos os Estados e países onde residiu por mais de 06 meses após ter completado 18 anos de idade (emitido pela Polícia Civil ou SSP)*
 
-Todos podem ser emitidos pela internet nos sites indicados &#8211; o último dá pra tirar no [site da SSP][9] (mas eu só descobri quando já tinha ido tirar pessoalmente no Poupatempo).
+Todos podem ser emitidos pela internet nos sites indicados – o último dá pra tirar no [site da SSP][9] (mas eu só descobri quando já tinha ido tirar pessoalmente no Poupatempo).
 
 O atendente do VAC que entregou a solicitação disse que teria que ter assinatura oficial nas certidões, o que eu resolvi indo a um [tabelião de notas no centro][10] e pedindo para **certificar **elas. Isto faz com que elas passem a ter carimbo, assinatura e selo. Não sei se foi necessário, mas o custo foi irrisório e aceitaram assim.
 
@@ -59,26 +59,26 @@ Isso tudo volta pro médico, que junta com o que ele avaliou e envia pra Ottawa.
 ### **Dicas Gerais**
 
 *   O visto do aplicante principal é vinculado à empresa. Já o acompanhante pode solicitar um *open work permit*, que permite trabalhar ou estudar onde quiser.
-*   Você precisa da guia do médico pra fazer o exame, mas não pra marcar ele. Quando vier a confirmação você já pode ligar lá e marcar &#8211; só não esqueça de pegar a guia **antes** de ir no médico.
-*   Tente marcar o médico cedo e ir no laboratório no mesmo dia &#8211; quanto antes os exames ficarem prontos, mais cedo eles vão voltar pro médico e ser enviados.
+*   Você precisa da guia do médico pra fazer o exame, mas não pra marcar ele. Quando vier a confirmação você já pode ligar lá e marcar – só não esqueça de pegar a guia **antes** de ir no médico.
+*   Tente marcar o médico cedo e ir no laboratório no mesmo dia – quanto antes os exames ficarem prontos, mais cedo eles vão voltar pro médico e ser enviados.
 *   Tanto o médico quanto o laboratório vão pedir identidade, e não aceitam carteira de motorista. Eu tive que voltar por causa disso.
-*   Não perca tempo ligando pro VAC &#8211; quem atende é a central, que só vai ter respostas genéricas. Se você já leu o site e não esclareceu sua dúvida, o [e-mail][13] vai direto para o VAC onde você aplicou.
-*   Nem sempre é possível emitir as certidões online (e o meio tradicional pode demorar semanas) &#8211; enquanto a LMO estiver rolando, já veja se consegue emitir as certidões mencionadas acima. Se alguma não rolar, veja com o órgão quanto tempo demora, e não peça muito antes da hora, porque se forem muito antigas o consulado vai recusar.
-*   Se o sistema do DPF não conseguir localizar seu nome para emitir a certidão, antes de ir lá tente **abreviar o nome do meio** &#8211; foi o que me salvou de atrasar o processo em quase duas semanas.
+*   Não perca tempo ligando pro VAC – quem atende é a central, que só vai ter respostas genéricas. Se você já leu o site e não esclareceu sua dúvida, o [e-mail][13] vai direto para o VAC onde você aplicou.
+*   Nem sempre é possível emitir as certidões online (e o meio tradicional pode demorar semanas) – enquanto a LMO estiver rolando, já veja se consegue emitir as certidões mencionadas acima. Se alguma não rolar, veja com o órgão quanto tempo demora, e não peça muito antes da hora, porque se forem muito antigas o consulado vai recusar.
+*   Se o sistema do DPF não conseguir localizar seu nome para emitir a certidão, antes de ir lá tente **abreviar o nome do meio** – foi o que me salvou de atrasar o processo em quase duas semanas.
 *   Em tese, você nem precisaria emitir as certidões para levar ao cartório (se for certificar), porque eles re-emitem pra fazer isso. Mas não custa nada, e você já vai lá com os dados certinhos.
-*   O acompanhante não precisa ir ao VAC, basta ter todos os documentos e formulários &#8211; incluindo o checklist assinado por ele. Tem um código separado para o processo dele, mas é vinculado ao prinicpal, e no meu caso o status era sempre o mesmo para ambos.
+*   O acompanhante não precisa ir ao VAC, basta ter todos os documentos e formulários – incluindo o checklist assinado por ele. Tem um código separado para o processo dele, mas é vinculado ao prinicpal, e no meu caso o status era sempre o mesmo para ambos.
 *   A validade do visto é influenciada pelo tempo do contrato de trabalho utilizado no LMO, e geralmente é limitada pela validade do passaporte. Se possível e estiver no prazo, renove ele antes de aplicar.
 *   Sobre o checklist:
-    *   Ele pedia uma carta de aceitação emitida por uma escola do Canadá &#8211; o que eu não tinha e só faz sentido para um visto de estudante. Deve ser erro de copy/paste, ignorei e tudo bem.
+    *   Ele pedia uma carta de aceitação emitida por uma escola do Canadá – o que eu não tinha e só faz sentido para um visto de estudante. Deve ser erro de copy/paste, ignorei e tudo bem.
     *   Também pedia xerox do RG, mas o funcionário devolveu dizendo que não precisava.
-    *   Ele **não pede** nenhum atestado de antecedentes &#8211; razão pela qual eu não coloquei e me pediram os três acima. Um amigo colocou o da SSP (tirado no Poupatempo), e não pediram nenhum dos outros, só o exame médico mesmo. Eu sugiro já colocar os três certificados na hora de aplicar.
-    *   **Não é preciso traduzir nenhum documento** &#8211; a aplicação é avaliada pelo consulado daqui.
+    *   Ele **não pede** nenhum atestado de antecedentes – razão pela qual eu não coloquei e me pediram os três acima. Um amigo colocou o da SSP (tirado no Poupatempo), e não pediram nenhum dos outros, só o exame médico mesmo. Eu sugiro já colocar os três certificados na hora de aplicar.
+    *   **Não é preciso traduzir nenhum documento** – a aplicação é avaliada pelo consulado daqui.
 
 ### Conclusão
 
-Após cerca de duas semanas do exame médico, meu status mudou para &#8220;Processamento de solicitação finalizado – Em trânsito para o VAC&#8221;, e dois dias úteis depois veio e-mail solicitando a retirada dos passaportes. Os dois tinham o visto de trabalho e a carta para entregar na fronteira &#8211; que é onde o *work permit* vai ser efetivamente emitido. Missão cumprida!
+Após cerca de duas semanas do exame médico, meu status mudou para "Processamento de solicitação finalizado – Em trânsito para o VAC", e dois dias úteis depois veio e-mail solicitando a retirada dos passaportes. Os dois tinham o visto de trabalho e a carta para entregar na fronteira – que é onde o *work permit* vai ser efetivamente emitido. Missão cumprida!
 
-Vale repetir: as regras mudam o tempo todo, e cada caso é caso. O que está aqui foi a **minha** experiência, e é só pra dar uma referência. Use essa informação por conta e risco próprios &#8211; o que vale é **sempre** o [site oficial][14]. Boa sorte!
+Vale repetir: as regras mudam o tempo todo, e cada caso é caso. O que está aqui foi a **minha** experiência, e é só pra dar uma referência. Use essa informação por conta e risco próprios – o que vale é **sempre** o [site oficial][14]. Boa sorte!
 
  [1]: http://www.cic.gc.ca/english/immigrate/index.asp
  [2]: http://www.cic.gc.ca/english/work/apply-how.asp

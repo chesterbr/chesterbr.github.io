@@ -8,4 +8,4 @@ categories:
 ---
 Isso era pra ser um negócio nosso, eu fico até constrangido de ver na web, mas já ia ser digitalizado mesmo, então chutamos os baldes: eis os famigerados <a class="dead-link" title="este link morreu" href="/video">Videos Amadores Stone Age Scanners</a><span class="dead-link-mark">†</span>. Assista por conta e risco próprios.
 
-Afinal, alguém tem que preencher a lacuna do falecido Pepa Filmes (cuja página não mostra mais os filmes). Não que a [turma do Garret](http://planeta.terra.com.br/lazer/garrettimus/videos/filmes.htm), grande amigo, não esteja tentando&#8230;
+Afinal, alguém tem que preencher a lacuna do falecido Pepa Filmes (cuja página não mostra mais os filmes). Não que a [turma do Garret](http://planeta.terra.com.br/lazer/garrettimus/videos/filmes.htm), grande amigo, não esteja tentando...

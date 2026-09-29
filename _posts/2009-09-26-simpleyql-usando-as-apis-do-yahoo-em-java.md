@@ -10,9 +10,9 @@ O [simpleyql][1] é uma biblioteca que facilita bastante o desenvolvimento de ap
 
 Na teoria, é possível usar uma biblioteca de oAuth pré-existente para isso (o próprio simpleyql se baseia em [classes disponíveis no oauth.net][5]), mas quando eu e a [Bani][6] começamos o [MemeThis][7] (falo dele em outro post) vimos que as particularidades do Y! tornariam o código demasiadamente complexo.
 
-Além disso, essas classes exigem um grau de entendimento de oAuth maior do que o puramente conceitual. E o fato de o Yahoo! disponibilizar [bibliotecas para outras linguagens][8] &#8211; mas **não** para Java &#8211; foi a gota d&#8217;água que motivou a criação da biblioteca.
+Além disso, essas classes exigem um grau de entendimento de oAuth maior do que o puramente conceitual. E o fato de o Yahoo! disponibilizar [bibliotecas para outras linguagens][8] – mas **não** para Java – foi a gota d'água que motivou a criação da biblioteca.
 
-Com ela, basta uma quantidade mínima de [código][9] para iniciar o processo de autorização do usuário &#8211; um passo necessário quando ele acessa sua aplicação pela primeira vez. Dali em diante basta manter a chave de acesso atualizada no banco de dados ou equivalente, e você poderá usá-la em uma chamada simples sempre que quiser interagir com o Y! em nome da pessoa.
+Com ela, basta uma quantidade mínima de [código][9] para iniciar o processo de autorização do usuário – um passo necessário quando ele acessa sua aplicação pela primeira vez. Dali em diante basta manter a chave de acesso atualizada no banco de dados ou equivalente, e você poderá usá-la em uma chamada simples sempre que quiser interagir com o Y! em nome da pessoa.
 
 Parece simples? Ótimo, essa era a idéia: encapsular os [detalhes][10] do vai-e-vem de tokens e permitir ao desenvolvedor focar apenas na aplicação. A biblioteca é compatível com o [Google App Engine][11] (o MemeThis roda nele), então não tem mais desculpa: se a sua praia é Java, a hora de desenvolver pro Yahoo! Meme é agora.
 

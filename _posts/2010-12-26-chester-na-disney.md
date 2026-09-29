@@ -7,19 +7,19 @@ permalink: /archives/2010/12/chester-na-disney.html/
 categories:
   - travel
 ---
-[<img class="alignright size-medium wp-image-5749" style="border: 1px solid black; padding: 0px;" title="Chester na Disney" src="/wp-content/uploads/2010/12/chester_disney-282x300.jpg" alt="Chester na Disney" width="282" height="300" />][1]A [viagem à Califórnia][2] foi seguida por um passeio à Disney de Orlando &#8211; ou, oficialmente, ao [Walt Disney World Resort][3]. O meu maior interesse era conhecer os parques temáticos &#8211; e entender o fascínio que gente como [Cory Doctorow][4] tem pelo assunto ([Down And Out in the Magic Kingdom][5] e [Makers][6] são dois ótimos livros dele que flertam com o tema).
+[<img class="alignright size-medium wp-image-5749" style="border: 1px solid black; padding: 0px;" title="Chester na Disney" src="/wp-content/uploads/2010/12/chester_disney-282x300.jpg" alt="Chester na Disney" width="282" height="300" />][1]A [viagem à Califórnia][2] foi seguida por um passeio à Disney de Orlando – ou, oficialmente, ao [Walt Disney World Resort][3]. O meu maior interesse era conhecer os parques temáticos – e entender o fascínio que gente como [Cory Doctorow][4] tem pelo assunto ([Down And Out in the Magic Kingdom][5] e [Makers][6] são dois ótimos livros dele que flertam com o tema).
 
 <!--more-->
 
-Visitar três parques (e um centro de compras com atrações próprias) é um programa para três ou quatro dias &#8211; mas eu só dispunha de dois. Felizmente a minha companheira de viagens era a [Bani][7] &#8211; uma verdadeira &#8220;[rata de Disney][8]&#8221; que conseguiu compactar a visita no tempo necessário. Muitas das dicas que compartilho nesse post vieram dela.
+Visitar três parques (e um centro de compras com atrações próprias) é um programa para três ou quatro dias – mas eu só dispunha de dois. Felizmente a minha companheira de viagens era a [Bani][7] – uma verdadeira "[rata de Disney][8]" que conseguiu compactar a visita no tempo necessário. Muitas das dicas que compartilho nesse post vieram dela.
 
-Uma dessas sacadas foi prestar atenção aos dias em que cada parque tem [Extra Magic Hours][9], i.e., mantém as atrações abertas até mais tarde para quem se hospedar nos hotéis da Disney (como o [Dolphin][10], onde ficamos). Isso nos permitiu visitar o [Hollywood Studios][11] e o [Epcot][12] no mesmo dia, deixando o outro para o [Magic Kingdom][13] e encaixando as comprinhas no [Downtown Disney][14] (por exemplo, o [Lego a granel][15]) no tempo livre. Tudo isso usando o transporte gratuito que, além de numerosas linhas de ônibus, inclui [barcos][16] que ligam alguns hotéis ao Epcot/Hollywood Studios e outros ao Magic Kingdom &#8211; e até um [monotrilho][17].
+Uma dessas sacadas foi prestar atenção aos dias em que cada parque tem [Extra Magic Hours][9], i.e., mantém as atrações abertas até mais tarde para quem se hospedar nos hotéis da Disney (como o [Dolphin][10], onde ficamos). Isso nos permitiu visitar o [Hollywood Studios][11] e o [Epcot][12] no mesmo dia, deixando o outro para o [Magic Kingdom][13] e encaixando as comprinhas no [Downtown Disney][14] (por exemplo, o [Lego a granel][15]) no tempo livre. Tudo isso usando o transporte gratuito que, além de numerosas linhas de ônibus, inclui [barcos][16] que ligam alguns hotéis ao Epcot/Hollywood Studios e outros ao Magic Kingdom – e até um [monotrilho][17].
 
 Outro lance é ficar esperto com o [FastPass][18] . Não precisa radicalizar como eu e a Bani (lemos um [livro][19] no qual um dos assuntos é o fundamento estatístico dele), mas localize rapidamente as atrações indispensáveis que oferecem o FastPass, pegue o passe da que estiver mais cheia e vá para a fila de uma das outras, intercalando com atrações que tenham menos fila.
 
-Reservar restaurantes também é uma excelente idéia (e você pode fazer isso online aqui no Brasil mesmo). As reservas nos garantiram uma ótima experiência no [Wolfgang Puck][20] e no [Nine Dragons][21], mas tivemos que comer cedo e contar com a sorte para não pegar fila no [Pecos Bill Tall Tale Inn][22], no [Rainforest Café](http://web.archive.org/web/20241202034148/https://disneyworld.disney.go.com/dining/rainforest-cafe-downtown-disney/) e no [Sci-Fi Dine-In Theater][24] &#8211; esse último reproduz a experiência do cinema drive-in passando versões curtas dos filmes e desenhos dessa época. Mas foram todos ótimos, sempre com opções vegetarianas de respeito &#8211; só comi o peixe no Wolfgang Puck porque parecia (e era) bom.
+Reservar restaurantes também é uma excelente idéia (e você pode fazer isso online aqui no Brasil mesmo). As reservas nos garantiram uma ótima experiência no [Wolfgang Puck][20] e no [Nine Dragons][21], mas tivemos que comer cedo e contar com a sorte para não pegar fila no [Pecos Bill Tall Tale Inn][22], no [Rainforest Café](http://web.archive.org/web/20241202034148/https://disneyworld.disney.go.com/dining/rainforest-cafe-downtown-disney/) e no [Sci-Fi Dine-In Theater][24] – esse último reproduz a experiência do cinema drive-in passando versões curtas dos filmes e desenhos dessa época. Mas foram todos ótimos, sempre com opções vegetarianas de respeito – só comi o peixe no Wolfgang Puck porque parecia (e era) bom.
 
-As [fotos][25] estão online, como de costume, e com isso só me resta falar dos *rides*. Alguns chamam eles de &#8220;brinquedos&#8221;, mas eu prefiro traduzir como &#8220;atrações&#8221; ou mesmo o literal &#8220;passeios&#8221; &#8211; já que alguns são mais interessantes pela ambientação do que por qualquer aspecto lúdico. Ao invés de falar de cada um deles, resolvi usar o método do [Apontador][26] e dar de 1 a 5 estrelas a cada um dos que eu fui:
+As [fotos][25] estão online, como de costume, e com isso só me resta falar dos *rides*. Alguns chamam eles de "brinquedos", mas eu prefiro traduzir como "atrações" ou mesmo o literal "passeios" – já que alguns são mais interessantes pela ambientação do que por qualquer aspecto lúdico. Ao invés de falar de cada um deles, resolvi usar o método do [Apontador][26] e dar de 1 a 5 estrelas a cada um dos que eu fui:
 
 <div style="margin-left: 110px;">
   <table>
@@ -33,7 +33,7 @@ As [fotos][25] estão online, como de costume, e com isso só me resta falar dos
 
     <tr>
       <td style="width: 300px;">
-        <strong>Rock&#8217;n'Roller Coaster Starring Aerosmith<br /> </strong>
+        <strong>Rock'n'Roller Coaster Starring Aerosmith<br /> </strong>
       </td>
 
       <td>
@@ -273,7 +273,7 @@ As [fotos][25] estão online, como de costume, e com isso só me resta falar dos
 
     <tr>
       <td>
-        <strong>Walt Disney&#8217;s Carousel of Progress<br /> </strong>
+        <strong>Walt Disney's Carousel of Progress<br /> </strong>
       </td>
 
       <td>
@@ -283,7 +283,7 @@ As [fotos][25] estão online, como de costume, e com isso só me resta falar dos
 
     <tr>
       <td>
-        <strong>Buzz Lightyear&#8217;s Space Ranger Spin<br /> </strong>
+        <strong>Buzz Lightyear's Space Ranger Spin<br /> </strong>
       </td>
 
       <td>
@@ -293,7 +293,7 @@ As [fotos][25] estão online, como de costume, e com isso só me resta falar dos
 
     <tr>
       <td>
-        <strong>&#8220;it&#8217;s a small world&#8221;<br /> </strong>
+        <strong>"it's a small world"<br /> </strong>
       </td>
 
       <td>
@@ -303,7 +303,7 @@ As [fotos][25] estão online, como de costume, e com isso só me resta falar dos
 
     <tr>
       <td>
-        <strong>Peter Pan&#8217;s Flight<br /> </strong>
+        <strong>Peter Pan's Flight<br /> </strong>
       </td>
 
       <td>
@@ -313,7 +313,7 @@ As [fotos][25] estão online, como de costume, e com isso só me resta falar dos
 
     <tr>
       <td>
-        <strong>Mickey&#8217;s PhilharMagic<br /> </strong>
+        <strong>Mickey's PhilharMagic<br /> </strong>
       </td>
 
       <td>
@@ -333,7 +333,7 @@ As [fotos][25] estão online, como de costume, e com isso só me resta falar dos
   </table>
 </div>
 
-Justiça seja feita: o Soarin quase mereceu um 6 (eu fui duas vezes e iria mais), e o Test Track não merecia nem existir: muita fila para uma atração chata, sem propósito e des-educativa (passa a idéia de que tecnologia é a solução para evitar acidentes de automóvel). Os fogos no final do dia no Magic Kingdom são imperdíveis e resumem bem a experiência. Ah, e só pra constar: os boatos sobre a [Sininho que desce &#8220;voando&#8221; do castelo][27] ser interpretada por um homem são <a class="dead-link" title="este link morreu" href="http://message.snopes.com/showthread.php?t=41253">inconclusivos</a><span class="dead-link-mark">†</span>. :-P
+Justiça seja feita: o Soarin quase mereceu um 6 (eu fui duas vezes e iria mais), e o Test Track não merecia nem existir: muita fila para uma atração chata, sem propósito e des-educativa (passa a idéia de que tecnologia é a solução para evitar acidentes de automóvel). Os fogos no final do dia no Magic Kingdom são imperdíveis e resumem bem a experiência. Ah, e só pra constar: os boatos sobre a [Sininho que desce "voando" do castelo][27] ser interpretada por um homem são <a class="dead-link" title="este link morreu" href="http://message.snopes.com/showthread.php?t=41253">inconclusivos</a><span class="dead-link-mark">†</span>. :-P
 
  [1]: http://www.flickr.com/photos/chesterbr/sets/72157625466196623/with/5258743472/
  [2]: /archives/2010/12/chester-em-san-francisco.html

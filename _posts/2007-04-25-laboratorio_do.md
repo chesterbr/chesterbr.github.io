@@ -10,9 +10,9 @@ categories:
 ---
 <img title="mm_detalhe.jpg" src="/archives/img/mm_detalhe.jpg" width="369" height="111" align="right" border="1" />Eu ando por fora dos gostos da garotada: nunca assisti o desenho dos [Quadrinhos Mágicos][1], e nem o [Laboratório do Dequest][2]. De videogames também estou fraco: não joguei nenhum jogo no [Mega Driver][3], nem no [Big Boy][4].
 
-Essas e outras pérolas (que eu deixo como um literal &#8220;jogo dos 7 erros&#8221;) você pode conferir [neste quadro][5] publicado no Meio &#038; Mensagem de 09/04, que prentendia apresentar aos leitores os gostos das crianças de hoje.
+Essas e outras pérolas (que eu deixo como um literal "jogo dos 7 erros") você pode conferir [neste quadro][5] publicado no Meio &#038; Mensagem de 09/04, que prentendia apresentar aos leitores os gostos das crianças de hoje.
 
-Fossem uma ou duas mancadas, vá lá &#8211; mas o quadro é recheado delas. Fora que não dá pra deixar de pensar que se o periódico foi tão displicente com a questão dos nomes (que cinco minutos de Google resolveriam) é pouco provavel que tenham sido mais cuidadosos na pesquisa&#8230;
+Fossem uma ou duas mancadas, vá lá – mas o quadro é recheado delas. Fora que não dá pra deixar de pensar que se o periódico foi tão displicente com a questão dos nomes (que cinco minutos de Google resolveriam) é pouco provavel que tenham sido mais cuidadosos na pesquisa...
 
 (dica do Hildo e da [Ludmila][6], velhos parceiros no crime)
 

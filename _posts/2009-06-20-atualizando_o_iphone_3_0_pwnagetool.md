@@ -8,11 +8,11 @@ comments: true
 permalink: /archives/2009/06/atualizando_o_iphone_3_0_pwnagetool.html/
 categories:
 ---
-<img alt="logo.png" src="/archives/img/mt/2009/06/20/logo.png" width="84" height="120" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Fiz a atualização do meu iPhone californiano não-3G para o OS 3.0, com o auxílio do [PwnageTool][1] &#8211; que faz isso garantindo o jailbreak (que permite instalar as apps que eu quero, independente da vontade e do DRM do Steve Jobs) e o unlock (isto é, fazer ele funcione com qualquer operadora). Além dos fixes do OS 3.0 já comentados [por aí][2], o jailbreak novo inclui o Icy, um programa bem mais rápido que o Cydia para instalar software via apt.
+<img alt="logo.png" src="/archives/img/mt/2009/06/20/logo.png" width="84" height="120" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Fiz a atualização do meu iPhone californiano não-3G para o OS 3.0, com o auxílio do [PwnageTool][1] – que faz isso garantindo o jailbreak (que permite instalar as apps que eu quero, independente da vontade e do DRM do Steve Jobs) e o unlock (isto é, fazer ele funcione com qualquer operadora). Além dos fixes do OS 3.0 já comentados [por aí][2], o jailbreak novo inclui o Icy, um programa bem mais rápido que o Cydia para instalar software via apt.
 
 O processo consiste nos passos abaixo, e por ora é preciso usar um Mac. Como de costume, não me responsabilizo se o seu iPhone travar, explodir ou se transformar num BlackBerry. Só faça se souber o que está fazendo (ou estiver pensando em inutilizar o seu pra comprar um 3GS oficial ou um Nokia bacanudo).
 
-**ATENÇÃO**: Isso é para o iPhone original, **não para o iPhone 3G** (menos ainda para o 3GS). O 3G é mais enroscado porque não tem a falha fundamental que permite a simples troca do software de baseband (grosso modo, a parte do iPhone que é efetivamente o telefone). Rolou um software chamado yellowsn0w que fazia essa troca em memória, mas o último update (2.2.1) matou essa possibilidade. A boa notícia é que está pra sair o ultrasn0w, versão nova desse software que promete des-tijolar esses modelos &#8211; fique de olho no [blog do ultrasn0w][3] para mais novidades.
+**ATENÇÃO**: Isso é para o iPhone original, **não para o iPhone 3G** (menos ainda para o 3GS). O 3G é mais enroscado porque não tem a falha fundamental que permite a simples troca do software de baseband (grosso modo, a parte do iPhone que é efetivamente o telefone). Rolou um software chamado yellowsn0w que fazia essa troca em memória, mas o último update (2.2.1) matou essa possibilidade. A boa notícia é que está pra sair o ultrasn0w, versão nova desse software que promete des-tijolar esses modelos – fique de olho no [blog do ultrasn0w][3] para mais novidades.
 
 <u>Parte I</u>: Gerando um firmware do mal:
 
@@ -34,7 +34,7 @@ Com isso ele deve gerar o firmware do mal no seu desktop (não confunda com o qu
 *   Colocar o iPhone no modo DFU (*device firmware upgrade*): se você acabou de executar os passos acima, clique na seta que o PwnageTool te ensina a fazer. Caso contrário (ou se não rolar), siga [estes passos][8];
 *   O iTunes vai detectar o telefone em modo de restauração e oferecer para dar o restore. **Segure a tecla alt/option** enquanto clica no botão restore (se não fizer isso ele vai baixar e instalar o firmware original, e adeus jailbreak/unlock) e selecione o firmware do mal (o que está no desktop, não confunda com o que você baixou na pasta Downloads).
 
-Ele vai instalar o firmware novo (você vai ver o abacaxi no lugar da maçã). Após o demorado processo, o telefone deve iniciar normalmente e reconhecer a operadora &#8211; mas em estado de novo (sem os seus dados). Basta ir no iTunes e restaurar o backup (ele vai perguntar se é um iPhone novo ou se é o que você tinha backup antes) e pronto, você é um feliz usuário do OS 3.0.
+Ele vai instalar o firmware novo (você vai ver o abacaxi no lugar da maçã). Após o demorado processo, o telefone deve iniciar normalmente e reconhecer a operadora – mas em estado de novo (sem os seus dados). Basta ir no iTunes e restaurar o backup (ele vai perguntar se é um iPhone novo ou se é o que você tinha backup antes) e pronto, você é um feliz usuário do OS 3.0.
 
 Eu separei o procedimento em duas partes porque assim você pode atualizar os iPhones dos seus amigos (que **não sejam 3G**, já falei, [p\*** moleque mala][9]) sem passar por esse processo todo: basta guardar o firmware alterado (todo o resto, inclusive o PwnageTool, é dispensável) e executar a Parte II.
 

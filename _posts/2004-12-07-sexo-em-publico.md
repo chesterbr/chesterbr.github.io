@@ -13,6 +13,6 @@ Tudo começa quando, estupefato, um amigo me envia o link para este [vídeo](htt
 
 Numa frustrada tentativa de encontrar explicação, tudo o que achei foram mais coisas orientais bizarras do gênero, das quais destaco duas. A primeira é esta coletânea de [flagras](http://www.anothersite.co.uk/forum/viewtopic.php?t=5303) de pessoas transando em automóveis, cujas atividades são subitamente interrompidas pelo fotógrafo espírito-de-porco.
 
-A segunda é, de longe, a mais hardcore. Pelo pouco que entendi, é um [programa de televisão](http://www.pornhub.com/view_video.php?viewkey=6c39820e63fed2cd54db), cujo público é composto inteiramente por garotas. Como nos programas dominicais daqui, elas participam de gincanas, com um &#8220;pequeno&#8221; detalhe: tais competições envolvem atividades sexuais com parceiros da produção. No final rola até uma disputa de tesoura-papel-e-pedra para ver quem leva o grande &#8220;prêmio&#8221;.
+A segunda é, de longe, a mais hardcore. Pelo pouco que entendi, é um [programa de televisão](http://www.pornhub.com/view_video.php?viewkey=6c39820e63fed2cd54db), cujo público é composto inteiramente por garotas. Como nos programas dominicais daqui, elas participam de gincanas, com um "pequeno" detalhe: tais competições envolvem atividades sexuais com parceiros da produção. No final rola até uma disputa de tesoura-papel-e-pedra para ver quem leva o grande "prêmio".
 
-Eu tenho \*muito\* que aprender direito esse idioma&#8230;
+Eu tenho \*muito\* que aprender direito esse idioma...

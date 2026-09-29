@@ -31,19 +31,19 @@ Depois de muitas velas acesas para São Backup (acompanhadas de romarias atravé
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="/img/micros/hotbit_desmontado.jpg" alt="" /><br /> O <strong>Hotbit </strong>desmontado (a placa em destaque era o &#8220;Kit 2.0&#8243;)
+  <img class="aligncenter" src="/img/micros/hotbit_desmontado.jpg" alt="" /><br /> O <strong>Hotbit </strong>desmontado (a placa em destaque era o "Kit 2.0&#8243;)
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="/img/micros/LASER.JPG" alt="" /><br /> <strong>Laser //c</strong>. Quando eu comprei, achei que era uma versão<br /> tupiniquim do Apple //c, mas internamente era um Apple ][+.<br /> Frustrante para quem já viu um TK 3000 //e Compact&#8230;
+  <img class="aligncenter" src="/img/micros/LASER.JPG" alt="" /><br /> <strong>Laser //c</strong>. Quando eu comprei, achei que era uma versão<br /> tupiniquim do Apple //c, mas internamente era um Apple ][+.<br /> Frustrante para quem já viu um TK 3000 //e Compact...
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="/img/micros/TVJOGO.JPG" alt="" /><br /> O que esse <strong>TV Jogo</strong> estava fazendo lá em casa ? Sei lá, mas<br /> que combinava perfeitamente com a coleção, isso lá era verdade&#8230;
+  <img class="aligncenter" src="/img/micros/TVJOGO.JPG" alt="" /><br /> O que esse <strong>TV Jogo</strong> estava fazendo lá em casa ? Sei lá, mas<br /> que combinava perfeitamente com a coleção, isso lá era verdade...
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="/img/micros/telejogo2.jpg" alt="" /><br /> E, no melhor estilo &#8220;<a href="http://www.ignore.com.br/fuscas/primeira.htm">onde tem um fusca tem outro</a>&#8220;, eis um <strong>Telejogo II</strong>
+  <img class="aligncenter" src="/img/micros/telejogo2.jpg" alt="" /><br /> E, no melhor estilo "<a href="http://www.ignore.com.br/fuscas/primeira.htm">onde tem um fusca tem outro</a>", eis um <strong>Telejogo II</strong>
 </p>
 
 <p style="text-align: center;">
@@ -51,7 +51,7 @@ Depois de muitas velas acesas para São Backup (acompanhadas de romarias atravé
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="/img/micros/UNITRON.JPG" alt="" /><br /> Ah, quem disse que não funciona ? Tá lá o<strong> Unitron ap II</strong> em plena atividade.<br /> Conheço muito veterano de informática que começou num desses&#8230;
+  <img class="aligncenter" src="/img/micros/UNITRON.JPG" alt="" /><br /> Ah, quem disse que não funciona ? Tá lá o<strong> Unitron ap II</strong> em plena atividade.<br /> Conheço muito veterano de informática que começou num desses...
 </p>
 
 <p style="text-align: center;">

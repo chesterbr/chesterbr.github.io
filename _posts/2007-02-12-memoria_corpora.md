@@ -12,9 +12,9 @@ categories:
 
 Nada de mais nisso, mas o caso me lembrou de uma história **muito** parecida: nos anos 70, a Atari produzia seus próprios jogos para o Atari 2600, lucrando horrores no processo. Os programadores não viam a cor do dinheiro, e sequer podiam ter seus nomes nos créditos do jogo.
 
-Um grupo deles resolveu fundar sua própria empresa, produzindo jogos de qualidade visivelmente superior (títulos como Enduro, River Raid, Pitfall! e Keystone Kapers compunham o [catálogo][3] da nova produtora) &#8211; e a Warner (que havia comprado a Atari algum tempo antes) não demorou a processar a nova empresa.
+Um grupo deles resolveu fundar sua própria empresa, produzindo jogos de qualidade visivelmente superior (títulos como Enduro, River Raid, Pitfall! e Keystone Kapers compunham o [catálogo][3] da nova produtora) – e a Warner (que havia comprado a Atari algum tempo antes) não demorou a processar a nova empresa.
 
-Seu nome? [Activision][4]! Parece que não é a toa que os atuais executivos da empresa se preocupam &#8211; eles sabem a tenacidade que ex-funcionários descontentes adquirem quando se tornam concorrentes&#8230;
+Seu nome? [Activision][4]! Parece que não é a toa que os atuais executivos da empresa se preocupam – eles sabem a tenacidade que ex-funcionários descontentes adquirem quando se tornam concorrentes...
 
  [1]: /ignition.html
  [2]: http://au.gamespot.com/news/6165640.html?sid=6165640&#038;om_act=convert&#038;om_clk=newstop&#038;tag=newstop;title;3

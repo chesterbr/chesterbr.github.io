@@ -13,7 +13,7 @@ categories:
 ---
 <img src="/img/blig/tupperiigs.jpg" border="2" alt="Apple IIGS montado num gabinete de tupperware" align="right" />Correndo o risco de denunciar meus vinte e muitos anos, confesso que boa parte da minha formação como programador veio dos saudosos clones do Apple II (TK 3000, Unitron AP II, etc.). Juntando o desejo de voltar a brincar com uma dessas máquinas com o sonho de moleque de ter um Apple II<tt>GS</tt> (modelo mais avançado que não chegou ao Brasil), resolvi comprar uma placa-mãe de IIGS no eBay (lá vendem o micro completo de baciada, mas o envio é proibitivo), improvisando um gabinete e adaptando periféricos de PC/Mac.
 
-Sim, o &#8220;gabinete&#8221; é um daqueles recipientes plásticos de comida (&#8220;tupperware&#8221;, ou algo assim, no jargão da cozinha). Não é uma idéia original, nem a mais bizarra do planeta: o <a href="http://applefritter.com/hacks/desktops.html">Applefritter</a> mostra Macintoshes nos gabinetes mais bizarros, desde os montados com Lego até um aspirador de pó! Segue o artigo completo da montagem.
+Sim, o "gabinete" é um daqueles recipientes plásticos de comida ("tupperware", ou algo assim, no jargão da cozinha). Não é uma idéia original, nem a mais bizarra do planeta: o <a href="http://applefritter.com/hacks/desktops.html">Applefritter</a> mostra Macintoshes nos gabinetes mais bizarros, desde os montados com Lego até um aspirador de pó! Segue o artigo completo da montagem.
 <!--more-->
 
 ## Montando o Apple II<tt>GS</tt>
@@ -22,19 +22,19 @@ Sim, o &#8220;gabinete&#8221; é um daqueles recipientes plásticos de comida (&
   <img src="/img/micros/appleiigs/07_Gabinete%20ultraleve.JPG" border="0" alt="" />
 </p>
 
-Eu poderia ter montado num gabinete de PC, mas seria um pouco herege. Além disso, plástico é mais fácil de furar (embora ainda dê um trabalho, como descobri depois), e **bem** mais leve &#8211; fora que os conectores traseiros da placa limitavam muito as minhas opções.
+Eu poderia ter montado num gabinete de PC, mas seria um pouco herege. Além disso, plástico é mais fácil de furar (embora ainda dê um trabalho, como descobri depois), e **bem** mais leve – fora que os conectores traseiros da placa limitavam muito as minhas opções.
 
 <p style="text-align: center;">
   <img src="/img/micros/appleiigs/03_Motherboard%20IIGS%20-%20Traseira.jpg" border="0" alt="" />
 </p>
 
-Eu achei que seria difícil convencer um leiloeiro tradicional a mandar só a placa-mãe, por isso peguei um especializado em equipamentos antigos. Ele tem uma &#8220;loja&#8221; no eBay, a [Electronic Recycler][2]. Tinha coisa mais barata ainda no eBay, mas valeu pela qualidade da transação: a placa chegou em pouco mais de uma semana. Recomendo.
+Eu achei que seria difícil convencer um leiloeiro tradicional a mandar só a placa-mãe, por isso peguei um especializado em equipamentos antigos. Ele tem uma "loja" no eBay, a [Electronic Recycler][2]. Tinha coisa mais barata ainda no eBay, mas valeu pela qualidade da transação: a placa chegou em pouco mais de uma semana. Recomendo.
 
 <p style="text-align: center;">
   <img src="/img/micros/appleiigs/01_Motherboard%20IIGS.jpg" border="0" alt="" />
 </p>
 
-Usei uma fonte de PC de 300W que eu tinha encostada &#8211; além de fornecer todas as voltagens que o Apple II precisa, dá pra alimentar todo e qualquer hardware que eu resolva encaixar neste micro, sem esquentar um mísero grau. A ventoinha até ajuda o Apple II a se manter resfriado (pasmem: quase nenhum Apple II tinha ventoinha, e ainda assim travavam menos que os PCs modernos).
+Usei uma fonte de PC de 300W que eu tinha encostada – além de fornecer todas as voltagens que o Apple II precisa, dá pra alimentar todo e qualquer hardware que eu resolva encaixar neste micro, sem esquentar um mísero grau. A ventoinha até ajuda o Apple II a se manter resfriado (pasmem: quase nenhum Apple II tinha ventoinha, e ainda assim travavam menos que os PCs modernos).
 
 <p style="text-align: center;">
   <img src="/img/micros/appleiigs/04_Fonte%20de%20PC%20antes%20da%20adaptacao.jpg" border="0" alt="" />
@@ -60,27 +60,27 @@ Quando se faz os furos, eles ficam meio desengonçados, como na foto seguinte. A
   <img src="/img/micros/appleiigs/09_Traseira%20perfurada%20do%20gabinete.JPG" border="0" alt="" />
 </p>
 
-Idealmente, deixaria o gabinete &#8220;de comprido&#8221; na mesa, com todos os fios saindo por trás, como um Apple II normal. Entretanto, seria difícil alinhar a fonte sem correr o risco de não encaixar alguma placa no futuro. Assim, resolvi orientá-lo com a face maior virada para mim (até porque o teclado de Mac que eu descolei é meio grandinho), com os fios saindo pelas laterais.
+Idealmente, deixaria o gabinete "de comprido" na mesa, com todos os fios saindo por trás, como um Apple II normal. Entretanto, seria difícil alinhar a fonte sem correr o risco de não encaixar alguma placa no futuro. Assim, resolvi orientá-lo com a face maior virada para mim (até porque o teclado de Mac que eu descolei é meio grandinho), com os fios saindo pelas laterais.
 
-A fonte foi &#8220;pendurada&#8221; na lateral (e resolvi fixá-la bem antes de travar definitivamente a placa-mãe). Fiz os furos para os parafusos, mas reforcei com Epoxy &#8211; afinal, se ela cair em cima da placa-mãe eu vou chorar a noite toda.
+A fonte foi "pendurada" na lateral (e resolvi fixá-la bem antes de travar definitivamente a placa-mãe). Fiz os furos para os parafusos, mas reforcei com Epoxy – afinal, se ela cair em cima da placa-mãe eu vou chorar a noite toda.
 
 <p style="text-align: center;">
   <img src="/img/micros/appleiigs/10_Gabinete%20com%20fonte.JPG" border="0" alt="" />
 </p>
 
-Pra fixar a placa-mãe eu usei dois daqueles ferrinhos que são parafusos em uma ponta e buchas metálicas na outra (toda placa-mãe de PC tem pelo menos um). Também use três daqueles pininhos de plástico para ter uma base uniforme que distribuísse a pressão ao encaixar novas placas. Cortei a parte inferior deles &#8211; não faria sentido furar o plástico do gabinete para encaixar outro plástico.
+Pra fixar a placa-mãe eu usei dois daqueles ferrinhos que são parafusos em uma ponta e buchas metálicas na outra (toda placa-mãe de PC tem pelo menos um). Também use três daqueles pininhos de plástico para ter uma base uniforme que distribuísse a pressão ao encaixar novas placas. Cortei a parte inferior deles – não faria sentido furar o plástico do gabinete para encaixar outro plástico.
 
 <p style="text-align: center;">
   <img src="/img/micros/appleiigs/11_Gabinete%20com%20fonte%20e%20MB.JPG" border="0" alt="" />
 </p>
 
-Tudo pronto, vamos ligar. Que ruflem os tambores&#8230;
+Tudo pronto, vamos ligar. Que ruflem os tambores...
 
 <p style="text-align: center;">
   <img src="/img/micros/appleiigs/12_Tela%20de%20boot%20do%20IIGS.JPG" border="0" alt="" />
 </p>
 
-Incrível, funciona ! :-) Passei o início do Carnaval desmontando e consertando o teclado de Mac (foi comprado como sucata, e justo a tecla de liga/desliga &#8211; que no II<tt>GS</tt> é o Reset &#8211; não funcionava). Descobri que um acidente com café comprometeu uma das trilhas da membrana, o que resolvi ligando um fio da placa de circuito do teclado diretamente a ela. Meio tosco, mas rolou (nem tirei foto porque não valia a pena).
+Incrível, funciona ! :-) Passei o início do Carnaval desmontando e consertando o teclado de Mac (foi comprado como sucata, e justo a tecla de liga/desliga – que no II<tt>GS</tt> é o Reset – não funcionava). Descobri que um acidente com café comprometeu uma das trilhas da membrana, o que resolvi ligando um fio da placa de circuito do teclado diretamente a ela. Meio tosco, mas rolou (nem tirei foto porque não valia a pena).
 
 <p style="text-align: center;">
   <img src="/img/micros/appleiigs/13_Tela%20Check%20Startup%20Device.JPG" border="0" alt="" />
@@ -88,7 +88,7 @@ Incrível, funciona ! :-) Passei o início do Carnaval desmontando e consertando
 
 Arrumei um daqueles mouses quadradões de Mac, que eram os mesmos usados no II<tt>GS</tt>. Ficou bacana. Os drives tiveram que ser de Apple mesmo, mas consegui, o que só deixava faltando o joystick. Arrumei um analógico bem das antigas, ideal para o projeto, mas era de PC. Como o Apple II é micro de hackers para hackers, não foi difícil achar um [esquema para conectar joystick de PC no Apple][5].
 
-Optei pela versão mais simples (que não suporta auto-fire) e sem os potenciômetros de calibragem. Ainda por cima, fiz no esquema &#8220;teia de aranha&#8221; (soldando os componentes uns nos outros sem ponte de terminais ou placa de circuito). Parece desleixo, mas fazendo assim, pude colocar os dois resistores e dois capacitores dentro do conector de 15 pinos, ou seja, ficou apenas um cabo (que, de lambuja, funciona como extensão do controle).
+Optei pela versão mais simples (que não suporta auto-fire) e sem os potenciômetros de calibragem. Ainda por cima, fiz no esquema "teia de aranha" (soldando os componentes uns nos outros sem ponte de terminais ou placa de circuito). Parece desleixo, mas fazendo assim, pude colocar os dois resistores e dois capacitores dentro do conector de 15 pinos, ou seja, ficou apenas um cabo (que, de lambuja, funciona como extensão do controle).
 
 <p style="text-align: center;">
   <img src="/img/micros/appleiigs/joy_teia.jpg" border="0" alt="" /> <img src="/img/micros/appleiigs/joy_teste.jpg" border="0" alt="" />
@@ -96,9 +96,9 @@ Optei pela versão mais simples (que não suporta auto-fire) e sem os potenciôm
 
 ## Transferindo Software do PC para o Apple
 
-O próximo passo foi ligar o Apple no PC, para poder usar no Apple os programas disponíveis na Internet. A porta serial do II<tt>GS</tt> usa um conector bizarro ([Mini-DIN8][6]). Depois de uma tentativa frustrada de montar um cabo, descobri que um cabo de impressora serial da Apple (Mini-DIN8 numa ponta e DB-25 na outra) funcionaria como cabo &#8220;null-modem&#8221; para ligar o Apple II no PC. Comprei o cabo no [site do fabricante][7] (peça pelo número: 10432) junto com um adaptador DB25-DB9 (no. 10223).
+O próximo passo foi ligar o Apple no PC, para poder usar no Apple os programas disponíveis na Internet. A porta serial do II<tt>GS</tt> usa um conector bizarro ([Mini-DIN8][6]). Depois de uma tentativa frustrada de montar um cabo, descobri que um cabo de impressora serial da Apple (Mini-DIN8 numa ponta e DB-25 na outra) funcionaria como cabo "null-modem" para ligar o Apple II no PC. Comprei o cabo no [site do fabricante][7] (peça pelo número: 10432) junto com um adaptador DB25-DB9 (no. 10223).
 
-Depois disso, o &#8220;diliema Tostines&#8221;: pra transferir software do PC pro Apple, eu precisava do disco do DOS &#8211; e o único jeito de obter o disco do DOS era transferir ele do PC pro Apple ! Fuçando um pouco, encontrei o [DOS 3.3 Dump][8] &#8211; um esquema que redireciona a porta serial (IN#2) fazendo o PC &#8220;digitar&#8221; o DOS no Apple, byte a byte. Com isso foi possível formatar um disquete e começar transmitir programas do PC pro Apple pelo a usar o [ADTGS][9] (que também se &#8220;auto-digita&#8221; pela serial).
+Depois disso, o "diliema Tostines": pra transferir software do PC pro Apple, eu precisava do disco do DOS – e o único jeito de obter o disco do DOS era transferir ele do PC pro Apple ! Fuçando um pouco, encontrei o [DOS 3.3 Dump][8] – um esquema que redireciona a porta serial (IN#2) fazendo o PC "digitar" o DOS no Apple, byte a byte. Com isso foi possível formatar um disquete e começar transmitir programas do PC pro Apple pelo a usar o [ADTGS][9] (que também se "auto-digita" pela serial).
 
 <p style="text-align: center;">
   <img src="/img/micros/appleiigs/dos33dmp.jpg" border="0" alt="" /> <img src="/img/micros/appleiigs/adtgs.jpg" border="0" alt="" />

@@ -11,9 +11,9 @@ categories:
 
 Apesar da internet ter deixado a desejar (em particular no primeiro dia), o evento contou com estrutura ótima: comeu-se bem (não teve almoço, mas estávamos sobre um [shopping center][7]), o espaço foi suficiente (não tão grande quanto o dos anteriores, segundo os veteranos, mas coube todo mundo) e o local era de facílimo acesso.
 
-As palestras focaram muito em aplicação das tecnologias que se consolidaram no mundo do Ruby nos últimos tempos. Eu, que andava um pouco afastado da tecnologia, curti muito a abordagem. Houve um espaço para &#8220;desconferências&#8221;, que funcionaram bem, mas eram um pouco formais demais, talvez desestimulando quem tivesse um recado mais curto para passar.
+As palestras focaram muito em aplicação das tecnologias que se consolidaram no mundo do Ruby nos últimos tempos. Eu, que andava um pouco afastado da tecnologia, curti muito a abordagem. Houve um espaço para "desconferências", que funcionaram bem, mas eram um pouco formais demais, talvez desestimulando quem tivesse um recado mais curto para passar.
 
-Como sempre, o lado social é importante. Houve um happy hour no [Bar Opção][9] (no qual fiquei pouco tempo, o cansaço dos eventos anteriores já se acumulava) e a impressão que ficou ao conversar com as pessoas é que as empresas estão ficando mais receptivas ao uso de linguagens dinâmicas &#8211; possivelmente um movimento em sintonia com a crescente adoção de práticas ágeis na gestão do desenvolvimento de software.
+Como sempre, o lado social é importante. Houve um happy hour no [Bar Opção][9] (no qual fiquei pouco tempo, o cansaço dos eventos anteriores já se acumulava) e a impressão que ficou ao conversar com as pessoas é que as empresas estão ficando mais receptivas ao uso de linguagens dinâmicas – possivelmente um movimento em sintonia com a crescente adoção de práticas ágeis na gestão do desenvolvimento de software.
 
 Toda essa vibração em torno de Ruby on Rails me faz ver que é questão de tempo até que apareçam as primeiras aplicações Ruby on Rails usando a [Apontador API][10]. Ela ainda não dispõe de biblioteca oficial para esse ambiente, mas com módulos como [RestClient][11] e [oauth-plugin][12], creio que os rubistas não terão grandes dificuldades (e se estiverem, [estamos lá para ajudar][13]).
 

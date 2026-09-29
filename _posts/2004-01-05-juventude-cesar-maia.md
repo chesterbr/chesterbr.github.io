@@ -10,7 +10,7 @@ Eu não costumo falar de spam por dois motivos: primeiro porque que o [SpamBayes
 
 Hoje o software me surpreendeu deixando passar o spam abaixo, recebido de uma tal [Juventude Cesar Maia][3]. É interessante que, além de não morar no Rio, eu me identifico mais com o Michael Jackson ou com o Chewbacca do que com o Cesar Maia!
 
-Tudo bem, faz parte da &#8220;cultura&#8221; do spam ignorar completamente o público-alvo &#8211; e, até um certo ponto, condiz com o comportamento do político em questão. O que me tirou do sério foi o aviso do final (e nem por causa do horroroso &#8220;informação de informativo&#8221;) .
+Tudo bem, faz parte da "cultura" do spam ignorar completamente o público-alvo – e, até um certo ponto, condiz com o comportamento do político em questão. O que me tirou do sério foi o aviso do final (e nem por causa do horroroso "informação de informativo") .
 
 Fiz questão de desobedecer e divulgar o spam na íntegra (com negrito na parte que me chateou):
 

@@ -12,7 +12,7 @@ categories:
 
 A nova versão pode ser baixada para o PC [na página de sempre][1] ou diretamente no ceular, acessando o endereço `m.chester.me`.
 
-Eu ia subir esta alteração mais pra frente, junto com outras (incluindo uma nova enxugada no código para fazer a aplicação voltar a um tamanho razoável &#8211; já que ela está beirando os 64KB e alguns celulares estão dando problema com isso), mas o código veio tão bem-feito que resolvi seguir o [conselho][2] de Eric Raymond: *release early, release often*.
+Eu ia subir esta alteração mais pra frente, junto com outras (incluindo uma nova enxugada no código para fazer a aplicação voltar a um tamanho razoável – já que ela está beirando os 64KB e alguns celulares estão dando problema com isso), mas o código veio tão bem-feito que resolvi seguir o [conselho][2] de Eric Raymond: *release early, release often*.
 
  [1]: /archives/2006/01/mt.html
  [2]: http://www.ime.usp.br/~is/ddt/mac333/aulas/tema-6-15abr99.html

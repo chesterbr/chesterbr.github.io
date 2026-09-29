@@ -16,7 +16,7 @@ O legal foi circular entre as várias tribos, e numa dessas eu acabei fazendo um
 
 **UPDATE (2019)**: Na época eu achei o gancho utilizado (que brincava com a idéia de que o interesse em fotografia poderia aumentar o sucesso de homens com mulheres) irreverente, e tanto homens quanto mulheres curtiram. Hoje eu acredito que esse tipo de "humor" perpetua estereótipos de gênero e relacionamento com os quais eu não me alinho.
 
-Ano que vem eu acampo &#8211; e quem sabe falo de algo sério?
+Ano que vem eu acampo – e quem sabe falo de algo sério?
 
 Dei um breve [depoimento][8] para a Folha Online, sobre altos e baixos do Campus Party.
 

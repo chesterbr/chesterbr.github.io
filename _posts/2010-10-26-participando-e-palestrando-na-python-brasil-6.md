@@ -7,13 +7,13 @@ permalink: /archives/2010/10/participando-e-palestrando-na-python-brasil-6.html/
 categories:
   - software
 ---
-Estive na [PythonBrasil[6]][1], isto é, no &#8220;6º Encontro Brasileiro da Comunidade Python&#8221;, que rolou em Curitiba entre 21 e 23 de Outubro. Por conta da [aula na UNESP][2], só pude chegar na sexta (22), mas ainda assim deu pra aproveitar bastante.
+Estive na [PythonBrasil[6]][1], isto é, no "6º Encontro Brasileiro da Comunidade Python", que rolou em Curitiba entre 21 e 23 de Outubro. Por conta da [aula na UNESP][2], só pude chegar na sexta (22), mas ainda assim deu pra aproveitar bastante.
 
-Alguém tuitou que este foi um encontro orientado a pessoas, e é verdade: todos lá estavam muito acessíveis &#8211; sem deixar de lado o perfeccionismo e profundidade no conteúdo, os palestrantes estabeleceram um diálogo muito positvo com todos os presentes, dentro e fora das palestras.
+Alguém tuitou que este foi um encontro orientado a pessoas, e é verdade: todos lá estavam muito acessíveis – sem deixar de lado o perfeccionismo e profundidade no conteúdo, os palestrantes estabeleceram um diálogo muito positvo com todos os presentes, dentro e fora das palestras.
 
 Uma das marcas da comunidade Python é receber bem todos os interessados, e este aspecto foi contemplado pela ilustre presença do [Fabio Akita][3] ([@AkitaOnRails][4]), que, à exemplo do que fez no [QCon][5], mostrou onde a comunidade Ruby/Rails acertou e errou ao longo dos anos, deixando lições inestimáveis para os pythonistas que souberam enxergar além das diferenças.
 
-Outro destaque foi o [Pedro Valente][6] ([@pedrovalente][7]), o elo perdido entre o jornalismo e o desenvolvimento de software. Ele agitou o [#freecep][8] nos open spaces e apresentou a [versão python-ativada da sua consagrada exposição sobre extração de dados públicos &#8220;na marra&#8221;][9] &#8211; que deixava uma dica para que eu fizesse (mais) uma lightning talk sobre o [Cruzalinhas][10].
+Outro destaque foi o [Pedro Valente][6] ([@pedrovalente][7]), o elo perdido entre o jornalismo e o desenvolvimento de software. Ele agitou o [#freecep][8] nos open spaces e apresentou a [versão python-ativada da sua consagrada exposição sobre extração de dados públicos "na marra"][9] – que deixava uma dica para que eu fizesse (mais) uma lightning talk sobre o [Cruzalinhas][10].
 
 Eu achava que o assunto já tinha sido abordado o suficiente (falei dele no FISL 11 e no QCon), mas dado que a palestra original do Pedro Valente foi justamente o que me inspirou a criar o site, achei que não faria mal em complementar a apresentação dele (mesmo sem ter ensaiado ou feito slides próprios para a ocasião). Mas ver o pessoal abraçando à idéia de que serviços públicos implicam em dados públicos já valeu: o [@botobr][11] está tentando [reproduzir][12] o lance em Curitiba, o [@jbochi][11] [abriu][13] o fonte do [Tô a Pé][14], entre outros.
 

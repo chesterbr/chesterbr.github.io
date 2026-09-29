@@ -13,7 +13,7 @@ categories:
 
 Tal experiência lhe permitiu escrever uma série de artigos voltados ao púbilco leigo em jornais e outros meios, sendo o livro uma coletânea dos mesmos. Sua capacidade de tratar de temas profundos com um texto muito leve é o ponto-chave, permitindo que os curtos capítulos sejam lidos sem uma ordem ou linha condutora particular.
 
-Não se trata de um livro sobre rituais ou sobre a história do budismo (de fato, uma das marcas registradas da Escola Shin é o despojamento do ritualismo), mas expõe a essência dos mais diversos conceitos budistas em uma linguagem acessível e pragmática. Sob esse aspecto, é quase que um &#8220;Budismo [Para Leigos][3]&#8221; &#8211; se você for ler um único livro sobre o assunto, esse é uma boa escolha. E se for ler vários, inclua ele também!
+Não se trata de um livro sobre rituais ou sobre a história do budismo (de fato, uma das marcas registradas da Escola Shin é o despojamento do ritualismo), mas expõe a essência dos mais diversos conceitos budistas em uma linguagem acessível e pragmática. Sob esse aspecto, é quase que um "Budismo [Para Leigos][3]" – se você for ler um único livro sobre o assunto, esse é uma boa escolha. E se for ler vários, inclua ele também!
 
 (em tempo: os próximos posts vão falar de alguns livros sobre Budismo que eu andei lendo)
 

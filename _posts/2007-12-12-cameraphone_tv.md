@@ -12,7 +12,7 @@ Act 1, Saturday: In São Paulo, three guys cowardly attack a family (including a
 
 Act 2, Sunday: Fantastico, a variety/news show from TV Globo, shows the video to its (huge) audience, on a report about traffic violence. It [appears on YouTube][1] shortly after that.
 
-Act 3, Monday: People discover &#8220;Martinho Pompeia&#8221;, one of the agressors, on Orkut. His [profile][2] (and his friends&#8217;) gets vandalized by thousands of hate scrap messages, and [communities][3] appear inciting people to seek revenge (aiding them with his address, phone numbers and even financial records).
+Act 3, Monday: People discover "Martinho Pompeia", one of the agressors, on Orkut. His [profile][2] (and his friends') gets vandalized by thousands of hate scrap messages, and [communities][3] appear inciting people to seek revenge (aiding them with his address, phone numbers and even financial records).
 
 I have no idea of how this story is going to end. But I am still baffled by the power that the ubiquity of digital cameras, united with nation-wide TV coverage and a social network with deep penetration can unleash, despite of limited resources, low technical literacy or other barriers.
 

@@ -14,8 +14,8 @@ categories:
 **<font color="red">ATUALIZAÇÃO:</font>** O método sugerido aqui não lê a configuração de timezone do servidor (e, portanto, exige atualização a cada ano) . Se o seu servidor é Linux ou assemelhado, sugiro usar o [timefix][1].
 * * *
 
-<img title="Detalhe de uma propaganda do governo americano sobre horário de verão" align="right" src="/archives/img/timezone.jpg" width="200" height="212" />Se você desenvolve aplicações Java para rodar em servidores, já deve ter se deparado com este problema: a máquina virtual nunca &#8220;acerta&#8221; o horário de verão, mesmo que você tenha configurado corretamente o *timezone* do sistema operacional do servidor para acertar o relógio.
-Este artigo aponta algumas soluções para o problema &#8211; incluindo uma que não exige recompilação de código e não se restringe à JVM da Sun.
+<img title="Detalhe de uma propaganda do governo americano sobre horário de verão" align="right" src="/archives/img/timezone.jpg" width="200" height="212" />Se você desenvolve aplicações Java para rodar em servidores, já deve ter se deparado com este problema: a máquina virtual nunca "acerta" o horário de verão, mesmo que você tenha configurado corretamente o *timezone* do sistema operacional do servidor para acertar o relógio.
+Este artigo aponta algumas soluções para o problema – incluindo uma que não exige recompilação de código e não se restringe à JVM da Sun.
 
 <!--more-->
 
@@ -23,9 +23,9 @@ Este artigo aponta algumas soluções para o problema &#8211; incluindo uma que 
 
 Dois dos meus vilões favoritos são os culpados deste quiproquó: o governo brasileiro e a Sun.
 
-O governo muda a regra do horário a cada ano &#8211; em 2006, [a justificativa foram as urnas eletrônicas][2], e a questão é [historicamente complicada][3] no nosso país. Como dizia um administrador de sistemas que conheci, &#8220;no mundo todo o horário de verão é uma fórmula; no Brasil é uma lei&#8221;.
+O governo muda a regra do horário a cada ano – em 2006, [a justificativa foram as urnas eletrônicas][2], e a questão é [historicamente complicada][3] no nosso país. Como dizia um administrador de sistemas que conheci, "no mundo todo o horário de verão é uma fórmula; no Brasil é uma lei".
 
-A Sun, por outro lado, deciciu que a máquina virtual Java deve gerenciar por si só todo o esquema de timezones, essencialmente ignorando o sistema hospedeiro (que se limita a informar o lugar onde o servidor se encontra e o horário UTC) &#8211; uma idéia razoável no passado, mas que desconsidera o fato de que Windows, Linux e tantos outros S.O.s modernos já resolvem este problema.
+A Sun, por outro lado, deciciu que a máquina virtual Java deve gerenciar por si só todo o esquema de timezones, essencialmente ignorando o sistema hospedeiro (que se limita a informar o lugar onde o servidor se encontra e o horário UTC) – uma idéia razoável no passado, mas que desconsidera o fato de que Windows, Linux e tantos outros S.O.s modernos já resolvem este problema.
 
 **Como eu resolvo?**
 
@@ -52,15 +52,15 @@ A solução comummente adotada é alterar o código para criar um timezone com a
 
 Neste caso, ele está ajustando o horário de verão para iniciar em 05/Nov às 01h00 e terminar em 25/Fev às 02h00 (é preferível usar estes horários para evitar que a mudança de data bagunce outros processos, mas você pode começar/terminar à meia-noite, se preferir).
 
-O problema é que você tem que chamar o código na incialização da aplicação. Se ela for uma aplicação stand-alone até que é fácil &#8211; no entanto, se ela residir em um web container (Tomcat, WebSphere, etc.) fica mais difícil. Fora que você tem que recompilar todas as aplicações a cada ano, o que nem sempre é desejável. Mas é um caminho.
+O problema é que você tem que chamar o código na incialização da aplicação. Se ela for uma aplicação stand-alone até que é fácil – no entanto, se ela residir em um web container (Tomcat, WebSphere, etc.) fica mais difícil. Fora que você tem que recompilar todas as aplicações a cada ano, o que nem sempre é desejável. Mas é um caminho.
 
 **Outra solução: mexer na máquina virtual**
 
 O Vitor Buitoni dá uma [solução coerente para o problema][4]: se a máquina virtual decide agir como um sistema operacional, vamos tratá-la como tal, e trocar a configuração de timezone nela também (brinde: um jeito bem esperto de fazer o Tomcat/WebSphere/qualquer web container executar a atualização sem precisar reiniciar).
 
-Requer uma certa &#8220;pedalada&#8221;, pois o utilitário necessário para fazer a mudança (JavaZic) não é público, ele usa uma manobra para obter seu fonte e compilar. Além disso, ela se restringe à JVM da Sun. E também há quem alegue que a seção &#8220;Java Technology Restrictions&#8221; da licença da Sun para o runtime da máquina virtual se aplique neste caso (o [texto da versão 5.0][5] é menos restritivo, mas eu não sou advogado, então não me arrisco aqui).
+Requer uma certa "pedalada", pois o utilitário necessário para fazer a mudança (JavaZic) não é público, ele usa uma manobra para obter seu fonte e compilar. Além disso, ela se restringe à JVM da Sun. E também há quem alegue que a seção "Java Technology Restrictions" da licença da Sun para o runtime da máquina virtual se aplique neste caso (o [texto da versão 5.0][5] é menos restritivo, mas eu não sou advogado, então não me arrisco aqui).
 
-Se nada disso te atrapalha, essa é a solução mais &#8220;limpinha&#8221;, sob o ponto de vista técnico, e eu recomendo.
+Se nada disso te atrapalha, essa é a solução mais "limpinha", sob o ponto de vista técnico, e eu recomendo.
 
 **Um caminho intermediário**
 

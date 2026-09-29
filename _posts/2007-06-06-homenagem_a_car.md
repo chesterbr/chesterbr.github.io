@@ -11,7 +11,7 @@ categories:
 ---
 <img title="Capas de alguns 'catecismos' de Carlos Zéfiro. Fonte: carloszefiro.com." src="/archives/img/carloszefiro_catecismos.jpg" width="270" height="237" align="right" />**ATENÇÃO:** Links impróprios para escritório (é quase softcore para os dias de hoje, mas não custa avisar.)
 
-Nos anos 50 e 60 proliferou no Brasil um gênero de material pornográfico que consistia em revistas em quadrinhos em preto-e-branco e formato de bolso. Eram os chamados &#8220;catecismos&#8221; ou &#8220;revistinhas de sacanagem&#8221;, cujo baixo custo e discrição foram fatores chave para o sucesso.
+Nos anos 50 e 60 proliferou no Brasil um gênero de material pornográfico que consistia em revistas em quadrinhos em preto-e-branco e formato de bolso. Eram os chamados "catecismos" ou "revistinhas de sacanagem", cujo baixo custo e discrição foram fatores chave para o sucesso.
 
 A primeira denominação era mais comum em São Paulo, e supostamente remete à semelhança de formato entre as revistinhas e os livros de instrução religiosa conhecidos por este nome.
 

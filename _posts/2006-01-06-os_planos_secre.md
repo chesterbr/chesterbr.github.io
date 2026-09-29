@@ -8,11 +8,11 @@ comments: true
 permalink: /archives/2006/01/os_planos_secre.html/
 categories:
 ---
-<img title="Trecho do panfleto que ensina a fazer a Barbie falar grosso" src="/archives/img/blo.jpg" width="175" height="210" align="left" />Isso é notícia **bem** velha: no começo dos anos 90, foi lançada uma série da Barbie que, através de um circuito de voz embutido, brindava as crianças com frases bastante edificantes para o desenvolvimento feminino, tais como &#8220;matemática é difícil&#8221; e &#8220;eu adoro fazer compras&#8221;.
+<img title="Trecho do panfleto que ensina a fazer a Barbie falar grosso" src="/archives/img/blo.jpg" width="175" height="210" align="left" />Isso é notícia **bem** velha: no começo dos anos 90, foi lançada uma série da Barbie que, através de um circuito de voz embutido, brindava as crianças com frases bastante edificantes para o desenvolvimento feminino, tais como "matemática é difícil" e "eu adoro fazer compras".
 
-Incomodadas com isso, algumas pessoas (que ficaram [conhecidas na mídia][1] como a Barbie Liberation Organization, ou BLO) resolveram aproveitar que a Mattel fabricava bonecos &#8220;Comandos em Ação&#8221; com um circuito de som semelhante para aprontar: eles compraram algumas dezenas destes bonecos, inverteram seus circuitos e os devolveram às lojas. Isto gerou situações interessantes nos lares: enquanto a Barbie urrava brados de guerra, o doce G.I. Joe suspirava comentando sobre seu casamento dos sonhos.
+Incomodadas com isso, algumas pessoas (que ficaram [conhecidas na mídia][1] como a Barbie Liberation Organization, ou BLO) resolveram aproveitar que a Mattel fabricava bonecos "Comandos em Ação" com um circuito de som semelhante para aprontar: eles compraram algumas dezenas destes bonecos, inverteram seus circuitos e os devolveram às lojas. Isto gerou situações interessantes nos lares: enquanto a Barbie urrava brados de guerra, o doce G.I. Joe suspirava comentando sobre seu casamento dos sonhos.
 
-Essa história, como eu disse, é bem antiga, e tem mais detalhes [aqui][2]. A novidade é que os caras disponibilizaram na web o [projeto][3] (PDF, 132K) de como fazer a &#8220;cirurgia de transferência de cérebros&#8221; entre a Barbie e o G.I. Joe. E não é fácil não, tem que ter uma certa manha!
+Essa história, como eu disse, é bem antiga, e tem mais detalhes [aqui][2]. A novidade é que os caras disponibilizaram na web o [projeto][3] (PDF, 132K) de como fazer a "cirurgia de transferência de cérebros" entre a Barbie e o G.I. Joe. E não é fácil não, tem que ter uma certa manha!
 
 Fonte: [RTMARK][4], via menção no [BoingBoing][5]
 

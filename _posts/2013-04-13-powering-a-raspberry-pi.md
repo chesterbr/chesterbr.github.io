@@ -9,15 +9,15 @@ categories:
 ---
 The [Raspberry Pi][1] is powered through an standard micro-USB conector. That is great, since it allows you to use pretty much any phone charger you got lying around. Or at least one that supplies 700mA of current (maybe a bit more if you plug extra USB stuff on the Pi).
 
-I thought I had it covered with my <a class="dead-link" title="this link died" href="http://www.amazon.com/Apple-iPad-Power-Adapter-MC359LL/dp/B004GIKW6Y/ref=sr_1_4?s=electronics&ie=UTF8&qid=1365826931&sr=1-4&keywords=a1357">iPad charger</a><span class="dead-link-mark">†</span> and its [juicy 2.1A][3], but the video below shows that voltage also plays a role (and that the iPad charger doesn&#8217;t really deliver in that respect):
+I thought I had it covered with my <a class="dead-link" title="this link died" href="http://www.amazon.com/Apple-iPad-Power-Adapter-MC359LL/dp/B004GIKW6Y/ref=sr_1_4?s=electronics&ie=UTF8&qid=1365826931&sr=1-4&keywords=a1357">iPad charger</a><span class="dead-link-mark">†</span> and its [juicy 2.1A][3], but the video below shows that voltage also plays a role (and that the iPad charger doesn't really deliver in that respect):
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/XX3kiRUf7mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <!--more-->
 
-[USB specs][4] say you should have 5V ± 0.25V from a source, and the Pi also expects that, so I bought a $9 KDL-5100A at my [electronics parts supplier][5]. It is physically identical to [the FY0501000 linked on the video][6], and indeed, performed better than the iPad charger&#8230; but still below 4.75.
+[USB specs][4] say you should have 5V ± 0.25V from a source, and the Pi also expects that, so I bought a $9 KDL-5100A at my [electronics parts supplier][5]. It is physically identical to [the FY0501000 linked on the video][6], and indeed, performed better than the iPad charger... but still below 4.75.
 
-After some head-scratching, I found the issue: the cable. Apparently, [cheap cables have quite some resistance][7], which causes voltage drops as you need more current ([Ohm&#8217;s Law][8], I suppose). Replaced it with [a Samsung one][9], and *voilà*: iPad charger got almost good, and new charger worked **great.**
+After some head-scratching, I found the issue: the cable. Apparently, [cheap cables have quite some resistance][7], which causes voltage drops as you need more current ([Ohm's Law][8], I suppose). Replaced it with [a Samsung one][9], and *voilà*: iPad charger got almost good, and new charger worked **great.**
 
 An LG cable (with no Part number) got me pretty much the same results. Also tested the cable on an [Apple Cinema Display][10] USB port (okay) and a BlackBerry Playbook charger with built-in cable (excellent). Heard good things about the Kindle Fire charger, but could not test it yet.
 
@@ -55,7 +55,7 @@ Below is a wrap-up of my measurements (Wi-Fi and keyboard dongles plugged); reco
       </td>
 
       <td style="text-align: center;">
-        4.16 &#8211; 4.56
+        4.16 – 4.56
       </td>
     </tr>
 
@@ -83,7 +83,7 @@ Below is a wrap-up of my measurements (Wi-Fi and keyboard dongles plugged); reco
       </td>
 
       <td style="text-align: center;">
-        4.65 &#8211; 4.75
+        4.65 – 4.75
       </td>
     </tr>
 
@@ -97,7 +97,7 @@ Below is a wrap-up of my measurements (Wi-Fi and keyboard dongles plugged); reco
       </td>
 
       <td style="text-align: center;">
-        4.75 &#8211; 4.81
+        4.75 – 4.81
       </td>
     </tr>
 
@@ -111,7 +111,7 @@ Below is a wrap-up of my measurements (Wi-Fi and keyboard dongles plugged); reco
       </td>
 
       <td style="text-align: center;">
-        <strong>4.90 &#8211; 4.95</strong>
+        <strong>4.90 – 4.95</strong>
       </td>
     </tr>
 
@@ -125,7 +125,7 @@ Below is a wrap-up of my measurements (Wi-Fi and keyboard dongles plugged); reco
       </td>
 
       <td style="text-align: center;">
-        <strong>4.99 &#8211; 5.01</strong>
+        <strong>4.99 – 5.01</strong>
       </td>
     </tr>
   </table>

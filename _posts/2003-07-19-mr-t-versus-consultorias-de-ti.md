@@ -15,20 +15,20 @@ categories:
 **English readers:** [skip the Portuguese intro and jump to the story ↓]({{ page.url }}#more)
 </aside>
 
-Ah, as férias da USP&#8230; depois de um semestre usando todo o tempo livre para estudar, estou extrapolando todos os limites no que se refere a fazer coisas inúteis.
+Ah, as férias da USP... depois de um semestre usando todo o tempo livre para estudar, estou extrapolando todos os limites no que se refere a fazer coisas inúteis.
 
-Já <a href="/archives/2003/05/mr-t-versus-a-rapa.html/">mencionei</a> a existência dos sites &#8220;Mr. T versus &#8230;&#8221;, e resolvi criar o meu próprio. O alvo foram aquelas consultorias de TI estilo Dilbert que falam, falam e não fazem nada (mas cobram uma fortuna por isso).
+Já <a href="/archives/2003/05/mr-t-versus-a-rapa.html/">mencionei</a> a existência dos sites "Mr. T versus ...", e resolvi criar o meu próprio. O alvo foram aquelas consultorias de TI estilo Dilbert que falam, falam e não fazem nada (mas cobram uma fortuna por isso).
 
-Um dia eu escrevo com mais seriedade sobre o assunto &#8211; agora eu só quero descarregar um pouco. A história está em inglês, como todas as <a href="http://www.sit.wisc.edu/~kljense3/MrTvs.html">outras</a> do Mr. T.
+Um dia eu escrevo com mais seriedade sobre o assunto – agora eu só quero descarregar um pouco. A história está em inglês, como todas as <a href="http://www.sit.wisc.edu/~kljense3/MrTvs.html">outras</a> do Mr. T.
 <!--more-->
 
 * * *
 
-I got so pissed off for having to fix mistakes left by some &#8220;top five&#8221; IT consulting companies in recent times that I decided to use them in my first contribution to the &#8220;Mr. T Versus&#8221; scene (more details [here][1]).
+I got so pissed off for having to fix mistakes left by some "top five" IT consulting companies in recent times that I decided to use them in my first contribution to the "Mr. T Versus" scene (more details [here][1]).
 
-Images were mostly grabbed from other &#8220;Mr. T versus&#8221; sites (special credits to [Mr. T vs. Turok][2] for the last picture), and also from [Philip C. Robinson&#8217;s site][3]. The artwork is crappy, as it should be. Since English is not my first language (neither regular English nor Mr. T&#8217;s), there may be a few mistakes.
+Images were mostly grabbed from other "Mr. T versus" sites (special credits to [Mr. T vs. Turok][2] for the last picture), and also from [Philip C. Robinson's site][3]. The artwork is crappy, as it should be. Since English is not my first language (neither regular English nor Mr. T's), there may be a few mistakes.
 
-Feedback is welcome. And let&#8217;s go to the story&#8230;
+Feedback is welcome. And let's go to the story...
 
 * * *
 
@@ -43,7 +43,7 @@ Feedback is welcome. And let&#8217;s go to the story&#8230;
 * * *
 
 <p style="text-align: center;">
-  However, it seems that somebody visited the kids beforehand&#8230; somebody evil.
+  However, it seems that somebody visited the kids beforehand... somebody evil.
 </p>
 
 <p style="text-align: center;">
@@ -53,7 +53,7 @@ Feedback is welcome. And let&#8217;s go to the story&#8230;
 * * *
 
 <p style="text-align: center;">
-  Mr. T did NOT like it&#8230;
+  Mr. T did NOT like it...
 </p>
 
 <p style="text-align: center;">
@@ -63,7 +63,7 @@ Feedback is welcome. And let&#8217;s go to the story&#8230;
 * * *
 
 <p style="text-align: center;">
-  &#8230;and, of course, he decides to investigate.
+  ...and, of course, he decides to investigate.
 </p>
 
 <p style="text-align: center;">
@@ -93,7 +93,7 @@ Feedback is welcome. And let&#8217;s go to the story&#8230;
 * * *
 
 <p style="text-align: center;">
-  Do you believe there are companies that actually spend money to hear crap like that ?<br /> Sadly, they exist. And they spend a <strong>lot</strong> of money&#8230;
+  Do you believe there are companies that actually spend money to hear crap like that ?<br /> Sadly, they exist. And they spend a <strong>lot</strong> of money...
 </p>
 
 <p style="text-align: center;">
@@ -103,7 +103,7 @@ Feedback is welcome. And let&#8217;s go to the story&#8230;
 * * *
 
 <p style="text-align: center;">
-  Hmmm, bad move. Everyone knows that Mr. T&#8217;s gold chains are untouchable.
+  Hmmm, bad move. Everyone knows that Mr. T's gold chains are untouchable.
 </p>
 
 <p style="text-align: center;">
@@ -113,7 +113,7 @@ Feedback is welcome. And let&#8217;s go to the story&#8230;
 * * *
 
 <p style="text-align: center;">
-  Is this guy nuts or what ? I guess it&#8217;s throw time.
+  Is this guy nuts or what ? I guess it's throw time.
 </p>
 
 <p style="text-align: center;">
@@ -123,7 +123,7 @@ Feedback is welcome. And let&#8217;s go to the story&#8230;
 * * *
 
 <p style="text-align: center;">
-  Thank you, Mr. T. Unfortunately, those suit bozos never learn&#8230;
+  Thank you, Mr. T. Unfortunately, those suit bozos never learn...
 </p>
 
 <p style="text-align: center;">
@@ -133,7 +133,7 @@ Feedback is welcome. And let&#8217;s go to the story&#8230;
 * * *
 
 <p style="text-align: center;">
-  In the end, our hero shows the kids that if you have a minimum self-respect<br /> you don&#8217;t need other people to do your job.
+  In the end, our hero shows the kids that if you have a minimum self-respect<br /> you don't need other people to do your job.
 </p>
 
 <p style="text-align: center;">

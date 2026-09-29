@@ -10,4 +10,4 @@ categories:
 
 Segundo o hilário [FAQ](http://www.angelfire.com/la/carlosmay/AshkFaq3.html), o grupo se dedica a discutir os fantásticos poderes sexuais dessa [já controversa](/archives/2003/09/hello-kitty-what-are-you-doing-there.html/) personagem. Me chama a atenção o item que explica se a falta de uma boca pode (ou não) atrapalhar a atividade em questão.
 
-Numa avaliação superficial, o grupo parece ter degenerado para o spam de pornografia, mas imagino como deve ter sido quando surgiu. De qualquer forma, não consigo colocar as expressões &#8220;sex&#8221; e &#8220;Hello Kitty&#8221; na mesma frase, por mais que eu tente&#8230;
+Numa avaliação superficial, o grupo parece ter degenerado para o spam de pornografia, mas imagino como deve ter sido quando surgiu. De qualquer forma, não consigo colocar as expressões "sex" e "Hello Kitty" na mesma frase, por mais que eu tente...

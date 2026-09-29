@@ -13,7 +13,7 @@ categories:
   <img class="alignleft" title="miniTruco Android (para leitores de QR Code)" src="http://chart.apis.google.com/chart?chs=110x110&cht=qr&chld=M%7C1&chl=market%3A%2F%2Fsearch%3Fq%3Dpname%3Ame.chester.minitruco" alt="miniTruco Android (para leitores de QR Code)" width="110" height="110" />O <a href="/minitruco">jogo original para Java ME</a> foi criado em 2005, e ainda hoje ultrapassa os 6000 downloads/mês. Publiquei uma versão Android bem instável no final de 2010, e nas últimas semanas dei uma polida nela. Isso só foi possível graças ao feedback através do Market, então continuem sugerindo, criticando e reportando por lá!
 </p>
 
-A única coisa do miniTruco original que ficou para o futuro foi o *multiplayer*. Ainda não sei qual tecnologia usar (deve ser Wi-Fi, Bluetooth só me deu dor-de-cabeça), nem o modelo comercial &#8211; será que vinga uma colaboração pela versão paga? Por ora vou dar atenção para [outros projetos][3], mas uma hora eu retomo essa parte.
+A única coisa do miniTruco original que ficou para o futuro foi o *multiplayer*. Ainda não sei qual tecnologia usar (deve ser Wi-Fi, Bluetooth só me deu dor-de-cabeça), nem o modelo comercial – será que vinga uma colaboração pela versão paga? Por ora vou dar atenção para [outros projetos][3], mas uma hora eu retomo essa parte.
 
 **Créditos**
 

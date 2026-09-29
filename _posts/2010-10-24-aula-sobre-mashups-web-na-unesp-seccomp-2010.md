@@ -15,7 +15,7 @@ Este panorama foi complementado por um passeio através de diversas tecnologias 
 
 A prática foi feita em duas partes: um exercício usando o excelente [Yahoo! Pipes][11] para mesclar diferentes fontes de informação; e uma brincadeira simples, mas completa, na qual os alunos usaram a [Apontador API][12] para encontrar bares próximos à universidade e apresentá-los em uma página usando a [API do Google Maps][13].
 
-Foi uma experiência gratificante, na qual espero ter ajudado a mostrar para o pessoal que está chegando agora a importância da programação baseada no ecossistema Web 2.0, deixando um &#8220;hello world&#8221; sobre o qual eles possam criar coisas interessantes.
+Foi uma experiência gratificante, na qual espero ter ajudado a mostrar para o pessoal que está chegando agora a importância da programação baseada no ecossistema Web 2.0, deixando um "hello world" sobre o qual eles possam criar coisas interessantes.
 
  [1]: http://www.rc.unesp.br/igce/demac/computacao/
  [3]: http://eduardo.macan.eng.br/

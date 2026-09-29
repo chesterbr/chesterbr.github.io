@@ -10,14 +10,14 @@ redirect_from:
 categories:
   - retrocomputing
 ---
-É, a gente se empolga. A aventura do [TupperWare GS](/iigs/) me abriu o caminho das compras no eBay, e não resisti a um ZX Spectrum +2 inglês &#8211; a evolução do TK90x que usei nos anos 80, com chip de som, 128KB de RAM e gravador cassete embutido.
+É, a gente se empolga. A aventura do [TupperWare GS](/iigs/) me abriu o caminho das compras no eBay, e não resisti a um ZX Spectrum +2 inglês – a evolução do TK90x que usei nos anos 80, com chip de som, 128KB de RAM e gravador cassete embutido.
 
 <p style="text-align: center;">
   <img src="/img/micros/spectrumplus2/plus2.jpg" alt="ZX Spectrum +2" width="640" height="480" border="1" />
 </p>
 <!--more-->
 
-Nos anos 80, usei bastante o TK90x, clone do ZX Spectrum inglês. O Spectrum foi um sucesso estrondoso no seu país de origem, tendo novas versões lançadas até o final da era 8 bits. Optei pelo modelo &#8220;+2&#8243;, que contava com chip de som e 128KB de RAM &#8211; fora o gravador cassete embutido, que é meio perdedor por não ter contador de giros, mas absolutamente kitsch ! :-)
+Nos anos 80, usei bastante o TK90x, clone do ZX Spectrum inglês. O Spectrum foi um sucesso estrondoso no seu país de origem, tendo novas versões lançadas até o final da era 8 bits. Optei pelo modelo "+2&#8243;, que contava com chip de som e 128KB de RAM – fora o gravador cassete embutido, que é meio perdedor por não ter contador de giros, mas absolutamente kitsch ! :-)
 
 Fechei o leilão, aquela história toda, e três meses e meio depois, quando eu já tinha dado como perdido, chegou o pacotão. Ainda não liguei, mas já tirei algumas fotos:
 

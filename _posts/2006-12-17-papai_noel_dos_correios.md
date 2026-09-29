@@ -14,9 +14,9 @@ Quando vejo o povo atarantado entre compras e preparativos, só consigo pensar n
 
 Foi preciso que a [Professora][5] [Rita][6] mais uma vez (ela faz isso desde os anos 90) torcesse o meu nariz na direção do óbvio: a gente pode ser parte do problema ou da solução. E ela o fez apontando o [Programa Papai Noel dos Correios][7], que permite a qualquer pessoa colaborar objetivamente na redução do abismo entre as crianças que acreditam no Papai Noel e aquelas que são atendidas por ele.
 
-O projeto surgiu por conta das inúmeras cartas que são efetivamente postadas para o Papai Noel &#8211; que os funcionários do correio procuravam ao menos responder. A instituição [oficializou][8] e expandiu o procedimento, permitindo que o público em geral não apenas ajude a responder às cartas, mas também a realizar o sonho de natal de algumas destas crianças.
+O projeto surgiu por conta das inúmeras cartas que são efetivamente postadas para o Papai Noel – que os funcionários do correio procuravam ao menos responder. A instituição [oficializou][8] e expandiu o procedimento, permitindo que o público em geral não apenas ajude a responder às cartas, mas também a realizar o sonho de natal de algumas destas crianças.
 
-É totalmente sem burocracia: você chega no posto e pode ler as cartas à vontade (sempre com um funcionário dos correios de prontidão para orientar). Se você resolver &#8220;adotar&#8221; uma, só tem que deixar o nome e telefone e anotar os dados. Aí você compra/prepara o presente e leva pra eles de volta (devidamente embalado e [endereçado][9]). O envio para a criança é por conta dos correios.
+É totalmente sem burocracia: você chega no posto e pode ler as cartas à vontade (sempre com um funcionário dos correios de prontidão para orientar). Se você resolver "adotar" uma, só tem que deixar o nome e telefone e anotar os dados. Aí você compra/prepara o presente e leva pra eles de volta (devidamente embalado e [endereçado][9]). O envio para a criança é por conta dos correios.
 
 Fácil, rápido, gratificante e **muito** mais saudável que ficar reclamando que as pessoas esqueceram o verdadeiro sentido do Natal.
 

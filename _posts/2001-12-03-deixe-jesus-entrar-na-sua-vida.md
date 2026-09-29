@@ -6,4 +6,4 @@ comments: true
 permalink: /archives/2001/12/deixe-jesus-entrar-na-sua-vida.html/
 categories:
 ---
-Esta excelente [reportagem](http://ultimosegundo.ig.com.br/home/cadernoi/artigo/0,2945,726,00.html) sobre o &#8220;Guaraná Jesus&#8221; mostra que a família Sarney em breve deixará de ser a última coisa pitoresca que o Maranhão trouxe à nação&#8230;
+Esta excelente [reportagem](http://ultimosegundo.ig.com.br/home/cadernoi/artigo/0,2945,726,00.html) sobre o "Guaraná Jesus" mostra que a família Sarney em breve deixará de ser a última coisa pitoresca que o Maranhão trouxe à nação...

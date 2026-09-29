@@ -9,16 +9,16 @@ permalink: /archives/2009/01/pg_porn_porno_charlie_brown.html/
 categories:
   - mondo-bizarro
 ---
-Quando você tem no currículo coisas que vão desde filmes da [Troma][1] até produções mais *mainstream* como [Scooby Doo][2], o que resta pra fazer da vida? No caso de [James Gunn][3], a resposta foi o [PG Porn][4] &#8211; que se auto-define como um projeto para &#8220;pessoas que gostam de tudo na pornografia &#8211; menos o sexo&#8221;.
+Quando você tem no currículo coisas que vão desde filmes da [Troma][1] até produções mais *mainstream* como [Scooby Doo][2], o que resta pra fazer da vida? No caso de [James Gunn][3], a resposta foi o [PG Porn][4] – que se auto-define como um projeto para "pessoas que gostam de tudo na pornografia – menos o sexo".
 
-Com a ajuda dos irmãos, ele conseguiu juntar atores famosos de Hollywood com atrizes famosas da indústria pornô, e produzir alguns curtas bem inspirados &#8211; que começam com uma história típica de filme pornô, mas na hora do &#8220;vamos ver&#8221; rola algum tipo de twist tragi-cômico. Sempre num nível altamente família, como [sugere o nome][5] (tanto que estão [hospedados no YouTube][6]).
+Com a ajuda dos irmãos, ele conseguiu juntar atores famosos de Hollywood com atrizes famosas da indústria pornô, e produzir alguns curtas bem inspirados – que começam com uma história típica de filme pornô, mas na hora do "vamos ver" rola algum tipo de twist tragi-cômico. Sempre num nível altamente família, como [sugere o nome][5] (tanto que estão [hospedados no YouTube][6]).
 
-Por enquanto produziu alguns poucos, mas já se destacou por [Peanus &#8211; Episode 1][7], que junta [Michael Rosenbaum][8] (o Lex Luthor de Smallville) com [Belladonna][9] (que eu acho que deveria tentar mais papéis fora da indústria adulta, ela é hilária), interpretando Charlie Brown e Lucy Van Pelt:
+Por enquanto produziu alguns poucos, mas já se destacou por [Peanus – Episode 1][7], que junta [Michael Rosenbaum][8] (o Lex Luthor de Smallville) com [Belladonna][9] (que eu acho que deveria tentar mais papéis fora da indústria adulta, ela é hilária), interpretando Charlie Brown e Lucy Van Pelt:
 
 <div style="text-align: center;">
 </div>
 
-Estou de olho no que esses malucos vão produzir &#8211; por ora, dá pra saber mais via [Ambrosia][10] e [Wikipedia][11].
+Estou de olho no que esses malucos vão produzir – por ora, dá pra saber mais via [Ambrosia][10] e [Wikipedia][11].
 
  [1]: http://www.omelete.com.br/cine/1657.aspx
  [2]: http://www.imdb.com/title/tt0267913/

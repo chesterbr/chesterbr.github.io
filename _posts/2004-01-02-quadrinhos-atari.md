@@ -11,4 +11,4 @@ categories:
 
 Mas o melhor foi descobrir que o site disponibiliza todos os [quadrinhos](http://www.atariage.com/comics/index.html) que acompanhavam os cartuchos de lá (claro que os nossos cartuchos meia-boca não tinham esse tipo de luxo).
 
-É interessante ver as primeiras histórias do Esquadrão Atari (aparentemente mais antigas e infantis que aquelas publicadas pela Abril), bem como a explicação para o Yars&#8217; Revenge (ou, pelo menos, a explicação que os caras bolaram). Dá pra perder um tempo.
+É interessante ver as primeiras histórias do Esquadrão Atari (aparentemente mais antigas e infantis que aquelas publicadas pela Abril), bem como a explicação para o Yars' Revenge (ou, pelo menos, a explicação que os caras bolaram). Dá pra perder um tempo.

@@ -12,9 +12,9 @@ categories:
 
 São 35 cartas (confira o [índice por país][3]), magnificamente ilustradas por ninguém menos que [Bill Sienkiewicz][4] (velho conhecido dos quadrinhófilos por sua arte fortemente expressionista, baseada em pintura a óleo, colagem e outras técnicas criativas).
 
-Cada carta acompanha uma biografia do ditador, resumindo seus desmandos e sua relação com o suposto bastião da democracia mundial. O Brasil está &#8220;bem&#8221; representado pelo nada saudoso [Castello Branco][5] (que no jogo atendende pelo primeiro nome, Humberto).
+Cada carta acompanha uma biografia do ditador, resumindo seus desmandos e sua relação com o suposto bastião da democracia mundial. O Brasil está "bem" representado pelo nada saudoso [Castello Branco][5] (que no jogo atendende pelo primeiro nome, Humberto).
 
-Segundo Robert Weaver (autor do site), o conjunto foi publicado em 1990 pela Eclipse Enterprises, uma editora de quadrinhos e afins focada em &#8220;temas realistas&#8221;. Além de colocar online, ele dá dicas interessantes &#8211; como o link para as [cartas do escândalo Irã-Contras][6], da mesma editora.
+Segundo Robert Weaver (autor do site), o conjunto foi publicado em 1990 pela Eclipse Enterprises, uma editora de quadrinhos e afins focada em "temas realistas". Além de colocar online, ele dá dicas interessantes – como o link para as [cartas do escândalo Irã-Contras][6], da mesma editora.
 
 Dica do [Tavela][7].
 

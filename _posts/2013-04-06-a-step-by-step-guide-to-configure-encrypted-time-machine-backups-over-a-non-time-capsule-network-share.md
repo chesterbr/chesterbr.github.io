@@ -7,7 +7,7 @@ permalink: /archives/2013/04/a-step-by-step-guide-to-configure-encrypted-time-ma
 categories:
   - software
 ---
-[Time Machine][1] is a wonderful piece of software, in no small part for following Mac OS X&#8217;s philosophy of simplifying common tasks, but allowing advanced users to go &#8220;under the hood&#8221;. My issue: I wanted to back up to a hard disk shared by [this nice router][2], and I also wanted encryption.
+[Time Machine][1] is a wonderful piece of software, in no small part for following Mac OS X's philosophy of simplifying common tasks, but allowing advanced users to go "under the hood". My issue: I wanted to back up to a hard disk shared by [this nice router][2], and I also wanted encryption.
 
 <div id="attachment_7506" class="wp-caption aligncenter" style="width: 610px">
   <a href="http://www.imdb.com/title/tt0088763/"><img src="/wp-content/uploads/2013/04/time_machine.jpg" alt="The best Time Machines are designed in California." width="600" height="338" class="size-full wp-image-7506" /></a><p class="wp-caption-text">
@@ -15,9 +15,9 @@ categories:
   </p>
 </div>
 
-Unfortunately, Time Machine won&#8217;t do network backups except on [Apple Time Capsule][3], most likely due to its [reliance on Unix hard links][4], which typical [Windows (SMB/CIFS)][5]/[FAT device][6] based networks (like mine) won&#8217;t do. [Filesystem-based encryption][7] is also a no-no. And even if that worked, my other devices (such as my [XBMC-powered Raspberry Pi][8]) need open access to the files already shared.
+Unfortunately, Time Machine won't do network backups except on [Apple Time Capsule][3], most likely due to its [reliance on Unix hard links][4], which typical [Windows (SMB/CIFS)][5]/[FAT device][6] based networks (like mine) won't do. [Filesystem-based encryption][7] is also a no-no. And even if that worked, my other devices (such as my [XBMC-powered Raspberry Pi][8]) need open access to the files already shared.
 
-Mac OS X [sparse images][9] (aka sparse bundles) to the rescue. They are just like the `.dmg` files you get when downloading Mac software from a website, but supporting all the goodies mentioned above (encryption and hard links) and a bonus: they auto-grow (to a specified limit) as they need more space. Time Machine is capable to use one of those &#8211; as long as you can trick it into that, which can be tricky.
+Mac OS X [sparse images][9] (aka sparse bundles) to the rescue. They are just like the `.dmg` files you get when downloading Mac software from a website, but supporting all the goodies mentioned above (encryption and hard links) and a bonus: they auto-grow (to a specified limit) as they need more space. Time Machine is capable to use one of those – as long as you can trick it into that, which can be tricky.
 
 I found some great articles online on how to [create an sparse image][10], [encrypt it][11] and [convince Time Machine to use it][12], and here is a step-by-step mix of their tips that worked for me:
 
@@ -45,30 +45,30 @@ hdiutil convert <span style="color: #660033;">-format</span> UDSB <span style="c
 <span style="color: #c20cb9; font-weight: bold;">rm</span> <span style="color: #660033;">-Rf</span> <span style="color: #ff0000;">"unencrypted_<span style="color: #007800;">$IMG_NAME</span>"</span></pre>
 </div>
 
-You will be asked for a password (I&#8217;d [recommend a passphrase][14], but it&#8217;s up to you), and the sparse image file will be on your home folder.
+You will be asked for a password (I'd [recommend a passphrase][14], but it's up to you), and the sparse image file will be on your home folder.
 
 **Do not** double click/open it yet.
 
 ### Step 3: Asking Time Machine to play nice
 
-Open Finder and **move** the image from your home directory to the network share (or copy and **delete** the original). Now double-click to mount it, enter the password and the &#8220;Backup of *YourComputerName*&#8221; should appear on finder. [Hooray][15] &#8211; except that Time Machine won&#8217;t allow you to select it.
+Open Finder and **move** the image from your home directory to the network share (or copy and **delete** the original). Now double-click to mount it, enter the password and the "Backup of *YourComputerName*" should appear on finder. [Hooray][15] – except that Time Machine won't allow you to select it.
 
-We&#8217;ll need to force its hand with this last block of commands (yet on that **same** Terminal window):
+We'll need to force its hand with this last block of commands (yet on that **same** Terminal window):
 
 <div class="code">
         <pre class="bash" style="font-family:monospace;">defaults <span style="color: #c20cb9; font-weight: bold;">write</span> com.apple.systempreferences TMShowUnsupportedNetworkVolumes <span style="color: #000000;">1</span>
 <span style="color: #c20cb9; font-weight: bold;">sudo</span> tmutil setdestination <span style="color: #ff0000;">"/Volumes/Backup of <span style="color: #007800;">$SHARE_NAME</span>"</span></pre>
 </div>
 
-Enter your Mac user&#8217;s password when prompted, and when you open Time Machine preferences, you&#8217;ll see &#8220;Backup of *your\_computer\_name*&#8221; configured as the backup volume. As long as it is mounted, it should work with Time Machine just like an USB HD.
+Enter your Mac user's password when prompted, and when you open Time Machine preferences, you'll see "Backup of *your\_computer\_name*" configured as the backup volume. As long as it is mounted, it should work with Time Machine just like an USB HD.
 
 ### Caveat
 
-As with standard Time Machine backups, these can be accessed by any Mac, as long as you have the volume password. I&#8217;m not sure, however, whether they can be used for a full restore on a new machine (probably yes if you do the first and third steps, but did not test that far).
+As with standard Time Machine backups, these can be accessed by any Mac, as long as you have the volume password. I'm not sure, however, whether they can be used for a full restore on a new machine (probably yes if you do the first and third steps, but did not test that far).
 
-Personally, I&#8217;m not much of a fan of doing full restore on a different machine/OS version. Although I&#8217;ve seen it work, I&#8217;d rather start from scratch, copying files from the latest backup of the old computer on a need-to basis. If you think otherwise, this solution may not be the best for you.
+Personally, I'm not much of a fan of doing full restore on a different machine/OS version. Although I've seen it work, I'd rather start from scratch, copying files from the latest backup of the old computer on a need-to basis. If you think otherwise, this solution may not be the best for you.
 
-**UPDATE:** This was tested in Mac OS X versions 10.7.5 and 10.8.3. Older versions might work as long as they support encrypted bundles, but I&#8217;m not really sure. Let me know on comments below if it does not work for you (and what happened).
+**UPDATE:** This was tested in Mac OS X versions 10.7.5 and 10.8.3. Older versions might work as long as they support encrypted bundles, but I'm not really sure. Let me know on comments below if it does not work for you (and what happened).
 
  [1]: http://support.apple.com/kb/ht1427
  [2]: http://reviews.cnet.com/routers/netgear-wndr3700-rangemax-dual/4505-3319_7-33485574.html

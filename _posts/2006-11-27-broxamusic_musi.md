@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2006/11/broxamusic_musi.html/
 categories:
 ---
-<img title="BroxaMusic - impagável" src="/archives/img/broxaMusic-novos-classicos01.jpg" width="150" height="150" align="right" border="1" />Nunca assinou um Podcast? Sugestão, comece com [BroxaMusic][1] ([feed][2]) &#8211; uma seleção do que há de pior na música, sem fronteiras temporais.
+<img title="BroxaMusic - impagável" src="/archives/img/broxaMusic-novos-classicos01.jpg" width="150" height="150" align="right" border="1" />Nunca assinou um Podcast? Sugestão, comece com [BroxaMusic][1] ([feed][2]) – uma seleção do que há de pior na música, sem fronteiras temporais.
 
 Quer uma amostra? Baixe o <a class="dead-link" title="este link morreu" href="http://www.broxamusic.com.br/podpress_trac/web/14/0/broxaMusic-novos-classicos01.mp3">episódio 1 da série Novos Clássicos</a><span class="dead-link-mark">†</span> (mp3) e role de rir.
 

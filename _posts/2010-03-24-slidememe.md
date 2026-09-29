@@ -10,13 +10,13 @@ categories:
 <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/guilhermechapiewski/4454847693/"><img src="//farm5.static.flickr.com/4063/4454847693_9c02af3d47_m.jpg" width="240" height="159" alt="Bani and ChesterBR @ Yahoo! Open Hack Day Brasil 2010" style="float:left; margin-right:6px; margin-bottom:4px; border:1px solid black;" /></a><span class="dead-link-mark">†</span>O [SlideMeme][2] foi hack que eu e a [Bani][3] apresentamos no [Yahoo! Open Hack Day Brasil 2010][4]. O objetivo dele é oferecer uma forma visualmente agradável e conveniente para postar apresentações do [SlideShare][5] no [Yahoo! Meme][6], e claro que ficamos **muito** contentes por ele ter sido premiado como [melhor hack na categoria Meme][7]!
 <!--more-->
 
-**UPDATE**:Um dos grandes problemas que o hack teve foi o fato de ser baseado num componente ActiveX, o que exigia um servidor Windows &#8211; para o qual nós não tínhamos recursos (ou vontade) para manter no ar. Em Jun/2010 eu reescrevi a parte da conversão usando swftools e dei uma condensada na coisa toda, centralizando o back-end em [um único script][8]. O post foi mantido, pois os detalhes de funcionamento ainda valem, mas a [última versão de tudo][9] está no github para quem quiser.
+**UPDATE**:Um dos grandes problemas que o hack teve foi o fato de ser baseado num componente ActiveX, o que exigia um servidor Windows – para o qual nós não tínhamos recursos (ou vontade) para manter no ar. Em Jun/2010 eu reescrevi a parte da conversão usando swftools e dei uma condensada na coisa toda, centralizando o back-end em [um único script][8]. O post foi mantido, pois os detalhes de funcionamento ainda valem, mas a [última versão de tudo][9] está no github para quem quiser.
 
-<del datetime="2010-06-04T16:38:55+00:00">Mas eu falo do evento em outro post &#8211; esse aqui é para documentar o processo e publicar o código do hack (<del datetime="2010-04-22T17:12:39+00:00">até o final vai ficar claro que ele é curto e grosso demais para merecer um github/sourceforge, e que o maior valor está em detalhar o que foi feito e como</del>). **UPDATE**: com o fim do experimento, [o código fonte está disponível no github](http://github.com/chesterbr/SlideMeme), incluindo os arquivos do site.</del>
+<del datetime="2010-06-04T16:38:55+00:00">Mas eu falo do evento em outro post – esse aqui é para documentar o processo e publicar o código do hack (<del datetime="2010-04-22T17:12:39+00:00">até o final vai ficar claro que ele é curto e grosso demais para merecer um github/sourceforge, e que o maior valor está em detalhar o que foi feito e como</del>). **UPDATE**: com o fim do experimento, [o código fonte está disponível no github](http://github.com/chesterbr/SlideMeme), incluindo os arquivos do site.</del>
 
-Para saber mais, veja a [apresentação no SlideShare][10], assista à [Bani explicando e demonstrando a coisa toda em dois minutos][11] cravados no relógio &#8211; uma proeza digna de nota), e, claro, continue lendo este post.
+Para saber mais, veja a [apresentação no SlideShare][10], assista à [Bani explicando e demonstrando a coisa toda em dois minutos][11] cravados no relógio – uma proeza digna de nota), e, claro, continue lendo este post.
 
-Tivemos a idéia olhando para os [Memes mais populares][12]: ali predominam as fotos e ilustrações &#8220;fofinhas&#8221; no mesmo estilo daquelas que recebemos por email das tias e mães, invariavelmente no formato do Microsoft PowerPoint (.ppt). Como o SlideShare é o site-referência para a publicação de apresentações neste e em outros formatos (à semelhança do que o YouTube se tornou para arquivos de vídeo), foi natural evoluir o conceito nessa direção.
+Tivemos a idéia olhando para os [Memes mais populares][12]: ali predominam as fotos e ilustrações "fofinhas" no mesmo estilo daquelas que recebemos por email das tias e mães, invariavelmente no formato do Microsoft PowerPoint (.ppt). Como o SlideShare é o site-referência para a publicação de apresentações neste e em outros formatos (à semelhança do que o YouTube se tornou para arquivos de vídeo), foi natural evoluir o conceito nessa direção.
 
 Claro que as pessoas podem simplesmente copiar e colar o endereço do SlideShare num post, mas o Meme funciona melhor com mídias visuais (a maior prova disso é a quase ausência de MP3). Na nossa cabeça, o leitor teria que ver algo que o estimulasse a clicar, à semelhança do que ocorre com vídeos e fotos maiores. Além disso, podíamos usar a idéia de [bookmarklet][13] (que deu certo no [MemeThis][14]) para simplificar o processo de copiar e colar.
 
@@ -24,7 +24,7 @@ Após tentativas infrutíferas de embutir o player do SlideShare em um post de t
 
 O próximo passo seria analisar o formato das apresentações do SlideShare. Além de uma [tabela YQL][15], o serviço possui uma [API][16] que revela algumas informações sobre as apresentações, mas não permite recuperar slides individuais. Pensamos em colocar um sniffer/proxy no meio do caminho e ver como o player recupera cada slide, mas Hasin Hayder [teve a idéia primeiro][17] e já deixou um script PHP prontinho, que gerava a URL de cada slide.
 
-Nossa surpresa foi perceber que os slides **não** são arquivos de imagem: cada um deles é um arquivinho Flash (.swf), que o player do SlideShare embute. Converter isso para um GIF é bem mais complicado do que pode parecer. A maior parte das soluções para isso [depende de um browser][18] e/ou [exige uma sessão X rodando][19] &#8211; o que tornaria difícil escalar (e até mesmo hospedar de forma barata).
+Nossa surpresa foi perceber que os slides **não** são arquivos de imagem: cada um deles é um arquivinho Flash (.swf), que o player do SlideShare embute. Converter isso para um GIF é bem mais complicado do que pode parecer. A maior parte das soluções para isso [depende de um browser][18] e/ou [exige uma sessão X rodando][19] – o que tornaria difícil escalar (e até mesmo hospedar de forma barata).
 
 Achamos um software que conversava direto com o Flash para fazer isso, o [SWF To Image ActiveX Freeware Library][20], cujo nome já ilustra as duas coisas que não nos agradam nele: não é open source e exige um servidor Windows. Entretanto, ele funciona muito bem, e entre os amigos e a [cloud][21], não é impossível arrumar um servidor pra fazer o hack funcionar, então mandamos ver. Com um ASP minimalista disponibilizamos sua funcionalidade num serviço web, que recebe a URL de um .swf e devolve o primeiro (único no nosso caso) slide em .gif:
 
@@ -47,7 +47,7 @@ Achamos um software que conversava direto com o Flash para fazer isso, o [SWF To
     <span style="color: #990099; font-weight: bold;">Set</span> SWFToImage <span style="color: #006600; font-weight: bold;">=</span> <span style="color: #0000ff; font-weight: bold;">Nothing</span></pre>
 </div>
 
-Fazendo dessa forma, essa parte fica isolada para o dia em que conseguirmos outra solução (o [Gnash][22] é bastante promissor &#8211; a versão dev já tem a opção de screenshot). Com isso, restou a tarefa de juntar os slides usando o [ImageMagick][23] &#8211; optamos por fazer isso no mesmo PHP que identifica a URL de cada um deles e chama o serviço acima para converetr um a um (e manter esse PHP no mesmo host, para otimizar):
+Fazendo dessa forma, essa parte fica isolada para o dia em que conseguirmos outra solução (o [Gnash][22] é bastante promissor – a versão dev já tem a opção de screenshot). Com isso, restou a tarefa de juntar os slides usando o [ImageMagick][23] – optamos por fazer isso no mesmo PHP que identifica a URL de cada um deles e chama o serviço acima para converetr um a um (e manter esse PHP no mesmo host, para otimizar):
 
 <div class="code">
         <pre class="php" style="font-family:monospace;">    <span style="color: #000088;">$CONVERT</span> <span style="color: #339933;">=</span> <span style="color: #0000ff;">"
@@ -94,7 +94,7 @@ Fazendo dessa forma, essa parte fica isolada para o dia em que conseguirmos outr
     <span style="color: #b1b100;">echo</span> <span style="color: #000088;">$_REQUEST</span><span style="color: #009900;">&#91;</span><span style="color: #0000ff;">"callback"</span><span style="color: #009900;">&#93;</span><span style="color: #339933;">.</span><span style="color: #0000ff;">'({"gif":"'</span><span style="color: #339933;">.</span><span style="color: #000088;">$URL_PREFIX</span><span style="color: #339933;">.</span><span style="color: #000088;">$tempprefix</span><span style="color: #339933;">.</span><span style="color: #0000ff;">'.gif","title":"'</span><span style="color: #339933;">.</span><span style="color: #000088;">$title</span><span style="color: #339933;">.</span><span style="color: #0000ff;">'","url":"'</span><span style="color: #339933;">.</span><span style="color: #000088;">$slideshowUrl</span><span style="color: #339933;">.</span><span style="color: #0000ff;">'"})'</span><span style="color: #339933;">;</span></pre>
 </div>
 
-Dessa vez (e ao contrário de como fizemos o MemeThis) não usamos [oAuth][24] ou [YQL][25] para postar &#8211; queríamos algo mais dinâmico, e a [API semi-oficial de pré-preenchimento de formulários do Meme][26] veio a calhar. A bookmarklet simplesmente injeta na página o código abaixo, que:
+Dessa vez (e ao contrário de como fizemos o MemeThis) não usamos [oAuth][24] ou [YQL][25] para postar – queríamos algo mais dinâmico, e a [API semi-oficial de pré-preenchimento de formulários do Meme][26] veio a calhar. A bookmarklet simplesmente injeta na página o código abaixo, que:
 
 *   Escurece a tela;
 *   Aciona o PHP (note que ele retorna [JSON][27][[P][28]], justamente pra isso);
@@ -142,13 +142,13 @@ Dessa vez (e ao contrário de como fizemos o MemeThis) não usamos [oAuth][24] o
     slideMeme<span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span></pre>
 </div>
 
-Sim, o código acima pode e deve ser **bem** melhorado. Por exmeplo, o [PHP 5 suporta objetos COM][30] de forma muito natural, dispensando o ASP só para isso. E também poderíamos ter experimentado as [bibliotecas do ImageMagick para PHP][31] (ao invés de chamar o [convert][32] &#8220;na veia&#8221;).
+Sim, o código acima pode e deve ser **bem** melhorado. Por exmeplo, o [PHP 5 suporta objetos COM][30] de forma muito natural, dispensando o ASP só para isso. E também poderíamos ter experimentado as [bibliotecas do ImageMagick para PHP][31] (ao invés de chamar o [convert][32] "na veia").
 
-Acima de tudo, todos os fontes deveriam ter um tratamento de erros e edge cases mais apropriado, e provavelmente menos redundância &#8211; mas nada disso cabe na realidade de um hack de 24h (que nós começamos um ou dois dias antes &#8211; [dentro das regras][33] &#8211; mas na soma final levou mais ou menos esse tempo mesmo).
+Acima de tudo, todos os fontes deveriam ter um tratamento de erros e edge cases mais apropriado, e provavelmente menos redundância – mas nada disso cabe na realidade de um hack de 24h (que nós começamos um ou dois dias antes – [dentro das regras][33] – mas na soma final levou mais ou menos esse tempo mesmo).
 
 Ah, teve um sub-hack extra: depois da correria (mas ainda no evento) eu olhei com mais carinho o PHP, percebendo que o processo de separar os slides era baixar um arquivo, aplicar uma expressão regular nele e iterar. Aí resolvi criar uma [tabela YQL][34] que faz isso. Ainda precisa ser melhorada (ex.: colocando os slides em itens-raiz para facilitar cruzamentos) mas já dá pra [brincar com ela no YQL Console][35].
 
-Ufa, foi um fim-de-semana movimentado&#8230; :-)
+Ufa, foi um fim-de-semana movimentado... :-)
 
 **UPDATE**: O [Gleicon Moraes][36] me passou a dica de que o [swfrender][37] (componente do swftools) consegue fazer a conversão. Eu cheguei a considerar ele na época, mas a [documentação][37] dá a entender que ele só funcionaria com arquivos previamente criados pelo swftools (o que pode ou não ser o caso dos slides do SlideShare). O fato é: funcionou em um ou dois testes preliminares, e pode ser a chave para migrar o hack para usar ferramentas livres e hospedagem mais acessível. Assim que eu tiver tempo vou olhar isso com carinho.
 

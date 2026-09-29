@@ -11,4 +11,4 @@ categories:
 
 <img src="/img/blig/snoopyamo.jpg"  alt="" align="left" border="1">Os elogios são em grande parte um contraponto ao fiasco [Snoopy, eu te amo](http://www.omelete.com.br/quadrinhos/artigos/base\_para\_artigos.asp?artigo=2010). Apesar do tema atrativo, a predileção por tiras muito antigas (que, com todo o sacrilégio que envolve falar mal do Schulz, eram bem amadoras e pouco lembram o Peanuts que conhecemos e amamos) e a limitação do tema acabam tornando o livro repetitivo e chato.
 
-Fuja desse e fique com o primeiro. Não se deixe levar pelo marketing de &#8220;presente ideal para a pessoa amada&#8221; &#8211; eu mesmo comprei com essa intenção, mas o livro é tão ruim que eu resolvi provar o meu amor guardando ele pra mim&#8230;
+Fuja desse e fique com o primeiro. Não se deixe levar pelo marketing de "presente ideal para a pessoa amada" – eu mesmo comprei com essa intenção, mas o livro é tão ruim que eu resolvi provar o meu amor guardando ele pra mim...

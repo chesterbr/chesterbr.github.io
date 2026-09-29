@@ -12,6 +12,6 @@ Eleito (e re-eleito) por voto direto e unânime dos representantes de mais de 14
 
 O motivo real: Bustani está conduzindo as negociações para a retomada das inspeções no Iraque. Isto prejudica os esforços da máquina de propaganda americana de pintar uma imagem de intransigência no país e justificar uma invasão. É bom lembrar que uma ação militar no Iraque não resolveria nenhum problema, seja do Oriente Médio ou do Ocidente, e só servindo para justificar a atitude belicosa administração Bush, já vista por muitos como um dos fatores que causaram o atentado de 11 de Setembro.
 
-Felizmente o Itamaraty parece estar reagindo a favor do embaixador. Resta saber se os países que integram a organização irão ter o bom-senso de refrear os ânimos do *cowboy* republicano quando o assunto for a voto (as perspectivas são animadoras, mas na hora &#8220;H&#8221; nunca se sabe).
+Felizmente o Itamaraty parece estar reagindo a favor do embaixador. Resta saber se os países que integram a organização irão ter o bom-senso de refrear os ânimos do *cowboy* republicano quando o assunto for a voto (as perspectivas são animadoras, mas na hora "H" nunca se sabe).
 
-O chato mesmo é pensar que até Romário teve mais apoio brasileiro lá fora (tanto do povo quanto do presidente) do que Bustani, mesmo considerando que o baixinho incentiva muito mais a discórdia do que a paz&#8230;
+O chato mesmo é pensar que até Romário teve mais apoio brasileiro lá fora (tanto do povo quanto do presidente) do que Bustani, mesmo considerando que o baixinho incentiva muito mais a discórdia do que a paz...

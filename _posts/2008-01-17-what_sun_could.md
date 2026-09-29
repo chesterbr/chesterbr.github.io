@@ -8,14 +8,14 @@ comments: true
 permalink: /archives/2008/01/what_sun_could.html/
 categories:
 ---
-<img title="author unknown, but fits the article" src="/archives/img/itsatrap.jpg" width="180" height="135" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Heck, just when Java was getting free from the mammoth&#8217;s weight, MySQL [gets caught][1].
+<img title="author unknown, but fits the article" src="/archives/img/itsatrap.jpg" width="180" height="135" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Heck, just when Java was getting free from the mammoth's weight, MySQL [gets caught][1].
 
-I keep wondering how Sun will apply their &#8220;expertise&#8221; in MySQL. Ideas:
+I keep wondering how Sun will apply their "expertise" in MySQL. Ideas:
 
-*   Launching new versions with [meaningless name changes][2] to imply the idea of evolution (after all, it is &#8220;obvious&#8221; that Java = Java 1.0 or 1.1, Java2 = Java 1.2, 1.3 or 1.4 and Java5 = Java 1.5);
+*   Launching new versions with [meaningless name changes][2] to imply the idea of evolution (after all, it is "obvious" that Java = Java 1.0 or 1.1, Java2 = Java 1.2, 1.3 or 1.4 and Java5 = Java 1.5);
 *   Sell the software bundled with hardware that almost nobody wants, then open source it when almost nobody cares (like Solaris);
 *   Open source it under a license that simply does not allow it to be included in places other than inside other Sun products (as [they did][3] with ZFS);
-*   My favorite: start a &#8220;smart&#8221; marketing campaign saying that MySQL is the &#8220;[dot in the dot-org][4]&#8221; (if you follow the link, scroll down like there was no tomorrow, they trademark huge loads of crap).
+*   My favorite: start a "smart" marketing campaign saying that MySQL is the "[dot in the dot-org][4]" (if you follow the link, scroll down like there was no tomorrow, they trademark huge loads of crap).
 
 Shiny future. The only positive thing I can say about that is that we have PostgreSQL, as a last resort.
 

@@ -6,7 +6,7 @@ comments: true
 permalink: /archives/2012/01/lose-it-perca-peso-controlando-o-que-voce-come.html/
 categories:
 ---
-<span style="text-decoration: underline;">**UPDATE:**</span>* O Lose It! me ajudou a perder quase dez quilos, mas foi preciso diligência no cadastro da comida e do peso. Infelizmente o aplicativo é focado demais nos EUA e no controle de calorias (em detrimento de outras informações nutricionais). Resolvi experimentar o [MyFitnessPal][1] e estou gostando &#8211; a principal vantagem é que o cadastro é &#8220;crowdsourced&#8221;, isto é, os alimentos que um usuário cadastra ficam disponível para todos. O resultado: **muita** comida do Brasil. Foi como migrar da Barsa para a Wikipedia&#8230;*
+<span style="text-decoration: underline;">**UPDATE:**</span>* O Lose It! me ajudou a perder quase dez quilos, mas foi preciso diligência no cadastro da comida e do peso. Infelizmente o aplicativo é focado demais nos EUA e no controle de calorias (em detrimento de outras informações nutricionais). Resolvi experimentar o [MyFitnessPal][1] e estou gostando – a principal vantagem é que o cadastro é "crowdsourced", isto é, os alimentos que um usuário cadastra ficam disponível para todos. O resultado: **muita** comida do Brasil. Foi como migrar da Barsa para a Wikipedia...*
 
 * * *
 
@@ -22,13 +22,13 @@ Novamente eu precisava de uma medida numérica, e para comida, estamos falando d
 
 Eu achava que seria impossível cadastrar tudo o que eu como (mesmo restringindo a comidas que, de fato, tenham calorias), mas uma vez que as comidas mais comuns já estejam lá, a busca dinâmica permite acrescentar refeições completas em poucos segundos. O sistema divide o dia em quatro blocos (café da manhã, almoço, jantar e lanches), facilitando a visualização.
 
-Acabei abandonando a planilha e usando ele também para registrar o peso. Isso permite determinar objetivos e estabelecer um &#8220;orçamento&#8221; de calorias diárias. O site vai acompanhando a perda de peso, e estima a data em que você vai chegar ao objetivo. E à medida em que você vai alimentando o sistema, mais e mais gráficos e relatórios interessantes aparecem. Para arrematar, é possível cadastrar exercícios, considerando o impacto deles sobre a evolução do peso.
+Acabei abandonando a planilha e usando ele também para registrar o peso. Isso permite determinar objetivos e estabelecer um "orçamento" de calorias diárias. O site vai acompanhando a perda de peso, e estima a data em que você vai chegar ao objetivo. E à medida em que você vai alimentando o sistema, mais e mais gráficos e relatórios interessantes aparecem. Para arrematar, é possível cadastrar exercícios, considerando o impacto deles sobre a evolução do peso.
 
-[<img class="alignright size-full wp-image-6759" title="O forte do Lose It! é o feedback" src="/wp-content/uploads/2012/01/loseit_site.png" alt="O forte do Lose It! é o feedback" width="200" height="397" />][7]Um ponto negativo é ele não suportar o sistema métrico. Mas isso é um problema menor, já que quase sempre a gente lança o consumo em copos, xícaras, doses e outras medidas desse tipo. O mais chato é entrar o peso, mas aí o Google Calculator resolve: uma busca como &#8220;80 kg to lbs&#8221; dá o valor correto na hora, aí é só copiar e colar.
+[<img class="alignright size-full wp-image-6759" title="O forte do Lose It! é o feedback" src="/wp-content/uploads/2012/01/loseit_site.png" alt="O forte do Lose It! é o feedback" width="200" height="397" />][7]Um ponto negativo é ele não suportar o sistema métrico. Mas isso é um problema menor, já que quase sempre a gente lança o consumo em copos, xícaras, doses e outras medidas desse tipo. O mais chato é entrar o peso, mas aí o Google Calculator resolve: uma busca como "80 kg to lbs" dá o valor correto na hora, aí é só copiar e colar.
 
-Algumas pessoas também podem ter dificuldade com os alimentos em inglês &#8211; mas o cadastro é tão rápido (basta obter a quantidade de calorias na embalagem ou no Google) que dá pra se virar cadastrando por conta. O que mais me chateou, no entanto, é que o [aplicativo Android][8] não pode ser baixado no Market do Brasil.
+Algumas pessoas também podem ter dificuldade com os alimentos em inglês – mas o cadastro é tão rápido (basta obter a quantidade de calorias na embalagem ou no Google) que dá pra se virar cadastrando por conta. O que mais me chateou, no entanto, é que o [aplicativo Android][8] não pode ser baixado no Market do Brasil.
 
-Críticas à parte, é um sistema **gratuito** que me atendeu muito bem. Estou realmente confiante em conseguir resultados &#8211; se isso vai acontecer mesmo, só o tempo e a balança dirão. Quem quiser conferir pode se cadastrar e acompanhar o [meu perfil][9]. Afinal, a minha vida é sempre um livro aberto &#8211; mesmo que eventualmente se trate de um livro de culinária&#8230;
+Críticas à parte, é um sistema **gratuito** que me atendeu muito bem. Estou realmente confiante em conseguir resultados – se isso vai acontecer mesmo, só o tempo e a balança dirão. Quem quiser conferir pode se cadastrar e acompanhar o [meu perfil][9]. Afinal, a minha vida é sempre um livro aberto – mesmo que eventualmente se trate de um livro de culinária...
 
  [1]: http://www.myfitnesspal.com/
  [2]: /wp-content/uploads/2012/01/loseit.png

@@ -6,7 +6,7 @@ comments: true
 permalink: /archives/2009/11/pastor-silas-e-a-igreja-internacional.html/
 categories:
 ---
-Achei que todo mundo conhecia a palavra do Pastor Silas, mas soltei numa lista esses dias e causou furor, então é bom divulgar. Este homem iluminado é o líder da [Igreja Internacional][1], uma organização destinada a livrar o mundo das drogas (coisas como &#8220;video gueimes&#8221;, &#8220;naruto&#8221;, &#8220;aides&#8221; e &#8220;pomba-gira&#8221;), e que aceita dinheiro, cheque e cartão de crédito, sem preconceitos.
+Achei que todo mundo conhecia a palavra do Pastor Silas, mas soltei numa lista esses dias e causou furor, então é bom divulgar. Este homem iluminado é o líder da [Igreja Internacional][1], uma organização destinada a livrar o mundo das drogas (coisas como "video gueimes", "naruto", "aides" e "pomba-gira"), e que aceita dinheiro, cheque e cartão de crédito, sem preconceitos.
 
 No site você acompanha os educativos [ensinamentos][2] e [testemunhos][3] de todos aqueles que encontraram a salvação na palavra. Seu conhecimento sobre temas como o budismo e a cultura oriental impressionam.
 

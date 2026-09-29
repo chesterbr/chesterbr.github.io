@@ -12,7 +12,7 @@ A [Ila Fox][4] publica todo dia uma ilustração nova no [blog dela][5], e eu se
 
 [<img class="aligncenter" title="O Chesterzinho é uma ilustração da Ila Fox " src="/img/chester_ila_500.jpg" alt="O Chesterzinho é uma ilustração da Ila Fox" width="400" height="400" />][7]
 
-Curtiu? Vai lá na [lojinha da Ila][8] e encomende a sua também. Ela é muito atenciosa, eficiente e, acima de tudo, profissional &#8211; nem ligou de desenhar o Apple II, mesmo sendo [MSXzeira][9] de raiz :-) (essa antítese é meio que o Corinthians x Palmeiras da era [8 bits][10]&#8230;)
+Curtiu? Vai lá na [lojinha da Ila][8] e encomende a sua também. Ela é muito atenciosa, eficiente e, acima de tudo, profissional – nem ligou de desenhar o Apple II, mesmo sendo [MSXzeira][9] de raiz :-) (essa antítese é meio que o Corinthians x Palmeiras da era [8 bits][10]...)
 
  [1]: /img/chester_serginho.jpg
  [2]: http://smusica.blogspot.com/2005/11/entrevista-srgio-filho-do-gram-parte-1.html

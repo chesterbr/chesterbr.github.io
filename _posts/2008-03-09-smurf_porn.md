@@ -9,7 +9,7 @@ permalink: /archives/2008/03/smurf_porn.html/
 categories:
   - mondo-bizarro
 ---
-<img title="lá lá lálálálá-lá lá lálá-láááá..." src="/archives/img/smurf.jpg" width="149" height="199" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Quando eu estiver fazendo algo muito, muito deturpado, pensarei: &#8220;pelo menos não juntei uma galera pra se pintar de azul, vestir roupinhas brancas e encenar um [curta pornô dos Smurfs][1]&#8221; (**ATENÇÃO: LINK IMPRÓPRIO PARA MENORES/ESCRITÓRIO**).
+<img title="lá lá lálálálá-lá lá lálá-láááá..." src="/archives/img/smurf.jpg" width="149" height="199" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Quando eu estiver fazendo algo muito, muito deturpado, pensarei: "pelo menos não juntei uma galera pra se pintar de azul, vestir roupinhas brancas e encenar um [curta pornô dos Smurfs][1]" (**ATENÇÃO: LINK IMPRÓPRIO PARA MENORES/ESCRITÓRIO**).
 
 Não dá pra não comentar. Destaques:
 
@@ -19,9 +19,9 @@ Não dá pra não comentar. Destaques:
 
 *   Momento musical (03m00s);
 
-*   Gargamel finalmente realizando seu sonho de &#8220;comer&#8221; um smurf.
+*   Gargamel finalmente realizando seu sonho de "comer" um smurf.
 
-Ah, pra quem está achando que eu estou apelando muito ultimamente: não tenho culpa, muita bizarrice tá batendo no meu inbox. De qualquer forma, eu sou má influência mesmo (fico jogando [Bible Fight][3] o dia inteiro) &#8211; pra conhecer gente do bem e rir no paraíso quando eu estiver queimando, sugiro lugares como esse [orkut para meninos e meninas bonzinhos][4], olha que show.
+Ah, pra quem está achando que eu estou apelando muito ultimamente: não tenho culpa, muita bizarrice tá batendo no meu inbox. De qualquer forma, eu sou má influência mesmo (fico jogando [Bible Fight][3] o dia inteiro) – pra conhecer gente do bem e rir no paraíso quando eu estiver queimando, sugiro lugares como esse [orkut para meninos e meninas bonzinhos][4], olha que show.
 
  [1]: http://www.redtube.com/8399
  [2]: /archives/2008/02/pornografia_com.html

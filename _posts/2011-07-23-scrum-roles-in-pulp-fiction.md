@@ -12,7 +12,7 @@ categories:
   <img class="aligncenter size-full wp-image-6150" style="border: 1px solid black;" title="Marcelus Wallace, the Product Owner" src="/wp-content/uploads/2011/07/marcelus_wallace.jpg" alt="" width="600" height="255" />
 </p>
 
-He ensures that the Team delivers value to the business, always considering the stakeholders&#8217; needs. Sometimes he gets screwed by people outside the project, but a good P.O. makes his name and can even turn enemies and traitors into allies.
+He ensures that the Team delivers value to the business, always considering the stakeholders' needs. Sometimes he gets screwed by people outside the project, but a good P.O. makes his name and can even turn enemies and traitors into allies.
 
 ### The Team
 

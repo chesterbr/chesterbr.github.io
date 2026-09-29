@@ -17,13 +17,13 @@ Uma das razões para a sua popularidade é a facilidade de aplicação: o avalia
 *   **Ponto Cego** (traços que o avaliado desconhece, mas seus pares identificam);
 *   **Desconhecido** (adjetivos não utilizados).
 
-Para incentivar a sinceridade (afinal, os pares são tipicamente amigos/colegas/familiares), todos os adjetivos são positivos, evitando que alguém &#8220;pegue leve&#8221; para não magoar o avaliado.
+Para incentivar a sinceridade (afinal, os pares são tipicamente amigos/colegas/familiares), todos os adjetivos são positivos, evitando que alguém "pegue leve" para não magoar o avaliado.
 
 O mais legal é que o [Interactive Johari Window][3] permite fazer essa avaliação online, sem muita burocracia: você escolhe as palavras e um username e recebe o link para divulgar para quem vai te avaliar. É muito prático e dá uma medida razoável (ainda que superficial) de como a pessoa é vista por sua rede de relacionamentos.
 
 <span style="text-decoration: underline;">Se você me conhece</span>, e pode gastar 15 segundos me avaliando, eu agradeço. Basta clicar [aqui][4].
 
-Ah, se estiver preparado para ouvir coisas ruins, o autor também disponibiliza o [Interactive Nohari Window][5], que é a mesma coisa, só que com adjetivos negativos no lugar dos positivos. Claro que eu também fiz [a minha][6] &#8211; não furtaria aos meus amigos e inimigos a chance de descer o porrete, e periga eu aprender mais com essa do que na versão &#8220;do bem&#8221;.
+Ah, se estiver preparado para ouvir coisas ruins, o autor também disponibiliza o [Interactive Nohari Window][5], que é a mesma coisa, só que com adjetivos negativos no lugar dos positivos. Claro que eu também fiz [a minha][6] – não furtaria aos meus amigos e inimigos a chance de descer o porrete, e periga eu aprender mais com essa do que na versão "do bem".
 
  [1]: http://en.wikipedia.org/wiki/Johari_window
  [2]: http://pt.wikipedia.org/wiki/Myers_Briggs_Type_Indicator

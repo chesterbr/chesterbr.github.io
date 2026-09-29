@@ -9,15 +9,15 @@ categories:
 ---
 [<img class="alignright size-full wp-image-6137" title="My Retweeted Tweets" src="/wp-content/uploads/2011/07/myretweetedtweets1.png" alt="My Retweeted Tweets" width="88" height="285" />][1]Eu nunca me animei a colocar o [widget do Twitter][2] no blog porque meus tweets variam bastante, e nem todos são interessantes para um público mais amplo. Isso mudou quando ouvi, nos dois últimos minutos do [Nerdcast 264][3], o [Rafinha Bastos][4] confessar que:
 
-> &#8220;Eu (&#8230;) deixo no meu twitter só as (&#8230;) tweetadas¹ que foram **bem** retweetadas&#8221;
+> "Eu (...) deixo no meu twitter só as (...) tweetadas¹ que foram **bem** retweetadas"
 
-O comentário pode parecer inócuo, mas ajuda a explicar como ele foi [considerado tão influente pelo The New York Times](http://web.archive.org/web/20210620062213/https://entretenimento.r7.com/famosos-e-tv/noticias/rafinha-bastos-e-o-mais-influente-do-twitter-segundo-o-new-york-times-20110324.html) &#8211; essa &#8220;limpeza&#8221; garante uma excelente proporção de retweets por tweet na timeline. E o filtro popular deixa quase tudo mais bacana &#8211; como qualquer leitor do [Digg][6] sabe. Mesmo sem a multidão de seguidores do Rafinha, é possível olhar a própria [página de tweets que foram retweetados][7] e conferir a diferença com relação ao &#8220;dia-a-dia&#8221;.
+O comentário pode parecer inócuo, mas ajuda a explicar como ele foi [considerado tão influente pelo The New York Times](http://web.archive.org/web/20210620062213/https://entretenimento.r7.com/famosos-e-tv/noticias/rafinha-bastos-e-o-mais-influente-do-twitter-segundo-o-new-york-times-20110324.html) – essa "limpeza" garante uma excelente proporção de retweets por tweet na timeline. E o filtro popular deixa quase tudo mais bacana – como qualquer leitor do [Digg][6] sabe. Mesmo sem a multidão de seguidores do Rafinha, é possível olhar a própria [página de tweets que foram retweetados][7] e conferir a diferença com relação ao "dia-a-dia".
 
 Infelizmente o widget do Twitter não permite colocar apenas os tweets retweetados. A [API de busca][8] também não ajuda, porque só vai até uns poucos dias no passado. O jeito foi colocar a mão na massa e criar o meu próprio widget. Usando o Google AppEngine, a API do Twitter (via [Twitter4J][9]) e um final de tarde, saiu o **[My Retweeted Tweets][10]**.
 
 Basta autorizar o aplicativo e ele gera o código que você pode usar para deixar os tweets retweetados em evidência, como eu fiz na coluna lateral do blog (e na ilustração). O [código-fonte][11], como de costume, é livre (Apache License) e está disponível para quem quiser. O aplicativo foi feito para uso próprio, então ainda pode ser bastante melhorado, mas está lá.
 
-¹ <span style="font-size:0.9em">Sim, *tweetar* e seus derivados forçam a amizade, como me lembrou a [Bani](http://baniverso.com). Mas é o que a [tradução oficial do Twitter](http://blog.pt.twitter.com/2011/06/oba-twitter-em-portugues-brasileiro.html) diz, então paciência&#8230;</span>
+¹ <span style="font-size:0.9em">Sim, *tweetar* e seus derivados forçam a amizade, como me lembrou a [Bani](http://baniverso.com). Mas é o que a [tradução oficial do Twitter](http://blog.pt.twitter.com/2011/06/oba-twitter-em-portugues-brasileiro.html) diz, então paciência...</span>
 
  [1]: http://myretweetedtweets.appspot.com
  [2]: http://twitter.com/about/resources/widgets

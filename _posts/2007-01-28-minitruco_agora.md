@@ -17,7 +17,7 @@ Os desenvolvedores não devem deixar de consultar a [documentação][3], que ago
 
 Gostaria de agradecer pelos elogios, críticas, sugestões, enfim, pelo indispensável feedback. Não dá para responder pessoalmente a **todos** os comentários e e-mails, mas cada um é lido e analisado com carinho.
 
-Fico feliz ao constatar a popularidade do jogo: apenas no boca-a-boca (e no Google, claro) já superou a casa dos 1000 downloads por mês! Dá vontade de viver disso&#8230;
+Fico feliz ao constatar a popularidade do jogo: apenas no boca-a-boca (e no Google, claro) já superou a casa dos 1000 downloads por mês! Dá vontade de viver disso...
 
  [1]: /minitruco
  [2]: http://code.google.com/p/minitruco/

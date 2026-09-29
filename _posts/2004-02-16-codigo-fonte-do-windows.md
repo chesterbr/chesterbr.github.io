@@ -11,10 +11,10 @@ categories:
 
 Tem bastante coisa na rede cobrindo o assunto, mas eu começaria pelo excelente [artigo](http://www.kuro5hin.org/story/2004/2/15/71552/7795) do Kuro5hin, que foca mais nos comentários deixados pelos programadores ao longo do código do que no próprio. Parece que o pessoal de Redmond andou enrolando e fumando o [Code Complete](http://www.stevemcconnell.com/cc.htm): é um comentário mais engraçado que o outro.
 
-Como a &#8220;esquerda Slashdot&#8221; da informática tende a só enxergar os deméritos no outro lado da cerca, acho relevante destacar os seguintes pontos (não costumo fazer isso porque a reação natural é atacar a fonte, mas o Kuro5hin é respeitado tanto pelos desenvolvedores sérios quanto pelos [wannabees](http://info.astrian.net/jargon/terms/w/wannabee.html)):
+Como a "esquerda Slashdot" da informática tende a só enxergar os deméritos no outro lado da cerca, acho relevante destacar os seguintes pontos (não costumo fazer isso porque a reação natural é atacar a fonte, mas o Kuro5hin é respeitado tanto pelos desenvolvedores sérios quanto pelos [wannabees](http://info.astrian.net/jargon/terms/w/wannabee.html)):
 
-*&#8220;Despite the above, the quality of the code is generally excellent. Modules are small, and procedures generally fit on a single screen. The commenting is very detailed about intentions, but doesn&#8217;t fall into &#8216;add one to i&#8217; redundancy. &#8220;
+*"Despite the above, the quality of the code is generally excellent. Modules are small, and procedures generally fit on a single screen. The commenting is very detailed about intentions, but doesn't fall into 'add one to i' redundancy. "
 
-&#8220;The security risks from this code appear to be low. Microsoft do appear to be checking for buffer overruns in the obvious places. The amount of networking code here is small enough for Microsoft to easily check for any vulnerabilities that might be revealed: it&#8217;s the big applications that pose more of a risk. This code is also nearly four years old: any obvious problems should be patched by now.&#8221;*
+"The security risks from this code appear to be low. Microsoft do appear to be checking for buffer overruns in the obvious places. The amount of networking code here is small enough for Microsoft to easily check for any vulnerabilities that might be revealed: it's the big applications that pose more of a risk. This code is also nearly four years old: any obvious problems should be patched by now."*
 
-Aliás, eu tenho brincado esses dias, dizendo que, de um jeito ou de outro, caiu por terra a única vantagem que o Linux tinha sobre os Windows da família NT, que era a revisão feita por milhares de olhos no mundo todo&#8230; :-)
+Aliás, eu tenho brincado esses dias, dizendo que, de um jeito ou de outro, caiu por terra a única vantagem que o Linux tinha sobre os Windows da família NT, que era a revisão feita por milhares de olhos no mundo todo... :-)

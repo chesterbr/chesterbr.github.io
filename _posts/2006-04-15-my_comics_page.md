@@ -10,9 +10,9 @@ categories:
 ---
 <img title="Logotipo do My Comics Page" src="/archives/img/my_comics_page_logo.gif" width="130" height="110" align="right" />Outro dia eu procurava material novo da Cathy (personagem cuja única publicação de que tenho notícia é uma coletânea da Cedibra de mais de 20 anos atrás) e achei o excelente [My Comics Page][1].
 
-Por meros US$ 11,95 por ano, eles dão acesso a mais de 150 personagens diferentes, boa parte em tiras diárias &#8211; incluindo um arquivo de mais de 10.000 tiras. Você pode ler no site, ou receber suas favoritas consolidadas num único e-mail diário.
+Por meros US$ 11,95 por ano, eles dão acesso a mais de 150 personagens diferentes, boa parte em tiras diárias – incluindo um arquivo de mais de 10.000 tiras. Você pode ler no site, ou receber suas favoritas consolidadas num único e-mail diário.
 
-A [lista][2] das tiras inclui desde personagens populares por aqui, como Calvin e Garfield, até alguns que eu sempre quis acompanhar, mas que só saem em jornais estrangeiros, como FoxTrot e Doonesbury. Eles dão duas semanas grátis para testar &#8211; eu experimentei, gostei e assinei.
+A [lista][2] das tiras inclui desde personagens populares por aqui, como Calvin e Garfield, até alguns que eu sempre quis acompanhar, mas que só saem em jornais estrangeiros, como FoxTrot e Doonesbury. Eles dão duas semanas grátis para testar – eu experimentei, gostei e assinei.
 
 Não sei se isso é regra ou se dei sorte, mas o fato é que, algumas semanas depois de assinar, eles me mandaram um brinde fantástico: a compilação [The Days Are Just Packed][3] de tiras do Calvin. Esses caras acabaram de ganhar um cliente para a vida toda!
 

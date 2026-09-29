@@ -9,11 +9,11 @@ categories:
 ---
 [<img class="size-full wp-image-5912  alignright" title="Cartaz do SMS-Denúncia no Metrô-SP" src="/wp-content/uploads/2011/03/smsdenuncia.jpg" alt="SMS-Denúncia" width="250" height="377" />][1]
 
-Se já é difícil usar o transporte público em condições normais, a situação piora quando tem gente fazendo coisa errada: vândalos, ladrões, vendedores ilegais &#8211; isso pra não falar nos **malditos** chatos com som alto. Por conta disso, a CPTM e o Metrô de São Paulo criaram o [SMS-Denúncia][1]: você manda um SMS identificando a ocorrência, o meliante e o local, e os funcionários tomam providências.
+Se já é difícil usar o transporte público em condições normais, a situação piora quando tem gente fazendo coisa errada: vândalos, ladrões, vendedores ilegais – isso pra não falar nos **malditos** chatos com som alto. Por conta disso, a CPTM e o Metrô de São Paulo criaram o [SMS-Denúncia][1]: você manda um SMS identificando a ocorrência, o meliante e o local, e os funcionários tomam providências.
 
-O problema é que até você mandar o SMS com todas as informações necessárias o infrator já foi embora. A Bani [testemunhou isso acontecendo comigo][2] e programou o <a class="dead-link" title="este link morreu" href="http://bit.ly/smsdenuncia">SMS-Denúncia para Android</a><span class="dead-link-mark">†</span> &#8211; você responde a algumas perguntas com poucos toques na tela do aparelho, e o aplicativo compõe e envia o SMS.
+O problema é que até você mandar o SMS com todas as informações necessárias o infrator já foi embora. A Bani [testemunhou isso acontecendo comigo][2] e programou o <a class="dead-link" title="este link morreu" href="http://bit.ly/smsdenuncia">SMS-Denúncia para Android</a><span class="dead-link-mark">†</span> – você responde a algumas perguntas com poucos toques na tela do aparelho, e o aplicativo compõe e envia o SMS.
 
-Resolvi dar outro passo e programei o **SMS-Denúncia para Java ME**, isto é, para celulares que aceitam aplicativos Java (possivelmente a maioria dos aparelhos em atividade nos trens). Você pode instalar pelo navegador do celular &#8211; basta abrir o endereço <http://chester.me/smsdenuncia/SMS-Denuncia.jad>, ou baixar no computador e transferir para o aparelho, usando este [link para o arquivo .jar][4].
+Resolvi dar outro passo e programei o **SMS-Denúncia para Java ME**, isto é, para celulares que aceitam aplicativos Java (possivelmente a maioria dos aparelhos em atividade nos trens). Você pode instalar pelo navegador do celular – basta abrir o endereço <http://chester.me/smsdenuncia/SMS-Denuncia.jad>, ou baixar no computador e transferir para o aparelho, usando este [link para o arquivo .jar][4].
 
 Os dois aplicativos são software livre ([licença MIT][5]), e o [código-fonte][6] está no github. Use com responsabilidade e ajude a fazer o Metrô e a CPTM melhores para todos os usuários!
 

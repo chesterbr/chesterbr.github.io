@@ -10,7 +10,7 @@ categories:
 ---
 O Wired News informa que [Steve Jobs fez um discurso para formandos da Universidade de Stanford][1], e, de fato, a [íntegra do discurso][2] já foi postada na Internet.
 
-Ao contrário de outros discursos do gênero, eu achei este tão bacana que resolvi fazer uma tradução livre (não livre como em &#8220;software&#8221;, mas livre como em &#8220;meio nas coxas, mas dá pra encarar&#8221;). Segue:
+Ao contrário de outros discursos do gênero, eu achei este tão bacana que resolvi fazer uma tradução livre (não livre como em "software", mas livre como em "meio nas coxas, mas dá pra encarar"). Segue:
 
 [**UPDATE: **O discurso (em inglês) está disponível [em vídeo][3] no YouTube. Também aproveitei pra melhorar um bocadinho a tradução.]
 
@@ -32,11 +32,11 @@ Ao contrário de outros discursos do gênero, eu achei este tão bacana que reso
   </p>
 
   <p>
-    Isso começou antes do meu nascimento. Minha mãe biológica era uma jovem (e solteira) estudante de graduação, e decidiu me inscrever para adoção. Ela tinha um sentimento forte de que eu deveria ser adotado por pessoas formadas, então tudo foi acertado para que eu fosse adotado ao nascer por um advogado e sua esposa, só que quando eu vim ao mundo eles decidiram que queriam uma garotinha. Daí meus pais, que estavam numa lista de espera, receberam uma ligação no meio da noite, perguntando: &#8220;Nós temos um bebê (menino) inesperado. Vocês querem ele?&#8221; Eles disseram &#8220;Claro.&#8221; Minha mãe biológica descobriu mais tarde que minha mãe jamais se formou na faculdade e que meu pai sequer se formou no segundo grau. Ela se recusou a assinar os documentos finais de adoção. Ela só reconsiderou alguns meses depois quando meus pais prometeram que eu iria para a faculdade.
+    Isso começou antes do meu nascimento. Minha mãe biológica era uma jovem (e solteira) estudante de graduação, e decidiu me inscrever para adoção. Ela tinha um sentimento forte de que eu deveria ser adotado por pessoas formadas, então tudo foi acertado para que eu fosse adotado ao nascer por um advogado e sua esposa, só que quando eu vim ao mundo eles decidiram que queriam uma garotinha. Daí meus pais, que estavam numa lista de espera, receberam uma ligação no meio da noite, perguntando: "Nós temos um bebê (menino) inesperado. Vocês querem ele?" Eles disseram "Claro." Minha mãe biológica descobriu mais tarde que minha mãe jamais se formou na faculdade e que meu pai sequer se formou no segundo grau. Ela se recusou a assinar os documentos finais de adoção. Ela só reconsiderou alguns meses depois quando meus pais prometeram que eu iria para a faculdade.
   </p>
 
   <p>
-    E dezessete anos depois, eu fui para a faculdade, mas eu inocentemente escolhi uma faculdade que era quase tão cara quanto Stanford, e todas as economias dos meus pais da &#8220;classe trabalhadora&#8221; estavam sendo gastas na mensalidade. Depois de seis meses, eu não consegui enxergar valor nisso. Eu não tinha idéia do que queria fazer com a minha vida, e nenhuma idéia de como a faculdade iria me ajudar a descobrir, e lá estava eu, gastando todo o dinheiro que meus pais economizaram a vida toda. Então eu decidi sair, e acreditei que tudo correria bem. Foi bastante assustador naquela época, mas olhando em retrospectiva, foi uma das melhores decisões que eu já tomei. No minuto em que eu desisti, eu parei de freqüentar as matérias obrigatórias que não me interessavam e comecei a entrar naquelas que pareciam mais interessantes.
+    E dezessete anos depois, eu fui para a faculdade, mas eu inocentemente escolhi uma faculdade que era quase tão cara quanto Stanford, e todas as economias dos meus pais da "classe trabalhadora" estavam sendo gastas na mensalidade. Depois de seis meses, eu não consegui enxergar valor nisso. Eu não tinha idéia do que queria fazer com a minha vida, e nenhuma idéia de como a faculdade iria me ajudar a descobrir, e lá estava eu, gastando todo o dinheiro que meus pais economizaram a vida toda. Então eu decidi sair, e acreditei que tudo correria bem. Foi bastante assustador naquela época, mas olhando em retrospectiva, foi uma das melhores decisões que eu já tomei. No minuto em que eu desisti, eu parei de freqüentar as matérias obrigatórias que não me interessavam e comecei a entrar naquelas que pareciam mais interessantes.
   </p>
 
   <p>
@@ -56,7 +56,7 @@ Ao contrário de outros discursos do gênero, eu achei este tão bacana que reso
   </p>
 
   <p>
-    Repetindo: você não liga os pontos olhando para a frente. Você só consegue ligá-los olhando para trás, então você tem que acreditar que os pontos vão se ligar de alguma forma no seu futuro. Você tem que acreditar em algo &#8211; sua coragem, destino, vida, karma, que seja &#8211; porque acreditar que os pontos vão se ligar no seu caminho vai lhe dar a confiança para seguir seu coração, mesmo quando ele te guia para longe do caminho seguro, e isso vai fazer toda a diferença.
+    Repetindo: você não liga os pontos olhando para a frente. Você só consegue ligá-los olhando para trás, então você tem que acreditar que os pontos vão se ligar de alguma forma no seu futuro. Você tem que acreditar em algo – sua coragem, destino, vida, karma, que seja – porque acreditar que os pontos vão se ligar no seu caminho vai lhe dar a confiança para seguir seu coração, mesmo quando ele te guia para longe do caminho seguro, e isso vai fazer toda a diferença.
   </p>
 
   <p>
@@ -64,7 +64,7 @@ Ao contrário de outros discursos do gênero, eu achei este tão bacana que reso
   </p>
 
   <p>
-    Eu tive sorte. Eu descobri o que eu amava fazer muito cedo na vida. Woz e eu começamos a Apple na garagem dos meus pais quando eu tinha vinte anos. Nós trabalhamos duro e em dez anos a Apple, de nós dois numa garagem, tornou-se uma empresa de US$ 2 bilhões com mais de 4.000 funcionários. Nós tínhamos acabado de lançar nossa melhor criação, o Macintosh, um ano antes disso. Eu tinha acabado de fazer 30 anos, e aí fui demitido. Como você pode ser demitido de uma empresa que criou? Bem, à medida que a Apple cresceu, nós contratamos alguém que eu achava muito talentoso para tocar a empresa comigo, e lá pelo primeiro ano, as coisas iam bem. Mas aí nossas visões do futuro começaram a divergir, e no final das contas nós nos confrontamos. Quando isso aconteceu, a diretoria ficou do lado dele, e com isso, aos trinta eu estava fora &#8211; e bem publicamente fora. O que havia sido o foco de toda a minha vida adulta se foi, e isso foi devastador.
+    Eu tive sorte. Eu descobri o que eu amava fazer muito cedo na vida. Woz e eu começamos a Apple na garagem dos meus pais quando eu tinha vinte anos. Nós trabalhamos duro e em dez anos a Apple, de nós dois numa garagem, tornou-se uma empresa de US$ 2 bilhões com mais de 4.000 funcionários. Nós tínhamos acabado de lançar nossa melhor criação, o Macintosh, um ano antes disso. Eu tinha acabado de fazer 30 anos, e aí fui demitido. Como você pode ser demitido de uma empresa que criou? Bem, à medida que a Apple cresceu, nós contratamos alguém que eu achava muito talentoso para tocar a empresa comigo, e lá pelo primeiro ano, as coisas iam bem. Mas aí nossas visões do futuro começaram a divergir, e no final das contas nós nos confrontamos. Quando isso aconteceu, a diretoria ficou do lado dele, e com isso, aos trinta eu estava fora – e bem publicamente fora. O que havia sido o foco de toda a minha vida adulta se foi, e isso foi devastador.
   </p>
 
   <p>
@@ -76,7 +76,7 @@ Ao contrário de outros discursos do gênero, eu achei este tão bacana que reso
   </p>
 
   <p>
-    Nos cinco anos seguintes eu criei uma empresa chamada NeXT, outra empresa chamada Pixar e me apaixonei por uma mulher incrível, que viria a se tornar minha esposa. A Pixar seguiu e criou o primeiro longa-metragem feito em computação gráfica, &#8220;Toy Story&#8221;, e hoje é o estúdio de animação de maior sucesso do mundo.
+    Nos cinco anos seguintes eu criei uma empresa chamada NeXT, outra empresa chamada Pixar e me apaixonei por uma mulher incrível, que viria a se tornar minha esposa. A Pixar seguiu e criou o primeiro longa-metragem feito em computação gráfica, "Toy Story", e hoje é o estúdio de animação de maior sucesso do mundo.
   </p>
 
   <p>
@@ -92,15 +92,15 @@ Ao contrário de outros discursos do gênero, eu achei este tão bacana que reso
   </p>
 
   <p>
-    Quando eu tinha 17 anos eu li uma citação que era algo do tipo &#8220;Se você viver cada dia como se fosse o último, um dia você seguramente estará certo.&#8221; Isso me deixou impressionado, e, desde então, nos últimos 33 anos, eu olhei no espelho todas as manhãs e me perguntei, &#8220;Se hoje fosse o último dia da minha vida, eu gostaria de fazer o que vou fazer hoje?&#8221; E sempre que a resposta fosse &#8220;não&#8221; durante muitos dias seguidos, eu sabia que precisava mudar alguma coisa.
+    Quando eu tinha 17 anos eu li uma citação que era algo do tipo "Se você viver cada dia como se fosse o último, um dia você seguramente estará certo." Isso me deixou impressionado, e, desde então, nos últimos 33 anos, eu olhei no espelho todas as manhãs e me perguntei, "Se hoje fosse o último dia da minha vida, eu gostaria de fazer o que vou fazer hoje?" E sempre que a resposta fosse "não" durante muitos dias seguidos, eu sabia que precisava mudar alguma coisa.
   </p>
 
   <p>
-    Lembrar que estarei morto em breve é a coisa mais importante que eu encontrei para me ajudar nas grandes escolhas da vida, porque quase tudo &#8211; todas as expectativas externas, todo o orgulho, todo o medo de passar vergonha ou de fracassar &#8211; essas coisas simplesmente caem por terra diante da morte, deixando apenas o que é importante de verdade. Lembrar que você vai morrer é o melhor jeito que eu conheço de evitar a armadilha de pensar que você tem algo a perder. Você já está nu. Não há motivo para não seguir seu coração.
+    Lembrar que estarei morto em breve é a coisa mais importante que eu encontrei para me ajudar nas grandes escolhas da vida, porque quase tudo – todas as expectativas externas, todo o orgulho, todo o medo de passar vergonha ou de fracassar – essas coisas simplesmente caem por terra diante da morte, deixando apenas o que é importante de verdade. Lembrar que você vai morrer é o melhor jeito que eu conheço de evitar a armadilha de pensar que você tem algo a perder. Você já está nu. Não há motivo para não seguir seu coração.
   </p>
 
   <p>
-    Há cerca de um ano, eu fui diagnosticado com câncer. Eu passei por um exame às 7:30 da manhã e ele mostrava claramente um tumor no meu pâncreas. Eu nem sabia o que era um pâncreas. Os médicos me disseram que isso era quase certamente um tipo incurável de câncer, e que eu não deveria esperar viver mais do que três ou seis meses. Meu médico me aconselhou a ir para casa e colocar os meus assuntos em ordem, o que é um código dos médicos para &#8220;prepare-se para morrer.&#8221; Isso significa tentar dizer aos seus filhos tudo o que você achava que teria dez anos para dizezr, em apenas alguns meses. Isso significa ter certeza de que tudo está arranjado para que o processo seja tão fácil quanto for possível para sua família. Isso significa fazer as suas despedidas.
+    Há cerca de um ano, eu fui diagnosticado com câncer. Eu passei por um exame às 7:30 da manhã e ele mostrava claramente um tumor no meu pâncreas. Eu nem sabia o que era um pâncreas. Os médicos me disseram que isso era quase certamente um tipo incurável de câncer, e que eu não deveria esperar viver mais do que três ou seis meses. Meu médico me aconselhou a ir para casa e colocar os meus assuntos em ordem, o que é um código dos médicos para "prepare-se para morrer." Isso significa tentar dizer aos seus filhos tudo o que você achava que teria dez anos para dizezr, em apenas alguns meses. Isso significa ter certeza de que tudo está arranjado para que o processo seja tão fácil quanto for possível para sua família. Isso significa fazer as suas despedidas.
   </p>
 
   <p>
@@ -124,7 +124,7 @@ Ao contrário de outros discursos do gênero, eu achei este tão bacana que reso
   </p>
 
   <p>
-    Stewart e sua equipe publicaram várias edições do The Whole Earth Catalog, e quando a obra tinha concluído sua missão, eles publicaram uma última edição. Era o meio dos anos 70 e eu tinha a idade de vocês. Na contracapa do último número havia uma foto de uma estrada no campo pela manhã, o tipo de estrada em que você se encontraria pedindo carona se fosse tão aventureiro. Abaixo estavam as palavras &#8220;Continue faminto, continue tolo.&#8221; Essa foi a mensagem de despedida deles quando deixaram o barco. &#8220;Continue faminto, continue tolo.&#8221; E eu sempre desejei isso para mim mesmo, e agora, que vocês se formaram para começar do zero, eu desejo isso para vocês.
+    Stewart e sua equipe publicaram várias edições do The Whole Earth Catalog, e quando a obra tinha concluído sua missão, eles publicaram uma última edição. Era o meio dos anos 70 e eu tinha a idade de vocês. Na contracapa do último número havia uma foto de uma estrada no campo pela manhã, o tipo de estrada em que você se encontraria pedindo carona se fosse tão aventureiro. Abaixo estavam as palavras "Continue faminto, continue tolo." Essa foi a mensagem de despedida deles quando deixaram o barco. "Continue faminto, continue tolo." E eu sempre desejei isso para mim mesmo, e agora, que vocês se formaram para começar do zero, eu desejo isso para vocês.
   </p>
 
   <p>

@@ -7,7 +7,7 @@ permalink: /archives/2010/06/tilewriter-desenhando-ladrilhos-em-javascript.html/
 categories:
   - software
 ---
-<img src="/wp-content/uploads/2010/06/mario.png" alt="" title="Super Mario em tiles" width="120" height="140" class="alignleft size-full wp-image-4131" />Eu fiquei vidrado no layout de &#8220;ladrinhos&#8221; do logotipo do [site do RHoK][1], que lembra os micros de 8 bits sem deixar de ser moderno, e pensei &#8220;taí, vou <del datetime="2010-06-20T14:22:59+00:00">roubar</del> <del datetime="2010-06-20T14:22:59+00:00">me inspirar</del> criar um trabalho artístico derivativo para o próximo update visual do meu blog&#8221;.
+<img src="/wp-content/uploads/2010/06/mario.png" alt="" title="Super Mario em tiles" width="120" height="140" class="alignleft size-full wp-image-4131" />Eu fiquei vidrado no layout de "ladrinhos" do logotipo do [site do RHoK][1], que lembra os micros de 8 bits sem deixar de ser moderno, e pensei "taí, vou <del datetime="2010-06-20T14:22:59+00:00">roubar</del> <del datetime="2010-06-20T14:22:59+00:00">me inspirar</del> criar um trabalho artístico derivativo para o próximo update visual do meu blog".
 
 O chato é que não apenas sou um zero à esquerda em GIMP/PhotoShop, mas também queria algo que pesasse menos no carregamento. Solução: programar.
 
@@ -20,7 +20,7 @@ O [`canvas` do HTML5][2] viria a calhar, mas o suporte dos browsers ainda está 
 <span style="color: #339933;">&lt;</span>script src<span style="color: #339933;">=</span><span style="color: #3366CC;">/tilewriter/tilewriter-0.2-min.js"</span> type<span style="color: #339933;">=</span><span style="color: #3366CC;">"text/javascript"</span><span style="color: #339933;">&gt;&lt;/</span>script<span style="color: #339933;">&gt;</span></pre>
 </div>
 
-Coloca-se na página um `<div>` (ou outro container HTML) no qual o &#8220;desenho&#8221; será montado, e aí é só brincar de JavaScript:
+Coloca-se na página um `<div>` (ou outro container HTML) no qual o "desenho" será montado, e aí é só brincar de JavaScript:
 
 <div class="code">
         <pre class="javascript" style="font-family:monospace;">tilewriter.<span style="color: #660066;">drawRow</span><span style="color: #009900;">&#40;</span><span style="color: #3366CC;">"#div_teste"</span><span style="color: #339933;">,</span> <span style="color: #3366CC;">"      X"</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span>
@@ -30,12 +30,12 @@ tilewriter.<span style="color: #660066;">drawRow</span><span style="color: #0099
 tilewriter.<span style="color: #660066;">drawRow</span><span style="color: #009900;">&#40;</span><span style="color: #3366CC;">"#div_teste"</span><span style="color: #339933;">,</span> <span style="color: #3366CC;">" XX   X"</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span></pre>
 </div>
 
-Isso produz o mosaico abaixo (que pode não aparecer num leitor RSS &#8211; o que é esperado, é só decoração &#8211; nesse caso, abra o [post original][3]):
+Isso produz o mosaico abaixo (que pode não aparecer num leitor RSS – o que é esperado, é só decoração – nesse caso, abra o [post original][3]):
 
 <div id="div_teste" style="text-align:center">
 </div>
 
-Também é possível configurar a palheta de cores utilizada, o tamanho de cada &#8220;azulejo&#8221; e o espaçamento entre eles, o que permite várias possibilidades interessantes. Por exemplo, esse encanador familiar:
+Também é possível configurar a palheta de cores utilizada, o tamanho de cada "azulejo" e o espaçamento entre eles, o que permite várias possibilidades interessantes. Por exemplo, esse encanador familiar:
 
 <div id="div_mario" style="text-align:center">
 </div>
@@ -67,11 +67,11 @@ tilewriter.<span style="color: #660066;">drawRow</span><span style="color: #0099
 
 Para usar mais do que 10 cores, basta passar a palheta como um objeto do tipo `{"caractere" : "cor"}`, usando qualquer cor CSS válida. Espaços e caracteres não-mapeados ficam sem cor, i.e., com a cor do fundo.
 
-Isso bastava para o que eu queria, mas me empolguei: já que a idéia é logotipos e afins, por que não automatizar a escrita de textos? Para isso bastava ter uma fonte bitmap que fosse compacta e legível &#8211; tal qual tínhamos nos micros de 8 bits &#8211; e aí veio o estalo: ao invés de criar uma fonte, era mais fácil pegar uma direto da ROM de um deles!
+Isso bastava para o que eu queria, mas me empolguei: já que a idéia é logotipos e afins, por que não automatizar a escrita de textos? Para isso bastava ter uma fonte bitmap que fosse compacta e legível – tal qual tínhamos nos micros de 8 bits – e aí veio o estalo: ao invés de criar uma fonte, era mais fácil pegar uma direto da ROM de um deles!
 
-A escolhida foi a fonte do [TK90x][4] (ZX Spectrum), que não apenas está prontinha na ROM, mas tabmém é fácil de encontrar [salva][5] na web. Ela é 8&#215;8, o que significa que se eu guardar como texto hexadecimal, cada &#8220;imagem&#8221; de caractere ocupa 16 bytes (mais o payload do JavaScript), e fica bem fácil de converter para binário.
+A escolhida foi a fonte do [TK90x][4] (ZX Spectrum), que não apenas está prontinha na ROM, mas tabmém é fácil de encontrar [salva][5] na web. Ela é 8&#215;8, o que significa que se eu guardar como texto hexadecimal, cada "imagem" de caractere ocupa 16 bytes (mais o payload do JavaScript), e fica bem fácil de converter para binário.
 
-O resultado é que pra escrever o &#8220;oi&#8221;, agora basta programar:
+O resultado é que pra escrever o "oi", agora basta programar:
 
 <div class="code">
         <pre class="javascript" style="font-family:monospace;">tilewriter.<span style="color: #660066;">drawText</span><span style="color: #009900;">&#40;</span><span style="color: #3366CC;">"#div_teste_2"</span><span style="color: #339933;">,</span><span style="color: #3366CC;">"oi"</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span></pre>
@@ -82,7 +82,7 @@ e temos:
 <div id="div_teste_2" style="text-align:center">
 </div>
 
-Como de costume, dá pra melhorar bastante, e o [código-fonte][6] é livre para quem quiser brincar. O chato é que eu queimei o tempo que ia usar no update do layout com esse brinquedo, mas valeu a pena &#8211; a lib ficou com menos de 4K minificada (incluindo a fonte). Olha como dá pra se empolgar na nostalgia:
+Como de costume, dá pra melhorar bastante, e o [código-fonte][6] é livre para quem quiser brincar. O chato é que eu queimei o tempo que ia usar no update do layout com esse brinquedo, mas valeu a pena – a lib ficou com menos de 4K minificada (incluindo a fonte). Olha como dá pra se empolgar na nostalgia:
 
 <div class="code">
         <pre class="javascript" style="font-family:monospace;">tilewriter.<span style="color: #660066;">spacing</span> <span style="color: #339933;">=</span> <span style="color: #CC0000;"></span><span style="color: #339933;">;</span>

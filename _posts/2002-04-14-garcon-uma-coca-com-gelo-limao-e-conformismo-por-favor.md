@@ -14,6 +14,6 @@ Assim, resolvi me resignar e "me acostumar com o sabor" da coca com limão (como
 
 Isso é melhor? Eu sinto que sim, o que me basta. Se for necessário embasar, a teoria psicológica do [desamparo aprendido][1] diz que assim eu aumento minha sensação de controle do ambiente e por isso vivo mais feliz.
 
-Para quem julga o meu comportamento conformista, eu digo apenas que prefiro mil vezes sê-lo com um reles limão, dedicando meu senso crítico a coisas realmente importantes, a fazer como uns e outros que aprontam o maior escândalo em defesa dos seus importantíssimos direitos no restaurante, mas simplesmente se conformam com o rouba-mas-faz e outros absurdos da brasilônia&#8230;
+Para quem julga o meu comportamento conformista, eu digo apenas que prefiro mil vezes sê-lo com um reles limão, dedicando meu senso crítico a coisas realmente importantes, a fazer como uns e outros que aprontam o maior escândalo em defesa dos seus importantíssimos direitos no restaurante, mas simplesmente se conformam com o rouba-mas-faz e outros absurdos da brasilônia...
 
  [1]: https://en.wikipedia.org/wiki/Learned_helplessness

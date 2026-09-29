@@ -12,15 +12,15 @@ categories:
 
 Reproduzo na íntegra, essa merece:
 
-> &#8220;**Signo de Comando da empresa, sua forma quadrada é um estímulo que desencadeia associações a partir de sua percepção.**
+> "**Signo de Comando da empresa, sua forma quadrada é um estímulo que desencadeia associações a partir de sua percepção.**
 >
 > O quadrado é uma forma rica em arestas, associado ao domínio da racionalidade, da impessoalidade e, historicamente, aos pontos cardeais.
 >
-> Ele agrega significados como firmeza, solidez, confiabilidade, sobriedade, e a igualdade dos seus lados nos transmite o comedimento, a serenidade&#8230; é cartesiano, imparcial, e neste sentido nos remete à precisão, ao cálculo, à perfeição matemática, à engenharia&#8230;
+> Ele agrega significados como firmeza, solidez, confiabilidade, sobriedade, e a igualdade dos seus lados nos transmite o comedimento, a serenidade... é cartesiano, imparcial, e neste sentido nos remete à precisão, ao cálculo, à perfeição matemática, à engenharia...
 >
 > A Marca da Companhia do Metropolitano de São Paulo em seu contexto semântico, refere-se à sua expansão radial, em direção aos quatro pontos cardeais, conotando o sentido direcional do ir-e-vir, do levar-e-trazer, do subir-e-descer, sua velocidade e sua característica essencial: a interrelação de suas linhas.
 >
-> Em seu contexto sintático, foi resolvido pelo deslocamento de um quadrado sobre o outro, no eixo diagonal, resultando quatro vetores que se opõem dois a dois, e inseridos num campo também quadrado que os delimitam.&#8221;
+> Em seu contexto sintático, foi resolvido pelo deslocamento de um quadrado sobre o outro, no eixo diagonal, resultando quatro vetores que se opõem dois a dois, e inseridos num campo também quadrado que os delimitam."
 
 (dica do Willian, do [Vá de Bike][2])
 

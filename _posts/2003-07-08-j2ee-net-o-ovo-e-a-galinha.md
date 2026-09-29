@@ -9,7 +9,7 @@ categories:
 ---
 Um dos motivos que me deixam um pouco reticente para escrever sobre informática é que este é um assunto sério, que normalmente é tratado de forma leviana. É fácil perceber neste site que eu prefiro escrever sobre assuntos levianos e tratá-los de forma séria.
 
-E ainda por cima eu encontro bons artigos como [este][1], que mostra uma perspectiva interessante sobre a questão J2EE x .Net. O artigo me causa duas frustrações: não apenas o cara &#8220;teve a minha idéia&#8221;, como fez isso há seis meses atrás. Mais um ponto para pensar menos e fazer mais.
+E ainda por cima eu encontro bons artigos como [este][1], que mostra uma perspectiva interessante sobre a questão J2EE x .Net. O artigo me causa duas frustrações: não apenas o cara "teve a minha idéia", como fez isso há seis meses atrás. Mais um ponto para pensar menos e fazer mais.
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>

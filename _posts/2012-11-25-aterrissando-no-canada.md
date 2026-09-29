@@ -16,13 +16,13 @@ Novamente vale avisar: esta informação **não é oficial**. Muito só se aplic
 
 Conforme explicado no [post anterior][2], após conseguir uma oferta de emprego aprovada em uma [LMO][5] e ter aprovada a solicitação de um visto de trabalho no Brasil, você terá o visto no passaporte e uma carta. No aeroporto vão te mandar para a imigração, e lá você entrega a carta.
 
-Fomos muito bem atendidos pela oficial da imigração, que emitiu o work permit ali mesmo, e esclareceu as dúvidas remanescentes. Mas não era o momento de descansar, pois precisávamos do&#8230;
+Fomos muito bem atendidos pela oficial da imigração, que emitiu o work permit ali mesmo, e esclareceu as dúvidas remanescentes. Mas não era o momento de descansar, pois precisávamos do...
 
 #### SIN Card
 
-O [Social Insurance Number (SIN)][6] faz aqui o papel do CPF (vira e mexe te pedem) e, de certa forma, da carteira de trabalho &#8211; você não pode trabalhar sem ele, então a primeira coisa a fazer aqui é solicitar um.
+O [Social Insurance Number (SIN)][6] faz aqui o papel do CPF (vira e mexe te pedem) e, de certa forma, da carteira de trabalho – você não pode trabalhar sem ele, então a primeira coisa a fazer aqui é solicitar um.
 
-O [processo][7] é simples: basta ir a um [Service Canada Centre][8] com seu passaporte e work permit. Você vai receber o cartão pelo correio &#8211; se não tiver endereço fixo ao chegar, dê o do trabalho ou de alguém de confiança. Não é preciso ter o cartão físico para trabalhar &#8211; basta o número, que sai na hora.
+O [processo][7] é simples: basta ir a um [Service Canada Centre][8] com seu passaporte e work permit. Você vai receber o cartão pelo correio – se não tiver endereço fixo ao chegar, dê o do trabalho ou de alguém de confiança. Não é preciso ter o cartão físico para trabalhar – basta o número, que sai na hora.
 
 #### Conta Bancária e Cartão de Crédito
 
@@ -34,11 +34,11 @@ A opinião das pessoas sobre o HSBC aqui varia entre amor e ódio. Pessoalmente,
 
 #### Moradia
 
-Já que teríamos que procurar o lugar definitivo pessoalmente, alugamos um desses apartamentos &#8220;de veraneio&#8221; antes de viajar (dica: [Airbnb][10]/[Wimdu][11]). Sai mais barato que hotel, mas a disponibilidade é menor, então quanto antes você procurar, melhor.
+Já que teríamos que procurar o lugar definitivo pessoalmente, alugamos um desses apartamentos "de veraneio" antes de viajar (dica: [Airbnb][10]/[Wimdu][11]). Sai mais barato que hotel, mas a disponibilidade é menor, então quanto antes você procurar, melhor.
 
 Queríamos morar no centro (*downtown*), onde está rolando uma especulação imobiliária que não fica devendo nada à de São Paulo, então foi preciso tempo: no final de Setembro só era possível encontrar apartamentos com disponibilidade para Novembro. E isso porque tem sites bacanas como o [homeTRADER][12] para procurar, além de revistas grátis com ofertas em cada esquina.
 
-Outras regiões podem ter mais oferta, mas leve isso em conta ao planejar o tempo da sua hospedagem temporária. Considere também que os aluguéis aqui quase sempre começam no início do mês &#8211; a gente precisou estender em um hotel, e saiu caro.
+Outras regiões podem ter mais oferta, mas leve isso em conta ao planejar o tempo da sua hospedagem temporária. Considere também que os aluguéis aqui quase sempre começam no início do mês – a gente precisou estender em um hotel, e saiu caro.
 
 Os apartamentos aqui geralmente têm geladeira, fogão, e quando o prédio não tem lavanderia, máquina de lavar e secar. Você vai ter que comprar o resto da mobília, e aí eu recomendo a [Ikea][13]. Em Toronto, duas delas ([North York][14] e [Etobicoke][15]) são acessíveis via metrô + van gratuita.
 
@@ -60,7 +60,7 @@ Pude usar o work permit para o status e o Photo Card para identidade + endereço
 
 #### Family Doctor
 
-Uma vez com o health card, você será atendido em emergências sem ter que arcar com os custos. Mas para outros casos você sempre vai procurar o médico de família &#8211; um clínico geral que conhece o seu histórico, vai te ajudar com receitas e te encaminhar para especialistas se for o caso. Encontrar um pode ser rápido ou demorado, então é bom ir atrás assim que estiver com o health card em mãos.
+Uma vez com o health card, você será atendido em emergências sem ter que arcar com os custos. Mas para outros casos você sempre vai procurar o médico de família – um clínico geral que conhece o seu histórico, vai te ajudar com receitas e te encaminhar para especialistas se for o caso. Encontrar um pode ser rápido ou demorado, então é bom ir atrás assim que estiver com o health card em mãos.
 
 Como sempre, o governo vai te dar uma ajuda: o [Health Care Connect][22] é um programa no qual você se inscreve e eles tentam achar um médico próximo à sua residência que tenha disponibilidade para acrescentar você e sua família à sua lista de pacientes. Eu tive sorte (ou fui ajudado pelo fato de morar do lado de um hospital): me inscrevi pelo website, e em menos de um mês eu e minha *common-law partner* conhecemos nosso médico.
 
@@ -68,7 +68,7 @@ Como sempre, o governo vai te dar uma ajuda: o [Health Care Connect][22] é um p
 
 *OBS. 1: As coisas estão listadas meio que na ordem em que eu fiz, pois em muitos casos um documento ajuda a tirar o outro (ex.: o Photo Card era o único comprovante de residência que eu tinha quando fui fazer o Health Card).*
 
-*OBS. 2: Acredito que este post cobre tudo o que eu fiz até me considerar &#8220;instalado&#8221; aqui, mas pode ser atualizado caso eu lembre/faça mais algo nesse sentido.*
+*OBS. 2: Acredito que este post cobre tudo o que eu fiz até me considerar "instalado" aqui, mas pode ser atualizado caso eu lembre/faça mais algo nesse sentido.*
 
  [1]: http://www.flickr.com/photos/the_bally/88840884/
  [2]: /archives/2012/09/a-saga-do-visto-de-trabalho-canadense.html

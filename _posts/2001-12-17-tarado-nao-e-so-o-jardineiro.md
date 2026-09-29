@@ -9,4 +9,4 @@ categories:
 ---
 É sério, tem nego defendendo que jeito mais relaxante de fazer jardinagem é [peladão](http://www.homestore.com/lawngarden/advice/nudegardening.asp). E o site não é de naturismo, e sim de jardinagem mesmo.
 
-As inevitáveis piadinhas envolvendo tesouras de jardinagem e outros intstrumentos relacionados ficam por conta do leitor. E depois eu é que sou estranho&#8230;
+As inevitáveis piadinhas envolvendo tesouras de jardinagem e outros intstrumentos relacionados ficam por conta do leitor. E depois eu é que sou estranho...
