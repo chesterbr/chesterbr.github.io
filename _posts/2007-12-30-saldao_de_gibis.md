@@ -9,7 +9,7 @@ permalink: /archives/2007/12/saldao_de_gibis.html/
 categories:
   - comics
 ---
-<a href="/img/estante_grande.jpg" target="_blank"><img src="/img/estante.jpg" alt="minha estante de gibis - clique para ampliar" style="float: right; margin: 0 0 20px 20px;" border="0" height="180" hspace="2" width="240" /></a>**UPDATE:** Tudo vendido!
+<a href="/img/estante_grande.jpg""_blank"><img src="/img/estante.jpg" alt="minha estante de gibis - clique para ampliar" style="float: right; margin: 0 0 20px 20px;" border="0" height="180" hspace="2" width="240" /></a>**UPDATE:** Tudo vendido!
 
 <strike>Eis uma oportunidade para os fãs do gênero: resolvi me desfazer de cerca de 2000 dos quadrinhos da minha coleção.
 

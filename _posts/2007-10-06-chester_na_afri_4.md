@@ -15,7 +15,7 @@ categories:
 
 A montanha é cercada por outras duas: o Lion&#8217;s Head e o Devil&#8217;s Peak. O Jacques, nosso cicerone para aquela noite, nos levou a Woodstock, um bairro mais próximo deste último. A [história por trás do nome Devil&#8217;s Peak][2] é interessante &#8211; pra se ter uma idéia, girando em torno de uma disputa entre o próprio tinhoso e um holandês puxador de fumo. Show.
 
-<img border="1"title="detalhe de um pôster no restaurante - se esse lugar existe, fica a critério do leitor" src="/archives/img/jerk.jpg" width="300" height="241" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Woodstock é uma vizinhança com casas belíssimas, e lá jantamos no Jamaica Me Crazy. Os caras gostam de ser confundidos com a Jamaica, tanto quanto a gente adora quando perguntam da nossa capital, Buenos Aires, portanto vale a desambiguação: é um restaurante temático.
+<img border="1" title="detalhe de um pôster no restaurante - se esse lugar existe, fica a critério do leitor" src="/archives/img/jerk.jpg" width="300" height="241" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Woodstock é uma vizinhança com casas belíssimas, e lá jantamos no Jamaica Me Crazy. Os caras gostam de ser confundidos com a Jamaica, tanto quanto a gente adora quando perguntam da nossa capital, Buenos Aires, portanto vale a desambiguação: é um restaurante temático.
 
 Ali fui apresentado ao [jerk][3], um jeito diferente de temperar e cozinhar a carne que a torna irresistivelmente deliciosa. Eu provei no frango, mas imagino que deva rolar igualmente bem em carnes vermelhas.
 

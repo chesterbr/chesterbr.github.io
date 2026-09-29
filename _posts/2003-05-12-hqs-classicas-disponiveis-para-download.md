@@ -12,7 +12,7 @@ categories:
 
 <!--more-->
 
-Neste cenário, me surpreendeu descobrir que existem vários sites como o [Marvel Scans](http://www.marvelscans.kit.net/) e o [Rapadura Açucarada](http://www.eudeshonorato.blogger.com.br/) que disponibilizam na rede quadrinhos publicados no Brasil. Uma matéria na Herói+ (que, claro, já foi <a class="dead-link" title="este link morreu" href="http://www.impostodefome.kit.net/imposto\_de\_fome/imagens/hqb.jpg" >digitalizada</a><span class="dead-link-mark">†</span> pelos caras) fala a respeito deste movimento, citando vários links &#8211; isso num tom bastante positivo.
+Neste cenário, me surpreendeu descobrir que existem vários sites como o [Marvel Scans](http://www.marvelscans.kit.net/) e o [Rapadura Açucarada](http://www.eudeshonorato.blogger.com.br/) que disponibilizam na rede quadrinhos publicados no Brasil. Uma matéria na Herói+ (que, claro, já foi <a class="dead-link" title="este link morreu" href="http://www.impostodefome.kit.net/imposto_de_fome/imagens/hqb.jpg" >digitalizada</a><span class="dead-link-mark">†</span> pelos caras) fala a respeito deste movimento, citando vários links &#8211; isso num tom bastante positivo.
 
 Pessoalmente, eu gosto da idéia dos gibis antigos estarem disponíveis online para consulta e referência, e também sou favorável à tradução de coisas que não existem aqui. Mas os sites publicam bastante novidades, coisas que acabaram de sair na banca. A meu ver, isso só prejudica as editoras &#8211; que não terão outra alternativa senão aumentar (mais) os preços, diminuir a quantidade de lançamentos ou mesmo fechar as portas.
 
