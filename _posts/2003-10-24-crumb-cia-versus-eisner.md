@@ -13,7 +13,7 @@ Honestamente, foi um pouco frustrante. Claro, é bacana para quem gosta de quadr
 
 <!--more-->
 
-<img src="img/blig/nomejogo.jpg" align="left" border="1">Se for pra gastar mais de vinte mangos em quadrinhos, vá direto em *O Nome do Jogo*, do também clássico Will Eisner. Quando li a contracapa, hesitei por quase 15 segundos antes de comprar (uma heresia, em se tratando de Eisner). Afinal, pensei, é **mais uma** história da comunidade judaica do início do século. Cheguei a me perguntar se o Eisner começou a ficar sem idéias.
+<img src="/img/blig/nomejogo.jpg" align="left" border="1">Se for pra gastar mais de vinte mangos em quadrinhos, vá direto em *O Nome do Jogo*, do também clássico Will Eisner. Quando li a contracapa, hesitei por quase 15 segundos antes de comprar (uma heresia, em se tratando de Eisner). Afinal, pensei, é **mais uma** história da comunidade judaica do início do século. Cheguei a me perguntar se o Eisner começou a ficar sem idéias.
 
 Claro, me enganei de novo. Mas dessa vez foi para o bem: o autor mais uma vez reinventa a própria narrativa. Ao invés de prosseguir com suas já consagradas histórias de tom autobiográfico sobre os imigrantes judeus de classe média baixa, Eisner partiu para a pesquisa e retratou o outro lado, isto é, os imigrantes judeus que enriqueceram na América.
 

@@ -8,7 +8,7 @@ categories:
   - books
   - software
 ---
-<img src="img/blig/softlivre.jpg" align="right" border="2" alt="Software Livre e Inclusão Digital">Uma das grandes virtudes da comunidade do software livre é seu primor pela excelência técnica. Infelizmente, este é o catalisador do que é possívelmente seu maior vício: a disposição que este pessoal tem para dizer bobagens sobre assuntos que pouco entendem &#8211; desde o software do concorrente até ética e geopolítica.
+<img src="/img/blig/softlivre.jpg" align="right" border="2" alt="Software Livre e Inclusão Digital">Uma das grandes virtudes da comunidade do software livre é seu primor pela excelência técnica. Infelizmente, este é o catalisador do que é possívelmente seu maior vício: a disposição que este pessoal tem para dizer bobagens sobre assuntos que pouco entendem &#8211; desde o software do concorrente até ética e geopolítica.
 
 <!--more-->
 
@@ -22,7 +22,7 @@ Boa parte dos textos são de pessoas ligadas a iniciativas já em andamento &#82
 
 A maior parte dos textos tem um tom mais acadêmico, o que, embora facilite seu uso como ferramenta de divulgação e sustentação, os torna bastante enfadonhos. Vale mais como consulta do que como leitura de capa a capa.
 
-<img src="img/blig/soporprazer.jpg" align="left" border="1" alt="Só Por Prazer - Linux: os bastidores de sua criação">Em contrapartida, [Só Por Prazer](http://www.submarino.com.br/books_productdetails.asp?Query=ProductPage&#038;ProdTypeId=1&#038;ProdId=154139&#038;ST=SE), a autobiografia de Linus Torvalds, é um livro divertidíssimo. Com um bom papo que rivaliza Steve Jobs (aliás, o episódio do chega-pra-lá no Jobs já vale a leitura), ele narra em detalhes sua vida até o &#8220;estrelato&#8221;. Linus usa um ghost writer que nem é tão ghost assim, o que dá uma boa credibilidade.
+<img src="/img/blig/soporprazer.jpg" align="left" border="1" alt="Só Por Prazer - Linux: os bastidores de sua criação">Em contrapartida, [Só Por Prazer](http://www.submarino.com.br/books_productdetails.asp?Query=ProductPage&#038;ProdTypeId=1&#038;ProdId=154139&#038;ST=SE), a autobiografia de Linus Torvalds, é um livro divertidíssimo. Com um bom papo que rivaliza Steve Jobs (aliás, o episódio do chega-pra-lá no Jobs já vale a leitura), ele narra em detalhes sua vida até o &#8220;estrelato&#8221;. Linus usa um ghost writer que nem é tão ghost assim, o que dá uma boa credibilidade.
 
 Os detalhes é que são a parte interessante. Por exemplo, muito do que ele aprendeu de Assembly se deu graças à pouca disponibilidade de software para o [Sinclair QL](http://m.nu/datorer/ql-pic.html), seu segundo computador (o primeiro foi um VIC-20). E o surgimento do Linux tal como ele é se deu devido à sua vontade de aprender detalhes sobre o 386, só isso.
 
