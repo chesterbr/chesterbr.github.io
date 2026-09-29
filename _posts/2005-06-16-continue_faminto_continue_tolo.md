@@ -14,8 +14,6 @@ Ao contrário de outros discursos do gênero, eu achei este tão bacana que reso
 
 [**UPDATE: **O discurso (em inglês) está disponível [em vídeo][3] no YouTube. Também aproveitei pra melhorar um bocadinho a tradução.]
 
-
-
 <blockquote cite="http://www.interesting-people.org/archives/interesting-people/200506/msg00229.html">
   <p>
     <img title="Steve Jobs (em outra ocasião, mas também recente)" src="/archives/img/jobs.jpg" width="182" height="166" border="1" align="left" />Obrigado. Me sinto honrado por estar com vocês hoje para sua formatura em uma das melhores universidades do mundo. Para dizer a verdade, eu nunca me formei, e isto é o mais perto que eu já estive de uma formatura.

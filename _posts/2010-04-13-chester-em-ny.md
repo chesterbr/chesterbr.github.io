@@ -15,7 +15,6 @@ No fim do ano passado fiz uma viagem curta para o Canadá a trabalho &#8211; e p
 
 <!--more-->
 
-
 O lugar bacana pra visitar lá é [Manhattan][2], mas os hotéis são caros e ficam longe do aeroporto, o que me levou a ficar no [Queens][3]. Parece longe, mas o [metrô][4] dos caras faz jus à fama: o trem expresso (que eu pegava a três quadras do hotel) me levava às cercanias do Central Park em coisa de meia hora.
 
 Aliás, o sistema ferroviário já mostra a sua força no [JFK][5]: o aeroporto é tão grande que você usa um trem de superfície ([AirTrain][6]) para ir de um terminal a outro &#8211; e ele integra com o metrô. O meu [hotel-que-também-era-hostel][7] tinha uma van que pegava os passageiros numa das estações, de forma que eu nem precisei usar essa integração.

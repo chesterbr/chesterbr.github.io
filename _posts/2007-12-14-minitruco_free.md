@@ -34,8 +34,6 @@ Screenshots:
 *   [Game being played on the emulator (big and small screens)][8].
 *   [Multiplayer game running on the emulator][9].
 
-
-
 <p style="text-align:center">
   <a href="/minitruco"><img border="0" alt="veja esta página em português" src="/img/brflag.gif" /><br />Esta página em Português</a>
 </p>

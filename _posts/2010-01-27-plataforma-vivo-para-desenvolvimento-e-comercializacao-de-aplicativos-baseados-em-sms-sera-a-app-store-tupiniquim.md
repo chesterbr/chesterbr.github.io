@@ -23,7 +23,6 @@ E ficam no ar duas grandes dúvidas:
 
 *   As APIs só falam (numa leitura superficial que fiz até agora) em envio de mensagens. E o recebimento? A coisa só pode ser considerada uma aplicação autônoma se o usuário puder enviar SMS de volta, e não achei nenhuma API para que a app consiga receber respostas. Será que a idéia é fazer WAP Push, mandar o cara para o meu site e lá ele interagir para receber o próximo SMS?
 
-
 *   Quanto isso custa pro usuário? O artigo fala em porcentagens sobre o tráfego gerado, mas não diz quanto o usuário do aplicativo vai pagar por esse tráfego (se for preço normal de SMS, esquece &#8211; sai mais barato comprar um netbook pra jogar o adventure de texto :-P). E ainda fala em venda dos aplicativos, o que também é complicado: se o cara tiver que pagar pra baixar **e** pagar pra usar, só vai dar certo em um país onde as pessoas sejam conformistas a ponto de pagar imposto várias vezes sobre o mesmo produto&#8230; ah, tá, entendi.
 
 Espero que as pessoas que foram à apresentação tenhma perguntado essas coisas e postem em algum lugar em breve. Também devo perguntar no [fórum][12] e ver no que dá. Eu sou sempre reticente com qualquer associação com operadoras de celular, mas numa primeira análise essa plataforma (quando e se ficar pronta) parece menos *evil* do que de costume. Vamos ver.

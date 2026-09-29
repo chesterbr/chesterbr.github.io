@@ -12,7 +12,6 @@ categories:
 
   <img title="eu, depois do episódio deprimente" src="/archives/img/chester_quadriciclo.jpg" width="150" height="178" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" border="1" />
 
-
 *02/10 (Terça) &#8211; Semi-encoxada(!), trabalho, shopping center e um velho conhecido*
 
 Fechamos o evento pela manhã com um passeio de quadriciclo pelo campo. O quadriciclo é como uma moto, só que com quatro rodas (claro), o que o torna um veículo não muito trivial. Você sempre fica com a impressão de que está caindo ou que ele está &#8220;puxando&#8221; para um lado. Naturalmente eu saí da estrada uma vez ou outra enquanto me habituava com o brinquedo.

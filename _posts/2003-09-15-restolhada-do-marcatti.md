@@ -15,4 +15,3 @@ A coletânea compreende umas umas quinze histórias das mais diversas fases do a
 
 Comecei a entender (e compartilhar) um pouco mais do respeito que praticamente todo mundo na área de HQ tem pelo cara. O livro é relativamente antigo (2000), mas eu achei em prateleira de livraria, então deve ser fácil de encontrar. E é bom lembrar que o Marcatti voltou às bancas com o [Fráuzio](http://web.archive.org/web/20040209201723/http://www.marcatti.net:80/frauzio/index.htm), outro que vale cada centavo (e olha que são poucos centavos &#8211; o gibi é baratinho).
 
-

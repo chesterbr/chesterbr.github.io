@@ -17,18 +17,13 @@ Embora eu oscile entre o ateísmo e o agnosticismo (o que, funcionalmente, dá n
 
 *   <u>Acúmulo Excessivo de Posses Materiais</u> &#8211; Difícil de interpretar. Eu sempre acho que tenho mais do que preciso/mereço, e só penso em acumular mais por uma questão de segurança. E acho complicado Sua Santidade vir falar disso, afinal, ele faz usufruto de diversas posses materiais da Igreja Católica, e se aquilo não é &#8220;excessivo&#8221;, eu não sei dizer o que é. **Chester 1 x 1 Papa**
 
-
 *   <u>Provocação do Aumento da Pobreza</u> &#8211; Esse talvez seja o mais abstrato de todos. Há quem diga que quem faz caridade contribui para a manutenção (e, portanto, o aumento) da pobreza, da mesma forma que é razoável argumentar que quando uma socialite compra uma roupa na Daslu, ela está movimentando toda uma cadeia econômica, diminuindo efetivamente a pobreza em comparação com o que haveria se ela deixasse esse dinheiro guardadeo em casa. E eu não quero dedurar ninguém novamente, mas não é preciso ser cientista social para perceber que a falta de planejamento familiar é um dos maiores causadores de pobreza no mundo todo, e o cara do chapéu engraçado continua demonizando a contracepção. **Chester 1 x 2 Papa**
-
 
 *   <u>Consumo e Tráfico de Drogas</u> &#8211; Novamente eu poderia questionar a definição de &#8220;drogas&#8221;. Não vejo diferença entre um cigarro de maconha e um cálice de vinho (que é consumido até em cultos de&#8230; qual religião mesmo?). Eu não consumo nem comercializo, mas como sou favorável a esse direito, vou me penalizar no placar também. **Chester 2 x 3 Papa**
 
-
 *   <u>Experimentos Moralmente Questionáveis</u> &#8211; Isso é genérico demais, então fica difícil avaliar o lado dos caras. Mas no meu eu sou culpado, com louvor &#8211; aliás, tenho um experimento moralmente questionável prestes a sair do forno, novidades em breve. **Chester 3 x 3 Papa**
 
-
 *   <u>Violação dos Direitos Fundamentais da Natureza Humana</u> &#8211; Tá, isso provavelmente é um eufemsimo anti-aborto (assunto que eu me recuso a discutir com qualquer um que não tenha lido o [texto seminal do Carl Sagan][2] a esse respeito), mas vamos falar de direitos humanos: Alguém já ouviu falar da inquisição? (pela qual o Papa anterior pediu perdão, mas no que dependesse desse voltava em majestade e glória) E do direito ao planejamento familiar? (até algumas constituições, como a nossa, o qualificam como direito humano) E da liberdade de culto? (vai falar em ateísmo ou satanismo nesses círculos pra ver o quanto dura a suposta liberdade que pregam) A lista é interminável, o que nos leva ao placar final&#8230;
-
 
 <div style="text-align: center;">
   PECADOS CAPITAIS<br /><b>Chester 3 x <blink>4 Papa</blink></b>

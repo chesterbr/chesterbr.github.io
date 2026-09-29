@@ -11,7 +11,6 @@ categories:
 
 Respeito quem usa, mas pra mim masturbação é coisa séria: o que diabos a pessoa pensa quando está sendo possuida pela Hello Kitty??? Pouco importa seu sexo biológico, opção, ou o que quer que seja: é bizarro demais, até para mim!
 
-
 <noscript>
   <center>
     <a class="dead-link" title="este link morreu" href="/anteriores_noscript.php">Notas Anteriores</a><span class="dead-link-mark">†</span>

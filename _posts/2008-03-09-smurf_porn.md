@@ -15,12 +15,9 @@ Não dá pra não comentar. Destaques:
 
 *   Assim como os [dragões][2], os smurfs têm suas partes íntimas em formato humano (no caso, em cor humana);
 
-
 *   A chegada do Papai Smurf (01m50s);
 
-
 *   Momento musical (03m00s);
-
 
 *   Gargamel finalmente realizando seu sonho de &#8220;comer&#8221; um smurf.
 

@@ -14,7 +14,6 @@ Taking off the bugfixes, I would like to emphasize the following features (conde
 
 *   **Standardized profile information fields.** (&#8230;) standard fields that you can access about a `Person` (&#8230;) include location, schools, pets, movies, sports, and [more][3].(&#8230;)
 
-
 *   **Support for viral growth.** (&#8230;) You can invite a user&#8217;s friends to install your application (&#8230;) You can also send an application-specific message (&#8230;)
 Those were absolute show-stoppers when comparing OpenSocial to FaceBook &#8211; not the only ones, but the most visible. I did not check (yet) how well implemented they are, but at least now they exist &#8211; and that makes 0.7 the most important milestone since the public announcement of OpenSocial.
 

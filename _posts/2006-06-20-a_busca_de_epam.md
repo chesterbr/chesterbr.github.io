@@ -78,7 +78,6 @@ Eu costumava desenhar na mão, mas usando uma planilha eletrônica moderna foi p
   <img width="470" height="395" src="/archives/img/epa_mapa.png" />
 </center>
 
-
 ### Curiosidades Gerais
 
 *   O velhinho é uma &#8220;homenagem&#8221; ao velho amigo (ou seria amigo velho) Hilton, fanático por xadrez na época. O triste é que eu acho que ele é mais novo que eu&#8230;

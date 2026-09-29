@@ -18,8 +18,6 @@ Também encontrei passagens da minha vida em &#8220;A Typical Conversation With 
 <div style="text-align: center;">
 </div>
 
-
-
 <div style="text-align: center;">
 </div>
 

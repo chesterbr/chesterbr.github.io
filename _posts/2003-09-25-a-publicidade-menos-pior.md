@@ -10,5 +10,3 @@ categories:
 
 Parece ser mais um twist bizarro da guerrilha anti-marketing &#8211; um subproduto interessante dos estranhos anos 90. Claro, os verdadeiros adulteradores de cartazes não curtiram muito. Mas faz parte.
 
-
-

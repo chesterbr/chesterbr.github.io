@@ -35,16 +35,10 @@ Isso produz o mosaico abaixo (que pode não aparecer num leitor RSS &#8211; o qu
 <div id="div_teste" style="text-align:center">
 </div>
 
-
-
-
 Também é possível configurar a palheta de cores utilizada, o tamanho de cada &#8220;azulejo&#8221; e o espaçamento entre eles, o que permite várias possibilidades interessantes. Por exemplo, esse encanador familiar:
 
 <div id="div_mario" style="text-align:center">
 </div>
-
-
-
 
 é produzido pelo script:
 
@@ -87,9 +81,6 @@ e temos:
 
 <div id="div_teste_2" style="text-align:center">
 </div>
-
-
-
 
 Como de costume, dá pra melhorar bastante, e o [código-fonte][6] é livre para quem quiser brincar. O chato é que eu queimei o tempo que ia usar no update do layout com esse brinquedo, mas valeu a pena &#8211; a lib ficou com menos de 4K minificada (incluindo a fonte). Olha como dá pra se empolgar na nostalgia:
 

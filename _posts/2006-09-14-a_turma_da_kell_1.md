@@ -15,8 +15,6 @@ Uma coisa legal da repercussão do [Golpe][1] foi que eu acabei visitando vário
   <img title="Trecho de um episódio de Turma da Kelly, onde Lucio, o ateu até a morte (meu personagem favorito até agora) brinca com o perigo" src="/archives/img/turmadakelly.png" width="660" height="229" />
 </center>
 
-
-
 Isso tudo é embalado em um elenco de personagens e um desenho que (como acontece quase que em qualquer tira) parecem um pouco artificiais nos primeiros episódios, mas logo deslancham e passam a trabalhar junto com a história.
 
 Curiosidade: o autor ([Alenômio][3]) é de Birigüi (alguém mais lembrou de [Combo Rangers][4]?), e é possível que isso tenha ajudado a manter o clima leve, mesmo com o assunto pesado (eu diria que está mais para [Tina][5] do que pra [Wapsi Square][6], por exemplo). Curti.
