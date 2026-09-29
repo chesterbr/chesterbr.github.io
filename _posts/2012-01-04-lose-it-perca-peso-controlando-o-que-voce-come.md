@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Lose It! &#8211; perca peso controlando o que você come'
+title: 'Lose It! – perca peso controlando o que você come'
 layout: post
 comments: true
 permalink: /archives/2012/01/lose-it-perca-peso-controlando-o-que-voce-come.html/

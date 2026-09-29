@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Não precisa ter medo&#8230;'
+title: 'Não precisa ter medo…'
 layout: post
 comments: true
 permalink: /archives/2002/10/nao-precisa-ter-medo.html/

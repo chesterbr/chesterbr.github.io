@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Dreaming in Pink &#8211; Transformers Porn'
+title: 'Dreaming in Pink – Transformers Porn'
 excerpt: |
     Eu achei que o fundo do poço tinha chegado com o dragon porn. Me enganei, pois logo em seguida pintou o smurf porn. Agora é vez dos Transformers: Dream in Pink é um site que reune yaoi (i.e., mangá com...
 layout: post

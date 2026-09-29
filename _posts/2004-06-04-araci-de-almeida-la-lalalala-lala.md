@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Araci de almeida lá, lálálálá-lálá&#8230;'
+title: 'Araci de almeida lá, lálálálá-lálá…'
 layout: post
 comments: true
 permalink: /archives/2004/06/araci-de-almeida-la-lalalala-lala.html/

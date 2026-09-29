@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Link do dia &#8211; Pong'
+title: 'Link do dia – Pong'
 layout: post
 comments: true
 permalink: /archives/2001/11/link-do-dia.html/

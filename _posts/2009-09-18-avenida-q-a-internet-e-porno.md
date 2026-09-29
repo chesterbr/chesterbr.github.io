@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Avenida Q &#8211; A Internet é pornô!'
+title: 'Avenida Q – A Internet é pornô!'
 layout: post
 comments: true
 permalink: /archives/2009/09/avenida-q-a-internet-e-porno.html/

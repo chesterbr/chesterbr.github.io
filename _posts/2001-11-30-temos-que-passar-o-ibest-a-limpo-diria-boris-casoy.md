@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: '&#8220;Temos que passar o iBest a limpo&#8221;, diria Boris Casoy'
+title: '“Temos que passar o iBest a limpo”, diria Boris Casoy'
 layout: post
 comments: true
 permalink: /archives/2001/11/temos-que-passar-o-ibest-a-limpo-diria-boris-casoy.html/

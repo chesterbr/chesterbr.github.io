@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Potter: &#8220;queima ele!!!&#8221;'
+title: 'Potter: “queima ele!!!”'
 layout: post
 comments: true
 permalink: /archives/2001/12/potter-queima-ele.html/

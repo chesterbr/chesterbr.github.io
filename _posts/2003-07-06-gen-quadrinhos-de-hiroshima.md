@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Gen &#8211; Quadrinhos de Hiroshima'
+title: 'Gen – Quadrinhos de Hiroshima'
 layout: post
 comments: true
 permalink: /archives/2003/07/gen-quadrinhos-de-hiroshima.html/

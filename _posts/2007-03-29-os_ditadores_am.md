@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Os ditadores amigos dos EUA &#8211; colecione!'
+title: 'Os ditadores amigos dos EUA – colecione!'
 excerpt: |
     Friendly Dictators é uma coleção de trading cards que, como o Golpe, possui temática política. Nele, cada carta representa um ditador da história recente que colheu frutos ao cultivar boas relações com os EUA. São 35 cartas (confira o índice...
 layout: post

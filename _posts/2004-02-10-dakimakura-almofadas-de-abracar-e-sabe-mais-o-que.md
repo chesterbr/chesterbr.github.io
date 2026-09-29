@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Dakimakura &#8211; almofadas de abraçar (e sabe mais o que)'
+title: 'Dakimakura – almofadas de abraçar (e sabe mais o que)'
 layout: post
 comments: true
 permalink: /archives/2004/02/dakimakura-almofadas-de-abracar-e-sabe-mais-o-que.html/

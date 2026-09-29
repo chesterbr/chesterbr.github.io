@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'And the Oscar goes to&#8230; Omelete'
+title: 'And the Oscar goes to… Omelete'
 layout: post
 comments: true
 permalink: /archives/2002/05/and-the-oscar-goes-to-omelete.html/

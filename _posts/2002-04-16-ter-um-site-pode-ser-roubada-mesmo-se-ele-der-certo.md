@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Ter um site pode ser roubada &#8211; mesmo se ele der certo'
+title: 'Ter um site pode ser roubada – mesmo se ele der certo'
 layout: post
 comments: true
 permalink: /archives/2002/04/ter-um-site-pode-ser-roubada-mesmo-se-ele-der-certo.html/

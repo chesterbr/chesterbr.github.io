@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Sobre o &#8220;marqueteiro&#8221; do PT'
+title: 'Sobre o “marqueteiro” do PT'
 layout: post
 comments: true
 permalink: /archives/2002/02/sobre-o-marqueteiro-do-pt.html/

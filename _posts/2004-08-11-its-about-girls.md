@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'It&#8217;s About Girls'
+title: 'It’s About Girls'
 layout: post
 comments: true
 permalink: /archives/2004/08/its-about-girls.html/

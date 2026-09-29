@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Michael Jackson: The Experience &#8211; Kinect (XBox 360)'
+title: 'Michael Jackson: The Experience – Kinect (XBox 360)'
 layout: post
 comments: true
 permalink: /archives/2011/06/michael-jackson-the-experience-kinect-xbox-360.html/

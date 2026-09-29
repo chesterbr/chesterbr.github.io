@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: '&#8220;Juventude&#8221; Cesar Maia'
+title: '“Juventude” Cesar Maia'
 layout: post
 comments: true
 permalink: /archives/2004/01/juventude-cesar-maia.html/

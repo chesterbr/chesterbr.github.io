@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Bill Gates: &#8220;nippankies go home!!!&#8221;'
+title: 'Bill Gates: “nippankies go home!!!”'
 layout: post
 comments: true
 permalink: /archives/2001/11/bill-gates-nippankies-go-home.html/

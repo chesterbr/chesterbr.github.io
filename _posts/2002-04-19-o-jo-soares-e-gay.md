@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: '&#8220;O Jô Soares é gay&#8221;'
+title: '“O Jô Soares é gay”'
 layout: post
 comments: true
 permalink: /archives/2002/04/o-jo-soares-e-gay.html/

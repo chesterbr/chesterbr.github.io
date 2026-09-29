@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Facebook HACK &#8211; Toronto'
+title: 'Facebook HACK – Toronto'
 layout: post
 comments: true
 permalink: /archives/2012/06/facebook-hack-toronto.html/

@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Spectreman &#8211; limpando o nome do Dr. Gori'
+title: 'Spectreman – limpando o nome do Dr. Gori'
 layout: post
 comments: true
 permalink: /archives/2002/01/spectreman-limpando-o-nome-do-dr-gori.html/

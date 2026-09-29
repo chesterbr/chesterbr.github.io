@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Ai meu santo&#8230;'
+title: 'Ai meu santo…'
 excerpt: |
     Caso alguém não conheça: "santinhos" são panfletos contendo a imagem de um santo e uma oração, que os devotos prometem enviar ou distribuir em quantidades massivas caso o santo homenageado interceda em prol de alguma graça. Basicamente, a idéia é...
 layout: post

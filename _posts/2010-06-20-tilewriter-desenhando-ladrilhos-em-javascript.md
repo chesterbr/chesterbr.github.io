@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'tilewriter &#8211; desenhando ladrilhos em JavaScript'
+title: 'tilewriter – desenhando ladrilhos em JavaScript'
 layout: post
 comments: true
 permalink: /archives/2010/06/tilewriter-desenhando-ladrilhos-em-javascript.html/

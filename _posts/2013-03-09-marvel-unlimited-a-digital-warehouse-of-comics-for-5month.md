@@ -1,6 +1,6 @@
 ---
 locale: en
-title: 'Marvel Unlimited &#8211; a digital warehouse of comics for $5/month!'
+title: 'Marvel Unlimited – a digital warehouse of comics for $5/month!'
 layout: post
 comments: true
 permalink: /archives/2013/03/marvel-unlimited-a-digital-warehouse-of-comics-for-5month.html/

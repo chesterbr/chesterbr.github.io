@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Doméééstica&#8230; ela era doméééstica'
+title: 'Doméééstica… ela era doméééstica'
 layout: post
 comments: true
 permalink: /archives/2002/02/domeeestica-ela-era-domeeestica.html/

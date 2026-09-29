@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Mataram o Kenny de vez&#8230; bastardos! (ou não?)'
+title: 'Mataram o Kenny de vez… bastardos! (ou não?)'
 layout: post
 comments: true
 permalink: /archives/2002/04/mataram-o-kenny-de-vez-bastardos-ou-nao.html/

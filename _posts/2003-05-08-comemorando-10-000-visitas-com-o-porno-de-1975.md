@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Comemorando 10.000 visitas com o &#8220;pornô&#8221; de 1975'
+title: 'Comemorando 10.000 visitas com o “pornô” de 1975'
 layout: post
 comments: true
 permalink: /archives/2003/05/comemorando-10-000-visitas-com-o-porno-de-1975.html/

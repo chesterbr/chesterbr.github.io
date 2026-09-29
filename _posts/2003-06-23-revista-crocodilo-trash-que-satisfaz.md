@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Revista Crocodilo &#8211; trash que satisfaz'
+title: 'Revista Crocodilo – trash que satisfaz'
 layout: post
 comments: true
 permalink: /archives/2003/06/revista-crocodilo-trash-que-satisfaz.html/

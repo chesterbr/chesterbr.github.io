@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Saudades de Akira? Experimente Gunm &#8211; Alita Battle Angel'
+title: 'Saudades de Akira? Experimente Gunm – Alita Battle Angel'
 layout: post
 comments: true
 permalink: /archives/2002/08/saudades-de-akira-experimente-gunm-alita-battle-angel.html/

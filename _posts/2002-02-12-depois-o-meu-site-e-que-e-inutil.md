@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Depois o meu site é que é inútil&#8230;'
+title: 'Depois o meu site é que é inútil…'
 layout: post
 comments: true
 permalink: /archives/2002/02/depois-o-meu-site-e-que-e-inutil.html/

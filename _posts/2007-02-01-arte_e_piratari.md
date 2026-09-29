@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Arte e &#8220;Pirataria&#8221;'
+title: 'Arte e “Pirataria”'
 excerpt: |
     O futuro da indústria fonográfica (e, para quem consegue dissociar, dos artistas) num mundo onde o download de MP3 e o CD pirata do camelô estão ao alcance de qualquer um é um tema que rende muita conversa. Além disso,...
 layout: post

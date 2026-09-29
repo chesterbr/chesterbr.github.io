@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Pula a fogueira, iaiá&#8230;'
+title: 'Pula a fogueira, iaiá…'
 excerpt: |
     Nunca me liguei muito em festa junina, mas sempre reparei que 99% da trilha sonora vinha de discos do Mario Zan. Eu tinha as minhas dúvidas se ele era real (ou se ainda estava vivo) mas saiu na mídia que...
 layout: post

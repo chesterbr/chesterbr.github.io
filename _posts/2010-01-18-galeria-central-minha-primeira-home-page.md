@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Galeria Central &#8211; minha primeira&#8230; err&#8230; &#8220;home page&#8221;'
+title: 'Galeria Central – minha primeira… err… “home page”'
 layout: post
 comments: true
 permalink: /archives/2010/01/galeria-central-minha-primeira-home-page.html/

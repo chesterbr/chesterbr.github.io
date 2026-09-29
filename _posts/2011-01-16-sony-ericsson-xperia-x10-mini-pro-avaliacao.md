@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Sony Ericsson Xperia X10 Mini Pro &#8211; Avaliação'
+title: 'Sony Ericsson Xperia X10 Mini Pro – Avaliação'
 layout: post
 comments: true
 permalink: /archives/2011/01/sony-ericsson-xperia-x10-mini-pro-avaliacao.html/

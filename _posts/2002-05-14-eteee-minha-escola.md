@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Etêêê&#8230; minha escola&#8230;'
+title: 'Etêêê… minha escola…'
 layout: post
 comments: true
 permalink: /archives/2002/05/eteee-minha-escola.html/

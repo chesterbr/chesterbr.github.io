@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Oompa, loompa, doom-pa-dee-do&#8230;'
+title: 'Oompa, loompa, doom-pa-dee-do…'
 layout: post
 comments: true
 permalink: /archives/2002/03/oompa-loompa-doom-pa-dee-do.html/

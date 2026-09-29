@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Meninas Iranianas (A Beginner&#8217;s Guide to Acting English / Persépolis)'
+title: 'Meninas Iranianas (A Beginner’s Guide to Acting English / Persépolis)'
 layout: post
 comments: true
 permalink: /archives/2009/08/meninas-iranianas-a-beginners-guide-to-acting-english-persepolis.html/

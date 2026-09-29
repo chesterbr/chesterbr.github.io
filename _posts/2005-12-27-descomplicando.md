@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Descomplicando os &#8220;Powerpoints&#8221;'
+title: 'Descomplicando os “Powerpoints”'
 excerpt: |
     Assunto sério, pra variar: o S5 é uma maneira de criar apresentações no estilo Powerpoint, só que é baseado em uma mistura bem bolada de tecnologias de browser (XHTML, CSS e JavaScript). Isso permite que uma única página contenha tanto...
 layout: post

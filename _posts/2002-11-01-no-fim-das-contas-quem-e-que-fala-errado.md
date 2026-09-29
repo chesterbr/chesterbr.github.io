@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'No fim das contas, quem é que fala &#8220;errado&#8221;?'
+title: 'No fim das contas, quem é que fala “errado”?'
 layout: post
 comments: true
 permalink: /archives/2002/11/no-fim-das-contas-quem-e-que-fala-errado.html/

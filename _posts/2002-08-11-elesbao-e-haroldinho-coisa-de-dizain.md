@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Elesbão e Haroldinho &#8211; coisa de <i>dizáin</i>'
+title: 'Elesbão e Haroldinho – coisa de <i>dizáin</i>'
 layout: post
 comments: true
 permalink: /archives/2002/08/elesbao-e-haroldinho-coisa-de-dizain.html/

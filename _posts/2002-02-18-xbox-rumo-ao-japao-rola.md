@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'XBox rumo ao Japão&#8230; rola?'
+title: 'XBox rumo ao Japão… rola?'
 layout: post
 comments: true
 permalink: /archives/2002/02/xbox-rumo-ao-japao-rola.html/

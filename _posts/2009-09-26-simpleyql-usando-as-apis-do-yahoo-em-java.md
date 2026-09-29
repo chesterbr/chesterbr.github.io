@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'simpleyql &#8211; usando as APIs do Yahoo! em Java'
+title: 'simpleyql – usando as APIs do Yahoo! em Java'
 layout: post
 comments: true
 permalink: /archives/2009/09/simpleyql-usando-as-apis-do-yahoo-em-java.html/

@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'É pra ajudar no dever de casa&#8230;'
+title: 'É pra ajudar no dever de casa…'
 layout: post
 comments: true
 permalink: /archives/2004/05/e-pra-ajudar-no-dever-de-casa.html/

@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'O Cara Tossiu&#8230;'
+title: 'O Cara Tossiu…'
 layout: post
 comments: true
 permalink: /archives/2004/12/o-cara-tossiu.html/
