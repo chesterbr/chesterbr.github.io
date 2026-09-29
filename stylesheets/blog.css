@@ -118,6 +118,15 @@ blockquote {
   color: var(--muted);
   font-style: italic;
 }
+/* Third-party embeds (TikTok, Instagram, Twitter) ship as a <blockquote>
+   the platform's script swaps for an iframe. Don't dress them as pull
+   quotes: drop the accent rail, indent and italics. */
+blockquote.tiktok-embed, blockquote.instagram-media, blockquote.twitter-tweet {
+  border-left: 0;
+  padding-left: 0;
+  color: inherit;
+  font-style: normal;
+}
 
 /* Boxed aside for editor's notes, reader signposts, etc. Built on the color
    tokens so it follows light/dark. Seeded here to replace the ad-hoc inline
