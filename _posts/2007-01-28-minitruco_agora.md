@@ -9,7 +9,7 @@ permalink: /archives/2007/01/minitruco_agora.html/
 categories:
   - software
 ---
-<img title="tela de abertura" src="/archives/img/minitruco3_abertura.png" width="114" height="115" align="right" border="1" style="margin-right:2px" />Aleluia, a [versão Bluetooth do miniTruco][1] finalmente está pronta, permitindo que até 4 pessoas joguem entre si (para quem não conhece, trata-se de um jogo gratuito e de [código][2] aberto para celulares que suportam Java).
+<img title="tela de abertura" src="/archives/img/minitruco3_abertura.png" width="114" height="115" align="right" border="1" />Aleluia, a [versão Bluetooth do miniTruco][1] finalmente está pronta, permitindo que até 4 pessoas joguem entre si (para quem não conhece, trata-se de um jogo gratuito e de [código][2] aberto para celulares que suportam Java).
 
 Não tive muita chance de testar fora do emulador, então imagino que vão aparecer problemas aqui e ali. Como de costume, fico no aguardo para ajustar o que for necessário (e possível, já que um semestre difícil se aproxima).
 

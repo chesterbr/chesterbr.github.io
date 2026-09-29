@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2006/01/meebo_im_na_era.html/
 categories:
 ---
-<img title="Tela do meebo" src="/archives/img/meebo.png" width="210" height="147" align="right" border="1" style="margin-left:2px;" />Aplicações como o GMail mostraram que é possível ter níveis de interatividade na web muito próximos dos de uma aplicação desktop (com a praticidade de alguém cuidar da infra-estrutura para você).
+<img title="Tela do meebo" src="/archives/img/meebo.png" width="210" height="147" align="right" border="1" />Aplicações como o GMail mostraram que é possível ter níveis de interatividade na web muito próximos dos de uma aplicação desktop (com a praticidade de alguém cuidar da infra-estrutura para você).
 
 Nesta linha, tive uma sensação positiva com o [Meebo][1], que ainda não tem o nível de maturidade de um GMail, mas impressiona pela eficiência com que cobre a funcionalidade básica do Yahoo! Messenger, MSN, ICQ/AIM e Jabber.
 

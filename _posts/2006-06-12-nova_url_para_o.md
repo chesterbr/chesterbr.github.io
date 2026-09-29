@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2006/06/nova_url_para_o.html/
 categories:
 ---
-<img title="tela de abertura" src="/archives/img/minitruco_titulo.png" width="113" height="116" align="left" border="1" style="margin-right:2px" />Como muita gente estava tendo problemas para instalar o [miniTruco][1], fiz um link direto para ele.
+<img title="tela de abertura" src="/archives/img/minitruco_titulo.png" width="113" height="116" align="left" border="1" />Como muita gente estava tendo problemas para instalar o [miniTruco][1], fiz um link direto para ele.
 
 Agora, para instalar o jogo. basta abrir o navegador do celular e, na opção &#8220;Ir para URL&#8221; ou equivalente, digitar:
 

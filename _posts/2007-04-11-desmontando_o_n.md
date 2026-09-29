@@ -9,7 +9,7 @@ permalink: /archives/2007/04/desmontando_o_n.html/
 categories:
   - retrocomputing
 ---
-<img title="NDS desmontado, rodando Elite Beat Agents" src="/archives/img/nds_desmontado.jpg" width="250" height="187" border="1" align="right" style="margin-left:2px" />Estava o pequeno Chester feliz, brincando com seu NDS, quando a tela sensível ao toque perdeu a dita sensibilidade. Do nada. Os jogos e programas continuavam funcionando, mas qualquer um que dependesse da mesma (i.e., qualquer um que não fosse o Mario Kart DS) não rolava.
+<img title="NDS desmontado, rodando Elite Beat Agents" src="/archives/img/nds_desmontado.jpg" width="250" height="187" border="1" align="right" />Estava o pequeno Chester feliz, brincando com seu NDS, quando a tela sensível ao toque perdeu a dita sensibilidade. Do nada. Os jogos e programas continuavam funcionando, mas qualquer um que dependesse da mesma (i.e., qualquer um que não fosse o Mario Kart DS) não rolava.
 
 Peregrinei de assistência técnica em assistência técnica, mas acho que ninguém gosta de mexer em NDS. Não sei se é pelo custo/benefício ou por serem relativamente poucos no Brasil, o fato é que fui desenganado até por aqueles tiozinhos mais *ninja* da Santa Ifigênia, Stand Center e similares pradarias paulistanas.
 

@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2007/03/eu_faco_de_voce_1.html/
 categories:
 ---
-  <img title="Propaganda do incrível método de KUNG FU" src="/archives/img/kungfu.jpg" width="250" height="336" align="right" style="margin-left:4px" />No final dos anos 80 uma propaganda curiosa apareceu em praticamente todas as revistas. Tratava-se de um livro que ensinaria a qualquer pessoa a arte do KUNG FU (ênfase nas maiúsculas: não é Kung Fu, é KUNG FU!) <p>
+  <img title="Propaganda do incrível método de KUNG FU" src="/archives/img/kungfu.jpg" width="250" height="336" align="right" />No final dos anos 80 uma propaganda curiosa apareceu em praticamente todas as revistas. Tratava-se de um livro que ensinaria a qualquer pessoa a arte do KUNG FU (ênfase nas maiúsculas: não é Kung Fu, é KUNG FU!) <p>
 Claro que toda propaganda exagera, mas essa chutava o balde: o livro o tornaria capaz de derrotar &#8220;dois, três ou até mesmo quatro experts em Judô ou Karatê, lutadores profissionais ou boxeadores (&#8230;) mesmo que você seja atacado sentado ou deitado, mesmo REPOUSANDO e ADORMECIDO e COMPLETAMENTE INDEFESO&#8221;.
   </p>
 

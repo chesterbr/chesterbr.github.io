@@ -9,7 +9,7 @@ permalink: /archives/2007/05/questionable_co.html/
 categories:
   - comics
 ---
-<img style="margin-left: 2px;" title="Cena de Questionable Content. (c) 2005 J. Jacques" src="/archives/img/qc.png" alt="" width="202" height="336" align="right" border="1" />Nada como falar de quadrinhos um pouco para desopilar. Ando lendo um bocado de coisas ultimamente, mas hoje o assunto é [Questionable Content][1]. Não faço a menor idéia de como encontrei este *webcomic* &#8211; mas dado que o autor (Jeph Jacques) lê várias coisas que eu também leio, como [Diesel Sweeties][2], não é surpreendente que eu tenha curtido.
+<img title="Cena de Questionable Content. (c) 2005 J. Jacques" src="/archives/img/qc.png" alt="" width="202" height="336" align="right" border="1" />Nada como falar de quadrinhos um pouco para desopilar. Ando lendo um bocado de coisas ultimamente, mas hoje o assunto é [Questionable Content][1]. Não faço a menor idéia de como encontrei este *webcomic* &#8211; mas dado que o autor (Jeph Jacques) lê várias coisas que eu também leio, como [Diesel Sweeties][2], não é surpreendente que eu tenha curtido.
 
 O enredo é difícil de definir, mas começa com a relação platônica entre Marten e Faye, e a partir daí se desenvolve para todos os lados, misturando humor, drama e referências culturais (que começam amarradas no universo *indie*, mas logo se tornam mais cosmopolitas). Pense [Love Hina][3], com ritmo e diálogo lembrando Gilmore Girls e ambientação de Friends.
 

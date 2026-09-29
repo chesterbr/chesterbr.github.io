@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2007/06/visitando_a_tor.html/
 categories:
 ---
-<img title="Detalhe da Torre do Relógio, situada no Campus Butantã da USP" src="/archives/img/torre_do_relogio.jpg" width="150" height="243" align="left" style="margin-right:2px" border="1" />A [ocupação da reitoria da USP][1] é bastante polêmica, e não pretendo discutir seus méritos e deméritos aqui. O fato é que eu aproveitei um tempinho no final da tarde para visitar a Torre do Relógio (até então fechada ao público) e também a própria ocupação.
+<img title="Detalhe da Torre do Relógio, situada no Campus Butantã da USP" src="/archives/img/torre_do_relogio.jpg" width="150" height="243" align="left" border="1" />A [ocupação da reitoria da USP][1] é bastante polêmica, e não pretendo discutir seus méritos e deméritos aqui. O fato é que eu aproveitei um tempinho no final da tarde para visitar a Torre do Relógio (até então fechada ao público) e também a própria ocupação.
 
 As duas visitas foram documentadas, no limite do que a câmera sem flash do meu celular permitiu. Sem mais delongas, eis as fotos e clipes de vídeo da [Torre do Relógio][2] e da [reitoria ocupada][3].
 

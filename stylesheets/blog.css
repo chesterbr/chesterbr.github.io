@@ -396,11 +396,12 @@ p.meta .separator { padding: 0 0.4em; }
 .entry-content .basic-alignment.center, .entry-content img.center { display: block; margin: 0 auto 1.5em; }
 
 /* MovableType-era images use the deprecated align attribute instead of a
-   class, so they floated with no gap (text glued to the image). Give them
-   the same margins as the class-based rules above. Skip images that already
-   set their own spacing via hspace. */
-.entry-content img[align="left"]:not([hspace]) { float: left; margin: 0.2em 1.5em 0.8em 0; }
-.entry-content img[align="right"]:not([hspace]) { float: right; margin: 0.2em 0 0.8em 1.5em; }
+   class, so they floated with no gap (text glued to the image). The margin
+   here is the single source of spacing for these: the legacy per-image
+   hspace/inline margins have been stripped from the sources so this rule
+   governs them uniformly. Images that float via inline style are left alone. */
+.entry-content img[align="left"] { float: left; margin: 0.2em 0.7em 0.5em 0; }
+.entry-content img[align="right"] { float: right; margin: 0.2em 0 0.5em 0.7em; }
 
 /* WordPress-era image alignment classes (alignleft/alignright/aligncenter,
    wp-caption) - carried over from imported WP content, used across ~90

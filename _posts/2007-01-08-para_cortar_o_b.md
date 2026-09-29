@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2007/01/para_cortar_o_b.html/
 categories:
 ---
-<img title="Um pouco (mais) de fios no gabinete, mas o silêncio resultante compensa" src="/archives/img/mod_ventoinha.jpg" width="250" height="205" border="1" align="left" style="margin-right:2px" />Como um nerd que se preza, eu tenho um &#8220;servidorzinho&#8221; em casa. Após uma troca de ventoinha da CPU (Pentium III), me deparei com um problema muito chato: barulho.
+<img title="Um pouco (mais) de fios no gabinete, mas o silêncio resultante compensa" src="/archives/img/mod_ventoinha.jpg" width="250" height="205" border="1" align="left" />Como um nerd que se preza, eu tenho um &#8220;servidorzinho&#8221; em casa. Após uma troca de ventoinha da CPU (Pentium III), me deparei com um problema muito chato: barulho.
 
 Depois de procurar inutilmente uma ventoinha de maior qualidade (só encontrei para para CPUs/soquetes mais novos), me deparei com um hack meio assustador, mas que parecia fazer sentido (para um processador relativamente termo-eficiente como este): mudar a voltagem da ventoinha de 12V para 5V, diminuindo a rotação, e, por conseqüência, o barulho.
 

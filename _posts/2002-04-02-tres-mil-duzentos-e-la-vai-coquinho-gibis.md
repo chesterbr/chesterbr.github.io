@@ -13,7 +13,7 @@ categories:
 Depois de incontáveis finais-de-semana, consegui organizar e catalogar os meus gibis, e, só de farra, coloquei a lista no site pra quem tiver curiosidade &#8211; ela está logo abaixo (e foi crescendo com o tempo).
 <!--more-->
 
-<a href="/img/estante_grande.jpg" target="_blank"><img src="/img/estante.jpg" border="0" alt="minha estante de gibis - clique para ampliar" hspace="2" width="240" height="180" align="right" /></a>Sou fã confesso e incorrigível de histórias em quadrinhos. Começou desde pequeno, ficou sério no colegial (começo dos anos 90), e dura até hoje, firme e forte (embora minhas preferências tenham mudado bastante).
+<a href="/img/estante_grande.jpg" target="_blank"><img src="/img/estante.jpg" border="0" alt="minha estante de gibis - clique para ampliar" width="240" height="180" align="right" /></a>Sou fã confesso e incorrigível de histórias em quadrinhos. Começou desde pequeno, ficou sério no colegial (começo dos anos 90), e dura até hoje, firme e forte (embora minhas preferências tenham mudado bastante).
 
 Não tenho muito fetiche por essa coisa de coleção, só gosto de ter aquilo que eu possa querer ler novamente. Catalogar eles deu um trabalho enorme, mas é o único jeito de saber com certeza o que eu tenho e o que eu não tenho (conhecimento útil para frequentar sebos).
 

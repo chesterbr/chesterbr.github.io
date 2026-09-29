@@ -9,7 +9,7 @@ permalink: /archives/2007/04/pedro_de_lara_l.html/
 categories:
   - comics
 ---
-<img title="Sílvio Santos" src="/archives/img/silvio_santos.jpg" width="150" height="225" align="left" border="1" style="margin-right:2px" />Lendo o álbum [Minha Vida][1], do sempre genial Robert Crumb, descobri um fato inusitado sobre a música que anunciava a entrada dos jurados do Show De Calouros.
+<img title="Sílvio Santos" src="/archives/img/silvio_santos.jpg" width="150" height="225" align="left" border="1" />Lendo o álbum [Minha Vida][1], do sempre genial Robert Crumb, descobri um fato inusitado sobre a música que anunciava a entrada dos jurados do Show De Calouros.
 
 Calma: o Crumb não assiste ao SBT. Acontece que um quadrinho reproduzia, como de costume, um trecho de uma música americana das antigas ([Those Were The Days][2]). A nota do tradutor (Daniel Galera) mencionava que a melodia da mesma era usada pelo seu Sílvio (a letra com o nome do jurado e o enchimento de lá-lá-lá até o final da frase musical vieram por conta).
 

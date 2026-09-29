@@ -7,4 +7,4 @@ permalink: /archives/2003/02/historia-da-informatica-nacional.html/
 categories:
   - retrocomputing
 ---
-<img src="/img/blig/cobra210.jpg" border="2" hspace="2" align="left">Pra quem gosta de micros de 8 bits e da história das pessoas por trás deles, eis um tremendo achado: O site do MCI (Museu da Computação e Informática) reune, na seção [biblioteca](http://www.mci.org.br/biblioteca/biblioteca.html), uma coletânea de livros sobre a história da informática nacional. Prato cheio.
+<img src="/img/blig/cobra210.jpg" border="2" align="left">Pra quem gosta de micros de 8 bits e da história das pessoas por trás deles, eis um tremendo achado: O site do MCI (Museu da Computação e Informática) reune, na seção [biblioteca](http://www.mci.org.br/biblioteca/biblioteca.html), uma coletânea de livros sobre a história da informática nacional. Prato cheio.

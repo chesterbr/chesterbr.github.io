@@ -10,7 +10,7 @@ permalink: /archives/2006/06/a_busca_de_epam.html/
 categories:
   - software
 ---
-<img width="300" height="127" src="/img/epamin.gif" alt="tela do jogo 'A Busca de Epaminondas Jr.'" align="right" style="margin-left:4px" />Este jogo, criado no início dos anos 90, foi uma das primeiras coisas que disponibilizei na web, não sem um certo constrangimento: minha definição de &#8220;humor&#8221; mudou um pouco ao longo dos últimos quinze anos.
+<img width="300" height="127" src="/img/epamin.gif" alt="tela do jogo 'A Busca de Epaminondas Jr.'" align="right" />Este jogo, criado no início dos anos 90, foi uma das primeiras coisas que disponibilizei na web, não sem um certo constrangimento: minha definição de &#8220;humor&#8221; mudou um pouco ao longo dos últimos quinze anos.
 
 Embora o jogo não use (nem de longe) os recursos dos PCs modernos, os e-mails que recebo mostram que ainda hoje há quem se divirta um pouco com ele. Este fenômeno curioso me levou a falar um pouco mais a respeito &#8211; incluindo algumas curiosidades e dicas para ajudar quem ficou travado em algum quebra-cabeças. E, claro, disponibilizar o jogo para download **ou direto no navegador (NOVIDADE)**!
 

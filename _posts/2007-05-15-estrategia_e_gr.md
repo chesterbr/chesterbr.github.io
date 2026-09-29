@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2007/05/estrategia_e_gr.html/
 categories:
 ---
-<img title="tela de abertura" src="/archives/img/minitruco3_abertura.png" width="114" height="115" align="right" border="1" style="margin-right:2px" />O Sandro Rodrigo Gasparoto fez duas importantes contribuições no miniTruco: uma nova estratégia para a CPU e frases mais bacanas para os balões, tornando-os mais variados e coerentes com o clima de uma mesa de truco.
+<img title="tela de abertura" src="/archives/img/minitruco3_abertura.png" width="114" height="115" align="right" border="1" />O Sandro Rodrigo Gasparoto fez duas importantes contribuições no miniTruco: uma nova estratégia para a CPU e frases mais bacanas para os balões, tornando-os mais variados e coerentes com o clima de uma mesa de truco.
 
 A nova versão pode ser baixada para o PC [na página de sempre][1] ou diretamente no ceular, acessando o endereço `m.chester.me`.
 
