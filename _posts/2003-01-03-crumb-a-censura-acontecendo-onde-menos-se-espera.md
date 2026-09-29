@@ -21,144 +21,53 @@ Pode ser que a Porrada tenha pirateado o material da revista espanhola, sem sabe
 
 Seguem alguns quadrinhos das duas publicações &#8211; a qualidade da digitalização deixa a desejar, mas o conteúdo não deixa dúvida alguma.
 
-<table border="0" cellspacing="0" cellpadding="0" width="510" align="center">
+<table border="0" cellspacing="0" cellpadding="6" width="510" align="center">
   <tr>
-    <td width="250" align="center">
-      <p class="mensagem">
-        <img src="/img/blig/capa_fritz.jpg" alt="" /><br /> R. Crumb: Fritz The Cat, 2002<br /> <strong>&#8220;sem censura&#8221;</strong></td> <td width="10">
-        </td>
-
-        <td width="250" align="center">
-          <p class="mensagem">
-            <img src="/img/blig/capa_porrada.jpg" alt="" /><br /> Porrada! no. 5, 1988<br /> <strong>&#8220;censurada&#8221;</strong></td> </tr> <tr>
-              <td colspan="3">
-              </td>
-            </tr>
-
-            <tr>
-              <td width="250" bgcolor="#c0c0c0">
-                <img src="/img/blig/fritz_1.jpg" alt="" />
-              </td>
-
-              <td width="10">
-              </td>
-
-              <td width="250" bgcolor="#c0c0c0">
-                <img src="/img/blig/porrada_1.jpg" alt="" />
-              </td>
-            </tr>
-
-            <tr>
-              <td colspan="3" align="center">
-                <p class="mensagem">
-                  &#8220;Você&#8221; virou &#8220;a pequena do vizinho&#8221;&#8230;
-                </p>
-              </td>
-            </tr>
-
-            <tr>
-              <td colspan="3">
-              </td>
-            </tr>
-
-            <tr>
-              <td width="250" bgcolor="#c0c0c0">
-                <img src="/img/blig/fritz_2.jpg" alt="" />
-              </td>
-
-              <td width="10">
-              </td>
-
-              <td width="250" bgcolor="#c0c0c0">
-                <img src="/img/blig/porrada_2.jpg" alt="" />
-              </td>
-            </tr>
-
-            <tr>
-              <td colspan="3" align="center">
-                <p class="mensagem">
-                  &#8230;e &#8220;maninha&#8221; também virou &#8220;pequena&#8221;.
-                </p>
-              </td>
-            </tr>
-
-            <tr>
-              <td colspan="3">
-              </td>
-            </tr>
-
-            <tr>
-              <td width="250" bgcolor="#c0c0c0">
-                <img src="/img/blig/fritz_3.jpg" alt="" />
-              </td>
-
-              <td width="10">
-              </td>
-
-              <td width="250" bgcolor="#c0c0c0">
-                <img src="/img/blig/porrada_3.jpg" alt="" />
-              </td>
-            </tr>
-
-            <tr>
-              <td colspan="3" align="center">
-                <p class="mensagem">
-                  &#8220;Namorados&#8221; é feio, né ? Melhor que a menina tenha &#8220;amiguinhos&#8221;.
-                </p>
-              </td>
-            </tr>
-
-            <tr>
-              <td colspan="3">
-              </td>
-            </tr>
-
-            <tr>
-              <td width="250" bgcolor="#c0c0c0">
-                <img src="/img/blig/fritz_4.jpg" alt="" />
-              </td>
-
-              <td width="10">
-              </td>
-
-              <td width="250" bgcolor="#c0c0c0">
-                <img src="/img/blig/porrada_4.jpg" alt="" />
-              </td>
-            </tr>
-
-            <tr>
-              <td colspan="3" align="center">
-                <p class="mensagem">
-                  Deram até um nome pra ela !
-                </p>
-              </td>
-            </tr>
-
-            <tr>
-              <td colspan="3">
-              </td>
-            </tr>
-
-            <tr>
-              <td width="250" bgcolor="#c0c0c0">
-                <img src="/img/blig/fritz_5.jpg" alt="" />
-              </td>
-
-              <td width="10">
-              </td>
-
-              <td width="250" bgcolor="#c0c0c0">
-                <img src="/img/blig/porrada_5.jpg" alt="" />
-              </td>
-            </tr>
-
-            <tr>
-              <td colspan="3" align="center">
-                <p class="mensagem">
-                  Pelo menos o final é um legitimo final Fritz, em ambas as edições.
-                </p>
-              </td>
-            </tr></tbody> </table>
+    <td width="250" style="text-align:center;border:0"><img src="/img/blig/capa_fritz.jpg" alt="" /><br /> R. Crumb: Fritz The Cat, 2002<br /> <strong>&#8220;sem censura&#8221;</strong></td>
+    <td width="10" style="border:0"></td>
+    <td width="250" style="text-align:center;border:0"><img src="/img/blig/capa_porrada.jpg" alt="" /><br /> Porrada! no. 5, 1988<br /> <strong>&#8220;censurada&#8221;</strong></td>
+  </tr>
+  <tr>
+    <td width="250" style="text-align:center;border:0"><img src="/img/blig/fritz_1.jpg" alt="" /></td>
+    <td width="10" style="border:0"></td>
+    <td width="250" style="text-align:center;border:0"><img src="/img/blig/porrada_1.jpg" alt="" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align:center;border:0">&#8220;Você&#8221; virou &#8220;a pequena do vizinho&#8221;&#8230;</td>
+  </tr>
+  <tr>
+    <td width="250" style="text-align:center;border:0"><img src="/img/blig/fritz_2.jpg" alt="" /></td>
+    <td width="10" style="border:0"></td>
+    <td width="250" style="text-align:center;border:0"><img src="/img/blig/porrada_2.jpg" alt="" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align:center;border:0">&#8230;e &#8220;maninha&#8221; também virou &#8220;pequena&#8221;.</td>
+  </tr>
+  <tr>
+    <td width="250" style="text-align:center;border:0"><img src="/img/blig/fritz_3.jpg" alt="" /></td>
+    <td width="10" style="border:0"></td>
+    <td width="250" style="text-align:center;border:0"><img src="/img/blig/porrada_3.jpg" alt="" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align:center;border:0">&#8220;Namorados&#8221; é feio, né ? Melhor que a menina tenha &#8220;amiguinhos&#8221;.</td>
+  </tr>
+  <tr>
+    <td width="250" style="text-align:center;border:0"><img src="/img/blig/fritz_4.jpg" alt="" /></td>
+    <td width="10" style="border:0"></td>
+    <td width="250" style="text-align:center;border:0"><img src="/img/blig/porrada_4.jpg" alt="" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align:center;border:0">Deram até um nome pra ela !</td>
+  </tr>
+  <tr>
+    <td width="250" style="text-align:center;border:0"><img src="/img/blig/fritz_5.jpg" alt="" /></td>
+    <td width="10" style="border:0"></td>
+    <td width="250" style="text-align:center;border:0"><img src="/img/blig/porrada_5.jpg" alt="" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align:center;border:0">Pelo menos o final é um legitimo final Fritz, em ambas as edições.</td>
+  </tr>
+</table>
 
  [1]: http://www.lojaconrad.com.br/produto.asp?id=139
  [2]: http://www.fnac.com.br/livros/Ficha.asp?cod=8587193805&menu=

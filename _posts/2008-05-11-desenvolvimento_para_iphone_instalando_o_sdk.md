@@ -20,12 +20,12 @@ Existem (pelo menos) três caminhos para construir aplicações para o iPhone:
 
     As desvantagens são as mesmas de qualquer aplicação web: acesso limitado ao sistema (dá pra saber se o fone está em pé ou deitado, fazer chamadas e acessar o Maps, mas não tem como ler o acelerômetro ou acionar o iPod, entre outras coisas) e a necessidade de estar online para usar a app (agravada no Brasil, onde a cobertura de WiFi é mais restrita e os planos de dados tornam caro usar o EDGE).
 
-    A facilidade de desenvolvimento, distribuição e instalação falam alto, tornando este caminho uma excelente opção para aplicações de uso casual, ou que dependam fortemente de recursos online (agregadores de dados, clientes/front-ends para sites e assemelhados).</li>
+    A facilidade de desenvolvimento, distribuição e instalação falam alto, tornando este caminho uma excelente opção para aplicações de uso casual, ou que dependam fortemente de recursos online (agregadores de dados, clientes/front-ends para sites e assemelhados).
 
     *   **Apple iPhone SDK**
         O [SDK da Apple][7] é tentador: o beta é baseado numa IDE amigável (XCode), e gera aplicações que irão rodar em qualquer iPhone &#8211; quando for lançado definitivamente. O mais provável é que elas sejam distribuídas via iTunes, viabilizando a venda de software a baixo custo.
 
-        Nem tudo são flores: é preciso se familiarizar com Objective C, e tudo o que for desenvolvido tem que ser aprovado pela Apple &#8211; que impõe [restrições][8] técnicas (nada de processos em segundo plano) e de domínio (p0rn está vetado). Além disso, o XCode só roda em Mac, e (o problema mais sério): ainda não é possível distribuir as aplicações.</li>
+        Nem tudo são flores: é preciso se familiarizar com Objective C, e tudo o que for desenvolvido tem que ser aprovado pela Apple &#8211; que impõe [restrições][8] técnicas (nada de processos em segundo plano) e de domínio (p0rn está vetado). Além disso, o XCode só roda em Mac, e (o problema mais sério): ainda não é possível distribuir as aplicações.
 
         *   **iphone-dev toolchain + installer.app**
             O [Installer][9] é uma aplicação conhecida de que tem iPhone desbloqueado: ele permite localizar e instalar centenas de pacotes de software gratuito (boa parte sendo software livre). Estes programas são criados, em sua maioria, através do iphone-dev toolchain &#8211; um kit baseado em ferramentas livres para desenvolvimento UNIX (essencialmente gcc/make, usando [llvm][10] para viabilizar a [compilação cruzada][11]) e empacotados em um [formato que o Installer.app entende][12].
