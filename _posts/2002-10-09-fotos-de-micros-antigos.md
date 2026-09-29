@@ -35,7 +35,7 @@ Depois de muitas velas acesas para São Backup (acompanhadas de romarias atravé
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="/img/micros/LASER.JPG" alt="" /><br /> <strong>Laser //c</strong>. Quando eu comprei, achei que era uma versão<br /> tupiniquim do Apple //c, mas internamente era um Apple ][+.<br /> Frustrante para quem já viu um TK3000//e Compact&#8230;
+  <img class="aligncenter" src="/img/micros/LASER.JPG" alt="" /><br /> <strong>Laser //c</strong>. Quando eu comprei, achei que era uma versão<br /> tupiniquim do Apple //c, mas internamente era um Apple ][+.<br /> Frustrante para quem já viu um TK 3000 //e Compact&#8230;
 </p>
 
 <p style="text-align: center;">

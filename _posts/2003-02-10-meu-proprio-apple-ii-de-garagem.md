@@ -11,7 +11,7 @@ categories:
   - retrocomputing
   - electronics
 ---
-<img src="/img/blig/tupperiigs.jpg" border="2" alt="Apple IIGS montado num gabinete de tupperware" align="right" />Correndo o risco de denunciar meus vinte e muitos anos, confesso que boa parte da minha formação como programador veio dos saudosos clones do Apple II (TK3000, Unitron AP II, etc.). Juntando o desejo de voltar a brincar com uma dessas máquinas com o sonho de moleque de ter um Apple II<tt>GS</tt> (modelo mais avançado que não chegou ao Brasil), resolvi comprar uma placa-mãe de IIGS no eBay (lá vendem o micro completo de baciada, mas o envio é proibitivo), improvisando um gabinete e adaptando periféricos de PC/Mac.
+<img src="/img/blig/tupperiigs.jpg" border="2" alt="Apple IIGS montado num gabinete de tupperware" align="right" />Correndo o risco de denunciar meus vinte e muitos anos, confesso que boa parte da minha formação como programador veio dos saudosos clones do Apple II (TK 3000, Unitron AP II, etc.). Juntando o desejo de voltar a brincar com uma dessas máquinas com o sonho de moleque de ter um Apple II<tt>GS</tt> (modelo mais avançado que não chegou ao Brasil), resolvi comprar uma placa-mãe de IIGS no eBay (lá vendem o micro completo de baciada, mas o envio é proibitivo), improvisando um gabinete e adaptando periféricos de PC/Mac.
 
 Sim, o &#8220;gabinete&#8221; é um daqueles recipientes plásticos de comida (&#8220;tupperware&#8221;, ou algo assim, no jargão da cozinha). Não é uma idéia original, nem a mais bizarra do planeta: o <a href="http://applefritter.com/hacks/desktops.html">Applefritter</a> mostra Macintoshes nos gabinetes mais bizarros, desde os montados com Lego até um aspirador de pó! Segue o artigo completo da montagem.
 <!--more-->
@@ -70,7 +70,7 @@ Optei pela versão mais simples (que não suporta auto-fire) e sem os potenciôm
 
 ## <img src="/img/micros/appleiigs/joy_teia.jpg" border="0" alt="" /> <img src="/img/micros/appleiigs/joy_teste.jpg" border="0" alt="" />
 
-## **Transferindo Software do PC para o Apple  
+## **Transferindo Software do PC para o Apple
 **
 
 O próximo passo foi ligar o Apple no PC, para poder usar no Apple os programas disponíveis na Internet. A porta serial do II<tt>GS</tt> usa um conector bizarro ([Mini-DIN8][6]). Depois de uma tentativa frustrada de montar um cabo, descobri que um cabo de impressora serial da Apple (Mini-DIN8 numa ponta e DB-25 na outra) funcionaria como cabo &#8220;null-modem&#8221; para ligar o Apple II no PC. Comprei o cabo no [site do fabricante][7] (peça pelo número: 10432) junto com um adaptador DB25-DB9 (no. 10223).
@@ -91,7 +91,7 @@ Também recomendo que você pegue [este outro][11] disquete de 5¼. Ele tem o Sh
 
 Uma vez resolvidas todas essas encrencas, achar software chega a ser tarefa fácil. Uma excelente fonte de programas clássicos é o [Asimov][13]. Também recomendo uma olhada [nestes][14] aqui, especialmente para jogos de II<tt>GS</tt>.
 
-## **Resultado Final e Screenshots  
+## **Resultado Final e Screenshots
 **
 
 A minha primeira idéia era dar um visual mais retrô. Mas o gabinete tem tanta semelhança com o estilo iMac que eu não resisti a decorá-lo apropriadamente.
