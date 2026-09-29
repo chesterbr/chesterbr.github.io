@@ -119,6 +119,19 @@ blockquote {
   font-style: italic;
 }
 
+/* Boxed aside for editor's notes, reader signposts, etc. Built on the color
+   tokens so it follows light/dark. Seeded here to replace the ad-hoc inline
+   banners scattered across older posts (see issue #207). */
+.callout {
+  background: var(--accent-soft);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 6px;
+  padding: 0.7em 1em;
+  margin-bottom: 1.2em;
+}
+.callout > :last-child { margin-bottom: 0; }
+
 table { border-collapse: collapse; width: 100%; }
 th, td { text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--border); }
 th { font-weight: 700; }

@@ -1,6 +1,7 @@
 ---
 locale: pt-BR
 title: Mr. t versus consultorias de ti
+description: 'A homemade “Mr. T versus…” photo-comic: Mr. T takes on Dilbert-style IT consultancies that talk big and deliver nothing.'
 layout: post
 comments: true
 permalink: /archives/2003/07/mr-t-versus-consultorias-de-ti.html/
@@ -10,6 +11,10 @@ redirect_from:
 categories:
   - mondo-bizarro
 ---
+<aside class="callout" markdown="1">
+**English readers:** [skip the Portuguese intro and jump to the story ↓]({{ page.url }}#more)
+</aside>
+
 Ah, as férias da USP&#8230; depois de um semestre usando todo o tempo livre para estudar, estou extrapolando todos os limites no que se refere a fazer coisas inúteis.
 
 Já <a href="/archives/2003/05/mr-t-versus-a-rapa.html/">mencionei</a> a existência dos sites &#8220;Mr. T versus &#8230;&#8221;, e resolvi criar o meu próprio. O alvo foram aquelas consultorias de TI estilo Dilbert que falam, falam e não fazem nada (mas cobram uma fortuna por isso).
