@@ -31,5 +31,5 @@ A minha predileta eu deixo sem resposta, quem quiser saber me procure pessoalmen
 
 Explique!!! :-)
 
-**UPDATE**: veja mais dessas charadas no <a href="https://web.archive.org/web/20120520135456/http://geniusbr.tripod.com/enigmas.html">Geniusland</a>
+**UPDATE**: veja mais dessas charadas no [Geniusland](https://web.archive.org/web/20120520135456/http://geniusbr.tripod.com/enigmas.html)
 

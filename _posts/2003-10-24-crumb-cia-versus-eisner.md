@@ -7,9 +7,9 @@ permalink: /archives/2003/10/crumb-cia-versus-eisner.html/
 categories:
   - comics
 ---
-Não vou me alongar demais explicando o que foi o Zap Comix (tem <a href="http://www.google.com/search?hl=&#038;cat=&#038;meta=&#038;q=zap+comix" >muito material</a> na Internet sobre o assunto). Como o gibi/fanzine influenciou meio mundo &#8211; incluindo o meio mundo que **me** influenciou &#8211; comprei assim que vi na frente (apesar do preço salgado, na faixa dos R$ 30).
+Não vou me alongar demais explicando o que foi o Zap Comix (tem [muito material](http://www.google.com/search?hl=&#038;cat=&#038;meta=&#038;q=zap+comix) na Internet sobre o assunto). Como o gibi/fanzine influenciou meio mundo &#8211; incluindo o meio mundo que **me** influenciou &#8211; comprei assim que vi na frente (apesar do preço salgado, na faixa dos R$ 30).
 
-Honestamente, foi um pouco frustrante. Claro, é bacana para quem gosta de quadrinhos e quer ir um pouco além do convencional &#8211; ainda mais pelos textos introdutórios. Só que, em termos de diversão&#8230; sei lá, ficou bem atrás, por exemplo, da coletânea <a href="/archives/2003/01/crumb-a-censura-acontecendo-onde-menos-se-espera.html/">R. Crumb: Fritz the Cat</a>, da mesma editora (Conrad), ou de outros quadrinhos do Shelton &#8211; por exemplo, &#8220;As Aventuras dos Fabulosos Freak Brothers&#8221; (outra ótima edição, embora um pouco difícil de achar).
+Honestamente, foi um pouco frustrante. Claro, é bacana para quem gosta de quadrinhos e quer ir um pouco além do convencional &#8211; ainda mais pelos textos introdutórios. Só que, em termos de diversão&#8230; sei lá, ficou bem atrás, por exemplo, da coletânea [R. Crumb: Fritz the Cat](/archives/2003/01/crumb-a-censura-acontecendo-onde-menos-se-espera.html/), da mesma editora (Conrad), ou de outros quadrinhos do Shelton &#8211; por exemplo, &#8220;As Aventuras dos Fabulosos Freak Brothers&#8221; (outra ótima edição, embora um pouco difícil de achar).
 
 <!--more-->
 

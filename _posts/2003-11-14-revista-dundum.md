@@ -11,7 +11,7 @@ categories:
 
 <!--more-->
 
-Não sei se chegou a ser distribuída no resto do país &#8211; se foi, eu nunca vi. Mas o site das <a href="http://www.tonto.com.br" >Edições Tonto</a> &#8211; que já me tornava um ser mais feliz com as tiras do Allan Sieber &#8211; tem uma <a href="http://www.tonto.com.br/pedidos.htm" >página de compras</a> que permite adquirir todas as (três) edições da Dundum. E foi o que eu fiz (num processo não exatamente automático, mas no qual fui muito bem atendido).
+Não sei se chegou a ser distribuída no resto do país &#8211; se foi, eu nunca vi. Mas o site das [Edições Tonto](http://www.tonto.com.br) &#8211; que já me tornava um ser mais feliz com as tiras do Allan Sieber &#8211; tem uma [página de compras](http://www.tonto.com.br/pedidos.htm) que permite adquirir todas as (três) edições da Dundum. E foi o que eu fiz (num processo não exatamente automático, mas no qual fui muito bem atendido).
 
 A revista, antes de tudo, é mais uma demonstração da auto-suficiência cultural do Rio Grande do Sul &#8211; que muitas vezes é injustamente confundida com bairrismo (em outras tantas é bairrismo mesmo, mas esse é outro assunto). Ao mesmo tempo que se sente a influência forte de revistas como Animal e Chiclete com Banana, a Dundum tem o seu sotaque próprio, que fica mais evidente a partir da terceira edição.
 

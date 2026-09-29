@@ -8,7 +8,7 @@ categories:
   - atari-2600
   - software
 ---
-<img src="/img/blig/atari_adventure2.gif" alt="" align="left" hspace="2" />Certa vez escrevi um <a href="http://web.archive.org/web/20040219110128/http://fliperama.ig.com.br/emuladores/atari/program/index.html">artigo</a> sobre desenvolvimento de jogos para o videogame Atari 2600. Vira e mexe alguém quer mais informações sobre desenvolvimento pra Atari, e eu costumo recomendar o [Stella][2] &#8211; uma espécie de &#8220;manual oficial do desenvolvedor&#8221; &#8211; além de alguma coisa sobre Assembly 6502 (que você acha fácil no Google ou em sebos).
+<img src="/img/blig/atari_adventure2.gif" alt="" align="left" hspace="2" />Certa vez escrevi um [artigo](http://web.archive.org/web/20040219110128/http://fliperama.ig.com.br/emuladores/atari/program/index.html) sobre desenvolvimento de jogos para o videogame Atari 2600. Vira e mexe alguém quer mais informações sobre desenvolvimento pra Atari, e eu costumo recomendar o [Stella][2] &#8211; uma espécie de &#8220;manual oficial do desenvolvedor&#8221; &#8211; além de alguma coisa sobre Assembly 6502 (que você acha fácil no Google ou em sebos).
 
 Da última vez que eu fui procurar, me deparei com um [site][3] que traz o código-fonte comentado (através de um paciente trabalho de engenharia reversa) de jogos como Combat, Freeway e Adventure. Passei uma hora divertidíssima (ok, diversão de nerd) lendo este último de cabo a rabo. Conclusão óbvia, mas indiscutível: esse [Warren Robinett][4] (autor do jogo) é um gênio. De marca maior.
 
