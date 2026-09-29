@@ -38,7 +38,7 @@ Screenshots:
 
 <p style="text-align:center">
   <a href="/minitruco"><img border="0" alt="veja esta página em português" src="/img/brflag.gif" /><br />Esta página em Português</a>
-</p></p>
+</p>
 
  [1]: /deploy/miniTruco.jar
  [2]: /deploy/miniTruco.jad

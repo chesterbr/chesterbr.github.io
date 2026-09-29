@@ -12,6 +12,6 @@ Eu não sabia que existiam &#8211; nem que eram até mais divertidas que o desen
 
 <div align="center">
   <img title="Tira dos Rugrats, mostrando os gêmeos Phil e Lil" src="/archives/img/rg101399.gif" width="580" height="180" />
-</div></p>
+</div>
 
  [1]: http://www.rugratonline.com/rrstrarc.htm

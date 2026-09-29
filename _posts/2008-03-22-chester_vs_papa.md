@@ -28,7 +28,6 @@ Embora eu oscile entre o ateísmo e o agnosticismo (o que, funcionalmente, dá n
 
 
 *   <u>Violação dos Direitos Fundamentais da Natureza Humana</u> &#8211; Tá, isso provavelmente é um eufemsimo anti-aborto (assunto que eu me recuso a discutir com qualquer um que não tenha lido o [texto seminal do Carl Sagan][2] a esse respeito), mas vamos falar de direitos humanos: Alguém já ouviu falar da inquisição? (pela qual o Papa anterior pediu perdão, mas no que dependesse desse voltava em majestade e glória) E do direito ao planejamento familiar? (até algumas constituições, como a nossa, o qualificam como direito humano) E da liberdade de culto? (vai falar em ateísmo ou satanismo nesses círculos pra ver o quanto dura a suposta liberdade que pregam) A lista é interminável, o que nos leva ao placar final&#8230;
-</ul>
 
 
 <div style="text-align: center;">

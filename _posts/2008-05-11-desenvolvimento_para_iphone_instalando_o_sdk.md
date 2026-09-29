@@ -22,15 +22,15 @@ Existem (pelo menos) três caminhos para construir aplicações para o iPhone:
 
     A facilidade de desenvolvimento, distribuição e instalação falam alto, tornando este caminho uma excelente opção para aplicações de uso casual, ou que dependam fortemente de recursos online (agregadores de dados, clientes/front-ends para sites e assemelhados).</li>
 
-    *   **Apple iPhone SDK**</p>
+    *   **Apple iPhone SDK**
         O [SDK da Apple][7] é tentador: o beta é baseado numa IDE amigável (XCode), e gera aplicações que irão rodar em qualquer iPhone &#8211; quando for lançado definitivamente. O mais provável é que elas sejam distribuídas via iTunes, viabilizando a venda de software a baixo custo.
 
         Nem tudo são flores: é preciso se familiarizar com Objective C, e tudo o que for desenvolvido tem que ser aprovado pela Apple &#8211; que impõe [restrições][8] técnicas (nada de processos em segundo plano) e de domínio (p0rn está vetado). Além disso, o XCode só roda em Mac, e (o problema mais sério): ainda não é possível distribuir as aplicações.</li>
 
-        *   **iphone-dev toolchain + installer.app**</p>
+        *   **iphone-dev toolchain + installer.app**
             O [Installer][9] é uma aplicação conhecida de que tem iPhone desbloqueado: ele permite localizar e instalar centenas de pacotes de software gratuito (boa parte sendo software livre). Estes programas são criados, em sua maioria, através do iphone-dev toolchain &#8211; um kit baseado em ferramentas livres para desenvolvimento UNIX (essencialmente gcc/make, usando [llvm][10] para viabilizar a [compilação cruzada][11]) e empacotados em um [formato que o Installer.app entende][12].
 
-            A única restrição é que o usuário tem que ter um iPhone [desbloqueado][13]. Você também fica sujeito ao esquema de distribuição do Installer &#8211; um pequeno risco a correr, mas é razoável crer que continuará funcionando no futuro, e que será menos restrito que a proposta da Apple. </li> </ul>
+            A única restrição é que o usuário tem que ter um iPhone [desbloqueado][13]. Você também fica sujeito ao esquema de distribuição do Installer &#8211; um pequeno risco a correr, mas é razoável crer que continuará funcionando no futuro, e que será menos restrito que a proposta da Apple.
             Para começar a brincar eu optei pela terceira via. É um caminho meio tortuoso, já que é preciso baixar/compilar todo o software do qual o iphone-dev depende. Na real eu descobri (meio tardiamente) que é possível baixar o <a class="dead-link" title="este link morreu" href="http://www.zdziarski.com/iphone/">toolchain pré-compilado para Mac OS X Leopard</a><span class="dead-link-mark">†</span> &#8211; mas compilar ainda é o único caminho para quem usa Windows/Linux/Mac OS X Tiger.
 
             Teoricamente basta seguir o [passo-a-passo oficial][15] &#8211; na prática, a teoria é outra. Por exemplo, eu já tinha o llvm instalado via [DarwinPorts][16], mas a ferramenta exige uma versão em particular, então tive que desinstalar primeiro. Da mesma forma, para compilar o odcctools foi preciso prestar atenção ao [issue 31][17]. De fato, a [lista de issues][18] ajuda um bocado nessas horas.

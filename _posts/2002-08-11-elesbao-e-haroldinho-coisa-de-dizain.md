@@ -19,7 +19,7 @@ Manda pra vala o tal do JarJar&#8230;*
 Indispensável, não? Tem mais: a &#8220;Montagem do Dizáin&#8221; traz pérolas do gênero:
 
 *&#8230;Eu uso PageMaker, eu uso PhotoShop
-Tu gosta de CorelDraw, então pra mim tu é X9</p>
+Tu gosta de CorelDraw, então pra mim tu é X9
 Manjo lineatura, manjo fechar arquivo
 Elesbão e Haroldinho é o terror no fotolito&#8230;
 

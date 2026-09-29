@@ -15,8 +15,6 @@ Por ser o autor quem é, eu esperava um enfoque maior nos quadrinhos Disney, mas
 
 Fora isso, li <a href="http://www.omelete.com.br/quadrinhos/news/base\_para\_news.asp?artigo=5862" >Shaman King</a> (que me surpreendeu, vou acompanhar na certa) e o <a class="dead-link" title="este link morreu" href="http://www.universohq.com/quadrinhos/n12102002_05.cfm" >A Última Noite de Casanova</a><span class="dead-link-mark">†</span>, de Hunt Emerson (anunciado na contra-capa da Crocodilo 2). Tá certo que nunca fui muito fã do Emerson (pelo menos não tanto quanto de Crumb, Shelton e cia.), mas não entendi o auê em torno dessa edição. Achei ok.
 
-</tr> </table>
 
 
 
-<table width="100"% border=0 cellspacing=0 cellpadding=0>

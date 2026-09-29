@@ -120,7 +120,7 @@ The following notifications are error notifications. They are all variations of 
 **X NE** Name already in use
 **X JO** Tried to do out-of-game action while in-game
 **X JI** Invalid player (position) &#8211; player must range from 1 to 4
-**X NO** Can&#8217;t do that action until you set a nickname</p>
+**X NO** Can&#8217;t do that action until you set a nickname
 
 A final note: O and V commands were created with mobile phones in mind. Desktop implementations can have more clever interfaces (e.g., drag-and-drop to position players) and send a seuqence of O/V commands to position them after a change (both generate I notifications, so the last notification will reflect the final situation). In fact, feel free to create better metaphors for current concepts (such as &#8220;rooms&#8221;) &#8211; they were created with mobile phones in mind.
 

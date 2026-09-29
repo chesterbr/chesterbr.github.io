@@ -11,8 +11,5 @@ Fui assistir a <a href="http://www.sescsp.org.br/sesc/revistas/sesc/artigo.cfm?A
 
 O começo deixa um pouco a desejar &#8211; tanto o cenário quanto o elo entre as histórias são um pouco difíceis de situar, apesar (ou por causa) do esmero na produção. Contudo, assim que o cenário muda para a Dropsie Avenue, a história entra nos eixos. O resultado final é uma peça divertida, especialmente para fãs do Eisner. Os figurinos dão um show a parte: o Gerhard Shnobble e o síndico do edifício da avendia Dropsie, entre outros, são encarnações fantásticas do &#8220;jeito Eisner&#8221; de retratar tipos comuns. Sozinhos já valem o espetáculo.
 
-</tr> </table>
 
 
-
-<table width="100"% border=0 cellspacing=0 cellpadding=0>

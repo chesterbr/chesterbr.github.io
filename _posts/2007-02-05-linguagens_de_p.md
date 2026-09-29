@@ -25,7 +25,7 @@ Independente da justificação prática, achei que seria interessante aproveitar
 <table cellspacing="0" cellpadding="0" border="0" width="98%">
   <tr>
     <td>
-      <b>A Little Smalltalk</b></p> <p>
+      <b>A Little Smalltalk</b> <p>
         <img title="A Little Smalltalk (capa)" src="/archives/img/smalltalk.jpg" width="120" height="150" border="1" align="left" style="margin-right:2px" />Se você, programador Java, já se perguntou por que a classe-mãe-de-todas-as-classes se chama Object (e não &#8220;Class&#8221;), ou porque chamamos o paradigma de &#8220;orientação a objeto&#8221; (considerando que o desenho da aplicação acaba lidando mais com as classes do que com os objetos em si), aprender Smalltalk vai acender algumas luzes.
       </p>
 

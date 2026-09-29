@@ -14,7 +14,7 @@ Não consegui confirmar se é sério mesmo ou se é brincadeira &#8211; mas em q
 
 <div class="podcast">
   <a class="dead-link" title="este link morreu" href="/archives/podcast/pdC-2005-05-27.mp3">podcast</a><span class="dead-link-mark">†</span>
-</div></p>
+</div>
 
  [1]: http://www.stoneagescanners.com/edu/
  [2]: http://www.turdtwister.com

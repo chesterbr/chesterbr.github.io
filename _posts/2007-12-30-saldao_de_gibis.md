@@ -27,7 +27,7 @@ Se algum grupo de gibis te interessar, [me mande um e-mail][2] **contendo os seg
     *   Dinheiro;
     *   Depósito (ou DOC) no Unibanco;
     *   Paypal (neste caso, faça sua oferta em dólares, pra evitar discussões sobre câmbio).
-    *   Se você está disposto ou não a vir buscar aqui em casa (estou no bairro do Jaguaré, em São Paulo-SP);</ul>
+    *   Se você está disposto ou não a vir buscar aqui em casa (estou no bairro do Jaguaré, em São Paulo-SP);
     Aceitando ou recusando sua oferta, responderei ao e-mail. Se aceitar, retiro o item da lista, mando as instruções para pagamento e combinamos a entrega.
 
     Terá prioridade (e maior consideração em ofertas menores) quem:

@@ -8,7 +8,7 @@ comments: true
 permalink: /archives/2007/03/eu_faco_de_voce_1.html/
 categories:
 ---
-  <img title="Propaganda do incrível método de KUNG FU" src="/archives/img/kungfu.jpg" width="250" height="336" align="right" style="margin-left:4px" />No final dos anos 80 uma propaganda curiosa apareceu em praticamente todas as revistas. Tratava-se de um livro que ensinaria a qualquer pessoa a arte do KUNG FU (ênfase nas maiúsculas: não é Kung Fu, é KUNG FU!)</p> <p>
+  <img title="Propaganda do incrível método de KUNG FU" src="/archives/img/kungfu.jpg" width="250" height="336" align="right" style="margin-left:4px" />No final dos anos 80 uma propaganda curiosa apareceu em praticamente todas as revistas. Tratava-se de um livro que ensinaria a qualquer pessoa a arte do KUNG FU (ênfase nas maiúsculas: não é Kung Fu, é KUNG FU!) <p>
 Claro que toda propaganda exagera, mas essa chutava o balde: o livro o tornaria capaz de derrotar &#8220;dois, três ou até mesmo quatro experts em Judô ou Karatê, lutadores profissionais ou boxeadores (&#8230;) mesmo que você seja atacado sentado ou deitado, mesmo REPOUSANDO e ADORMECIDO e COMPLETAMENTE INDEFESO&#8221;.
   </p>
 
@@ -52,7 +52,7 @@ KUNG FU CHINÊS
 
   <div style="text-align:center; font-family:Times, Times New Roman, serif; font-weight:bold; font-size:120%">
 O verdadeiro Kung Fu é tão secreto que só foi transmitido na China de pai para filho, devido ao seu FULGURANTE poder de paralisar o adversário e deixá-lo imediatamente inofensivo! Hoje estes extraordinários segredos de auto-defesa, que não requerem NEM FORÇA FÍSICA, NEM TREINAMENTOS ESPECIAIS são agora revelados em português por um mestre de KUNG-FU, que OUSA ensiná-los a você apesar dos seus riscos e perigos!
-  </div></p>
+  </div>
 
   <div style="background-color:yellow; border-style:solid; border-width:1px; padding:4px;">
 <div style="text-align:center; font-family:Times, Times New Roman, serif">

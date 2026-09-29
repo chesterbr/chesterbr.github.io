@@ -12,8 +12,6 @@ O artigo até é interessante, e a oportunidade de publicar na imprensa séria �
 
 Ah, vale lembrar que, além de ilustrar, o cara é músico das bandas <a href="http://thebeatless.hpg.ig.com.br" >The Beatless</a> e <a href="http://gram.mosva.com.br/" >GRAM</a>. A primeira eu já tive a oportunidade de ver ao vivo, e curti muito. Da segunda tem várias palhinhas no site, confira.
 
-</tr> </table>
 
 
 
-<table width="100"% border=0 cellspacing=0 cellpadding=0>

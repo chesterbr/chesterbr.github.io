@@ -111,7 +111,7 @@ Eu costumava desenhar na mão, mas usando uma planilha eletrônica moderna foi p
 
 *   Já as aspas simples eram preferidas porque, em Basic, as aspas duplas são reservadas como delimitadores de strings, obrigando o uso de uma seqüência de escape (que nem sei se existia no Turbo Basic) ou de concatenação (que consumiria tempo de desenvolvimento e memória). Ao contrário da questão do til, essa até daria para contornar, mas seria trabalhoso.
 
-*   Eu perdi o código fonte. Já na época não era exatamente um motivo de orgulho (ficou muito macarrônico no final, à medida em que eu me apressava pra terminar), mas hoje seria curioso dar uma olhada. Não sei se o código é passível de compilação reversa (e vai demorar para que eu tenha tempo e saco de desassemblar e dar uma fuçada), mas um compilador reverso de Turbo Basic 1.0 me divertiria um bocado se revelasse esse eco do passado.</ul>
+*   Eu perdi o código fonte. Já na época não era exatamente um motivo de orgulho (ficou muito macarrônico no final, à medida em que eu me apressava pra terminar), mas hoje seria curioso dar uma olhada. Não sei se o código é passível de compilação reversa (e vai demorar para que eu tenha tempo e saco de desassemblar e dar uma fuçada), mas um compilador reverso de Turbo Basic 1.0 me divertiria um bocado se revelasse esse eco do passado.
 
 ### Dicas apelativas <font color="red">(SPOILER &#8211; vai estragar algumas surpresas)</font>
 

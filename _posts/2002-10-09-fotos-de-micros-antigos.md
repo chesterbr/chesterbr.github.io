@@ -13,7 +13,6 @@ Depois de muitas velas acesas para São Backup (acompanhadas de romarias atravé
 <!--more-->
 
   Em 1998 eu colecionava micros de 8 bits. A coleção já era, mas ficaram as fotos:
-</p>
 
 <p style="text-align: center;">
   <img class="aligncenter" src="/img/micros/TK90X.JPG" alt="" width="398" height="278" /><br /> Meu <strong>TK90x</strong>, com algumas fitas e um cartucho com um chip de som<br /> bacana, que deixava o Tetris comparável ao do fliperama

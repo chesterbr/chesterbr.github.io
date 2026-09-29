@@ -13,7 +13,6 @@ categories:
 
 Não dá pra não comentar. Destaques:
 
-</p>
 *   Assim como os [dragões][2], os smurfs têm suas partes íntimas em formato humano (no caso, em cor humana);
 
 
@@ -24,7 +23,6 @@ Não dá pra não comentar. Destaques:
 
 
 *   Gargamel finalmente realizando seu sonho de &#8220;comer&#8221; um smurf.
-</ul>
 
 Ah, pra quem está achando que eu estou apelando muito ultimamente: não tenho culpa, muita bizarrice tá batendo no meu inbox. De qualquer forma, eu sou má influência mesmo (fico jogando [Bible Fight][3] o dia inteiro) &#8211; pra conhecer gente do bem e rir no paraíso quando eu estiver queimando, sugiro lugares como esse [orkut para meninos e meninas bonzinhos][4], olha que show.
 

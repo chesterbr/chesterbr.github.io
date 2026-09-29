@@ -25,7 +25,7 @@ Aí vai:
 * Um homem mora no 14o. andar de um prédio. Sempre que faz sol, ele usa as escadas para subir até seu apartamento. Quando chove, ele usa o elevador. (<a href="#" onclick="alert('O homem era um anão, e não alcançava os botões do elevador. Em dias chuvosos, ele lembrava de trazer o guarda-chuva quando saía, e usava-o para apertar os botões. Em dias de sol, era obrigado a usar a escada.')">explicação</a>)
 * Um homem faz uma viagem de trem até a capital, voltando alguns dias depois. No meio da viagem de volta, ele se mata (<a href="#" onclick="alert('O homem era cego. Ele foi à cidade fazer uma cirurgia pra curar a cegueira. Na viagem de volta, ele passou por um túnel longo, e pensou que estava cego novamente, ficou revoltado e se matou.')">explicação</a>)
 
-A minha predileta eu deixo sem resposta, quem quiser saber me procure pessoalmente (ou ainda: que tal tentar jogar por e-mail? Será que dá certo?):<ul class=mensagem>
+A minha predileta eu deixo sem resposta, quem quiser saber me procure pessoalmente (ou ainda: que tal tentar jogar por e-mail? Será que dá certo?):
 
 * Um homem está morto no meio de um deserto, nu, com um palito na mão.
 
