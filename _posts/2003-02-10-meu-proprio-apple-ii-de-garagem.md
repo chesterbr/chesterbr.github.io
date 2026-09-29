@@ -90,8 +90,9 @@ Arrumei um daqueles mouses quadradões de Mac, que eram os mesmos usados no II<t
 
 Optei pela versão mais simples (que não suporta auto-fire) e sem os potenciômetros de calibragem. Ainda por cima, fiz no esquema &#8220;teia de aranha&#8221; (soldando os componentes uns nos outros sem ponte de terminais ou placa de circuito). Parece desleixo, mas fazendo assim, pude colocar os dois resistores e dois capacitores dentro do conector de 15 pinos, ou seja, ficou apenas um cabo (que, de lambuja, funciona como extensão do controle).
 
-## <img src="/img/micros/appleiigs/joy_teia.jpg" border="0" alt="" /> <img src="/img/micros/appleiigs/joy_teste.jpg" border="0" alt="" />
-
+<p style="text-align: center;">
+  <img src="/img/micros/appleiigs/joy_teia.jpg" border="0" alt="" /> <img src="/img/micros/appleiigs/joy_teste.jpg" border="0" alt="" />
+</p>
 ## Transferindo Software do PC para o Apple
 
 O próximo passo foi ligar o Apple no PC, para poder usar no Apple os programas disponíveis na Internet. A porta serial do II<tt>GS</tt> usa um conector bizarro ([Mini-DIN8][6]). Depois de uma tentativa frustrada de montar um cabo, descobri que um cabo de impressora serial da Apple (Mini-DIN8 numa ponta e DB-25 na outra) funcionaria como cabo &#8220;null-modem&#8221; para ligar o Apple II no PC. Comprei o cabo no [site do fabricante][7] (peça pelo número: 10432) junto com um adaptador DB25-DB9 (no. 10223).
