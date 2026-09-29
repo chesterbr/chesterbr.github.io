@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Internet explorer: infelizmente não tem mais como usar'
+title: 'Internet Explorer: infelizmente não tem mais como usar'
 layout: post
 comments: true
 permalink: /archives/2005/01/internet-explorer-infelizmente-nao-tem-mais-como-usar.html/

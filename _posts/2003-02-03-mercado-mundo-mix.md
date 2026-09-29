@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Mercado mundo mix
+title: Mercado Mundo Mix
 layout: post
 comments: true
 permalink: /archives/2003/02/mercado-mundo-mix.html/

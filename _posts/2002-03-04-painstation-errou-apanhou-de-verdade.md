@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Painstation: errou, apanhou (de verdade)'
+title: 'PainStation: errou, apanhou (de verdade)'
 layout: post
 comments: true
 permalink: /archives/2002/03/painstation-errou-apanhou-de-verdade.html/

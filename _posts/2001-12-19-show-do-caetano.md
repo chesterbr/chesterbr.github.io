@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Show do caetano
+title: Show do Caetano
 layout: post
 comments: true
 permalink: /archives/2001/12/show-do-caetano.html/

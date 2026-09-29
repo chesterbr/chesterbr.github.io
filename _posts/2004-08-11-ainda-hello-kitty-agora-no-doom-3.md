@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Ainda hello kitty, agora no doom 3
+title: Ainda Hello Kitty, agora no Doom 3
 layout: post
 comments: true
 permalink: /archives/2004/08/ainda-hello-kitty-agora-no-doom-3.html/

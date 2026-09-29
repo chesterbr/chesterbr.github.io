@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: O vendedor de histórias
+title: O Vendedor de Histórias
 layout: post
 comments: true
 permalink: /archives/2004/09/o-vendedor-de-historias.html/

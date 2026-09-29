@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Código-fonte do windows
+title: Código-fonte do Windows
 layout: post
 comments: true
 permalink: /archives/2004/02/codigo-fonte-do-windows.html/

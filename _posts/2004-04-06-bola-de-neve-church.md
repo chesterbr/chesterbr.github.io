@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Bola de neve church
+title: Bola de Neve Church
 layout: post
 comments: true
 permalink: /archives/2004/04/bola-de-neve-church.html/

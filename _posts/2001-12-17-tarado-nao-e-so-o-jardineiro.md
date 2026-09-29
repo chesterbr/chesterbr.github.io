@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Tarado? não, é só o jardineiro
+title: Tarado? Não, é só o jardineiro
 layout: post
 comments: true
 permalink: /archives/2001/12/tarado-nao-e-so-o-jardineiro.html/

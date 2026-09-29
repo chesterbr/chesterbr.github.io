@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Outros videos com o eye toy
+title: Outros videos com o EyeToy
 layout: post
 comments: true
 permalink: /archives/2005/03/outros-videos-com-o-eye-toy.html/

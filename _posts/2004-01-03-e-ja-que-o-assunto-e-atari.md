@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'E já que o assunto é atari&#8230;'
+title: 'E já que o assunto é Atari&#8230;'
 layout: post
 comments: true
 permalink: /archives/2004/01/e-ja-que-o-assunto-e-atari.html/

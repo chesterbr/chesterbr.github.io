@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Boicote ao casseta e planeta
+title: Boicote ao Casseta e Planeta
 layout: post
 comments: true
 permalink: /archives/2003/11/boicote-ao-casseta-e-planeta.html/

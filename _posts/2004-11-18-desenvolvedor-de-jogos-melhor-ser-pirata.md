@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Desenvolvedor de jogos? melhor ser pirata!
+title: Desenvolvedor de jogos? Melhor ser pirata!
 layout: post
 comments: true
 permalink: /archives/2004/11/desenvolvedor-de-jogos-melhor-ser-pirata.html/

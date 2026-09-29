@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Red octane ignition 2.0 pad
+title: RedOctane Ignition 2.0 Pad
 layout: post
 comments: true
 permalink: /archives/2004/09/red-octane-ignition-2-0-pad.html/

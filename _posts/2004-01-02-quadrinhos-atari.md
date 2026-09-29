@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Quadrinhos atari
+title: Quadrinhos Atari
 layout: post
 comments: true
 permalink: /archives/2004/01/quadrinhos-atari.html/

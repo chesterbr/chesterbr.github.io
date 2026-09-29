@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: A princesa e o cavaleiro
+title: A Princesa e o Cavaleiro
 layout: post
 comments: true
 permalink: /archives/2002/10/a-princesa-e-o-cavaleiro.html/

@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Retrocrush
+title: retroCRUSH
 layout: post
 comments: true
 permalink: /archives/2003/11/retrocrush.html/

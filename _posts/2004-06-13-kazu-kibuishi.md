@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Kazu kibuishi
+title: Kazu Kibuishi
 layout: post
 comments: true
 permalink: /archives/2004/06/kazu-kibuishi.html/

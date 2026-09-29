@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Blog do hulk esmaga homenzinhos
+title: Blog do Hulk esmaga homenzinhos
 layout: post
 comments: true
 permalink: /archives/2005/01/blog-do-hulk-esmaga-homenzinhos.html/

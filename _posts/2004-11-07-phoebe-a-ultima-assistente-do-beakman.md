@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Phoebe, a última assistente do beakman
+title: Phoebe, a última assistente do Beakman
 layout: post
 comments: true
 permalink: /archives/2004/11/phoebe-a-ultima-assistente-do-beakman.html/

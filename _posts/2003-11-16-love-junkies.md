@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Love junkies
+title: Love Junkies
 layout: post
 comments: true
 permalink: /archives/2003/11/love-junkies.html/

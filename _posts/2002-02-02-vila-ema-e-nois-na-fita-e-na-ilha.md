@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Vila ema &#8211; é nóis na fita (e na ilha)'
+title: 'Vila Ema &#8211; é nóis na fita (e na ilha)'
 layout: post
 comments: true
 permalink: /archives/2002/02/vila-ema-e-nois-na-fita-e-na-ilha.html/

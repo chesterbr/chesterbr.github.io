@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Mr. t versus consultorias de ti
+title: Mr. T versus consultorias de TI
 description: 'A homemade “Mr. T versus…” photo-comic: Mr. T takes on Dilbert-style IT consultancies that talk big and deliver nothing.'
 layout: post
 comments: true

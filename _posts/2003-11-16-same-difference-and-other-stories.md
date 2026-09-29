@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Same difference and other stories
+title: Same Difference and other stories
 layout: post
 comments: true
 permalink: /archives/2003/11/same-difference-and-other-stories.html/

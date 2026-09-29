@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Bug no internet explorer 5.0
+title: Bug no Internet Explorer 5.0
 layout: post
 comments: true
 permalink: /archives/2004/01/bug-no-internet-explorer-5-0.html/

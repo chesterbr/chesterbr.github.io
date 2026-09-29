@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Brad templeton
+title: Brad Templeton
 layout: post
 comments: true
 permalink: /archives/2005/01/brad-templeton.html/

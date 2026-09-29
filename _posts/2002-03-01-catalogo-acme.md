@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Catálogo acme
+title: Catálogo ACME
 layout: post
 comments: true
 permalink: /archives/2002/03/catalogo-acme.html/

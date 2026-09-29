@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 5a. fest comix
+title: 5a. Fest Comix
 layout: post
 comments: true
 permalink: /archives/2003/02/5a-fest-comix.html/

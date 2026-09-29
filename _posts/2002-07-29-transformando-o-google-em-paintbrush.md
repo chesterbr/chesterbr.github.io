@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Transformando o google em paintbrush
+title: Transformando o Google em Paintbrush
 layout: post
 comments: true
 permalink: /archives/2002/07/transformando-o-google-em-paintbrush.html/

@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: 'Esquadrão classe a: para ouvir e colorir'
+title: 'Esquadrão Classe A: para ouvir e colorir'
 layout: post
 comments: true
 permalink: /archives/2004/01/esquadrao-classe-a-para-ouvir-e-colorir.html/

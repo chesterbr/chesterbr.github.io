@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Inclusão digital e a origem do linux
+title: Inclusão digital e a origem do Linux
 layout: post
 comments: true
 permalink: /archives/2003/12/inclusao-digital-e-a-origem-do-linux.html/

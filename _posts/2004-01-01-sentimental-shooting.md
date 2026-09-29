@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Sentimental (?) shooting
+title: Sentimental (?) Shooting
 layout: post
 comments: true
 permalink: /archives/2004/01/sentimental-shooting.html/

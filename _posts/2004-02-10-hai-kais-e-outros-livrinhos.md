@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Hai-kais e outros livrinhos
+title: Hai-Kais e outros livrinhos
 layout: post
 comments: true
 permalink: /archives/2004/02/hai-kais-e-outros-livrinhos.html/

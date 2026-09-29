@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Eye toy + ddr
+title: EyeToy + DDR
 layout: post
 comments: true
 permalink: /archives/2005/02/eye-toy-ddr.html/

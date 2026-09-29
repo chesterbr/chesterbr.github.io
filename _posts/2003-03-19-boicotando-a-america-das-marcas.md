@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Boicotando a américa das marcas
+title: Boicotando a América das marcas
 layout: post
 comments: true
 permalink: /archives/2003/03/boicotando-a-america-das-marcas.html/

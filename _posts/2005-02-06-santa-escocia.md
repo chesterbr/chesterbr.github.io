@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Santa escócia!
+title: Santa Escócia!
 layout: post
 comments: true
 permalink: /archives/2005/02/santa-escocia.html/

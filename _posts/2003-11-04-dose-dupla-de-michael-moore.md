@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Dose dupla de michael moore
+title: Dose dupla de Michael Moore
 layout: post
 comments: true
 permalink: /archives/2003/11/dose-dupla-de-michael-moore.html/

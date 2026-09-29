@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Gostou do software? então me apresenta sua irmã!
+title: Gostou do software? Então me apresenta sua irmã!
 layout: post
 comments: true
 permalink: /archives/2005/04/gostou-do-software-entao-me-apresenta-sua-irma.html/

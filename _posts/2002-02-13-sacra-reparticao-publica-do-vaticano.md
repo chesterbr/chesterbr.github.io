@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Sacra repartição pública do vaticano
+title: Sacra repartição pública do Vaticano
 layout: post
 comments: true
 permalink: /archives/2002/02/sacra-reparticao-publica-do-vaticano.html/

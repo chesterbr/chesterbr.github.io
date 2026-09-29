@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Camisinhas do kiss
+title: Camisinhas do Kiss
 layout: post
 comments: true
 permalink: /archives/2002/06/camisinhas-do-kiss.html/

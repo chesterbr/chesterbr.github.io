@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: Datas na wikipedia
+title: Datas na Wikipedia
 layout: post
 comments: true
 permalink: /archives/2004/10/datas-na-wikipedia.html/

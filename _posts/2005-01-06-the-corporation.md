@@ -1,6 +1,6 @@
 ---
 locale: pt-BR
-title: The corporation
+title: The Corporation
 layout: post
 comments: true
 permalink: /archives/2005/01/the-corporation.html/
