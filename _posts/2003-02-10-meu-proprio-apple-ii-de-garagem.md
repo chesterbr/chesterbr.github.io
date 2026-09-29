@@ -13,7 +13,7 @@ categories:
 ---
 <img src="/img/blig/tupperiigs.jpg" border="2" alt="Apple IIGS montado num gabinete de tupperware" align="right" />Correndo o risco de denunciar meus vinte e muitos anos, confesso que boa parte da minha formação como programador veio dos saudosos clones do Apple II (TK3000, Unitron AP II, etc.). Juntando o desejo de voltar a brincar com uma dessas máquinas com o sonho de moleque de ter um Apple II<tt>GS</tt> (modelo mais avançado que não chegou ao Brasil), resolvi comprar uma placa-mãe de IIGS no eBay (lá vendem o micro completo de baciada, mas o envio é proibitivo), improvisando um gabinete e adaptando periféricos de PC/Mac.
 
-Sim, o &#8220;gabinete&#8221; é um daqueles recipientes plásticos de comida (&#8220;tupperware&#8221;, ou algo assim, no jargão da cozinha). Não é uma idéia original, nem a mais bizarra do planeta: o <a href="http://applefritter.com/hacks/desktops.html""_blank">Applefritter</a> mostra Macintoshes nos gabinetes mais bizarros, desde os montados com Lego até um aspirador de pó! Segue o artigo completo da montagem.
+Sim, o &#8220;gabinete&#8221; é um daqueles recipientes plásticos de comida (&#8220;tupperware&#8221;, ou algo assim, no jargão da cozinha). Não é uma idéia original, nem a mais bizarra do planeta: o <a href="http://applefritter.com/hacks/desktops.html">Applefritter</a> mostra Macintoshes nos gabinetes mais bizarros, desde os montados com Lego até um aspirador de pó! Segue o artigo completo da montagem.
 <!--more-->
 
 ## **Montando o Apple II<tt>GS</tt>**
