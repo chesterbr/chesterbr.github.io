@@ -22,6 +22,8 @@ Já <a href="/archives/2003/05/mr-t-versus-a-rapa.html/">mencionei</a> a existê
 Um dia eu escrevo com mais seriedade sobre o assunto &#8211; agora eu só quero descarregar um pouco. A história está em inglês, como todas as <a href="http://www.sit.wisc.edu/~kljense3/MrTvs.html">outras</a> do Mr. T.
 <!--more-->
 
+* * *
+
 I got so pissed off for having to fix mistakes left by some &#8220;top five&#8221; IT consulting companies in recent times that I decided to use them in my first contribution to the &#8220;Mr. T Versus&#8221; scene (more details [here][1]).
 
 Images were mostly grabbed from other &#8220;Mr. T versus&#8221; sites (special credits to [Mr. T vs. Turok][2] for the last picture), and also from [Philip C. Robinson&#8217;s site][3]. The artwork is crappy, as it should be. Since English is not my first language (neither regular English nor Mr. T&#8217;s), there may be a few mistakes.
