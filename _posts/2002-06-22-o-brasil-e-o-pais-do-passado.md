@@ -3,7 +3,9 @@ locale: pt-BR
 title: O Brasil é o país do passado
 layout: post
 comments: true
-permalink: /archives/2002/06/o-brasil-e-o-pais-do-passado.html/
+permalink: /archives/2002/06/o-brasil-e-o-pais-do-passado/
+redirect_from:
+  - /archives/2002/06/o-brasil-e-o-pais-do-passado.html/
 categories:
 ---
 Me assusta um pouco quando praticamente todos os candidatos de peso desta eleição colocam o processo de industrialização do Brasil como prioridade sobre o incentivo à agricultura. Como "ser urbano", isso até me beneficia (ok, trabalho no setor de serviços, mas neste caso uma coisa puxa a outra), mas não acredito que seja o melhor para o país como um todo.

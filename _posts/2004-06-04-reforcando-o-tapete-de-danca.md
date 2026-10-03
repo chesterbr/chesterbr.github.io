@@ -3,8 +3,9 @@ locale: pt-BR
 title: Reforçando o tapete de dança
 layout: post
 comments: true
-permalink: /archives/2004/06/reforcando-o-tapete-de-danca.html/
+permalink: /archives/2004/06/reforcando-o-tapete-de-danca/
 redirect_from:
+  - /archives/2004/06/reforcando-o-tapete-de-danca.html/
   - /tapete/
   - /tapete.html/
 categories:

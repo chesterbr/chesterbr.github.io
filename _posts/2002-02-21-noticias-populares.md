@@ -3,7 +3,9 @@ locale: pt-BR
 title: Notícias populares
 layout: post
 comments: true
-permalink: /archives/2002/02/noticias-populares.html/
+permalink: /archives/2002/02/noticias-populares/
+redirect_from:
+  - /archives/2002/02/noticias-populares.html/
 categories:
   - mondo-bizarro
 ---

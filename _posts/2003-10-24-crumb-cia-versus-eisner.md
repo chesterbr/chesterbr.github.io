@@ -3,13 +3,15 @@ locale: pt-BR
 title: 'Crumb &#038; cia <i>versus</i> Eisner'
 layout: post
 comments: true
-permalink: /archives/2003/10/crumb-cia-versus-eisner.html/
+permalink: /archives/2003/10/crumb-cia-versus-eisner/
+redirect_from:
+  - /archives/2003/10/crumb-cia-versus-eisner.html/
 categories:
   - comics
 ---
 Não vou me alongar demais explicando o que foi o Zap Comix (tem [muito material](http://www.google.com/search?hl=&#038;cat=&#038;meta=&#038;q=zap+comix) na Internet sobre o assunto). Como o gibi/fanzine influenciou meio mundo – incluindo o meio mundo que **me** influenciou – comprei assim que vi na frente (apesar do preço salgado, na faixa dos R$ 30).
 
-Honestamente, foi um pouco frustrante. Claro, é bacana para quem gosta de quadrinhos e quer ir um pouco além do convencional – ainda mais pelos textos introdutórios. Só que, em termos de diversão... sei lá, ficou bem atrás, por exemplo, da coletânea [R. Crumb: Fritz the Cat](/archives/2003/01/crumb-a-censura-acontecendo-onde-menos-se-espera.html/), da mesma editora (Conrad), ou de outros quadrinhos do Shelton – por exemplo, "As Aventuras dos Fabulosos Freak Brothers" (outra ótima edição, embora um pouco difícil de achar).
+Honestamente, foi um pouco frustrante. Claro, é bacana para quem gosta de quadrinhos e quer ir um pouco além do convencional – ainda mais pelos textos introdutórios. Só que, em termos de diversão... sei lá, ficou bem atrás, por exemplo, da coletânea [R. Crumb: Fritz the Cat](/archives/2003/01/crumb-a-censura-acontecendo-onde-menos-se-espera/), da mesma editora (Conrad), ou de outros quadrinhos do Shelton – por exemplo, "As Aventuras dos Fabulosos Freak Brothers" (outra ótima edição, embora um pouco difícil de achar).
 
 <!--more-->
 

@@ -5,7 +5,9 @@ excerpt: |
     As versões americanas do DDR (Dance Dance Revolution) têm a vantagem de permitir que a gente conheça os artistas por trás de cada música - especialmente as interpretações diferenciadas das mais conhecidas. Por conta disso, fiquei sabendo que essa...
 layout: post
 comments: true
-permalink: /archives/2005/10/captain_jack_ga.html/
+permalink: /archives/2005/10/captain_jack_ga/
+redirect_from:
+  - /archives/2005/10/captain_jack_ga.html/
 categories:
 ---
 <img title="capjack.jpg" src="/archives/img/capjack.jpg" width="200" height="287" align="right" border="1" />

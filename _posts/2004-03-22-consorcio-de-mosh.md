@@ -3,7 +3,9 @@ locale: pt-BR
 title: Consórcio de mosh
 layout: post
 comments: true
-permalink: /archives/2004/03/consorcio-de-mosh.html/
+permalink: /archives/2004/03/consorcio-de-mosh/
+redirect_from:
+  - /archives/2004/03/consorcio-de-mosh.html/
 categories:
 ---
 <img src="/img/blig/mosh.jpg"  alt="mosh descontrolado" align="left">O amigo [Edu](http://www.stoneagescanners.com/edu) me trouxe à luz da triste constatação de que, chegando na curva dos 30 anos, corremos o sério risco de passar desta para a melhor sem jamais ter feito um "mosh" (movimento também conhecido como stage dive, que consiste em subir no palco durante um show de rock pesado e mergulhar no meio da platéia). Afinal, já quase não temos *mojo* suficiente para ir a um show desses, imagine reunir boa-vontade suficiente para correr tamanho risco de estatelamento.

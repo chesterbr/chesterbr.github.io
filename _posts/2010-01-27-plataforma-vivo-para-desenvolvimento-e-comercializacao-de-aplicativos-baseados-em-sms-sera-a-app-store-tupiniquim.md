@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Plataforma Vivo para desenvolvimento e comercialização de aplicativos baseados em SMS – será a App Store tupiniquim?'
 layout: post
 comments: true
-permalink: /archives/2010/01/plataforma-vivo-para-desenvolvimento-e-comercializacao-de-aplicativos-baseados-em-sms-sera-a-app-store-tupiniquim.html/
+permalink: /archives/2010/01/plataforma-vivo-para-desenvolvimento-e-comercializacao-de-aplicativos-baseados-em-sms-sera-a-app-store-tupiniquim/
+redirect_from:
+  - /archives/2010/01/plataforma-vivo-para-desenvolvimento-e-comercializacao-de-aplicativos-baseados-em-sms-sera-a-app-store-tupiniquim.html/
 categories:
   - software
 ---

@@ -3,7 +3,9 @@ locale: pt-BR
 title: Datas na Wikipedia
 layout: post
 comments: true
-permalink: /archives/2004/10/datas-na-wikipedia.html/
+permalink: /archives/2004/10/datas-na-wikipedia/
+redirect_from:
+  - /archives/2004/10/datas-na-wikipedia.html/
 categories:
 ---
 Eu não me ligo muito em datas, mas achei interessante quando descobri, quase por acaso, que a Wikipedia possui [uma página para cada dia do ano](http://en.wikipedia.org/wiki/Historical_anniversaries), na qual são listados fatos históricos, feriados e aniversariantes famosos. Sou outra pessoa agora que sei o sucrilhos foi patenteado no dia do meu aniversário...

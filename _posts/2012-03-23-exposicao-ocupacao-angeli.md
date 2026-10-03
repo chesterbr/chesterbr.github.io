@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Exposição: Ocupação Angeli'
 layout: post
 comments: true
-permalink: /archives/2012/03/exposicao-ocupacao-angeli.html/
+permalink: /archives/2012/03/exposicao-ocupacao-angeli/
+redirect_from:
+  - /archives/2012/03/exposicao-ocupacao-angeli.html/
 categories:
   - comics
 ---

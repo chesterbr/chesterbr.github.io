@@ -5,7 +5,9 @@ excerpt: |
     Drawn! é uma fonte constantemente atualizada de curiosidades para fãs de quadrinhos, cartuns, animação e arte seqüencial, mantida como blog de forma descompromissada por profissionais do setor. Poucos lugares cavariam coisas como os cartuns pré-Calvin do Bill Watterson ou esta...
 layout: post
 comments: true
-permalink: /archives/2007/12/drawn_the_illus.html/
+permalink: /archives/2007/12/drawn_the_illus/
+redirect_from:
+  - /archives/2007/12/drawn_the_illus.html/
 categories:
   - comics
 ---

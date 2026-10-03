@@ -5,7 +5,9 @@ excerpt: |
     Ok, eu já conhecia o quadrado mágico (aquela grade de números cujas somas ao longo de quaisquer linhas ou colunas dão o mesmo resultado). Mas nunca tinha ouvido falar do quadrado pan-mágico (que, além das somas na horizontal e na...
 layout: post
 comments: true
-permalink: /archives/2006/06/quadrados_magic.html/
+permalink: /archives/2006/06/quadrados_magic/
+redirect_from:
+  - /archives/2006/06/quadrados_magic.html/
 categories:
 ---
 <img title="Quadrado Mágico Antigo, 4x4" src="/archives/img/quadrado.jpg" width="170" height="175" align="left" border="1" />Ok, eu já conhecia o [quadrado mágico][1] (aquela grade de números cujas somas ao longo de quaisquer linhas ou colunas dão o mesmo resultado). Mas nunca tinha ouvido falar do [quadrado pan-mágico][2] (que, além das somas na horizontal e na vertical, soma o mesmo nas diagonais normais e naquelas que "dão a volta" no quadrado).

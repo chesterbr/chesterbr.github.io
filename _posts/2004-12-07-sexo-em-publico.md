@@ -3,7 +3,9 @@ locale: pt-BR
 title: Sexo em público
 layout: post
 comments: true
-permalink: /archives/2004/12/sexo-em-publico.html/
+permalink: /archives/2004/12/sexo-em-publico/
+redirect_from:
+  - /archives/2004/12/sexo-em-publico.html/
 categories:
   - mondo-bizarro
 ---

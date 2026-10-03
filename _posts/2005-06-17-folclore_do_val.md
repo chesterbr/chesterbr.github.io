@@ -5,7 +5,9 @@ excerpt: |
     Já que falei em Steve Jobs, aproveito para mencionar o Folklore.org, um site dedicado a contar histórias dos bastidores da Apple no conturbado início da década de 80. É divertidíssimo ler sobre as tensões geradas pelo comportamento irascível de Jobs...
 layout: post
 comments: true
-permalink: /archives/2005/06/folclore_do_val.html/
+permalink: /archives/2005/06/folclore_do_val/
+redirect_from:
+  - /archives/2005/06/folclore_do_val.html/
 categories:
   - retrocomputing
 ---

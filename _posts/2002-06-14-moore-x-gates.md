@@ -3,7 +3,9 @@ locale: pt-BR
 title: Moore x Gates
 layout: post
 comments: true
-permalink: /archives/2002/06/moore-x-gates.html/
+permalink: /archives/2002/06/moore-x-gates/
+redirect_from:
+  - /archives/2002/06/moore-x-gates.html/
 categories:
   - software
 ---

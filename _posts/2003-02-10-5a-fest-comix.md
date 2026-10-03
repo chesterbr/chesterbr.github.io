@@ -3,7 +3,9 @@ locale: pt-BR
 title: 5a. Fest Comix
 layout: post
 comments: true
-permalink: /archives/2003/02/5a-fest-comix.html/
+permalink: /archives/2003/02/5a-fest-comix/
+redirect_from:
+  - /archives/2003/02/5a-fest-comix.html/
 categories:
   - comics
 ---

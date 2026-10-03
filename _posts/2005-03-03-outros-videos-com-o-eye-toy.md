@@ -3,7 +3,9 @@ locale: pt-BR
 title: Outros videos com o EyeToy
 layout: post
 comments: true
-permalink: /archives/2005/03/outros-videos-com-o-eye-toy.html/
+permalink: /archives/2005/03/outros-videos-com-o-eye-toy/
+redirect_from:
+  - /archives/2005/03/outros-videos-com-o-eye-toy.html/
 categories:
 ---
 Parece que o vídeo que eu coloquei no Mondo Bizarro jogando o DDR 8th Mix no EyeToy realmente despertou a curiosidade das pessoas. Imaginei que seria engraçado para quem me conhece, mas não que fosse muito além disso (tanto que estou tendo dificuldades de banda para mantê-lo no ar). Fiquei encucado, pensando que eu fosse o único maluco a registrar um jogo no EyeToy, mas buscando na internet rapidamente vi que não. Eis alguns outros:

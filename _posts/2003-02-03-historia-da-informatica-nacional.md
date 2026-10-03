@@ -3,7 +3,9 @@ locale: pt-BR
 title: História da informática nacional
 layout: post
 comments: true
-permalink: /archives/2003/02/historia-da-informatica-nacional.html/
+permalink: /archives/2003/02/historia-da-informatica-nacional/
+redirect_from:
+  - /archives/2003/02/historia-da-informatica-nacional.html/
 categories:
   - retrocomputing
 ---

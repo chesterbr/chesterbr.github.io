@@ -3,7 +3,9 @@ locale: en
 title: Farewell Google Reader; Hello NewsBlur!
 layout: post
 comments: true
-permalink: /archives/2013/03/farewell-google-reader-hello-newsblur.html/
+permalink: /archives/2013/03/farewell-google-reader-hello-newsblur/
+redirect_from:
+  - /archives/2013/03/farewell-google-reader-hello-newsblur.html/
 categories:
   - software
 ---

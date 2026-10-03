@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Dakimakura – almofadas de abraçar (e sabe mais o que)'
 layout: post
 comments: true
-permalink: /archives/2004/02/dakimakura-almofadas-de-abracar-e-sabe-mais-o-que.html/
+permalink: /archives/2004/02/dakimakura-almofadas-de-abracar-e-sabe-mais-o-que/
+redirect_from:
+  - /archives/2004/02/dakimakura-almofadas-de-abracar-e-sabe-mais-o-que.html/
 categories:
 ---
 Apesar de o XBox não ter sido muito bem sucedido no Japão, a família "Dead or Alive" (jogos estrelados por garotas em biquinis apertados) vendeu bem nesta plataforma. E a Microsoft aproveitou para capitalizar, anunciando um console customizado para os fãs da série.

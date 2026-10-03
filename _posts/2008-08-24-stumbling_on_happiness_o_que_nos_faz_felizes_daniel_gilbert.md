@@ -5,7 +5,9 @@ excerpt: |
     Stumbling on Happiness é um dos livros mais interessantes que li este ano. O autor é professor de psicologia de Harvard, e aborda um dos temas mais espinhosos das ciências humanas: a felicidade (ou, mais especificamente: por que é tão...
 layout: post
 comments: true
-permalink: /archives/2008/08/stumbling_on_happiness_o_que_nos_faz_felizes_daniel_gilbert.html/
+permalink: /archives/2008/08/stumbling_on_happiness_o_que_nos_faz_felizes_daniel_gilbert/
+redirect_from:
+  - /archives/2008/08/stumbling_on_happiness_o_que_nos_faz_felizes_daniel_gilbert.html/
 categories:
   - books
 ---

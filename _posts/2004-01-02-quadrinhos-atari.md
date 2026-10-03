@@ -3,7 +3,9 @@ locale: pt-BR
 title: Quadrinhos Atari
 layout: post
 comments: true
-permalink: /archives/2004/01/quadrinhos-atari.html/
+permalink: /archives/2004/01/quadrinhos-atari/
+redirect_from:
+  - /archives/2004/01/quadrinhos-atari.html/
 categories:
   - comics
 ---

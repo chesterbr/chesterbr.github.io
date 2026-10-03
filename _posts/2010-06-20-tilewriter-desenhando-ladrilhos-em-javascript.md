@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'tilewriter – desenhando ladrilhos em JavaScript'
 layout: post
 comments: true
-permalink: /archives/2010/06/tilewriter-desenhando-ladrilhos-em-javascript.html/
+permalink: /archives/2010/06/tilewriter-desenhando-ladrilhos-em-javascript/
+redirect_from:
+  - /archives/2010/06/tilewriter-desenhando-ladrilhos-em-javascript.html/
 categories:
   - software
 ---

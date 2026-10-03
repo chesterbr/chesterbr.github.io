@@ -3,7 +3,9 @@ locale: en
 title: Powering a Raspberry Pi
 layout: post
 comments: true
-permalink: /archives/2013/04/powering-a-raspberry-pi.html/
+permalink: /archives/2013/04/powering-a-raspberry-pi/
+redirect_from:
+  - /archives/2013/04/powering-a-raspberry-pi.html/
 categories:
   - electronics
 ---

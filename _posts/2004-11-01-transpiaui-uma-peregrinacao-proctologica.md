@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Transpiauí: uma peregrinação proctológica'
 layout: post
 comments: true
-permalink: /archives/2004/11/transpiaui-uma-peregrinacao-proctologica.html/
+permalink: /archives/2004/11/transpiaui-uma-peregrinacao-proctologica/
+redirect_from:
+  - /archives/2004/11/transpiaui-uma-peregrinacao-proctologica.html/
 categories:
   - books
 ---

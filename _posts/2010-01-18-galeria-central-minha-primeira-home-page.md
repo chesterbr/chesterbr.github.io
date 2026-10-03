@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Galeria Central – minha primeira… err… “home page”'
 layout: post
 comments: true
-permalink: /archives/2010/01/galeria-central-minha-primeira-home-page.html/
+permalink: /archives/2010/01/galeria-central-minha-primeira-home-page/
+redirect_from:
+  - /archives/2010/01/galeria-central-minha-primeira-home-page.html/
 categories:
 ---
 [<img class="alignright size-medium wp-image-3573 right" src="/wp-content/uploads/2010/01/galeria-300x208.png" alt="" width="200" height="138" />][1]Depois que o Yahoo tirou o Geocities da tomada, todo aquele passado de [`<blink>`][2] e [`<marquee>`][3] que a galera das antigas escondia no fundo do armário digital passou a ser [retrô-cool][4].

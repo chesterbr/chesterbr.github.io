@@ -3,7 +3,9 @@ locale: pt-BR
 title: A Arte de Entrevistar Bem (Thaís Oyama)
 layout: post
 comments: true
-permalink: /archives/2010/04/a-arte-de-entrevistar-bem-thais-oyama.html/
+permalink: /archives/2010/04/a-arte-de-entrevistar-bem-thais-oyama/
+redirect_from:
+  - /archives/2010/04/a-arte-de-entrevistar-bem-thais-oyama.html/
 bb-custom-tags:
   - livros,jornalismo,entrevista
 categories:

@@ -3,7 +3,9 @@ locale: pt-BR
 title: Vai jogar assim no inferno
 layout: post
 comments: true
-permalink: /archives/2003/12/vai-jogar-assim-no-inferno.html/
+permalink: /archives/2003/12/vai-jogar-assim-no-inferno/
+redirect_from:
+  - /archives/2003/12/vai-jogar-assim-no-inferno.html/
 categories:
 ---
 <img src="/img/blig/smb3.jpg" align="left" alt='tela do Super Mario mostrando a façanha'>Como qualquer nerd da minha idade, eu joguei uma boa dose de Super Mario nos anos 90. De fato, eu ainda queimo o parco tempo livre no surreal [Warioware Inc.: Mega Microgame$][1] – mas isso é outro assunto.

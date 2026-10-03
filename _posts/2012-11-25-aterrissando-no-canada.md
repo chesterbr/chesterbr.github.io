@@ -3,7 +3,9 @@ locale: pt-BR
 title: Aterrissando no Canadá
 layout: post
 comments: true
-permalink: /archives/2012/11/aterrissando-no-canada.html/
+permalink: /archives/2012/11/aterrissando-no-canada/
+redirect_from:
+  - /archives/2012/11/aterrissando-no-canada.html/
 categories:
 ---
 [<img class="alignright size-full wp-image-7294" style="padding: 0px; border: 1px solid black !important;" title="Foto Original por Deaf Dude (clique para ver)" src="/wp-content/uploads/2012/11/canada_parachute.jpg" alt="Foto Original por Deaf Dude (clique para ver)" width="300" height="323" />][1]Mudar de país envolve um monte de pequenos detalhes. Assim como fiz no [post sobre o processo do visto de trabalho][2], estou colocando neste os passos que dei ao chegar no Canadá até me considerar estabelecido: tirar documentos, abrir conta em banco, arrumar uma casa e coisas do gênero.

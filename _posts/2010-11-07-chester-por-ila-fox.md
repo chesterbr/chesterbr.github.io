@@ -3,7 +3,9 @@ locale: pt-BR
 title: Chester, por Ila Fox
 layout: post
 comments: true
-permalink: /archives/2010/11/chester-por-ila-fox.html/
+permalink: /archives/2010/11/chester-por-ila-fox/
+redirect_from:
+  - /archives/2010/11/chester-por-ila-fox.html/
 categories:
 ---
 Já tem um tempo que eu queria voltar a ter uma ilustração para dar uma carinha mais simpática ao blog. Eu usava uma [caricatura][1] do [Serginho][2] (que ilustrava alguns artigos que escrevi para o [Último Segundo][3]) que é fantástica, mas retrata um Chester de dez anos, onze quilos e incontáveis cabelos atrás.

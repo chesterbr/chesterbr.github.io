@@ -5,7 +5,9 @@ excerpt: |
     Segue (um pouco atrasado) o apanhado geral do que rolou no mês. podcast...
 layout: post
 comments: true
-permalink: /archives/2005/07/podcast_julho20.html/
+permalink: /archives/2005/07/podcast_julho20/
+redirect_from:
+  - /archives/2005/07/podcast_julho20.html/
 categories:
 ---
 Segue (um pouco atrasado) o apanhado geral do que rolou no mês.

@@ -5,7 +5,9 @@ excerpt: |
     Eu ando por fora dos gostos da garotada: nunca assisti o desenho dos Quadrinhos Mágicos, e nem o Laboratório do Dequest. De videogames também estou fraco: não joguei nenhum jogo no Mega Driver, nem no Big Boy. Essas e outras...
 layout: post
 comments: true
-permalink: /archives/2007/04/laboratorio_do.html/
+permalink: /archives/2007/04/laboratorio_do/
+redirect_from:
+  - /archives/2007/04/laboratorio_do.html/
 categories:
 ---
 <img title="mm_detalhe.jpg" src="/archives/img/mm_detalhe.jpg" width="369" height="111" align="right" border="1" />Eu ando por fora dos gostos da garotada: nunca assisti o desenho dos [Quadrinhos Mágicos][1], e nem o [Laboratório do Dequest][2]. De videogames também estou fraco: não joguei nenhum jogo no [Mega Driver][3], nem no [Big Boy][4].

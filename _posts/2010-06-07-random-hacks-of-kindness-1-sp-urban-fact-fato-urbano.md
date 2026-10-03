@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Urban Fact (Fato Urbano) / RHoK #1 SP'
 layout: post
 comments: true
-permalink: /archives/2010/06/random-hacks-of-kindness-1-sp-urban-fact-fato-urbano.html/
+permalink: /archives/2010/06/random-hacks-of-kindness-1-sp-urban-fact-fato-urbano/
+redirect_from:
+  - /archives/2010/06/random-hacks-of-kindness-1-sp-urban-fact-fato-urbano.html/
 categories:
   - software
 ---

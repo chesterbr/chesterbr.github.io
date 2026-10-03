@@ -3,7 +3,9 @@ locale: pt-BR
 title: Festa no apê
 layout: post
 comments: true
-permalink: /archives/2005/01/festa-no-ape.html/
+permalink: /archives/2005/01/festa-no-ape/
+redirect_from:
+  - /archives/2005/01/festa-no-ape.html/
 categories:
 ---
 E vamos a outro [video tosco](http://65.75.136.90/%7Evaivc/vaivcap.zip) interessante (os [autores](http://www.vaivc.com/) têm outros, mas eu nem vi). Dessa vez é uma brincadeira com a música "Festa no ap", do cantor-entidade-intergalática Latino.

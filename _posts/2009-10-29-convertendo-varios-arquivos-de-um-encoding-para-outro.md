@@ -3,7 +3,9 @@ locale: pt-BR
 title: Convertendo vários arquivos de um encoding para outro
 layout: post
 comments: true
-permalink: /archives/2009/10/convertendo-varios-arquivos-de-um-encoding-para-outro.html/
+permalink: /archives/2009/10/convertendo-varios-arquivos-de-um-encoding-para-outro/
+redirect_from:
+  - /archives/2009/10/convertendo-varios-arquivos-de-um-encoding-para-outro.html/
 categories:
 ---
 Devem haver maneiras melhores de converter todos os arquivos numa pasta de um encoding para outro (no caso, MacRoman para UTF-8), mas essa funcionou, e achei por bem anotar/compartilhar:

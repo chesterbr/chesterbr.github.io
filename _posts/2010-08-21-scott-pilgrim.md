@@ -3,7 +3,9 @@ locale: pt-BR
 title: Scott Pilgrim
 layout: post
 comments: true
-permalink: /archives/2010/08/scott-pilgrim.html/
+permalink: /archives/2010/08/scott-pilgrim/
+redirect_from:
+  - /archives/2010/08/scott-pilgrim.html/
 categories:
   - comics
 ---

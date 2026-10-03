@@ -3,7 +3,9 @@ locale: pt-BR
 title: Plotter feito de sucata
 layout: post
 comments: true
-permalink: /archives/2004/05/plotter-feito-de-sucata.html/
+permalink: /archives/2004/05/plotter-feito-de-sucata/
+redirect_from:
+  - /archives/2004/05/plotter-feito-de-sucata.html/
 categories:
 ---
 <img src="/img/blig/plotter.jpg" border="1" alt="detalhe do plotter" align="left">Em 1970 e guaraná-com-rolha, os drives de disquete eram caríssimos, em grande parte por usarem componentes (chips) customizados. Steve Wozniak, o inventor do Apple II, usou de alguma criatividade para transferir parte do trabalho do hardware para o software, e montou um [drive](http://apple2history.org/history/ah05.html) com componentes de varejo.

@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Depois o meu site é que é inútil…'
 layout: post
 comments: true
-permalink: /archives/2002/02/depois-o-meu-site-e-que-e-inutil.html/
+permalink: /archives/2002/02/depois-o-meu-site-e-que-e-inutil/
+redirect_from:
+  - /archives/2002/02/depois-o-meu-site-e-que-e-inutil.html/
 categories:
 ---
 <table border="0" cellspacing="0" cellpadding="3" width="100%">

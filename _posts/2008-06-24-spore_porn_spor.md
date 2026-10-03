@@ -5,7 +5,9 @@ excerpt: |
     É sabido que, via de regra, toda tecnologia que pode ser usada com a bênção de seus detentores para a pornografia dá certo. Dentre os exemplos incluem-se o VHS, o DVD e a Internet. Quando não há porn (LaserDisc) ou...
 layout: post
 comments: true
-permalink: /archives/2008/06/spore_porn_spor.html/
+permalink: /archives/2008/06/spore_porn_spor/
+redirect_from:
+  - /archives/2008/06/spore_porn_spor.html/
 categories:
 ---
 É sabido que, via de regra, toda tecnologia que pode ser usada com a bênção de seus detentores para a pornografia dá certo. Dentre os exemplos incluem-se o VHS, o DVD e a Internet. Quando não há porn (LaserDisc) ou quando ele é combatido (Second Life), a tecnologia fracassa. É batata.

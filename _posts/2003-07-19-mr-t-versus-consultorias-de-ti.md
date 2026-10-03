@@ -4,8 +4,9 @@ title: Mr. T versus consultorias de TI
 description: 'A homemade “Mr. T versus…” photo-comic: Mr. T takes on Dilbert-style IT consultancies that talk big and deliver nothing.'
 layout: post
 comments: true
-permalink: /archives/2003/07/mr-t-versus-consultorias-de-ti.html/
+permalink: /archives/2003/07/mr-t-versus-consultorias-de-ti/
 redirect_from:
+  - /archives/2003/07/mr-t-versus-consultorias-de-ti.html/
   - /mrtversusitconsulting/
   - /mrtversusitconsulting.html/
 categories:
@@ -17,7 +18,7 @@ categories:
 
 Ah, as férias da USP... depois de um semestre usando todo o tempo livre para estudar, estou extrapolando todos os limites no que se refere a fazer coisas inúteis.
 
-Já <a href="/archives/2003/05/mr-t-versus-a-rapa.html/">mencionei</a> a existência dos sites "Mr. T versus ...", e resolvi criar o meu próprio. O alvo foram aquelas consultorias de TI estilo Dilbert que falam, falam e não fazem nada (mas cobram uma fortuna por isso).
+Já <a href="/archives/2003/05/mr-t-versus-a-rapa/">mencionei</a> a existência dos sites "Mr. T versus ...", e resolvi criar o meu próprio. O alvo foram aquelas consultorias de TI estilo Dilbert que falam, falam e não fazem nada (mas cobram uma fortuna por isso).
 
 Um dia eu escrevo com mais seriedade sobre o assunto – agora eu só quero descarregar um pouco. A história está em inglês, como todas as <a href="http://www.sit.wisc.edu/~kljense3/MrTvs.html">outras</a> do Mr. T.
 <!--more-->

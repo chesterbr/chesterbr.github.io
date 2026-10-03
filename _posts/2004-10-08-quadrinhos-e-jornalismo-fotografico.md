@@ -3,7 +3,9 @@ locale: pt-BR
 title: Quadrinhos e jornalismo fotográfico
 layout: post
 comments: true
-permalink: /archives/2004/10/quadrinhos-e-jornalismo-fotografico.html/
+permalink: /archives/2004/10/quadrinhos-e-jornalismo-fotografico/
+redirect_from:
+  - /archives/2004/10/quadrinhos-e-jornalismo-fotografico.html/
 categories:
   - comics
 ---

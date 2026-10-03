@@ -5,7 +5,9 @@ excerpt: |
     Acabo de descobrir que existe uma versão em português do HowStuffWorks, o site que se propõe a explicar os detalhes praticamente tudo: de bombas atômicas e tatuagens até a roupa do Batman. É um excelente complemento a fontes como a...
 layout: post
 comments: true
-permalink: /archives/2007/04/howstuffworks_e.html/
+permalink: /archives/2007/04/howstuffworks_e/
+redirect_from:
+  - /archives/2007/04/howstuffworks_e.html/
 categories:
 ---
 <img title="Logotipo do HowStuffWorks Brasil (Como as coisas funcionam)" src="/archives/img/howstuffworks.png" width="260" height="70" align="right" />Acabo de descobrir que existe uma [versão em português do HowStuffWorks][1], o site que se propõe a explicar os detalhes praticamente tudo: de [bombas atômicas][2] e [tatuagens][3] até a <a class="dead-link" title="este link morreu" href="http://ciencia.hsw.com.br/roupa-do-batman.htm">roupa do Batman</a><span class="dead-link-mark">†</span>. É um excelente complemento a fontes como a Wikipedia, oferecendo textos mais didáticos, livres dos limites naturalmente impostos pelo compromisso com a imparcialidade e pela edição coletiva.

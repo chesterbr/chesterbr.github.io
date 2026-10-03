@@ -3,7 +3,9 @@ locale: pt-BR
 title: Revista Dundum
 layout: post
 comments: true
-permalink: /archives/2003/11/revista-dundum.html/
+permalink: /archives/2003/11/revista-dundum/
+redirect_from:
+  - /archives/2003/11/revista-dundum.html/
 categories:
   - comics
 ---

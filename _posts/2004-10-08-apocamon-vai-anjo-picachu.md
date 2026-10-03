@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Apocamon: vai, anjo picachu'
 layout: post
 comments: true
-permalink: /archives/2004/10/apocamon-vai-anjo-picachu.html/
+permalink: /archives/2004/10/apocamon-vai-anjo-picachu/
+redirect_from:
+  - /archives/2004/10/apocamon-vai-anjo-picachu.html/
 categories:
   - comics
 ---

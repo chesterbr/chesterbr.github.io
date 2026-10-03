@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Revolution in the Valley: The Insanely Great Story of How the Mac Was Made'
 layout: post
 comments: true
-permalink: /archives/2011/01/revolution-in-the-valley-the-insanely-great-story-of-how-the-mac-was-made.html/
+permalink: /archives/2011/01/revolution-in-the-valley-the-insanely-great-story-of-how-the-mac-was-made/
+redirect_from:
+  - /archives/2011/01/revolution-in-the-valley-the-insanely-great-story-of-how-the-mac-was-made.html/
 categories:
   - retrocomputing
   - books

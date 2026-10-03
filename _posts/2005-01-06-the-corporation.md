@@ -3,7 +3,9 @@ locale: pt-BR
 title: The Corporation
 layout: post
 comments: true
-permalink: /archives/2005/01/the-corporation.html/
+permalink: /archives/2005/01/the-corporation/
+redirect_from:
+  - /archives/2005/01/the-corporation.html/
 categories:
 ---
 Nestes tempos em que documentários do calibre de [Tiros em Columbine](http://www.michaelmoore.com/books-films/bowlingforcolumbine/), <a class="dead-link" title="este link morreu" href="http://www.multirio.rj.gov.br/riomidia/por_noticia_home_topo.asp?id_noticia=1" >Super Size Me</a><span class="dead-link-mark">†</span> e [Farenheit 9/11](http://www1.uol.com.br/diversao/cannes2004/2004/05/17/ult2293u41.shl) chamam a atenção, é muito estranho que [The Corporation](http://www.zetafilmes.com.br/criticas/acorporacao.asp?pag=acorporacao) tenha tido tão pouco destaque.

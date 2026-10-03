@@ -3,7 +3,9 @@ locale: pt-BR
 title: Você mexeria com um hipopótamo?
 layout: post
 comments: true
-permalink: /archives/2001/11/voce-mexeria-com-um-hipopotamo.html/
+permalink: /archives/2001/11/voce-mexeria-com-um-hipopotamo/
+redirect_from:
+  - /archives/2001/11/voce-mexeria-com-um-hipopotamo.html/
 categories:
   - mondo-bizarro
 ---

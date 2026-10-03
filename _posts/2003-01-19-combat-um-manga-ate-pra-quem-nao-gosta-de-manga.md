@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Combat! – um mangá até pra quem não gosta de mangá'
 layout: post
 comments: true
-permalink: /archives/2003/01/combat-um-manga-ate-pra-quem-nao-gosta-de-manga.html/
+permalink: /archives/2003/01/combat-um-manga-ate-pra-quem-nao-gosta-de-manga/
+redirect_from:
+  - /archives/2003/01/combat-um-manga-ate-pra-quem-nao-gosta-de-manga.html/
 categories:
   - comics
 ---

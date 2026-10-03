@@ -3,7 +3,9 @@ locale: en
 title: u.nu URL shortener bookmarklet
 layout: post
 comments: true
-permalink: /archives/2010/02/u-nu-url-shortener-bookmarklet.html/
+permalink: /archives/2010/02/u-nu-url-shortener-bookmarklet/
+redirect_from:
+  - /archives/2010/02/u-nu-url-shortener-bookmarklet.html/
 categories:
   - software
 ---

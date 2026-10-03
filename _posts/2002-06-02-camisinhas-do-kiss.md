@@ -3,7 +3,9 @@ locale: pt-BR
 title: Camisinhas do Kiss
 layout: post
 comments: true
-permalink: /archives/2002/06/camisinhas-do-kiss.html/
+permalink: /archives/2002/06/camisinhas-do-kiss/
+redirect_from:
+  - /archives/2002/06/camisinhas-do-kiss.html/
 categories:
   - mondo-bizarro
 ---

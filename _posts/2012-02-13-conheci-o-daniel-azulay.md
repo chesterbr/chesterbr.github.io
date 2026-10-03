@@ -3,7 +3,9 @@ locale: pt-BR
 title: Conheci o Daniel Azulay!
 layout: post
 comments: true
-permalink: /archives/2012/02/conheci-o-daniel-azulay.html/
+permalink: /archives/2012/02/conheci-o-daniel-azulay/
+redirect_from:
+  - /archives/2012/02/conheci-o-daniel-azulay.html/
 categories:
 ---
 Se você cresceu nos anos 80, existe uma boa chance de ter assistido à [Turma do Lambe-Lambe][1] ou a algum outro programa estrelado pelo [Daniel Azulay][2], o desenhista, músico e professor de arte que apresentou o mundo mágico da expressão artística a tantas crianças nesta e em outras épocas. Ele morava quietinho num lugar muito especial das minhas memórias (e eu também sabia que ele mantém uma [oficina de desenho][3] no Rio), até que o [Ricbit][4] veio com a bomba: o Azulay [daria uma oficina de arte digital no final-de-semana][5], bem aqui em São Paulo!

@@ -3,7 +3,9 @@ locale: pt-BR
 title: Coding Dojo no Apontador
 layout: post
 comments: true
-permalink: /archives/2010/11/coding-dojo-no-apontador.html/
+permalink: /archives/2010/11/coding-dojo-no-apontador/
+redirect_from:
+  - /archives/2010/11/coding-dojo-no-apontador.html/
 categories:
   - software
 ---

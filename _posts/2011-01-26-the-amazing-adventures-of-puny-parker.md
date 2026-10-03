@@ -3,7 +3,9 @@ locale: pt-BR
 title: The Amazing Adventures of Puny Parker
 layout: post
 comments: true
-permalink: /archives/2011/01/the-amazing-adventures-of-puny-parker.html/
+permalink: /archives/2011/01/the-amazing-adventures-of-puny-parker/
+redirect_from:
+  - /archives/2011/01/the-amazing-adventures-of-puny-parker.html/
 categories:
   - comics
 ---

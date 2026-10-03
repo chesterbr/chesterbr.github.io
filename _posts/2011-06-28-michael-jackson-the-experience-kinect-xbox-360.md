@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Michael Jackson: The Experience – Kinect (XBox 360)'
 layout: post
 comments: true
-permalink: /archives/2011/06/michael-jackson-the-experience-kinect-xbox-360.html/
+permalink: /archives/2011/06/michael-jackson-the-experience-kinect-xbox-360/
+redirect_from:
+  - /archives/2011/06/michael-jackson-the-experience-kinect-xbox-360.html/
 categories:
 ---
 O Dance Central foi o motivo pelo qual eu comprei o Kinect (e o XBox 360). É um jogo divertido, mas peca em pequenos aspectos – sem dúvida por conta do pioneirismo. Esses pecadilhos ficaram evidentes no último fim-de-semana, quando comprei o [Michael Jackson: The Experience][2]. O jogo vai na mesma linha do DC, mas (claro) com músicas do MJ, e uma interface **muito** mais bem acabada. Diferença notável: no Dance Central, os dançarinos virtuais ocupam toda a tela, mostrando sua silhueta como um detalhe num canto. Neste jogo, você (ou: sua versão translúcida e purpurinada) é o centro das atenções.

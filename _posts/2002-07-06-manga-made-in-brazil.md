@@ -3,7 +3,9 @@ locale: pt-BR
 title: Mangá made in brazil
 layout: post
 comments: true
-permalink: /archives/2002/07/manga-made-in-brazil.html/
+permalink: /archives/2002/07/manga-made-in-brazil/
+redirect_from:
+  - /archives/2002/07/manga-made-in-brazil.html/
 categories:
   - comics
 ---

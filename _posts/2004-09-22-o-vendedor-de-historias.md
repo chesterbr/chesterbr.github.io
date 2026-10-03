@@ -3,7 +3,9 @@ locale: pt-BR
 title: O Vendedor de Histórias
 layout: post
 comments: true
-permalink: /archives/2004/09/o-vendedor-de-historias.html/
+permalink: /archives/2004/09/o-vendedor-de-historias/
+redirect_from:
+  - /archives/2004/09/o-vendedor-de-historias.html/
 categories:
   - books
 ---

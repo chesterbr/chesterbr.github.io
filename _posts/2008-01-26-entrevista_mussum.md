@@ -5,7 +5,9 @@ excerpt: |
     A revista Casseta Popular nº 47 (de Outubro de 1991) apresenta esta pérola: uma entrevista com ninguém menos que Antonio Carlos, o Mussum (o link mostra ele, Tião Macalé e Didi salvando uma piada horrenda com atuações e gags impagáveis)....
 layout: post
 comments: true
-permalink: /archives/2008/01/entrevista_mussum.html/
+permalink: /archives/2008/01/entrevista_mussum/
+redirect_from:
+  - /archives/2008/01/entrevista_mussum.html/
 categories:
 ---
 <img class="mt-image-left" style="float: left;margin: 0 20px 20px 0" src="/archives/img/mussum.jpg" alt="" width="155" height="232" />A revista [Casseta Popular][1] nº 47 (de Outubro de 1991) apresenta esta pérola: uma entrevista com ninguém menos que [Antonio Carlos, o Mussum][2] (o link mostra ele, Tião Macalé e Didi salvando uma piada horrenda com atuações e *gags* impagáveis).

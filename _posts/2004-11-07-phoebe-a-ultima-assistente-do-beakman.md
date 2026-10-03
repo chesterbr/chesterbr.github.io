@@ -3,7 +3,9 @@ locale: pt-BR
 title: Phoebe, a última assistente do Beakman
 layout: post
 comments: true
-permalink: /archives/2004/11/phoebe-a-ultima-assistente-do-beakman.html/
+permalink: /archives/2004/11/phoebe-a-ultima-assistente-do-beakman/
+redirect_from:
+  - /archives/2004/11/phoebe-a-ultima-assistente-do-beakman.html/
 categories:
 ---
 <img class=" right alignright" style="border: 1px solid black;" title="Phoebe (Senta Moses)" src="/img/blig/phoebe.jpg" alt="Phoebe (Senta Moses)" width="300" height="200" />Saudosismo não é comigo (tenho memória de peixe e uma imensa vontade de viver o agora), mas certas paixões do passado acabam voltando (especialmente quando do presente não ajudam).

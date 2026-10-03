@@ -3,7 +3,9 @@ locale: pt-BR
 title: Android Developer Lab Bootcamp
 layout: post
 comments: true
-permalink: /archives/2010/10/android-developer-lab-bootcamp.html/
+permalink: /archives/2010/10/android-developer-lab-bootcamp/
+redirect_from:
+  - /archives/2010/10/android-developer-lab-bootcamp.html/
 categories:
   - software
 ---

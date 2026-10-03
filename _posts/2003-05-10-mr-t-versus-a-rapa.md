@@ -3,7 +3,9 @@ locale: pt-BR
 title: Mr. T versus a rapa
 layout: post
 comments: true
-permalink: /archives/2003/05/mr-t-versus-a-rapa.html/
+permalink: /archives/2003/05/mr-t-versus-a-rapa/
+redirect_from:
+  - /archives/2003/05/mr-t-versus-a-rapa.html/
 categories:
   - mondo-bizarro
 ---

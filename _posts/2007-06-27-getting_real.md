@@ -5,7 +5,9 @@ excerpt: |
     Getting Real abre com uma proposta atraente: ajudar a construir aplicações web de sucesso. Não se trata de uma metodologia - até porque ele se dispõe a questionar muito do material e da cultura que compõem as metodologias (formais ou...
 layout: post
 comments: true
-permalink: /archives/2007/06/getting_real.html/
+permalink: /archives/2007/06/getting_real/
+redirect_from:
+  - /archives/2007/06/getting_real.html/
 categories:
   - books
   - software

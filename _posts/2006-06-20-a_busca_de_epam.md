@@ -6,7 +6,9 @@ excerpt: |
 layout: post
 comments: true
 og_image: /img/epamin.gif
-permalink: /archives/2006/06/a_busca_de_epam.html/
+permalink: /archives/2006/06/a_busca_de_epam/
+redirect_from:
+  - /archives/2006/06/a_busca_de_epam.html/
 categories:
   - software
 ---

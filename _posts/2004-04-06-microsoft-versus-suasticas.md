@@ -3,7 +3,9 @@ locale: pt-BR
 title: Microsoft versus suásticas
 layout: post
 comments: true
-permalink: /archives/2004/04/microsoft-versus-suasticas.html/
+permalink: /archives/2004/04/microsoft-versus-suasticas/
+redirect_from:
+  - /archives/2004/04/microsoft-versus-suasticas.html/
 categories:
 ---
 <img src="/img/blig/suasticas.gif" border="2" alt="as duas suásticas da fonte, mostradas no aplicativo charmap" align="right">Estava eu feliz, testando uma máquina nova, quando o Windows Update pediu para instalar um update crítico. Nerd que sou, li a descrição do update ([KB833407][1]), que dizia tratar-se da remoção de uma fonte que contém "símbolos inaceitáveis".

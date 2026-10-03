@@ -5,7 +5,9 @@ excerpt: |
     As coisas estranhas continuam me atropelando, mas de vez em quando eu consigo capturar. Seguem os últimos updates do mondo bizarro....
 layout: post
 comments: true
-permalink: /archives/2006/11/mais_fotos_biza.html/
+permalink: /archives/2006/11/mais_fotos_biza/
+redirect_from:
+  - /archives/2006/11/mais_fotos_biza.html/
 categories:
   - mondo-bizarro
 ---

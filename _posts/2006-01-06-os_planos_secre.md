@@ -5,7 +5,9 @@ excerpt: |
     Isso é notícia bem velha: no começo dos anos 90, foi lançada uma série da Barbie que, através de um circuito de voz embutido, brindava as crianças com frases bastante edificantes para o desenvolvimento feminino, tais como "matemática é difícil"...
 layout: post
 comments: true
-permalink: /archives/2006/01/os_planos_secre.html/
+permalink: /archives/2006/01/os_planos_secre/
+redirect_from:
+  - /archives/2006/01/os_planos_secre.html/
 categories:
 ---
 <img title="Trecho do panfleto que ensina a fazer a Barbie falar grosso" src="/archives/img/blo.jpg" width="175" height="210" align="left" />Isso é notícia **bem** velha: no começo dos anos 90, foi lançada uma série da Barbie que, através de um circuito de voz embutido, brindava as crianças com frases bastante edificantes para o desenvolvimento feminino, tais como "matemática é difícil" e "eu adoro fazer compras".

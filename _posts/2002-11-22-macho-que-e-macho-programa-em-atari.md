@@ -3,7 +3,9 @@ locale: pt-BR
 title: Macho que é macho programa em Atari
 layout: post
 comments: true
-permalink: /archives/2002/11/macho-que-e-macho-programa-em-atari.html/
+permalink: /archives/2002/11/macho-que-e-macho-programa-em-atari/
+redirect_from:
+  - /archives/2002/11/macho-que-e-macho-programa-em-atari.html/
 categories:
   - atari-2600
   - software

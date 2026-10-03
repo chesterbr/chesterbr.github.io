@@ -5,7 +5,9 @@ excerpt: |
     Este Manual de civildade destinado às meninas para uso nas escolas é um livro do início do século passado, que, sob o pretexto alegado no título, desfila um humor que julgo ora sofistcado, ora grosseiro - mas nunca deixo de...
 layout: post
 comments: true
-permalink: /archives/2005/12/a_civilidade_fe.html/
+permalink: /archives/2005/12/a_civilidade_fe/
+redirect_from:
+  - /archives/2005/12/a_civilidade_fe.html/
 categories:
   - books
 ---

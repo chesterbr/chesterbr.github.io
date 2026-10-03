@@ -3,7 +3,9 @@ locale: pt-BR
 title: Truco para Windows/Linux
 layout: post
 comments: true
-permalink: /archives/2002/03/procura-se-programador-para-jogo-de-truco.html/
+permalink: /archives/2002/03/procura-se-programador-para-jogo-de-truco/
+redirect_from:
+  - /archives/2002/03/procura-se-programador-para-jogo-de-truco.html/
 categories:
   - software
 ---

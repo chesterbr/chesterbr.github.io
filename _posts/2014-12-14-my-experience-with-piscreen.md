@@ -50,7 +50,7 @@ However, other applications requiring touch support and not depending on high re
 [4]: https://www.tindie.com/products/ozzmaker/piscreen-35-tft-with-touch-for-the-raspberry-pi-kit/
 [5]: http://www.google.com/search?q=70+aud
 [7]: http://ozzmaker.com/piscreen-driver-install-instructions-2/
-[9]: /archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi.html/
+[9]: /archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi/
 [11]: http://www.dx.com/p/q1303-4-3-pal-ntsc-digital-security-tft-monitor-black-dc-12v-195293#.VI3OrKZrVf0
 [12]: http://lifehacker.com/how-to-build-a-handheld-raspberry-pi-powered-game-cons-1663675758
 [13]: http://www.amazon.com/gp/product/B00IUGW7PM

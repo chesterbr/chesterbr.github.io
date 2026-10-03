@@ -5,7 +5,9 @@ excerpt: |
     08/10 (Segunda) - Fatos da África do Sul: Idioma, Racismo e Apartheid Esse dia foi puro trabalho, então aproveito para falar de dois assuntos muito requisitados no meu e-mail desde que esta série começou: Idioma: A África do Sul tem...
 layout: post
 comments: true
-permalink: /archives/2007/10/chester_na_afri_6.html/
+permalink: /archives/2007/10/chester_na_afri_6/
+redirect_from:
+  - /archives/2007/10/chester_na_afri_6.html/
 categories:
   - travel
 ---

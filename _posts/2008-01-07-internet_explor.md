@@ -5,7 +5,9 @@ excerpt: |
     Gone are the days of single-digit audience for Gecko-based browsers, but IE is far from disappearing (which is a good thing even for the diehard Firefox defenders and all five Opera users - after all, the lack of serious competition...
 layout: post
 comments: true
-permalink: /archives/2008/01/internet_explor.html/
+permalink: /archives/2008/01/internet_explor/
+redirect_from:
+  - /archives/2008/01/internet_explor.html/
 categories:
 ---
 Gone are the days of single-digit audience for Gecko-based browsers, but IE is far from disappearing (which is a good thing even for the diehard Firefox defenders and all five Opera users – after all, the lack of serious competition turned Netscape into Netscape 4 and kept IE improvement frozen after that). But tools such as Firefox's [Web Developer Toolbar][1] (a swiss-kinfe of tools for debugging weird and browser quirks) make lots of people (including me) develop the whole front-end using Firefox, only switching to IE to see if things don't break.

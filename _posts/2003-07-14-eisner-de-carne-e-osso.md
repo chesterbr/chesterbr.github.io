@@ -3,7 +3,9 @@ locale: pt-BR
 title: Eisner de carne e osso
 layout: post
 comments: true
-permalink: /archives/2003/07/eisner-de-carne-e-osso.html/
+permalink: /archives/2003/07/eisner-de-carne-e-osso/
+redirect_from:
+  - /archives/2003/07/eisner-de-carne-e-osso.html/
 categories:
   - comics
 ---

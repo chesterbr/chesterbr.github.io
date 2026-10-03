@@ -5,7 +5,9 @@ excerpt: |
     Quem deu boas risadas com o programa do Alborghetti vai poder repetir a dose: alguma alma bem-humorada compilou uma seleção de vídeos do telejornal onde a figura gastava 1/5 do tempo lendo notícias no estilo "mundo cão" e o restante...
 layout: post
 comments: true
-permalink: /archives/2005/11/videos_do_albor.html/
+permalink: /archives/2005/11/videos_do_albor/
+redirect_from:
+  - /archives/2005/11/videos_do_albor.html/
 categories:
 ---
 <img title="alborghetti.jpg" src="/archives/img/alborghetti.jpg" width="130" height="97" align="left" border="1" />Quem deu boas risadas com o programa do [Alborghetti][1] vai poder repetir a dose: alguma alma bem-humorada compilou uma <a class="dead-link" title="este link morreu" href="http://www.youtube.com/profile_videos.php?user=dalborgha">seleção de vídeos</a><span class="dead-link-mark">†</span> do telejornal onde a figura gastava 1/5 do tempo lendo notícias no estilo "mundo cão" e o restante dando porrada na mesa, no cenário e até no cameraman. Uma verdadeira catarse em uma época em que esse tipo de jornalismo oportunista parecia ter dominado uma certa faixa de horários na televisão.

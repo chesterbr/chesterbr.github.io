@@ -5,7 +5,9 @@ excerpt: |
     Antes de tudo, devo confessar que não sou exatamente um fã de movimentos "offline" originados na web: quase sempre são grandes focos de vergonha alheia e/ou associações baseadas em análise superficial, muitas vezes colocando causas socialmente importantes em pé de...
 layout: post
 comments: true
-permalink: /archives/2009/05/ato_contra_a_lei_azeredo_ai_5_digital.html/
+permalink: /archives/2009/05/ato_contra_a_lei_azeredo_ai_5_digital/
+redirect_from:
+  - /archives/2009/05/ato_contra_a_lei_azeredo_ai_5_digital.html/
 categories:
 ---
 Antes de tudo, devo confessar que não sou exatamente um fã de movimentos "offline" originados na web: quase sempre são grandes focos de vergonha alheia e/ou associações baseadas em análise superficial, muitas vezes colocando causas socialmente importantes em pé de igualdade com frivolidades.

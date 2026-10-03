@@ -5,7 +5,9 @@ excerpt: |
     Ter iniciado o miniTruco foi uma sucessão de alegrias para mim. A primeira foi tornar disponível um jogo gratuito, mesmo com operadoras e fabricantes trabalhando contra. Já a segunda foi constatar o sucesso do mesmo: só neste site foram mais...
 layout: post
 comments: true
-permalink: /archives/2009/06/gtruco_-_truco_paulista_multiplayer_online_no_browser_integrado_com_minitruco.html/
+permalink: /archives/2009/06/gtruco_-_truco_paulista_multiplayer_online_no_browser_integrado_com_minitruco/
+redirect_from:
+  - /archives/2009/06/gtruco_-_truco_paulista_multiplayer_online_no_browser_integrado_com_minitruco.html/
 categories:
   - software
 ---

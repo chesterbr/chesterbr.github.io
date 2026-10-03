@@ -3,7 +3,9 @@ locale: pt-BR
 title: Videos amadores Stone Age Scanners
 layout: post
 comments: true
-permalink: /archives/2004/05/videos-amadores-stone-age-scanners.html/
+permalink: /archives/2004/05/videos-amadores-stone-age-scanners/
+redirect_from:
+  - /archives/2004/05/videos-amadores-stone-age-scanners.html/
 categories:
 ---
 Isso era pra ser um negócio nosso, eu fico até constrangido de ver na web, mas já ia ser digitalizado mesmo, então chutamos os baldes: eis os famigerados <a class="dead-link" title="este link morreu" href="/video">Videos Amadores Stone Age Scanners</a><span class="dead-link-mark">†</span>. Assista por conta e risco próprios.

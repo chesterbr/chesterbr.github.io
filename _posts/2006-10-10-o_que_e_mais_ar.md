@@ -5,7 +5,9 @@ excerpt: |
     Não ia mais me meter a comentar esse tipo de coisa, mas foi impagável ver o Google desprender uma quantia fabulosa (na verdade ações, mas do próprio bolso) para comprar o YouTube, e, na mesma página, tomar ciência da liberação...
 layout: post
 comments: true
-permalink: /archives/2006/10/o_que_e_mais_ar.html/
+permalink: /archives/2006/10/o_que_e_mais_ar/
+redirect_from:
+  - /archives/2006/10/o_que_e_mais_ar.html/
 categories:
 ---
 Não ia mais me meter a comentar esse tipo de coisa, mas foi impagável ver o Google desprender uma quantia fabulosa (na verdade ações, mas do próprio bolso) para comprar o YouTube, e, na mesma página, tomar ciência da liberação de um montante comparável de dinheiro público (o BNDES é órgão ministerial) para o braço tupiniquim de uma telecom (o tipo de centro de "excelência" no qual neguinho encomenda um Google Maps e recebe, dois anos atrasado, um guia de ruas).
@@ -20,4 +22,4 @@ Triste.
   <img title="Notícia 'Google compra YouTube por US$ 1.65 bi', com quadrinho '2,1 bilhões de reais foram concedidos à Brasil Telecom pelo BNDES em outubro de 2007'" src="/archives/img/gootube_brt.png" width="655" height="506" />
 </center>
 
- [2]: /archives/2002/10/por-que-lula-uma-outra-visao.html/
+ [2]: /archives/2002/10/por-que-lula-uma-outra-visao/

@@ -5,7 +5,9 @@ excerpt: |
     Quer perder uma meia hora vendo besteiras como a toalha com indicadores cara x bunda? Talvez você prefira o jogo onde quem perde toma um choque, ou ainda, a incrível manga de camisa com tatuagens. Tudo isso se encontra no...
 layout: post
 comments: true
-permalink: /archives/2005/12/quer_perder_uma.html/
+permalink: /archives/2005/12/quer_perder_uma/
+redirect_from:
+  - /archives/2005/12/quer_perder_uma.html/
 categories:
   - mondo-bizarro
 ---

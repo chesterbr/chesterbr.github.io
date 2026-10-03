@@ -5,7 +5,9 @@ excerpt: |
     Com tantos jogos que disfarçam sua falta de conteúdo através da carga massiva de efeitos especiais (à semelhança dos blockbusters de Hollywood), é muito bom ver uma novidade como Katamari Damacy. Difícil saber o que é mais kitsch: o visual...
 layout: post
 comments: true
-permalink: /archives/2005/11/katamari_damacy.html/
+permalink: /archives/2005/11/katamari_damacy/
+redirect_from:
+  - /archives/2005/11/katamari_damacy.html/
 categories:
 ---
 <img title="Imagem do jogo Katamari Damacy" src="/archives/img/katamari.jpg" alt="" width="200" height="150" align="right" border="1" />Com tantos jogos que disfarçam sua falta de conteúdo através da carga massiva de efeitos especiais (à semelhança dos blockbusters de Hollywood), é muito bom ver uma novidade como [Katamari Damacy][1].

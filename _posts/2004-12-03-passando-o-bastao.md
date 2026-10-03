@@ -3,7 +3,9 @@ locale: pt-BR
 title: Passando o bastão
 layout: post
 comments: true
-permalink: /archives/2004/12/passando-o-bastao.html/
+permalink: /archives/2004/12/passando-o-bastao/
+redirect_from:
+  - /archives/2004/12/passando-o-bastao.html/
 categories:
 ---
 Tenho bastante assunto represado, mas pouquíssimo tempo livre no momento. Para não frustrar os visitantes (mesmo correndo o risco de perdê-los na comparação), recomendo o [Liberal libertário libertino](http://liberallibertariolibertino.blogspot.com/). O blog funciona em sinergia com o site, ambos contendo artigos e reflexões do autor.

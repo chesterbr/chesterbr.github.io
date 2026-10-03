@@ -3,8 +3,9 @@ locale: pt-BR
 title: Tres mil duzentos e la vai coquinho gibis
 layout: post
 comments: true
-permalink: /archives/2002/04/tres-mil-duzentos-e-la-vai-coquinho-gibis.html/
+permalink: /archives/2002/04/tres-mil-duzentos-e-la-vai-coquinho-gibis/
 redirect_from:
+  - /archives/2002/04/tres-mil-duzentos-e-la-vai-coquinho-gibis.html/
   - /gibis/
   - /gibis.html/
 categories:

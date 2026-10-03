@@ -3,8 +3,9 @@ locale: pt-BR
 title: EyeToy + DDR
 layout: post
 comments: true
-permalink: /archives/2005/02/eye-toy-ddr.html/
+permalink: /archives/2005/02/eye-toy-ddr/
 redirect_from:
+  - /archives/2005/02/eye-toy-ddr.html/
   - /eyetoy/
   - /eyetoy.html/
 categories:

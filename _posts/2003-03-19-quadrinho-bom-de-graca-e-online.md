@@ -3,7 +3,9 @@ locale: pt-BR
 title: Quadrinho bom, de graça e online
 layout: post
 comments: true
-permalink: /archives/2003/03/quadrinho-bom-de-graca-e-online.html/
+permalink: /archives/2003/03/quadrinho-bom-de-graca-e-online/
+redirect_from:
+  - /archives/2003/03/quadrinho-bom-de-graca-e-online.html/
 categories:
   - comics
 ---

@@ -3,7 +3,9 @@ locale: pt-BR
 title: Google x Governo Chinês
 layout: post
 comments: true
-permalink: /archives/2010/01/google-x-governo-chines.html/
+permalink: /archives/2010/01/google-x-governo-chines/
+redirect_from:
+  - /archives/2010/01/google-x-governo-chines.html/
 categories:
 ---
 <p style="text-align:center">

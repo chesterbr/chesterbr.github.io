@@ -3,7 +3,9 @@ locale: pt-BR
 title: RubyConf Brasil 2010
 layout: post
 comments: true
-permalink: /archives/2010/10/rubyconf-brasil-2010.html/
+permalink: /archives/2010/10/rubyconf-brasil-2010/
+redirect_from:
+  - /archives/2010/10/rubyconf-brasil-2010.html/
 categories:
   - software
 ---

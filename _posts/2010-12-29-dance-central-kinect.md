@@ -3,7 +3,9 @@ locale: pt-BR
 title: Dance Central (Kinect)
 layout: post
 comments: true
-permalink: /archives/2010/12/dance-central-kinect.html/
+permalink: /archives/2010/12/dance-central-kinect/
+redirect_from:
+  - /archives/2010/12/dance-central-kinect.html/
 categories:
 ---
 Quem me conhece sabe o quanto eu gosto de [Dance Dance Revolution][1] (DDR), o jogo de dança japonês disponível em fliperamas (embora os do Brasil geralmente tenham [Pump It Up][2], o equivalente da coreana Andamiro) e também nos consoles através de "tapetes de dança". Cheguei até a [customizar um tapete][3] e também a[ importar outro, mais profissional][4]. Mas chegou um ponto em que a limitação do controle aos pés e a baixa viabilidade de jogar à noite em apartamento me fizeram desisitr de tê-lo em casa.

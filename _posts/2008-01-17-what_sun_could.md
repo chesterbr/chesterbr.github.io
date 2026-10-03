@@ -5,7 +5,9 @@ excerpt: |
     Heck, just when Java was getting free from the mammoth's weight, MySQL gets caught. I keep wondering how Sun will apply their "expertise" in MySQL. Ideas: Launching new versions with meaningless name changes to imply the idea of evolution (after...
 layout: post
 comments: true
-permalink: /archives/2008/01/what_sun_could.html/
+permalink: /archives/2008/01/what_sun_could/
+redirect_from:
+  - /archives/2008/01/what_sun_could.html/
 categories:
 ---
 <img title="author unknown, but fits the article" src="/archives/img/itsatrap.jpg" width="180" height="135" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Heck, just when Java was getting free from the mammoth's weight, MySQL [gets caught][1].

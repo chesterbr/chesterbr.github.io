@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Hq: a volta do formatinho'
 layout: post
 comments: true
-permalink: /archives/2002/05/hq-a-volta-do-formatinho.html/
+permalink: /archives/2002/05/hq-a-volta-do-formatinho/
+redirect_from:
+  - /archives/2002/05/hq-a-volta-do-formatinho.html/
 categories:
   - comics
 ---

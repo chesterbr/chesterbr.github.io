@@ -5,7 +5,9 @@ excerpt: |
     Não é preciso nenhum exercício mais sofisticado de raciocínio para perceber que a web conseguiu viabilizar publicações extremamente especializadas, já que ela derruba as barreiras da tiragem e da distribuição - obstáculos que, na mídia impressa, impedem tais trabalhos de...
 layout: post
 comments: true
-permalink: /archives/2005/12/quadrinhos_sobr.html/
+permalink: /archives/2005/12/quadrinhos_sobr/
+redirect_from:
+  - /archives/2005/12/quadrinhos_sobr.html/
 categories:
   - comics
 ---

@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Simpsons no Rio: como era de se supor, nada de mais'
 layout: post
 comments: true
-permalink: /archives/2002/04/simpsons-no-rio-como-era-de-se-supor-nada-de-mais.html/
+permalink: /archives/2002/04/simpsons-no-rio-como-era-de-se-supor-nada-de-mais/
+redirect_from:
+  - /archives/2002/04/simpsons-no-rio-como-era-de-se-supor-nada-de-mais.html/
 categories:
 ---
 Finalmente assisti o tão falado episódio dos Simpsons que se passa no Brasil. É bacana, como de costume. Tem algumas misturas culturais inevitáveis mas, no geral, os roteiristas sabem do que estão falando – a apresentadora do programa infantil *teleboobies* é prova cabal disto.

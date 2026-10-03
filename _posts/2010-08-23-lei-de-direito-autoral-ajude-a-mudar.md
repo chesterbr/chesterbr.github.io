@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Lei de Direito Autoral: ajude a mudar!'
 layout: post
 comments: true
-permalink: /archives/2010/08/lei-de-direito-autoral-ajude-a-mudar.html/
+permalink: /archives/2010/08/lei-de-direito-autoral-ajude-a-mudar/
+redirect_from:
+  - /archives/2010/08/lei-de-direito-autoral-ajude-a-mudar.html/
 categories:
 ---
 O governo abriu uma consulta pública com o objetivo de reformar a lei de direito autoral, e a grande vantagem é que você pode opinar pela internet. Como consumidor/usuário/fã, é a sua chance de garantir o seu direito de "fair use", o que inclui, entre outras coisas, a liberdade de fazer cópias de segurança ou de permitir que uma sala de aula assista a um filme.

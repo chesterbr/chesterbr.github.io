@@ -3,7 +3,9 @@ locale: pt-BR
 title: Life with Leslie
 layout: post
 comments: true
-permalink: /archives/2004/08/life-with-leslie.html/
+permalink: /archives/2004/08/life-with-leslie/
+redirect_from:
+  - /archives/2004/08/life-with-leslie.html/
 categories:
   - comics
 ---

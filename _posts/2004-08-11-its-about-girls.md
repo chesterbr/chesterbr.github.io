@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'It’s About Girls'
 layout: post
 comments: true
-permalink: /archives/2004/08/its-about-girls.html/
+permalink: /archives/2004/08/its-about-girls/
+redirect_from:
+  - /archives/2004/08/its-about-girls.html/
 categories:
   - comics
 ---

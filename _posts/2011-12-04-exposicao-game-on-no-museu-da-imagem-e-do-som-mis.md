@@ -3,7 +3,9 @@ locale: pt-BR
 title: Exposição Game On no Museu da Imagem e do Som (MIS)
 layout: post
 comments: true
-permalink: /archives/2011/12/exposicao-game-on-no-museu-da-imagem-e-do-som-mis.html/
+permalink: /archives/2011/12/exposicao-game-on-no-museu-da-imagem-e-do-som-mis/
+redirect_from:
+  - /archives/2011/12/exposicao-game-on-no-museu-da-imagem-e-do-som-mis.html/
 categories:
   - retrocomputing
 ---

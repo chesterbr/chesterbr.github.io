@@ -5,7 +5,9 @@ excerpt: |
     Com uma eleição tão parada como esta (a menos de pérolas como o Super Moura e o Deputado das Raves), só nos restou pegar carona no insanamente bem sacado Super Trunfo de Santos Católicos e lançar o Golpe - um...
 layout: post
 comments: true
-permalink: /archives/2006/09/golpe_o_super_t_1.html/
+permalink: /archives/2006/09/golpe_o_super_t_1/
+redirect_from:
+  - /archives/2006/09/golpe_o_super_t_1.html/
 categories:
 ---
 <img title="cartas do jogo Golpe" src="/archives/img/golpe.jpg" alt="" width="140" height="141" align="right" />Com uma eleição tão parada como esta (a menos de pérolas como o [Super Moura][1] e o [Deputado das Raves][2]), só nos restou pegar carona no insanamente bem sacado [Super Trunfo de Santos Católicos][3] e lançar o [Golpe][4] – um jogo na mesma pegada, só que baseado no caricato panteão dos políticos brasileiros.

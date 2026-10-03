@@ -3,7 +3,9 @@ locale: pt-BR
 title: My Retweeted Tweets
 layout: post
 comments: true
-permalink: /archives/2011/07/my-retweeted-tweets.html/
+permalink: /archives/2011/07/my-retweeted-tweets/
+redirect_from:
+  - /archives/2011/07/my-retweeted-tweets.html/
 categories:
   - software
 ---

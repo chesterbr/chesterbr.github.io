@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Facebook HACK – Toronto'
 layout: post
 comments: true
-permalink: /archives/2012/06/facebook-hack-toronto.html/
+permalink: /archives/2012/06/facebook-hack-toronto/
+redirect_from:
+  - /archives/2012/06/facebook-hack-toronto.html/
 categories:
   - software
 ---

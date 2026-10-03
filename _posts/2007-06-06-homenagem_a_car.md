@@ -5,7 +5,9 @@ excerpt: |
     ATENÇÃO: Links impróprios para escritório (é quase softcore para os dias de hoje, mas não custa avisar.) Nos anos 50 e 60 proliferou no Brasil um gênero de material pornográfico que consistia em revistas em quadrinhos em preto-e-branco e formato...
 layout: post
 comments: true
-permalink: /archives/2007/06/homenagem_a_car.html/
+permalink: /archives/2007/06/homenagem_a_car/
+redirect_from:
+  - /archives/2007/06/homenagem_a_car.html/
 categories:
   - comics
 ---

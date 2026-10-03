@@ -3,7 +3,9 @@ locale: pt-BR
 title: Golpe do ICQ
 layout: post
 comments: true
-permalink: /archives/2004/02/golpe-do-icq.html/
+permalink: /archives/2004/02/golpe-do-icq/
+redirect_from:
+  - /archives/2004/02/golpe-do-icq.html/
 categories:
 ---
 Depois de um dia difícil, ainda aparece isso no meu e-mail:

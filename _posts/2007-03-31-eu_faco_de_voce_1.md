@@ -5,7 +5,9 @@ excerpt: |
 No final dos anos 80 uma propaganda curiosa apareceu em praticamente todas as revistas. Tratava-se de um livro que ensinaria a qualquer pessoa a arte do KUNG FU (ênfase nas maiúsculas: não é Kung Fu, é KUNG FU!) Claro que...
 layout: post
 comments: true
-permalink: /archives/2007/03/eu_faco_de_voce_1.html/
+permalink: /archives/2007/03/eu_faco_de_voce_1/
+redirect_from:
+  - /archives/2007/03/eu_faco_de_voce_1.html/
 categories:
 ---
 <img title="Propaganda do incrível método de KUNG FU" src="/archives/img/kungfu.jpg" width="250" height="336" align="right" />No final dos anos 80 uma propaganda curiosa apareceu em praticamente todas as revistas. Tratava-se de um livro que ensinaria a qualquer pessoa a arte do KUNG FU (ênfase nas maiúsculas: não é Kung Fu, é KUNG FU!)

@@ -3,7 +3,9 @@ locale: pt-BR
 title: Feira sobre banheiros em Cingapura
 layout: post
 comments: true
-permalink: /archives/2001/11/feira-sobre-banheiros-em-cingapura.html/
+permalink: /archives/2001/11/feira-sobre-banheiros-em-cingapura/
+redirect_from:
+  - /archives/2001/11/feira-sobre-banheiros-em-cingapura.html/
 categories:
   - mondo-bizarro
 ---

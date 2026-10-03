@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Sony Xperia X10 Mini Pro + Android 2.3 (Gingerbread) – Sony = ♥♥♥'
 layout: post
 comments: true
-permalink: /archives/2011/06/sony-xperia-x10-mini-pro-android-2-2-froyo-sony-%e2%99%a5.html/
+permalink: /archives/2011/06/sony-xperia-x10-mini-pro-android-2-2-froyo-sony-%e2%99%a5/
+redirect_from:
+  - /archives/2011/06/sony-xperia-x10-mini-pro-android-2-2-froyo-sony-%e2%99%a5.html/
 categories:
 ---
 [<img class="alignleft size-full wp-image-6043" title="Animação do boot do Froyo. Hit the road, Sony Ericsson!" src="/wp-content/uploads/2011/06/froyo_cyanogen_x10_mini_pro.jpg" alt="Animação do boot do Froyo. Hit the road, Sony Ericsson!" width="200" height="200" />][1]*Este post falava originalmente de um upgrade para o Android 2.2 (que continua válido), mas já consegui atualizar o celular para o 2.3, daí a mudança no título. Pule para o [final][2] para obter os links para 2.3.*

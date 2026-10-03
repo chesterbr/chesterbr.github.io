@@ -3,8 +3,9 @@ locale: pt-BR
 title: A primeira vez… no estádio
 layout: post
 comments: true
-permalink: /archives/2004/09/a-primeira-vez-no-estadio.html/
+permalink: /archives/2004/09/a-primeira-vez-no-estadio/
 redirect_from:
+  - /archives/2004/09/a-primeira-vez-no-estadio.html/
   - /estadio/
   - /estadio.html/
 categories:

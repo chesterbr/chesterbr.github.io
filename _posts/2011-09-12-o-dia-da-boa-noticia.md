@@ -3,7 +3,9 @@ locale: pt-BR
 title: O Dia da Boa Notícia
 layout: post
 comments: true
-permalink: /archives/2011/09/o-dia-da-boa-noticia.html/
+permalink: /archives/2011/09/o-dia-da-boa-noticia/
+redirect_from:
+  - /archives/2011/09/o-dia-da-boa-noticia.html/
 og_image: /wp-content/uploads/2011/09/ig2001_thumb.png
 categories:
 ---

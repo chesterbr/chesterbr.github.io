@@ -3,7 +3,9 @@ locale: pt-BR
 title: Televisão é a imagem da besta
 layout: post
 comments: true
-permalink: /archives/2004/03/televisao-e-a-imagem-da-besta.html/
+permalink: /archives/2004/03/televisao-e-a-imagem-da-besta/
+redirect_from:
+  - /archives/2004/03/televisao-e-a-imagem-da-besta.html/
 categories:
   - mondo-bizarro
 ---

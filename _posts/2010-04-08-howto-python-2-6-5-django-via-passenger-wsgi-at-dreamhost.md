@@ -3,7 +3,9 @@ locale: en
 title: 'HOWTO: Python 2.6.5 + Django (via Passenger WSGI) at DreamHost'
 layout: post
 comments: true
-permalink: /archives/2010/04/howto-python-2-6-5-django-via-passenger-wsgi-at-dreamhost.html/
+permalink: /archives/2010/04/howto-python-2-6-5-django-via-passenger-wsgi-at-dreamhost/
+redirect_from:
+  - /archives/2010/04/howto-python-2-6-5-django-via-passenger-wsgi-at-dreamhost.html/
 bb-custom-tags:
   - python,programação
 categories:

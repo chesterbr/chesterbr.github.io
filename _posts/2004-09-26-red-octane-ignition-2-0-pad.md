@@ -3,8 +3,9 @@ locale: pt-BR
 title: RedOctane Ignition 2.0 Pad
 layout: post
 comments: true
-permalink: /archives/2004/09/red-octane-ignition-2-0-pad.html/
+permalink: /archives/2004/09/red-octane-ignition-2-0-pad/
 redirect_from:
+  - /archives/2004/09/red-octane-ignition-2-0-pad.html/
   - /ignition/
   - /ignition.html/
 categories:

@@ -3,7 +3,9 @@ locale: pt-BR
 title: Um feliz natal para todos
 layout: post
 comments: true
-permalink: /archives/2003/12/um-feliz-natal-para-todos.html/
+permalink: /archives/2003/12/um-feliz-natal-para-todos/
+redirect_from:
+  - /archives/2003/12/um-feliz-natal-para-todos.html/
 categories:
 ---
 Juro que achei essa por acaso. Não faço a menor idéia de quem é o autor. Estava [aqui](http://static.redjupiter.com/images/tartorres/deadsanta.jpg).

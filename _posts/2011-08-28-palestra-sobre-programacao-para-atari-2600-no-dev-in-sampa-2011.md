@@ -3,7 +3,9 @@ locale: pt-BR
 title: Palestra sobre Programação para Atari 2600 no Dev in Sampa 2011
 layout: post
 comments: true
-permalink: /archives/2011/08/palestra-sobre-programacao-para-atari-2600-no-dev-in-sampa-2011.html/
+permalink: /archives/2011/08/palestra-sobre-programacao-para-atari-2600-no-dev-in-sampa-2011/
+redirect_from:
+  - /archives/2011/08/palestra-sobre-programacao-para-atari-2600-no-dev-in-sampa-2011.html/
 categories:
   - atari-2600
   - software

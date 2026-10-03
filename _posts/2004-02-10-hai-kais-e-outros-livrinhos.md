@@ -3,7 +3,9 @@ locale: pt-BR
 title: Hai-Kais e outros livrinhos
 layout: post
 comments: true
-permalink: /archives/2004/02/hai-kais-e-outros-livrinhos.html/
+permalink: /archives/2004/02/hai-kais-e-outros-livrinhos/
+redirect_from:
+  - /archives/2004/02/hai-kais-e-outros-livrinhos.html/
 categories:
   - books
 ---

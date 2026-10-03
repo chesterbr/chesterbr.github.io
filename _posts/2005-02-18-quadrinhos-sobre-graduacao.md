@@ -3,7 +3,9 @@ locale: pt-BR
 title: Quadrinhos sobre graduação
 layout: post
 comments: true
-permalink: /archives/2005/02/quadrinhos-sobre-graduacao.html/
+permalink: /archives/2005/02/quadrinhos-sobre-graduacao/
+redirect_from:
+  - /archives/2005/02/quadrinhos-sobre-graduacao.html/
 categories:
   - comics
 ---

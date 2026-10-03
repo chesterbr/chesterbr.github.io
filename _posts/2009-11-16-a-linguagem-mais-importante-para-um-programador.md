@@ -3,7 +3,9 @@ locale: pt-BR
 title: A linguagem mais importante para um programador
 layout: post
 comments: true
-permalink: /archives/2009/11/a-linguagem-mais-importante-para-um-programador.html/
+permalink: /archives/2009/11/a-linguagem-mais-importante-para-um-programador/
+redirect_from:
+  - /archives/2009/11/a-linguagem-mais-importante-para-um-programador.html/
 categories:
   - software
 ---

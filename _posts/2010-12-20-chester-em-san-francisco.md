@@ -3,7 +3,9 @@ locale: pt-BR
 title: Chester em San Francisco
 layout: post
 comments: true
-permalink: /archives/2010/12/chester-em-san-francisco.html/
+permalink: /archives/2010/12/chester-em-san-francisco/
+redirect_from:
+  - /archives/2010/12/chester-em-san-francisco.html/
 categories:
   - travel
 ---

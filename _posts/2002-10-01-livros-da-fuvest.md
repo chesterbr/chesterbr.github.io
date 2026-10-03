@@ -3,7 +3,9 @@ locale: pt-BR
 title: Livros da FUVEST
 layout: post
 comments: true
-permalink: /archives/2002/10/livros-da-fuvest.html/
+permalink: /archives/2002/10/livros-da-fuvest/
+redirect_from:
+  - /archives/2002/10/livros-da-fuvest.html/
 categories:
   - books
 ---

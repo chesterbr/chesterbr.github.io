@@ -3,7 +3,9 @@ locale: pt-BR
 title: Sem comentários
 layout: post
 comments: true
-permalink: /archives/2004/08/sem-comentarios.html/
+permalink: /archives/2004/08/sem-comentarios/
+redirect_from:
+  - /archives/2004/08/sem-comentarios.html/
 categories:
 ---
 Melhor (ou pior) com som: [http://www.suicidio.com.br](http://www.suicidio.com.br)

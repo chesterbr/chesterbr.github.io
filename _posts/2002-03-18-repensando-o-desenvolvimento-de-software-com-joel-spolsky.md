@@ -3,7 +3,9 @@ locale: pt-BR
 title: Repensando o desenvolvimento de software com Joel Spolsky
 layout: post
 comments: true
-permalink: /archives/2002/03/repensando-o-desenvolvimento-de-software-com-joel-spolsky.html/
+permalink: /archives/2002/03/repensando-o-desenvolvimento-de-software-com-joel-spolsky/
+redirect_from:
+  - /archives/2002/03/repensando-o-desenvolvimento-de-software-com-joel-spolsky.html/
 categories:
   - software
 ---

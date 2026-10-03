@@ -3,7 +3,9 @@ locale: pt-BR
 title: Mangá para leigos
 layout: post
 comments: true
-permalink: /archives/2004/02/manga-para-leigos.html/
+permalink: /archives/2004/02/manga-para-leigos/
+redirect_from:
+  - /archives/2004/02/manga-para-leigos.html/
 categories:
   - comics
 ---

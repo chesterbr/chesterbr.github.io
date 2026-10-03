@@ -3,8 +3,9 @@ locale: pt-BR
 title: Pinos Mágicos
 layout: post
 comments: true
-permalink: /archives/2003/01/pinos-magicos.html/
+permalink: /archives/2003/01/pinos-magicos/
 redirect_from:
+  - /archives/2003/01/pinos-magicos.html/
   - /pinos/
   - /pinos.html/
 categories:

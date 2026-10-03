@@ -3,7 +3,9 @@ locale: pt-BR
 title: '“Um homem entra num restaurante e pede uma sopa de gaivota…”'
 layout: post
 comments: true
-permalink: /archives/2002/05/um-homem-entra-num-restaurante-e-pede-uma-sopa-de-gaivota.html/
+permalink: /archives/2002/05/um-homem-entra-num-restaurante-e-pede-uma-sopa-de-gaivota/
+redirect_from:
+  - /archives/2002/05/um-homem-entra-num-restaurante-e-pede-uma-sopa-de-gaivota.html/
 categories:
   - mondo-bizarro
 ---

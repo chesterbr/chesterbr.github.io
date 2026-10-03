@@ -5,7 +5,9 @@ excerpt: |
     Nada como falar de quadrinhos um pouco para desopilar. Ando lendo um bocado de coisas ultimamente, mas hoje o assunto é Questionable Content. Não faço a menor idéia de como encontrei este webcomic - mas dado que o autor (Jeph...
 layout: post
 comments: true
-permalink: /archives/2007/05/questionable_co.html/
+permalink: /archives/2007/05/questionable_co/
+redirect_from:
+  - /archives/2007/05/questionable_co.html/
 categories:
   - comics
 ---
@@ -21,6 +23,6 @@ Como bônus, observar o o [processo de ilustração][5] do cara é divertido –
 
  [1]: http://www.questionablecontent.net/
  [2]: /archives/2005/06/pbf_e_diesel_sw_1.html
- [3]: /archives/2002/11/e-de-menina-mas-eu-gosto.html/
+ [3]: /archives/2002/11/e-de-menina-mas-eu-gosto/
  [4]: /archives/2004/11/pvp.html
  [5]: http://www.questionablecontent.net/tutorial.php

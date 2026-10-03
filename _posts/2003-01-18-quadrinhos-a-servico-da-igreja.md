@@ -3,7 +3,9 @@ locale: pt-BR
 title: Quadrinhos a serviço da igreja
 layout: post
 comments: true
-permalink: /archives/2003/01/quadrinhos-a-servico-da-igreja.html/
+permalink: /archives/2003/01/quadrinhos-a-servico-da-igreja/
+redirect_from:
+  - /archives/2003/01/quadrinhos-a-servico-da-igreja.html/
 categories:
   - comics
 ---

@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Frases da semana sobre “Casa dos Artistas”'
 layout: post
 comments: true
-permalink: /archives/2001/11/frases-da-semana-sobre-casa-dos-artistas.html/
+permalink: /archives/2001/11/frases-da-semana-sobre-casa-dos-artistas/
+redirect_from:
+  - /archives/2001/11/frases-da-semana-sobre-casa-dos-artistas.html/
 categories:
 ---
 (pra não dizer que não falei de flores)

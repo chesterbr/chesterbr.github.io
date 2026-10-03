@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Doméééstica… ela era doméééstica'
 layout: post
 comments: true
-permalink: /archives/2002/02/domeeestica-ela-era-domeeestica.html/
+permalink: /archives/2002/02/domeeestica-ela-era-domeeestica/
+redirect_from:
+  - /archives/2002/02/domeeestica-ela-era-domeeestica.html/
 categories:
 ---
 Por mais que eu não ouvisse AM, esse refrão ficou estampado na minha cabeça por anos – e eu nunca dei atenção, achando que fosse uma dessas tentativas de fazer média com as "classes desprestigiadas", como as odes às gordinhas e míopes do Roberto Carlos.

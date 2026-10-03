@@ -3,7 +3,9 @@ locale: pt-BR
 title: Três motivos para ir ver Brüno
 layout: post
 comments: true
-permalink: /archives/2009/09/tres-motivos-para-ir-ver-bruno.html/
+permalink: /archives/2009/09/tres-motivos-para-ir-ver-bruno/
+redirect_from:
+  - /archives/2009/09/tres-motivos-para-ir-ver-bruno.html/
 bb-custom-tags:
   - bruno
 categories:

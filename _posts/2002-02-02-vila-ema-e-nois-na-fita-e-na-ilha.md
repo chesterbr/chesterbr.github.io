@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Vila Ema – é nóis na fita (e na ilha)'
 layout: post
 comments: true
-permalink: /archives/2002/02/vila-ema-e-nois-na-fita-e-na-ilha.html/
+permalink: /archives/2002/02/vila-ema-e-nois-na-fita-e-na-ilha/
+redirect_from:
+  - /archives/2002/02/vila-ema-e-nois-na-fita-e-na-ilha.html/
 categories:
 ---
 Quando eu falo que a Vila Ema (meu "bairro natal" em SP) é um lugar único no universo, ninguém acredita. Hoje eu resolvi dar uma procurada no Yahoo!Brasil, pra ver o que tinha sobre a vila. E encontrei o [Nóis na ilha!](http://noisnailha.hpg.com.br), um site pessoal pra vilaemense nenhum botar defeito.

@@ -5,7 +5,9 @@ excerpt: |
     Estou terminando de ler o Liberal Libertário Libertino - Crônicas, mas posso escrever com segurança, pois se trata de uma coletânea de textos publicados no blog homônimo - beneficiados pela organização e conveniência que só as árvores mortas proporcionam. Os...
 layout: post
 comments: true
-permalink: /archives/2008/01/liberal_liberta.html/
+permalink: /archives/2008/01/liberal_liberta/
+redirect_from:
+  - /archives/2008/01/liberal_liberta.html/
 categories:
   - books
 ---

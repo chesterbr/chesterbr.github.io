@@ -5,7 +5,9 @@ excerpt: |
     Quem tem umas primaveras a mais lembra bem deste nome - o "matemático Oswald de Souza" nunca aparecia na TV, mas a ele eram atribuídas estatísticas como a quantidade estimada de vencedores da loteria para um dado resultado. Curiosamente, nem...
 layout: post
 comments: true
-permalink: /archives/2008/12/oswald_de_souza.html/
+permalink: /archives/2008/12/oswald_de_souza/
+redirect_from:
+  - /archives/2008/12/oswald_de_souza.html/
 categories:
 ---
 <img title="Zebrinha bizarra que anunciava resultados no Fantástico" src="/archives/img/mt/2008/12/30/zebrinha.gif" width="87" height="111" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Quem tem umas primaveras a mais lembra bem deste nome – o "matemático Oswald de Souza" nunca aparecia na TV, mas a ele eram atribuídas estatísticas como a quantidade estimada de vencedores da loteria para um dado resultado.

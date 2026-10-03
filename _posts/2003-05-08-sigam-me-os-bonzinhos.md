@@ -3,7 +3,9 @@ locale: pt-BR
 title: Sigam-me os bonzinhos
 layout: post
 comments: true
-permalink: /archives/2003/05/sigam-me-os-bonzinhos.html/
+permalink: /archives/2003/05/sigam-me-os-bonzinhos/
+redirect_from:
+  - /archives/2003/05/sigam-me-os-bonzinhos.html/
 categories:
   - comics
 ---

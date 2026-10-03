@@ -3,7 +3,9 @@ locale: pt-BR
 title: Front quadrinhos
 layout: post
 comments: true
-permalink: /archives/2004/02/front-quadrinhos.html/
+permalink: /archives/2004/02/front-quadrinhos/
+redirect_from:
+  - /archives/2004/02/front-quadrinhos.html/
 categories:
   - comics
 ---

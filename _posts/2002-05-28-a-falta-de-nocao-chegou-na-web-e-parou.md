@@ -3,7 +3,9 @@ locale: pt-BR
 title: A falta de noção chegou na web e parou
 layout: post
 comments: true
-permalink: /archives/2002/05/a-falta-de-nocao-chegou-na-web-e-parou.html/
+permalink: /archives/2002/05/a-falta-de-nocao-chegou-na-web-e-parou/
+redirect_from:
+  - /archives/2002/05/a-falta-de-nocao-chegou-na-web-e-parou.html/
 categories:
 ---
 Não é raro vermos pessoas talentosas que "desaparecem" na sociedade porque não se "vendem", seja por timidez ou modéstia. Isso é lamentável, mas tem o outro extremo: gente que acredita que o universo gira em torno do próprio umbigo. Não esou falando dos Arthur Clarkes da vida, i.e., gente que é um pouco "metida", mas cujo talento até lhes dá um pouco desse direito, e sim daqueles que não têm nada a dizer, mas insistem em procurar os holofotes.

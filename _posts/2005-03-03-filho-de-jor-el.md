@@ -3,7 +3,9 @@ locale: pt-BR
 title: Filho de jor-el!
 layout: post
 comments: true
-permalink: /archives/2005/03/filho-de-jor-el.html/
+permalink: /archives/2005/03/filho-de-jor-el/
+redirect_from:
+  - /archives/2005/03/filho-de-jor-el.html/
 categories:
   - comics
 ---

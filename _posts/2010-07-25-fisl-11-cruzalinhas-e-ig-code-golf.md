@@ -3,7 +3,9 @@ locale: pt-BR
 title: FISL 11, cruzalinhas e iG Code Golf
 layout: post
 comments: true
-permalink: /archives/2010/07/fisl-11-cruzalinhas-e-ig-code-golf.html/
+permalink: /archives/2010/07/fisl-11-cruzalinhas-e-ig-code-golf/
+redirect_from:
+  - /archives/2010/07/fisl-11-cruzalinhas-e-ig-code-golf.html/
 categories:
   - software
 ---

@@ -3,7 +3,9 @@ locale: pt-BR
 title: Por que Chester?
 layout: post
 comments: true
-permalink: /archives/2001/11/por-que-chester.html/
+permalink: /archives/2001/11/por-que-chester/
+redirect_from:
+  - /archives/2001/11/por-que-chester.html/
 categories:
 ---
 Toda vez que alguem me pergunta o porquê desse apelido, eu preciso saber onde a pessoa estava em 1989 – é de um desenho dessa época ("Turma da Pesada"), que teve seus 15 minutos de fama e desapareceu.

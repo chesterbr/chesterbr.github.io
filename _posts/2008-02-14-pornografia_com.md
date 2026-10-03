@@ -5,7 +5,9 @@ excerpt: |
     ATENÇÃO: LINKS NÃO-SEGUROS PARA ESCRITÓRIO, CASA DA AVÓ OU COLÉGIO ADVENTISTA. Eu já desisti de achar que vi de tudo - particularmente em se tratando de internet. Mas o Jean resolve me mandar um link para o impagável relato que...
 layout: post
 comments: true
-permalink: /archives/2008/02/pornografia_com.html/
+permalink: /archives/2008/02/pornografia_com/
+redirect_from:
+  - /archives/2008/02/pornografia_com.html/
 categories:
   - mondo-bizarro
 ---

@@ -3,7 +3,9 @@ locale: pt-BR
 title: J2EE, .Net, o ovo e a galinha
 layout: post
 comments: true
-permalink: /archives/2003/07/j2ee-net-o-ovo-e-a-galinha.html/
+permalink: /archives/2003/07/j2ee-net-o-ovo-e-a-galinha/
+redirect_from:
+  - /archives/2003/07/j2ee-net-o-ovo-e-a-galinha.html/
 categories:
   - software
 ---

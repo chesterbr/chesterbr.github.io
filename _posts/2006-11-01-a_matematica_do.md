@@ -5,7 +5,9 @@ excerpt: |
     Outro dia chegou a uma lista de discussões da qual participo a notícia de que um cientista teria "provado matematicamente" que vampiros não existem. Como estudante de matemática de plantão, fiz a elocubração que se segue: Seja m o mês...
 layout: post
 comments: true
-permalink: /archives/2006/11/a_matematica_do.html/
+permalink: /archives/2006/11/a_matematica_do/
+redirect_from:
+  - /archives/2006/11/a_matematica_do.html/
 categories:
 ---
 <img title="Cena do desenho Família Drácula. 'Mau sapão, mau sapão...'" src="/archives/img/familia_dracula.jpg" width="300" height="219" border="1" align="right" />Outro dia chegou a uma lista de discussões da qual participo a notícia de que [um cientista teria "provado matematicamente" que vampiros não existem][1]. Como estudante de matemática de plantão, fiz a elocubração que se segue:

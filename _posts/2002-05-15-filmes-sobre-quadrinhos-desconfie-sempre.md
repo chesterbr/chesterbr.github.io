@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Filmes sobre quadrinhos: desconfie sempre'
 layout: post
 comments: true
-permalink: /archives/2002/05/filmes-sobre-quadrinhos-desconfie-sempre.html/
+permalink: /archives/2002/05/filmes-sobre-quadrinhos-desconfie-sempre/
+redirect_from:
+  - /archives/2002/05/filmes-sobre-quadrinhos-desconfie-sempre.html/
 categories:
   - comics
 ---

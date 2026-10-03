@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'And the Oscar goes to… Omelete'
 layout: post
 comments: true
-permalink: /archives/2002/05/and-the-oscar-goes-to-omelete.html/
+permalink: /archives/2002/05/and-the-oscar-goes-to-omelete/
+redirect_from:
+  - /archives/2002/05/and-the-oscar-goes-to-omelete.html/
 categories:
 ---
 Essa nota é pra reparar uma injustiça. Já citei mais de uma vez o [Omelete](http://www.omelete.com.br) aqui, e fora a tiração de sarro com o nome do site, nunca comentei a respeito. O site é o que há de melhor quando o assunto é "cultura nerd" – ou, pelo menos no ramo de quadrinhos/desenho animado da coisa, do qual posso falar com mais propriedade.

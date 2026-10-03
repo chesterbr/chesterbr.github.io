@@ -3,7 +3,9 @@ locale: pt-BR
 title: Os Malvados
 layout: post
 comments: true
-permalink: /archives/2003/06/os-malvados.html/
+permalink: /archives/2003/06/os-malvados/
+redirect_from:
+  - /archives/2003/06/os-malvados.html/
 categories:
 ---
 [Os Malvados](http://www.malvados.com.br), é uma tira online sobre a qual uma amiga me mandou a URL uma vez. Não é nada que tenha mudado a minha vida, mas é mais um link pra passar de vez em quando e ler as trocentas últimas.

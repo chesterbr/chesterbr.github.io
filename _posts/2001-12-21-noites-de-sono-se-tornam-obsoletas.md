@@ -3,7 +3,9 @@ locale: pt-BR
 title: Noites de sono se tornam obsoletas
 layout: post
 comments: true
-permalink: /archives/2001/12/noites-de-sono-se-tornam-obsoletas.html/
+permalink: /archives/2001/12/noites-de-sono-se-tornam-obsoletas/
+redirect_from:
+  - /archives/2001/12/noites-de-sono-se-tornam-obsoletas.html/
 categories:
 ---
 Só faltava essa – um [acessório](http://www.palmgear.com/hs/products/prodoverview.cfm?sid=47213920011106150425.590789215&#038;prodID=481&#038;prodcatID=5) para os palmtops da Handspring que permite a você tirar uma soneca, mas que te acorda se você cair em sono profundo.

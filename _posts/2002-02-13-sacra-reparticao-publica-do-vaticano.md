@@ -3,7 +3,9 @@ locale: pt-BR
 title: Sacra repartição pública do Vaticano
 layout: post
 comments: true
-permalink: /archives/2002/02/sacra-reparticao-publica-do-vaticano.html/
+permalink: /archives/2002/02/sacra-reparticao-publica-do-vaticano/
+redirect_from:
+  - /archives/2002/02/sacra-reparticao-publica-do-vaticano.html/
 categories:
 ---
 Depois de décadas de acusações acerca de uma certa despreocupação do Papa Pio XII com as vítimas do nazismo, o Vaticano finalmente anuncia que vai [liberar](http://www.bbc.co.uk/portuguese/noticias/020215_vaticano1dtl.shtml) em 2003 documentos que ajudariam a rebater tais acusações.

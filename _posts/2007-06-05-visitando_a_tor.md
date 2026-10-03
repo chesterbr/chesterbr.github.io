@@ -5,7 +5,9 @@ excerpt: |
     A ocupação da reitoria da USP é bastante polêmica, e não pretendo discutir seus méritos e deméritos aqui. O fato é que eu aproveitei um tempinho no final da tarde para visitar a Torre do Relógio (até então fechada ao...
 layout: post
 comments: true
-permalink: /archives/2007/06/visitando_a_tor.html/
+permalink: /archives/2007/06/visitando_a_tor/
+redirect_from:
+  - /archives/2007/06/visitando_a_tor.html/
 categories:
 ---
 <img title="Detalhe da Torre do Relógio, situada no Campus Butantã da USP" src="/archives/img/torre_do_relogio.jpg" width="150" height="243" align="left" border="1" />A [ocupação da reitoria da USP][1] é bastante polêmica, e não pretendo discutir seus méritos e deméritos aqui. O fato é que eu aproveitei um tempinho no final da tarde para visitar a Torre do Relógio (até então fechada ao público) e também a própria ocupação.

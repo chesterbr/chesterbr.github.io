@@ -3,8 +3,9 @@ locale: pt-BR
 title: Fotos de micros antigos
 layout: post
 comments: true
-permalink: /archives/2002/10/fotos-de-micros-antigos.html/
+permalink: /archives/2002/10/fotos-de-micros-antigos/
 redirect_from:
+  - /archives/2002/10/fotos-de-micros-antigos.html/
   - /micros_antigos/
 categories:
   - retrocomputing

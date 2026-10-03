@@ -3,7 +3,9 @@ locale: pt-BR
 title: Porque todo mundo tem um coração envenenado
 layout: post
 comments: true
-permalink: /archives/2004/11/porque-todo-mundo-tem-um-coracao-envenenado.html/
+permalink: /archives/2004/11/porque-todo-mundo-tem-um-coracao-envenenado/
+redirect_from:
+  - /archives/2004/11/porque-todo-mundo-tem-um-coracao-envenenado.html/
 categories:
   - books
 ---

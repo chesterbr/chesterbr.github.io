@@ -5,7 +5,9 @@ excerpt: |
     A primeira coisa que é relevante dizer sobre o PLS 607/2007 (em tramitação no Senado e já causando barulho) é que a alcunha de "regulamentação da profissão de Analista de Sistemas" passa a falsa idéia de que o texto só...
 layout: post
 comments: true
-permalink: /archives/2008/04/regulamentacao_da_profissao_de_analista_de_sistemas.html/
+permalink: /archives/2008/04/regulamentacao_da_profissao_de_analista_de_sistemas/
+redirect_from:
+  - /archives/2008/04/regulamentacao_da_profissao_de_analista_de_sistemas.html/
 categories:
   - software
 ---

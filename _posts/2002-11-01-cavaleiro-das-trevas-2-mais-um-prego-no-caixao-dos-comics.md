@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Cavaleiro das Trevas 2: mais um prego no caixão dos <i>comics</i>'
 layout: post
 comments: true
-permalink: /archives/2002/11/cavaleiro-das-trevas-2-mais-um-prego-no-caixao-dos-comics.html/
+permalink: /archives/2002/11/cavaleiro-das-trevas-2-mais-um-prego-no-caixao-dos-comics/
+redirect_from:
+  - /archives/2002/11/cavaleiro-das-trevas-2-mais-um-prego-no-caixao-dos-comics.html/
 categories:
   - comics
 ---

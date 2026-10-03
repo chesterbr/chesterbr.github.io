@@ -3,11 +3,13 @@ locale: pt-BR
 title: Código-fonte do Windows
 layout: post
 comments: true
-permalink: /archives/2004/02/codigo-fonte-do-windows.html/
+permalink: /archives/2004/02/codigo-fonte-do-windows/
+redirect_from:
+  - /archives/2004/02/codigo-fonte-do-windows.html/
 categories:
   - software
 ---
-<img src="/img/blig/source.gif" border="1" alt="Código-Fonte" align="left">Por esses dias, parte do código-fonte do Windows NT/2000 [vazou](http://br.wired.com/wired/tecnologia/0,1155,14701,00.html) para a Internet.O que mais se discute é se isso pode viabilizar ataques baseados em vulnerabilidades até então desconhecidas no sistema. Já acharam [uma](http://news.com.com/2100-7355-5160566.html) no Internet Explorer 5 (que vem com o Windows 2000), mas esse browser é cheio delas: até eu, um mero mortal, descobri [como derrubar o IE5 usando apenas HTML](/archives/2004/01/bug-no-internet-explorer-5-0.html/).
+<img src="/img/blig/source.gif" border="1" alt="Código-Fonte" align="left">Por esses dias, parte do código-fonte do Windows NT/2000 [vazou](http://br.wired.com/wired/tecnologia/0,1155,14701,00.html) para a Internet.O que mais se discute é se isso pode viabilizar ataques baseados em vulnerabilidades até então desconhecidas no sistema. Já acharam [uma](http://news.com.com/2100-7355-5160566.html) no Internet Explorer 5 (que vem com o Windows 2000), mas esse browser é cheio delas: até eu, um mero mortal, descobri [como derrubar o IE5 usando apenas HTML](/archives/2004/01/bug-no-internet-explorer-5-0/).
 
 Tem bastante coisa na rede cobrindo o assunto, mas eu começaria pelo excelente [artigo](http://www.kuro5hin.org/story/2004/2/15/71552/7795) do Kuro5hin, que foca mais nos comentários deixados pelos programadores ao longo do código do que no próprio. Parece que o pessoal de Redmond andou enrolando e fumando o [Code Complete](http://www.stevemcconnell.com/cc.htm): é um comentário mais engraçado que o outro.
 

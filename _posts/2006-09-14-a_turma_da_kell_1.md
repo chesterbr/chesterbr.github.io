@@ -5,7 +5,9 @@ excerpt: |
     Uma coisa legal da repercussão do Golpe foi que eu acabei visitando vários blogs e sites bacanas. Um deles me levou até A Turma da Kelly, um webcomic nacional que me impressionou por abordar temas-tabu como homossexualismo, uso de maconha...
 layout: post
 comments: true
-permalink: /archives/2006/09/a_turma_da_kell_1.html/
+permalink: /archives/2006/09/a_turma_da_kell_1/
+redirect_from:
+  - /archives/2006/09/a_turma_da_kell_1.html/
 categories:
   - comics
 ---
@@ -22,6 +24,6 @@ Curiosidade: o autor ([Alenômio][3]) é de Birigüi (alguém mais lembrou de [C
  [1]: http://www.stoneagescanners.com/golpe
  [2]: http://alenonimo.com.br/kelly/
  [3]: http://alenonimo.com.br/eu/
- [4]: /archives/2003/05/sigam-me-os-bonzinhos.html/
+ [4]: /archives/2003/05/sigam-me-os-bonzinhos/
  [5]: http://pt.wikipedia.org/wiki/Turma_da_Tina
  [6]: /archives/2005/05/wapsi_square.html

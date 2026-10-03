@@ -5,7 +5,9 @@ excerpt: |
     Minha primeira tentativa de fazer um podcast consistiu na simples leitura de textos que eu publicava. Ficou meio ruim: além de ser meio enroscado lidar com vários arquivos, o mais interessante aqui são os links - e quem está ouvindo...
 layout: post
 comments: true
-permalink: /archives/2005/06/podcast_junho20.html/
+permalink: /archives/2005/06/podcast_junho20/
+redirect_from:
+  - /archives/2005/06/podcast_junho20.html/
 categories:
 ---
 Minha primeira tentativa de fazer um podcast consistiu na simples leitura de textos que eu publicava. Ficou meio ruim: além de ser meio enroscado lidar com vários arquivos, o mais interessante aqui são os links – e quem está ouvindo um podcast geralmente está longe do micro.

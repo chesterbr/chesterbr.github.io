@@ -5,7 +5,9 @@ excerpt: |
     Sei lá se precisava realmente fazer um curta - afinal, hoje em dia a grande mídia divulgadora das teorias malucas e/ou conspiratórias é o e-mail-corrente. De qualquer forma, Tarantino's Mind é um curta-metragem que já vale pelo pastiche de juntar...
 layout: post
 comments: true
-permalink: /archives/2007/04/tarantinos_mind.html/
+permalink: /archives/2007/04/tarantinos_mind/
+redirect_from:
+  - /archives/2007/04/tarantinos_mind.html/
 categories:
 ---
 <img title="tarantinosmind.jpg" src="/archives/img/tarantinosmind.jpg" width="250" height="105" border="1" align="left" />Sei lá se precisava realmente fazer um curta – afinal, hoje em dia a grande mídia divulgadora das teorias malucas e/ou conspiratórias é o e-mail-corrente. De qualquer forma, [Tarantino's Mind][1] é um curta-metragem que já vale pelo pastiche de juntar Selton Mello e Seu Jorge numa conversa de bar sobre filmes do Tarantino, independente de se comprar ou não a idéia que permeia o encontro.

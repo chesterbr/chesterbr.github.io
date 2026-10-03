@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Crumb: a censura acontecendo onde menos se espera'
 layout: post
 comments: true
-permalink: /archives/2003/01/crumb-a-censura-acontecendo-onde-menos-se-espera.html/
+permalink: /archives/2003/01/crumb-a-censura-acontecendo-onde-menos-se-espera/
+redirect_from:
+  - /archives/2003/01/crumb-a-censura-acontecendo-onde-menos-se-espera.html/
 categories:
   - comics
 ---

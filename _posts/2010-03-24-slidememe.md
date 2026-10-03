@@ -3,7 +3,9 @@ locale: pt-BR
 title: SlideMeme
 layout: post
 comments: true
-permalink: /archives/2010/03/slidememe.html/
+permalink: /archives/2010/03/slidememe/
+redirect_from:
+  - /archives/2010/03/slidememe.html/
 categories:
   - software
 ---

@@ -5,7 +5,9 @@ excerpt: |
     Confesso que ia deixar passar este dia em branco, pois cada vez mais me convenço de que a publicação na web tem mais potencial para fazer virar os grandes talentos do que as editoras, jornais, governos e datas comemorativas. Mas...
 layout: post
 comments: true
-permalink: /archives/2008/01/dia_do_quadrinh.html/
+permalink: /archives/2008/01/dia_do_quadrinh/
+redirect_from:
+  - /archives/2008/01/dia_do_quadrinh.html/
 categories:
   - comics
 ---

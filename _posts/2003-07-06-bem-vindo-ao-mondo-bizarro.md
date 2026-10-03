@@ -3,7 +3,9 @@ locale: pt-BR
 title: Bem-vindo ao mondo bizarro
 layout: post
 comments: true
-permalink: /archives/2003/07/bem-vindo-ao-mondo-bizarro.html/
+permalink: /archives/2003/07/bem-vindo-ao-mondo-bizarro/
+redirect_from:
+  - /archives/2003/07/bem-vindo-ao-mondo-bizarro.html/
 categories:
   - mondo-bizarro
 ---

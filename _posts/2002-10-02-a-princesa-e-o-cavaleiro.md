@@ -3,7 +3,9 @@ locale: pt-BR
 title: A Princesa e o Cavaleiro
 layout: post
 comments: true
-permalink: /archives/2002/10/a-princesa-e-o-cavaleiro.html/
+permalink: /archives/2002/10/a-princesa-e-o-cavaleiro/
+redirect_from:
+  - /archives/2002/10/a-princesa-e-o-cavaleiro.html/
 categories:
   - comics
 ---

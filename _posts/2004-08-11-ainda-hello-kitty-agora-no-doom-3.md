@@ -3,7 +3,9 @@ locale: pt-BR
 title: Ainda Hello Kitty, agora no Doom 3
 layout: post
 comments: true
-permalink: /archives/2004/08/ainda-hello-kitty-agora-no-doom-3.html/
+permalink: /archives/2004/08/ainda-hello-kitty-agora-no-doom-3/
+redirect_from:
+  - /archives/2004/08/ainda-hello-kitty-agora-no-doom-3.html/
 categories:
 ---
 <img src="/img/blig/kittydoom3.jpg" alt="tudo a ver: lanterna da Hello Kitty e sangue" align="left"><img src="/img/blig/thunderdoom3.jpg"  alt="lanterna dos Thundercats" align="right">O sucesso de um jogo pode muito bem ser medido pela flexibilidade de modificação que o mesmo permite (o exemplo máximo disso é o [Counter-Strike](http://www.counter-strike.net/faq.html), que nem jogo é, é uma modificação do Half-Life). E o Doom 3 parece estar indo nessa direção: o jogo mal saiu e já estão pintando *mods* interessantes.

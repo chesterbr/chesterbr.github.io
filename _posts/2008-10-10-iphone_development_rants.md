@@ -5,7 +5,9 @@ excerpt: |
     (previously published on the MIH SWAT Blog) When we talk about Apple, mankind is pretty much divided into three camps: lovers, haters and developers. Seriously, I never thought the day would come when I’d say such a thing, but the...
 layout: post
 comments: true
-permalink: /archives/2008/10/iphone_development_rants.html/
+permalink: /archives/2008/10/iphone_development_rants/
+redirect_from:
+  - /archives/2008/10/iphone_development_rants.html/
 categories:
   - software
 ---

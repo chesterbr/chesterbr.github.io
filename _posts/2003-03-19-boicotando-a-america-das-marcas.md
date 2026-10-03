@@ -3,7 +3,9 @@ locale: pt-BR
 title: Boicotando a América das marcas
 layout: post
 comments: true
-permalink: /archives/2003/03/boicotando-a-america-das-marcas.html/
+permalink: /archives/2003/03/boicotando-a-america-das-marcas/
+redirect_from:
+  - /archives/2003/03/boicotando-a-america-das-marcas.html/
 categories:
 ---
 <img src="/img/blig/bandeira_adbusters.jpg" align="left">O [Adbusters](http://adbusters.org/information/foundation/) é uma espécie de ONG anti-consumismo, famosa por suas campanhas como o [Buy Nothing Day](http://www.wired.com/news/culture/0,1284,56489,00.html) (Dia de Não Comprar Nada). Algumas pessoas me chamaram a atenção para a campanha mais recente deles, a [Boycott Brand America](http://adbusters.org/campaigns/boycott_america/) (algo como "Boicote a América das Marcas").

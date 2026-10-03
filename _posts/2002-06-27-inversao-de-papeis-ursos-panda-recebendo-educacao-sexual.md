@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Inversão de papéis: ursos panda recebendo educação sexual'
 layout: post
 comments: true
-permalink: /archives/2002/06/inversao-de-papeis-ursos-panda-recebendo-educacao-sexual.html/
+permalink: /archives/2002/06/inversao-de-papeis-ursos-panda-recebendo-educacao-sexual/
+redirect_from:
+  - /archives/2002/06/inversao-de-papeis-ursos-panda-recebendo-educacao-sexual.html/
 categories:
   - mondo-bizarro
 ---

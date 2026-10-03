@@ -3,7 +3,9 @@ locale: en
 title: Should GMail blacklist spam senders?
 layout: post
 comments: true
-permalink: /archives/2013/08/should-gmail-blacklist-spam-senders.html/
+permalink: /archives/2013/08/should-gmail-blacklist-spam-senders/
+redirect_from:
+  - /archives/2013/08/should-gmail-blacklist-spam-senders.html/
 categories:
   - software
 ---

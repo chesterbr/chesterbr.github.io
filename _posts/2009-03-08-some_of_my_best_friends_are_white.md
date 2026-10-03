@@ -5,7 +5,9 @@ excerpt: |
     Quando viajei pela primeira vez para a África do Sul (em 2007) fiz algumas considerações sobre a convivência entre os diversos grupos étnicos no pós-apartheid. A idéia de "rainbow nation" descrita ali é válida, mas numa nova (e mais longa)...
 layout: post
 comments: true
-permalink: /archives/2009/03/some_of_my_best_friends_are_white.html/
+permalink: /archives/2009/03/some_of_my_best_friends_are_white/
+redirect_from:
+  - /archives/2009/03/some_of_my_best_friends_are_white.html/
 categories:
   - books
 ---

@@ -3,7 +3,9 @@ locale: pt-BR
 title: Boteco São Bento (o pior bar do sistema solar)
 layout: post
 comments: true
-permalink: /archives/2009/09/boteco-sao-bento-o-pior-bar-do-sistema-solar.html/
+permalink: /archives/2009/09/boteco-sao-bento-o-pior-bar-do-sistema-solar/
+redirect_from:
+  - /archives/2009/09/boteco-sao-bento-o-pior-bar-do-sistema-solar.html/
 categories:
 ---
 <p style="text-align: left">

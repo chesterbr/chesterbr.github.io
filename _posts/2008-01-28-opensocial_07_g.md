@@ -5,7 +5,9 @@ excerpt: |
     And OpenSocial 0.7 hits the door. Too sad I don't have John Battelle's balls to write down and publish predictions, otherwise I could be bragging about having expected "a serious version not until the end of January", as I suggested...
 layout: post
 comments: true
-permalink: /archives/2008/01/opensocial_07_g.html/
+permalink: /archives/2008/01/opensocial_07_g/
+redirect_from:
+  - /archives/2008/01/opensocial_07_g.html/
 categories:
 ---
 And OpenSocial 0.7 hits the door. Too sad I don't have John Battelle's balls to write down and publish [predictions][1], otherwise I could be bragging about having expected "a serious version not until the end of January", as I suggested to a few colleagues. :-P

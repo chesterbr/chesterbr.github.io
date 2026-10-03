@@ -5,14 +5,16 @@ excerpt: |
     UPDATE: Bummer! The CEO of the company behind the software (apparently, a one-man-band) has been hired by Twitter, but they don't intend to keep the service online. :-( (another one posted on the SWAT blog - no time for translation,...
 layout: post
 comments: true
-permalink: /archives/2008/10/i_want_sandy_an.html/
+permalink: /archives/2008/10/i_want_sandy_an/
+redirect_from:
+  - /archives/2008/10/i_want_sandy_an.html/
 categories:
 ---
 **UPDATE**: Bummer! The [CEO][1] of the company behind the software (apparently, a one-man-band) has been [hired][2] by Twitter, but they don't intend to keep the service online. :-(
 
 **SOLUTION:** <del>[3mindme][3] is a minimalistic and efficient replacement created and mantained by [David Barrett][4]. You can send/forward email to <date>@3mindme.com (e.g., 3days@3mindme.com) and it will bounce back at the specified time. No calendar and other Sandy frills, but it fills the gap of a "snooze" button at your inbox</del>.
 
-**NEW SOLUTION:** 3mindme also went belly up, so I'm currently using [NudgeMail](/archives/2008/10/i_want_sandy_an.html/). It'the same thing: you send/forward e-mail to things like saturday@nudgemail.com or tomorrow5pm@nudgemail.com and it comes back to you. They are on a free beta right now and promise to continue having a free version once they get out of beta phase.
+**NEW SOLUTION:** 3mindme also went belly up, so I'm currently using [NudgeMail](/archives/2008/10/i_want_sandy_an/). It'the same thing: you send/forward e-mail to things like saturday@nudgemail.com or tomorrow5pm@nudgemail.com and it comes back to you. They are on a free beta right now and promise to continue having a free version once they get out of beta phase.
 
 * * *
 

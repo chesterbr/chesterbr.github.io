@@ -3,7 +3,9 @@ locale: en
 title: Raspberry Pi (with BerryBoot and ChameleonPI)
 layout: post
 comments: true
-permalink: /archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi.html/
+permalink: /archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi/
+redirect_from:
+  - /archives/2013/03/raspberry-pi-with-berryboot-and-chameleonpi.html/
 categories:
   - software
 ---

@@ -3,7 +3,9 @@ locale: pt-BR
 title: Brinquedos novos
 layout: post
 comments: true
-permalink: /archives/2004/03/brinquedos-novos.html/
+permalink: /archives/2004/03/brinquedos-novos/
+redirect_from:
+  - /archives/2004/03/brinquedos-novos.html/
 categories:
   - retrocomputing
 ---

@@ -5,7 +5,9 @@ excerpt: |
     Depois do esquema feito-em-casa para fazer sexo remoto via XBox, o Boing Boing anuncia que começaram a vender acessórios nesta linha - não são para comunicação, mas sincronizam seus movimentos físicos com movimentos de personagens virtuais na tela. Atendendo a...
 layout: post
 comments: true
-permalink: /archives/2007/01/e_o_tecnoonanis.html/
+permalink: /archives/2007/01/e_o_tecnoonanis/
+redirect_from:
+  - /archives/2007/01/e_o_tecnoonanis.html/
 categories:
 ---
 <img title="virtualstick.gif" src="/archives/img/virtualstick.gif" width="209" height="107" align="right" />Depois do [esquema feito-em-casa para fazer sexo remoto via XBox][1], o Boing Boing [anuncia][2] que começaram a vender acessórios nesta linha – não são para comunicação, mas sincronizam seus movimentos físicos com movimentos de personagens virtuais na tela.

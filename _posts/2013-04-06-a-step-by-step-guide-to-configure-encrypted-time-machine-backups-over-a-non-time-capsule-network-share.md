@@ -3,7 +3,9 @@ locale: en
 title: A step-by-step guide to configure encrypted Time Machine backups over a non-(Time Capsule) network share
 layout: post
 comments: true
-permalink: /archives/2013/04/a-step-by-step-guide-to-configure-encrypted-time-machine-backups-over-a-non-time-capsule-network-share.html/
+permalink: /archives/2013/04/a-step-by-step-guide-to-configure-encrypted-time-machine-backups-over-a-non-time-capsule-network-share/
+redirect_from:
+  - /archives/2013/04/a-step-by-step-guide-to-configure-encrypted-time-machine-backups-over-a-non-time-capsule-network-share.html/
 categories:
   - software
 ---

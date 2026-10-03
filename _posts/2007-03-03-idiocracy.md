@@ -5,7 +5,9 @@ excerpt: |
     Idiocracy já vale pela introdução, que compara a árvore genealógica de um casal de indivíduos inteligentes (praticantes do planejamento familiar) com a de um par mais obtuso (que se reproduz como coelhos). A idéia é que, à medida em que...
 layout: post
 comments: true
-permalink: /archives/2007/03/idiocracy.html/
+permalink: /archives/2007/03/idiocracy/
+redirect_from:
+  - /archives/2007/03/idiocracy.html/
 categories:
 ---
 <img title="Cena de Idiocracy onde uma profissional da área de saúde usa a tecnologia para fazer um diagnóstico" src="/archives/img/idiocracy.jpg" width="250" height="131" align="right" border="1" />Idiocracy já vale pela [introdução][1], que compara a árvore genealógica de um casal de indivíduos inteligentes (praticantes do planejamento familiar) com a de um par mais obtuso (que se reproduz como coelhos). A idéia é que, à medida em que a raça humana não está mais sujeita a predadores naturais, a evolução favorece este último perfil.

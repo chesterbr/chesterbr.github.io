@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Meninas Iranianas (A Beginner’s Guide to Acting English / Persépolis)'
 layout: post
 comments: true
-permalink: /archives/2009/08/meninas-iranianas-a-beginners-guide-to-acting-english-persepolis.html/
+permalink: /archives/2009/08/meninas-iranianas-a-beginners-guide-to-acting-english-persepolis/
+redirect_from:
+  - /archives/2009/08/meninas-iranianas-a-beginners-guide-to-acting-english-persepolis.html/
 bb-custom-tags:
   - persépolis khorsandi
 categories:

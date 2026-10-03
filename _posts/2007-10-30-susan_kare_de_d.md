@@ -5,7 +5,9 @@ excerpt: |
     Nego fala muito do Oscar Niemeyer, mas eu fico pensando se ele teve mais influência visual sobre a minha vida do que Susan Kare, a ilustradora que desenhou praticamente todas as interfaces gráficas do mundo (como comentei no passado). A...
 layout: post
 comments: true
-permalink: /archives/2007/10/susan_kare_de_d.html/
+permalink: /archives/2007/10/susan_kare_de_d/
+redirect_from:
+  - /archives/2007/10/susan_kare_de_d.html/
 categories:
   - retrocomputing
 ---

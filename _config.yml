@@ -72,6 +72,11 @@ markdown: kramdown
 plugins:
   # - jekyll-admin
   - jekyll-feed
+  # Generates static meta-refresh stub pages for old URLs (see redirect_from
+  # in post front matter). GitHub Pages has no Apache/nginx-style rewrite
+  # rules, so this per-URL approach is the only option here; if the blog ever
+  # moves off GitHub Pages, a single server rewrite rule could replace most
+  # of these per-post entries instead.
   - jekyll-redirect-from
   - jekyll-paginate-v2
   - jekyll-sitemap

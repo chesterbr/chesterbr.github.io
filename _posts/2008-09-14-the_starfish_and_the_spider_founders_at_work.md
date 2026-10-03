@@ -5,7 +5,9 @@ excerpt: |
     Novamente uma dobradinha de resenhas, que abro com The Starfish and The Spider, que apresenta uma maneira inusitada de classificar as organizações (empresariais ou não). Ele as divide entre "aranhas" (spiders), isto é, organizações altamente centralizadas e "estrelas-do-mar" (starfishs), que...
 layout: post
 comments: true
-permalink: /archives/2008/09/the_starfish_and_the_spider_founders_at_work.html/
+permalink: /archives/2008/09/the_starfish_and_the_spider_founders_at_work/
+redirect_from:
+  - /archives/2008/09/the_starfish_and_the_spider_founders_at_work.html/
 categories:
   - books
 ---

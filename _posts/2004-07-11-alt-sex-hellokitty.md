@@ -3,11 +3,13 @@ locale: pt-BR
 title: Alt.sex.hellokitty
 layout: post
 comments: true
-permalink: /archives/2004/07/alt-sex-hellokitty.html/
+permalink: /archives/2004/07/alt-sex-hellokitty/
+redirect_from:
+  - /archives/2004/07/alt-sex-hellokitty.html/
 categories:
 ---
 <img src="/img/blig/altsexhellokitty.jpg" border="2" alt="Gatinho, gatinho, gatinho..." align="left">Para quem ainda considera Hello Kitty um fofinho e inocente personagem (tem até quem tenha [e-mail @hellokitty.com](http://www.sanriotown.com/login/index.php)), é surpreendente descobrir que existe o alt.sex.hellokitty (acessível via [Google Groups](http://groups.google.com/groups?hl=en&#038;lr=&#038;ie=UTF-8&#038;group=alt.sex.hello-kitty)).
 
-Segundo o hilário [FAQ](http://www.angelfire.com/la/carlosmay/AshkFaq3.html), o grupo se dedica a discutir os fantásticos poderes sexuais dessa [já controversa](/archives/2003/09/hello-kitty-what-are-you-doing-there.html/) personagem. Me chama a atenção o item que explica se a falta de uma boca pode (ou não) atrapalhar a atividade em questão.
+Segundo o hilário [FAQ](http://www.angelfire.com/la/carlosmay/AshkFaq3.html), o grupo se dedica a discutir os fantásticos poderes sexuais dessa [já controversa](/archives/2003/09/hello-kitty-what-are-you-doing-there/) personagem. Me chama a atenção o item que explica se a falta de uma boca pode (ou não) atrapalhar a atividade em questão.
 
 Numa avaliação superficial, o grupo parece ter degenerado para o spam de pornografia, mas imagino como deve ter sido quando surgiu. De qualquer forma, não consigo colocar as expressões "sex" e "Hello Kitty" na mesma frase, por mais que eu tente...

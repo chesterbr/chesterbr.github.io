@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Potter: “queima ele!!!”'
 layout: post
 comments: true
-permalink: /archives/2001/12/potter-queima-ele.html/
+permalink: /archives/2001/12/potter-queima-ele/
+redirect_from:
+  - /archives/2001/12/potter-queima-ele.html/
 categories:
 ---
 Tem horas que eu me rendo ao pessimismo: somos mesmos atrasados. Só agora surgiu um desinformado brazuca querendo <a class="dead-link" title="este link morreu" href="http://www.yohanan.com.br/art_potter.htm">associar Harry Potter ao anticristo</a><span class="dead-link-mark">†</span> (mesmo sem ter lido os livros ou assistido ao filme, como confessa na matéria).

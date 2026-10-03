@@ -3,7 +3,9 @@ locale: pt-BR
 title: Coisas que irritam um motorista
 layout: post
 comments: true
-permalink: /archives/2010/03/coisas-que-irritam-um-motorista.html/
+permalink: /archives/2010/03/coisas-que-irritam-um-motorista/
+redirect_from:
+  - /archives/2010/03/coisas-que-irritam-um-motorista.html/
 categories:
 ---
 Andar de ônibus em São Paulo não é nenhuma maravilha. Mas os piores perrengues não se comparam à soma das pequenas irritações causadas por este esporte coletivo espartano que é possuir/dirigir um carro particular, tais como:

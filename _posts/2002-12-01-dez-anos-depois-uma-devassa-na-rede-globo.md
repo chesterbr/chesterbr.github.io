@@ -3,7 +3,9 @@ locale: pt-BR
 title: Dez anos depois, uma devassa na Rede Globo
 layout: post
 comments: true
-permalink: /archives/2002/12/dez-anos-depois-uma-devassa-na-rede-globo.html/
+permalink: /archives/2002/12/dez-anos-depois-uma-devassa-na-rede-globo/
+redirect_from:
+  - /archives/2002/12/dez-anos-depois-uma-devassa-na-rede-globo.html/
 categories:
 ---
 <img src="/img/blig/citzenkane.jpg" align="left" border="2">Eu sempre ouvi falar no documentário *Brazil: Beyond Citzen Kane* ("Brasil: Além do Cidadão Kane"), que disseca a história da TV Globo e a maneira com que esta manipulou seu público na defesa, entre outros interesses, dos governos militares e de Fernando Collor. Como muitas outras pessoas, não tive a oportunidade de assisti-lo na época (1993), já que as tentativas de trazê-lo a público no Brasil tendem a ser <a class="dead-link" title="este link morreu" href="http://www.pucrs.br/famecos/producao_cientifica/publicacoes_online/revistafamecos/fam5/muitoalem.html" >obliteradas</a><span class="dead-link-mark">†</span> pela rede de influência da Vênus Platinada.

@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Campus Party Brasil 2011 (#cpbr4)'
 layout: post
 comments: true
-permalink: /archives/2011/01/campus-party-brasil-2011-cpbr4.html/
+permalink: /archives/2011/01/campus-party-brasil-2011-cpbr4/
+redirect_from:
+  - /archives/2011/01/campus-party-brasil-2011-cpbr4.html/
 categories:
 ---
 <img class="alignright size-full wp-image-5848" title="Woz no cpbr4" src="/wp-content/uploads/2011/01/woz.jpg" alt="Woz no cpbr4" width="153" height="143" />Esse ano eu passei menos tempo no [Campus Party][1] do que gostaria. Do pouco que vi, as coisas boas permanecem: você interage com muita gente (velhos conhecidos e sangue novo), aprende e ensina a toda hora, e – importante – se diverte um bocado. Algumas das ruins melhoraram, tais como a (quase) total erradicação das cornetas e vuvuzelas, que atrapalhavam as palestras acrescentando pouco ou nada ao evento.

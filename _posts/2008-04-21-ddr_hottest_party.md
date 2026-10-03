@@ -5,7 +5,9 @@ excerpt: |
     A última coisa que eu esperava era ver um jogo da série DDR no Nintendo Wii. Mas parando para pensar, os dois têm tudo a ver: o Wii se caracteriza por um controle pouco usual e por colocar a jogabilidade...
 layout: post
 comments: true
-permalink: /archives/2008/04/ddr_hottest_party.html/
+permalink: /archives/2008/04/ddr_hottest_party/
+redirect_from:
+  - /archives/2008/04/ddr_hottest_party.html/
 categories:
 ---
 <img title="Caixa do Dance Dance Revolution: Hottest Party, para o Nintendo Wii" src="/archives/img/ddrhottestparty.jpg" width="190" height="267" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />A última coisa que eu esperava era ver um jogo da [série DDR][1] no Nintendo Wii. Mas parando para pensar, os dois têm tudo a ver: o Wii se caracteriza por um controle pouco usual e por colocar a jogabilidade acima dos gráficos – e isso descreve bem o DDR (para quem não conhece, é aquela série de jogos em que você tem que pisar num tapete ou base de metal seguindo coreografia na tela, sempre em sincronia com a música que está tocando).

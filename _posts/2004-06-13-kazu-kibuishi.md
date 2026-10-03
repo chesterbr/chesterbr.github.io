@@ -3,7 +3,9 @@ locale: pt-BR
 title: Kazu Kibuishi
 layout: post
 comments: true
-permalink: /archives/2004/06/kazu-kibuishi.html/
+permalink: /archives/2004/06/kazu-kibuishi/
+redirect_from:
+  - /archives/2004/06/kazu-kibuishi.html/
 categories:
   - comics
 ---

@@ -5,7 +5,9 @@ excerpt: |
     O Marketing Depois de Amanhã, livro mais recente do Ricardo Cavallini, é de difícil definição. Seu primeiro trabalho (Boa Bronha - A arte de desperdiçar energia) usava a experiência de criar um dos mais divertidos sites adultos brasileiros para comentar,...
 layout: post
 comments: true
-permalink: /archives/2006/05/o_marketing_dep.html/
+permalink: /archives/2006/05/o_marketing_dep/
+redirect_from:
+  - /archives/2006/05/o_marketing_dep.html/
 categories:
   - books
 ---

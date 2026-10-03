@@ -5,7 +5,9 @@ excerpt: |
     A Carne é Fraca se propõe a mostrar em cores vivas as conseqüências do consumo de carne, e abre apresentando dados objetivos sobre o impacto desta prática no meio ambiente. Ele segue para impactantes cenas de onde e como os...
 layout: post
 comments: true
-permalink: /archives/2009/01/a_carne_e_fraca.html/
+permalink: /archives/2009/01/a_carne_e_fraca/
+redirect_from:
+  - /archives/2009/01/a_carne_e_fraca.html/
 categories:
 ---
 

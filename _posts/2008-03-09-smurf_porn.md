@@ -5,7 +5,9 @@ excerpt: |
     Quando eu estiver fazendo algo muito, muito deturpado, pensarei: "pelo menos não juntei uma galera pra se pintar de azul, vestir roupinhas brancas e encenar um curta pornô dos Smurfs" (ATENÇÃO: LINK IMPRÓPRIO PARA MENORES/ESCRITÓRIO). Não dá pra não comentar....
 layout: post
 comments: true
-permalink: /archives/2008/03/smurf_porn.html/
+permalink: /archives/2008/03/smurf_porn/
+redirect_from:
+  - /archives/2008/03/smurf_porn.html/
 categories:
   - mondo-bizarro
 ---

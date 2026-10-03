@@ -5,7 +5,9 @@ excerpt: |
     Quando você junta um maníaco por bonequinhos (ok, ok, action figures) e um animador com um pé forte no stop motion, sai um lance como Robot Chicken, que deve aparecer em breve no Cartoon Network, via Adult Swim. Pra dar...
 layout: post
 comments: true
-permalink: /archives/2005/12/robot_chicken.html/
+permalink: /archives/2005/12/robot_chicken/
+redirect_from:
+  - /archives/2005/12/robot_chicken.html/
 categories:
 ---
 <img title="Abertura de Robot Chicken" src="/archives/img/robotchicken.jpg" width="150" height="113" align="left" border="1" />Quando você junta um maníaco por bonequinhos (ok, ok, *action figures*) e um animador com um pé forte no stop motion, sai um lance como [Robot Chicken](http://web.archive.org/web/20180414223314/http://www.adultswim.com/shows/robotchicken/), que deve aparecer em breve no Cartoon Network, via Adult Swim.

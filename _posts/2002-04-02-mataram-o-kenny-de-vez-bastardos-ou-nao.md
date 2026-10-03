@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Mataram o Kenny de vez… bastardos! (ou não?)'
 layout: post
 comments: true
-permalink: /archives/2002/04/mataram-o-kenny-de-vez-bastardos-ou-nao.html/
+permalink: /archives/2002/04/mataram-o-kenny-de-vez-bastardos-ou-nao/
+redirect_from:
+  - /archives/2002/04/mataram-o-kenny-de-vez-bastardos-ou-nao.html/
 categories:
   - comics
 ---

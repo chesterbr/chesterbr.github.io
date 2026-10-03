@@ -3,7 +3,9 @@ locale: pt-BR
 title: Kanji Pictográfico
 layout: post
 comments: true
-permalink: /archives/2003/11/kanji-pictografico.html/
+permalink: /archives/2003/11/kanji-pictografico/
+redirect_from:
+  - /archives/2003/11/kanji-pictografico.html/
 categories:
   - books
 ---

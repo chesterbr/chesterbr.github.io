@@ -5,7 +5,9 @@ excerpt: |
     09/10 (Terça) - Table Mountain e jantar no porto Após mais de uma semana convivendo com a Table Mountain (para quem não leu: o nome se deve ao visual do topo coberto pelas nuvens), chegou a hora de subir ela....
 layout: post
 comments: true
-permalink: /archives/2007/10/chester_na_afri_7.html/
+permalink: /archives/2007/10/chester_na_afri_7/
+redirect_from:
+  - /archives/2007/10/chester_na_afri_7.html/
 categories:
   - travel
 ---

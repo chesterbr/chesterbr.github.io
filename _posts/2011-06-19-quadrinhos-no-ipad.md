@@ -3,7 +3,9 @@ locale: pt-BR
 title: Quadrinhos no iPad
 layout: post
 comments: true
-permalink: /archives/2011/06/quadrinhos-no-ipad.html/
+permalink: /archives/2011/06/quadrinhos-no-ipad/
+redirect_from:
+  - /archives/2011/06/quadrinhos-no-ipad.html/
 categories:
   - comics
 ---

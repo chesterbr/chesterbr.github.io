@@ -3,7 +3,9 @@ locale: pt-BR
 title: Asperger, a vida, o universo e tudo mais
 layout: post
 comments: true
-permalink: /archives/2004/09/asperger-a-vida-o-universo-e-tudo-mais.html/
+permalink: /archives/2004/09/asperger-a-vida-o-universo-e-tudo-mais/
+redirect_from:
+  - /archives/2004/09/asperger-a-vida-o-universo-e-tudo-mais.html/
 categories:
   - books
 ---

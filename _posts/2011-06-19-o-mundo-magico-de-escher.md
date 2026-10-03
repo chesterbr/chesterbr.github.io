@@ -3,7 +3,9 @@ locale: pt-BR
 title: O Mundo Mágico de Escher
 layout: post
 comments: true
-permalink: /archives/2011/06/o-mundo-magico-de-escher.html/
+permalink: /archives/2011/06/o-mundo-magico-de-escher/
+redirect_from:
+  - /archives/2011/06/o-mundo-magico-de-escher.html/
 categories:
   - books
 ---

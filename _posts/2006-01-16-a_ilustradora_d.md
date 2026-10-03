@@ -5,7 +5,9 @@ excerpt: |
     O anteriormente mencionado Folklore.org (site que conta os bastidores da história da Apple nos conturbados anos 80) virou livro recentemente - e nem por isso o pessoal das antigas do Vale do Silício parou de atualizar as histórias do site....
 layout: post
 comments: true
-permalink: /archives/2006/01/a_ilustradora_d.html/
+permalink: /archives/2006/01/a_ilustradora_d/
+redirect_from:
+  - /archives/2006/01/a_ilustradora_d.html/
 categories:
 ---
 <img title="Cartas do Paciência do Windows, em zoom" src="/archives/img/paciencia.png" width="264" height="219" align="right" />O anteriormente mencionado [Folklore.org][1] (site que conta os bastidores da história da Apple nos conturbados anos 80) [virou livro][2] recentemente – e nem por isso o pessoal das antigas do Vale do Silício parou de atualizar as histórias do site.

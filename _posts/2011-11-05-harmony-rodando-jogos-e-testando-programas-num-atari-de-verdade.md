@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Harmony: rodando jogos (e testando programas) num Atari de verdade'
 layout: post
 comments: true
-permalink: /archives/2011/11/harmony-rodando-jogos-e-testando-programas-num-atari-de-verdade.html/
+permalink: /archives/2011/11/harmony-rodando-jogos-e-testando-programas-num-atari-de-verdade/
+redirect_from:
+  - /archives/2011/11/harmony-rodando-jogos-e-testando-programas-num-atari-de-verdade.html/
 categories:
   - atari-2600
   - electronics
@@ -34,7 +36,7 @@ Se interessar, veja mais <a class="dead-link" title="este link morreu" href="htt
 *(esse post pede um agradecimento especial ao Alexandre Oliveira, que me cedeu vários cartuchos de Atari para testar o console "novo", evitando que eu procurasse problemas onde eles não existiam)*
 
  [1]: http://www.flickr.com/photos/chesterbr/6296967178/ "Cartucho Harmony by chesterbr, on Flickr"
- [3]: /archives/2011/08/palestra-sobre-programacao-para-atari-2600-no-dev-in-sampa-2011.html/
+ [3]: /archives/2011/08/palestra-sobre-programacao-para-atari-2600-no-dev-in-sampa-2011/
  [4]: http://stella.sourceforge.net/
  [5]: http://harmony.atariage.com/
  [6]: http://cartaodememoria.com/cartao-sd

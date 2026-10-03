@@ -3,7 +3,9 @@ locale: pt-BR
 title: Scott McCloud
 layout: post
 comments: true
-permalink: /archives/2004/02/scott-mccloud.html/
+permalink: /archives/2004/02/scott-mccloud/
+redirect_from:
+  - /archives/2004/02/scott-mccloud.html/
 categories:
   - comics
 ---

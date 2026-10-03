@@ -5,7 +5,9 @@ excerpt: |
     Excelente início de semana para webcomics: não apenas Rene Engström retomou a produção de Anders Loves Maria (após um período assustada por conta de um idiota passador de trotes) mas também achei outro quadrinho muito simpático: Wasted Talent, da (supostamente)...
 layout: post
 comments: true
-permalink: /archives/2008/05/webcomics_em_do.html/
+permalink: /archives/2008/05/webcomics_em_do/
+redirect_from:
+  - /archives/2008/05/webcomics_em_do.html/
 categories:
   - comics
 ---

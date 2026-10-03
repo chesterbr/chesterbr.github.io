@@ -3,7 +3,9 @@ locale: pt-BR
 title: Numbers Rule Your World
 layout: post
 comments: true
-permalink: /archives/2010/11/numbers-rule-your-world.html/
+permalink: /archives/2010/11/numbers-rule-your-world/
+redirect_from:
+  - /archives/2010/11/numbers-rule-your-world.html/
 categories:
   - books
 ---

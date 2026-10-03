@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Chester na Europa (parte 1 de 3): Dresden'
 layout: post
 comments: true
-permalink: /archives/2009/08/chester-na-europa-1-dresden.html/
+permalink: /archives/2009/08/chester-na-europa-1-dresden/
+redirect_from:
+  - /archives/2009/08/chester-na-europa-1-dresden.html/
 categories:
   - travel
 ---

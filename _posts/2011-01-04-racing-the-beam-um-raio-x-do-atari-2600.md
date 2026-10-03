@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Racing the Beam: Um raio-x do Atari 2600'
 layout: post
 comments: true
-permalink: /archives/2011/01/racing-the-beam-um-raio-x-do-atari-2600.html/
+permalink: /archives/2011/01/racing-the-beam-um-raio-x-do-atari-2600/
+redirect_from:
+  - /archives/2011/01/racing-the-beam-um-raio-x-do-atari-2600.html/
 categories:
   - atari-2600
   - books

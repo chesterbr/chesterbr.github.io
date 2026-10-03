@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Gen – Quadrinhos de Hiroshima'
 layout: post
 comments: true
-permalink: /archives/2003/07/gen-quadrinhos-de-hiroshima.html/
+permalink: /archives/2003/07/gen-quadrinhos-de-hiroshima/
+redirect_from:
+  - /archives/2003/07/gen-quadrinhos-de-hiroshima.html/
 categories:
   - comics
 ---

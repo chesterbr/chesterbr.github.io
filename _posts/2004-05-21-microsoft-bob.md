@@ -3,7 +3,9 @@ locale: pt-BR
 title: Microsoft Bob
 layout: post
 comments: true
-permalink: /archives/2004/05/microsoft-bob.html/
+permalink: /archives/2004/05/microsoft-bob/
+redirect_from:
+  - /archives/2004/05/microsoft-bob.html/
 categories:
 ---
 <img src="/img/blig/msbob.jpg" style="float:right; margin-left:6px;margin-bottom:4px" />Brincando na pouco conhecida [página do Google de buscas MS](http://www.google.com/microsoft), acabei encontrando este excelente [documentário sobre o Microsoft Bob](http://home.pmt.org/~drose/aw-win3x-16.html). Vale a pena perder uma meia hora aqui estudando um dos mais interessantes cases de produto perdedor da história. Foi fracasso comparável, talvez, ao [IBM PCjr](http://en.wikipedia.org/wiki/IBM_PCjr) ou à introdução da Cherry Coke no Brasil.

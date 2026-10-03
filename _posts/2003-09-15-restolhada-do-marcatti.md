@@ -3,7 +3,9 @@ locale: pt-BR
 title: Restolhada do Marcatti
 layout: post
 comments: true
-permalink: /archives/2003/09/restolhada-do-marcatti.html/
+permalink: /archives/2003/09/restolhada-do-marcatti/
+redirect_from:
+  - /archives/2003/09/restolhada-do-marcatti.html/
 categories:
   - comics
 ---

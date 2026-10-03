@@ -5,7 +5,9 @@ excerpt: |
     O NadShot é mais uma daquelas coleções temáticas de cenas de quadrinhos. No caso, retrata situações em que os personagens tenham tomado um soco, chute, pancada, enfim, sofrido qualquer tipo de agressão nas gônadas (daí o nome). Ouch....
 layout: post
 comments: true
-permalink: /archives/2007/11/so_na_pacoteira.html/
+permalink: /archives/2007/11/so_na_pacoteira/
+redirect_from:
+  - /archives/2007/11/so_na_pacoteira.html/
 categories:
   - comics
 ---

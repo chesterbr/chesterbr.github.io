@@ -3,7 +3,9 @@ locale: pt-BR
 title: É divertido ficar na A.C.M.
 layout: post
 comments: true
-permalink: /archives/2004/10/e-divertido-ficar-na-a-c-m.html/
+permalink: /archives/2004/10/e-divertido-ficar-na-a-c-m/
+redirect_from:
+  - /archives/2004/10/e-divertido-ficar-na-a-c-m.html/
 categories:
 ---
 <img class="alignright right" style="border: 1px solid black;" src="/img/blig/village.jpg" alt="Village People" width="351" height="322" />Neste sábado fui ao [show][1] do Village People, o grupo que desde os anos 70 vem tirando nego desavisado do armário através das suas letras de duplo sentido (que talvez só percam para o [Smithers][2] dos Simpsons).Não levei câmera, mas fotos e vídeos do show estão disponíveis [aqui][3].

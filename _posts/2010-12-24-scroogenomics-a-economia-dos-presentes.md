@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Scroogenomics: A Economia dos Presentes'
 layout: post
 comments: true
-permalink: /archives/2010/12/scroogenomics-a-economia-dos-presentes.html/
+permalink: /archives/2010/12/scroogenomics-a-economia-dos-presentes/
+redirect_from:
+  - /archives/2010/12/scroogenomics-a-economia-dos-presentes.html/
 categories:
   - books
 ---

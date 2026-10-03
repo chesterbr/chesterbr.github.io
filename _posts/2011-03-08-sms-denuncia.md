@@ -3,7 +3,9 @@ locale: pt-BR
 title: SMS-Denúncia
 layout: post
 comments: true
-permalink: /archives/2011/03/sms-denuncia.html/
+permalink: /archives/2011/03/sms-denuncia/
+redirect_from:
+  - /archives/2011/03/sms-denuncia.html/
 categories:
   - software
 ---

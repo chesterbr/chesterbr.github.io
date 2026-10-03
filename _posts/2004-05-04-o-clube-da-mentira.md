@@ -3,7 +3,9 @@ locale: pt-BR
 title: O clube da mentira
 layout: post
 comments: true
-permalink: /archives/2004/05/o-clube-da-mentira.html/
+permalink: /archives/2004/05/o-clube-da-mentira/
+redirect_from:
+  - /archives/2004/05/o-clube-da-mentira.html/
 categories:
 ---
 Segundo <a class="dead-link" title="este link morreu" href="http://www.wired.com/news/culture/0,1284,63439,00.html?tw=wn_tophead_4" >este artigo</a><span class="dead-link-mark">†</span> do Wired News, os gringos criaram uma comunidade que te ajuda a bolar desculpas para sair do trabalho cedo, dar um cambão num encontro, enfim, a contar aquelas mentiras brancas que mantêm o mundo girando.

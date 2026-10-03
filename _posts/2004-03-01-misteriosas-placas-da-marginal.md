@@ -3,8 +3,9 @@ locale: pt-BR
 title: Misteriosas Placas da Marginal
 layout: post
 comments: true
-permalink: /archives/2004/03/misteriosas-placas-da-marginal.html/
+permalink: /archives/2004/03/misteriosas-placas-da-marginal/
 redirect_from:
+  - /archives/2004/03/misteriosas-placas-da-marginal.html/
   - /placas/
   - /placas.html/
 categories:

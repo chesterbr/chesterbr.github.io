@@ -5,7 +5,9 @@ excerpt: |
     Bubble City é um romance serializado (sai um capítulo por dia), ambientado no mundo das empresas pontocom, cuja história tem se mostrado bastante interessante (e olha que eu atualmente não ando atraído por muita coisa do gênero). O estilo lembra...
 layout: post
 comments: true
-permalink: /archives/2007/11/bubble_city.html/
+permalink: /archives/2007/11/bubble_city/
+redirect_from:
+  - /archives/2007/11/bubble_city.html/
 categories:
 ---
 <img src="/archives/img/dotcom_bubble.jpg" width="300" height="120" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />[Bubble City][1] é um romance serializado (sai um capítulo por dia), ambientado no mundo das empresas pontocom, cuja história tem se mostrado bastante interessante (e olha que eu atualmente não ando atraído por muita coisa do gênero). O estilo lembra um pouco o [MicroSerfs][2], mesclando uma parte de evidente ficção com outra de de experiência do autor, a última conferindo autenticidade à primeira.

@@ -3,7 +3,9 @@ locale: pt-BR
 title: Chester em Curitiba
 layout: post
 comments: true
-permalink: /archives/2011/03/chester-em-curitiba.html/
+permalink: /archives/2011/03/chester-em-curitiba/
+redirect_from:
+  - /archives/2011/03/chester-em-curitiba.html/
 categories:
   - travel
 ---

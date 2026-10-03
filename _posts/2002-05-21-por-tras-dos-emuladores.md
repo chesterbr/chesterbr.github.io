@@ -3,7 +3,9 @@ locale: pt-BR
 title: Por trás dos emuladores
 layout: post
 comments: true
-permalink: /archives/2002/05/por-tras-dos-emuladores.html/
+permalink: /archives/2002/05/por-tras-dos-emuladores/
+redirect_from:
+  - /archives/2002/05/por-tras-dos-emuladores.html/
 categories:
   - retrocomputing
   - software

@@ -3,7 +3,9 @@ locale: pt-BR
 title: É de menina, mas eu gosto
 layout: post
 comments: true
-permalink: /archives/2002/11/e-de-menina-mas-eu-gosto.html/
+permalink: /archives/2002/11/e-de-menina-mas-eu-gosto/
+redirect_from:
+  - /archives/2002/11/e-de-menina-mas-eu-gosto.html/
 categories:
   - comics
 ---

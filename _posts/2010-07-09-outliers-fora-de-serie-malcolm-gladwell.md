@@ -3,7 +3,9 @@ locale: pt-BR
 title: Outliers (Fora de Série), por Malcolm Gladwell
 layout: post
 comments: true
-permalink: /archives/2010/07/outliers-fora-de-serie-malcolm-gladwell.html/
+permalink: /archives/2010/07/outliers-fora-de-serie-malcolm-gladwell/
+redirect_from:
+  - /archives/2010/07/outliers-fora-de-serie-malcolm-gladwell.html/
 categories:
   - books
 ---

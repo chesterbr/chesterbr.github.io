@@ -3,7 +3,9 @@ locale: pt-BR
 title: Chester na Disney
 layout: post
 comments: true
-permalink: /archives/2010/12/chester-na-disney.html/
+permalink: /archives/2010/12/chester-na-disney/
+redirect_from:
+  - /archives/2010/12/chester-na-disney.html/
 categories:
   - travel
 ---

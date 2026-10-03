@@ -5,7 +5,9 @@ excerpt: |
     A Dani tirou uma foto tão engraçada da minha pessoa com a boca cheia de biscoitos Daltony que não foi possível evitar o comentário (mesmo considerando que o mestre é assunto inesgotável na web). Para quem não conhece, Daltony é...
 layout: post
 comments: true
-permalink: /archives/2008/05/daltony_sou_eu.html/
+permalink: /archives/2008/05/daltony_sou_eu/
+redirect_from:
+  - /archives/2008/05/daltony_sou_eu.html/
 categories:
   - mondo-bizarro
 ---

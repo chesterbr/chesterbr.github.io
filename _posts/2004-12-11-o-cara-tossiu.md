@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'O Cara Tossiu…'
 layout: post
 comments: true
-permalink: /archives/2004/12/o-cara-tossiu.html/
+permalink: /archives/2004/12/o-cara-tossiu/
+redirect_from:
+  - /archives/2004/12/o-cara-tossiu.html/
 categories:
 ---
 <img src="/img/blig/daileon.jpg" style="margin:4px; float:left;border:1px solid black" alt="o rei igual o dinheiro de passar" />É incrível, mas tem gente perguntando se isso aqui virou um site pornô, tudo por causa do último post.

@@ -5,7 +5,9 @@ excerpt: |
     Motocicleta é um lance polêmico: muita gente troca o carro pela moto para tentar fugir ao caos do trânsito, mas há implicações no que diz respeito a segurança e ecologia (esse último ponto é o motivador do phase out da...
 layout: post
 comments: true
-permalink: /archives/2008/10/bikeboy_alternativa_ao_motoboy.html/
+permalink: /archives/2008/10/bikeboy_alternativa_ao_motoboy/
+redirect_from:
+  - /archives/2008/10/bikeboy_alternativa_ao_motoboy.html/
 categories:
 ---
 <img title="Detalhe de foto em http://devine-photography.net/2007/09/12/" src="/archives/img/1364566667_dc78c0da24.jpg" width="200" height="168" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Motocicleta é um lance polêmico: muita gente troca o carro pela moto para tentar fugir ao caos do trânsito, mas há implicações no que diz respeito a [segurança][1] e [ecologia][2] (esse último ponto é o motivador do *phase out* da minha Honda Biz, que hoje é o "plano D" de transporte para a faculdade – quando ônibus, trem ou taxi não são viáveis – e muda de dono no final do ano).

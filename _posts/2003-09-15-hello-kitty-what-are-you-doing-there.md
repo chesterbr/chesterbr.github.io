@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Hello, Kitty… what are you doing <i>there</i>???'
 layout: post
 comments: true
-permalink: /archives/2003/09/hello-kitty-what-are-you-doing-there.html/
+permalink: /archives/2003/09/hello-kitty-what-are-you-doing-there/
+redirect_from:
+  - /archives/2003/09/hello-kitty-what-are-you-doing-there.html/
 categories:
   - mondo-bizarro
 ---

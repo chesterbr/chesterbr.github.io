@@ -5,7 +5,9 @@ excerpt: |
     08/10 (Domingo) - Feira, universidades, rugby e bossa nova (bônus: mais DDR) O Leo, coitado, perdeu um jogo da Copa do Mundo de Rugby, no qual a África do Sul enfrentou Fiji (não exatamente um favorito, mas deu um susto)...
 layout: post
 comments: true
-permalink: /archives/2007/10/chester_na_africa_viii.html/
+permalink: /archives/2007/10/chester_na_africa_viii/
+redirect_from:
+  - /archives/2007/10/chester_na_africa_viii.html/
 categories:
   - travel
 ---

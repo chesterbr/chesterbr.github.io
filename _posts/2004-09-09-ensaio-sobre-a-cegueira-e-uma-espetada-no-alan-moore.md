@@ -3,7 +3,9 @@ locale: pt-BR
 title: Ensaio Sobre a Cegueira (e uma espetada no Alan Moore)
 layout: post
 comments: true
-permalink: /archives/2004/09/ensaio-sobre-a-cegueira-e-uma-espetada-no-alan-moore.html/
+permalink: /archives/2004/09/ensaio-sobre-a-cegueira-e-uma-espetada-no-alan-moore/
+redirect_from:
+  - /archives/2004/09/ensaio-sobre-a-cegueira-e-uma-espetada-no-alan-moore.html/
 categories:
   - books
 ---

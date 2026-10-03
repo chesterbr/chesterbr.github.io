@@ -3,7 +3,9 @@ locale: pt-BR
 title: Mundinho animal
 layout: post
 comments: true
-permalink: /archives/2005/02/mundinho-animal.html/
+permalink: /archives/2005/02/mundinho-animal/
+redirect_from:
+  - /archives/2005/02/mundinho-animal.html/
 categories:
   - comics
 ---

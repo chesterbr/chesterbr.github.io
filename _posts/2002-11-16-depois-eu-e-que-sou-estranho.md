@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Depois eu é que sou estranho…'
 layout: post
 comments: true
-permalink: /archives/2002/11/depois-eu-e-que-sou-estranho.html/
+permalink: /archives/2002/11/depois-eu-e-que-sou-estranho/
+redirect_from:
+  - /archives/2002/11/depois-eu-e-que-sou-estranho.html/
 categories:
   - mondo-bizarro
 ---

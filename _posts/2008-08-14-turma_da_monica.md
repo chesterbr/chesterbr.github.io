@@ -5,7 +5,9 @@ excerpt: |
     Acabei de ler o número 1 (parece que rolou um número zero em alguns eventos) da versão "reloaded" da Turma da Mônica. E posso dizer que me surpreendeu positivamente. (eu, pessoalmente, sempre tive uma teoria de que a Tina era...
 layout: post
 comments: true
-permalink: /archives/2008/08/turma_da_monica.html/
+permalink: /archives/2008/08/turma_da_monica/
+redirect_from:
+  - /archives/2008/08/turma_da_monica.html/
 categories:
   - comics
 ---

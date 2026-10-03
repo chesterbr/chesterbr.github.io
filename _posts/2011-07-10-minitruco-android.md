@@ -3,7 +3,9 @@ locale: pt-BR
 title: miniTruco Android
 layout: post
 comments: true
-permalink: /archives/2011/07/minitruco-android.html/
+permalink: /archives/2011/07/minitruco-android/
+redirect_from:
+  - /archives/2011/07/minitruco-android.html/
 categories:
   - software
 ---

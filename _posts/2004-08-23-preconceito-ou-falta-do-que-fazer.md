@@ -3,7 +3,9 @@ locale: pt-BR
 title: Preconceito ou falta do que fazer?
 layout: post
 comments: true
-permalink: /archives/2004/08/preconceito-ou-falta-do-que-fazer.html/
+permalink: /archives/2004/08/preconceito-ou-falta-do-que-fazer/
+redirect_from:
+  - /archives/2004/08/preconceito-ou-falta-do-que-fazer.html/
 categories:
 ---
 Ainda não consigo assimilar essas pessoas públicas que insistem em incomodar quem não está incomodando ninguém. Nos EUA [anularam](http://www.redandblack.com/vnews/display.v/ART/2004/08/24/412ac89a86bb6) mais de 4000 casamentos homossexuais em uma só canetada. Pra não ficar atrás, um deputado brasileiro quer criar um [programa](http://ultimosegundo.ig.com.br/materias/brasil/1721501-1722000/1721860/1721860_1.xml) governamental para ajudar as pessoas a deixarem o "hábito homossexual".

@@ -5,7 +5,9 @@ excerpt: |
     Está no ar uma nova versão do miniTruco, na qual eu acertei alguns bugs. Se o seu celular é um Nokia 3220, 5140, 6230, 6101, 6111, 6265 ou 6820 (ou qualquer outro que estivesse dando mensagens em aramaico, do tipo...
 layout: post
 comments: true
-permalink: /archives/2006/11/minitruco_conse.html/
+permalink: /archives/2006/11/minitruco_conse/
+redirect_from:
+  - /archives/2006/11/minitruco_conse.html/
 categories:
 ---
 <img title="tela de abertura" src="/archives/img/minitruco_titulo.png" width="113" height="116" align="left" border="1" />Está no ar uma [nova versão do miniTruco][1], na qual eu acertei alguns bugs.

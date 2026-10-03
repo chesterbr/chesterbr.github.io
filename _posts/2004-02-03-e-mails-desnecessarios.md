@@ -3,7 +3,9 @@ locale: pt-BR
 title: E-mails desnecessários
 layout: post
 comments: true
-permalink: /archives/2004/02/e-mails-desnecessarios.html/
+permalink: /archives/2004/02/e-mails-desnecessarios/
+redirect_from:
+  - /archives/2004/02/e-mails-desnecessarios.html/
 categories:
 ---
 Pra não ficar só nos quadrinhos (um efeito colateral das férias de faculdade): será que os autores de antivírus corporativos e/ou administradores de redes que os instalam ainda não perceberam que **nenhum** vírus de e-mail que se preze usa um remetente verdadeiro ao se propagar?

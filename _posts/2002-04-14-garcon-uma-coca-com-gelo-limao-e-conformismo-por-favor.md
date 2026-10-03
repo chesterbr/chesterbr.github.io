@@ -3,7 +3,9 @@ locale: pt-BR
 title: Garçon, uma coca com gelo, limão e conformismo, por favor
 layout: post
 comments: true
-permalink: /archives/2002/04/garcon-uma-coca-com-gelo-limao-e-conformismo-por-favor.html/
+permalink: /archives/2002/04/garcon-uma-coca-com-gelo-limao-e-conformismo-por-favor/
+redirect_from:
+  - /archives/2002/04/garcon-uma-coca-com-gelo-limao-e-conformismo-por-favor.html/
 categories:
 ---
 Um amigo me apontou este interessante [artigo](https://web.archive.org/web/20020422102119/http://www.jt.estadao.com.br/editorias/2002/03/24/ger030.html) que trata de um daqueles pequenos dramas cotidianos: o fato de que o limão na coca-cola virou um *default* em São Paulo, i.e., se você não pedir uma coca **sem limão** (com ênfase), ela fatalmente virá com limão.

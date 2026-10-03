@@ -5,7 +5,9 @@ excerpt: |
     Clique aqui (ou aqui) e você verá um círculo formado por manchas cor-de-rosa. A animação faz com que uma delas esteja sempre apagada, como na ilustração ao lado. Até aí, tudo bem, mas... Coisa bizarra 1: se você olhar fixamente...
 layout: post
 comments: true
-permalink: /archives/2005/10/bruxaria_modern.html/
+permalink: /archives/2005/10/bruxaria_modern/
+redirect_from:
+  - /archives/2005/10/bruxaria_modern.html/
 categories:
   - mondo-bizarro
 ---

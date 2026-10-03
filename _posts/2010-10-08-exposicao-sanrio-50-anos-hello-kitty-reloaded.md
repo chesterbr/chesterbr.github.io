@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Exposição Sanrio 50 Anos: Hello Kitty, reloaded.'
 layout: post
 comments: true
-permalink: /archives/2010/10/exposicao-sanrio-50-anos-hello-kitty-reloaded.html/
+permalink: /archives/2010/10/exposicao-sanrio-50-anos-hello-kitty-reloaded/
+redirect_from:
+  - /archives/2010/10/exposicao-sanrio-50-anos-hello-kitty-reloaded.html/
 categories:
 ---
 <img class="size-full wp-image-4653 alignright" title="Unha com desenho da Hello Kitty" src="/wp-content/uploads/2010/10/dedo_hello_kitty.jpg" alt="Unha com desenho da Hello Kitty" width="198" height="142" />Entrar em uma loja da [Sanrio][1], a empresa por trás da [Hello Kitty][2], é uma experiência interessante por si só (e fica a dica: é um lugar infalível para presentes femininos de última hora). Mas uma [exposição de arte][3] cuja temática são os personagens do "universo HK", em releituras de artistas tão variados quanto [Allan Sieber][4], [Guto Lacaz][5] (quem lembra dele na Chiclete com Banana?) e [Lovefoxxx][6] é imperdível, e fui com a [@bani][7] conferir.

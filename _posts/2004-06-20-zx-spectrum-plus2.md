@@ -3,8 +3,9 @@ locale: pt-BR
 title: ZX Spectrum +2
 layout: post
 comments: true
-permalink: /archives/2004/06/zx-spectrum-plus2.html/
+permalink: /archives/2004/06/zx-spectrum-plus2/
 redirect_from:
+  - /archives/2004/06/zx-spectrum-plus2.html/
   - /spectrumplus2/
   - /spectrumplus2.html/
 categories:

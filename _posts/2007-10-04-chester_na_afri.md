@@ -5,7 +5,9 @@ excerpt: |
     Estou trabalhando no braço brasileiro da MIH, uma empresa sediada na África do Sul. Como a equipe é geograficamente dispersa (além de brasileiros e sul-africanos, temos chineses também), fomos convocados para um team building. Resultado: desde o último sábado eu...
 layout: post
 comments: true
-permalink: /archives/2007/10/chester_na_afri.html/
+permalink: /archives/2007/10/chester_na_afri/
+redirect_from:
+  - /archives/2007/10/chester_na_afri.html/
 categories:
   - travel
 ---

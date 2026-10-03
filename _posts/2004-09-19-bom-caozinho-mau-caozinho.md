@@ -3,7 +3,9 @@ locale: pt-BR
 title: Bom cãozinho, mau cãozinho
 layout: post
 comments: true
-permalink: /archives/2004/09/bom-caozinho-mau-caozinho.html/
+permalink: /archives/2004/09/bom-caozinho-mau-caozinho/
+redirect_from:
+  - /archives/2004/09/bom-caozinho-mau-caozinho.html/
 categories:
   - comics
 ---

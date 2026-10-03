@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Participando (e palestrando) na PythonBrasil[6]'
 layout: post
 comments: true
-permalink: /archives/2010/10/participando-e-palestrando-na-python-brasil-6.html/
+permalink: /archives/2010/10/participando-e-palestrando-na-python-brasil-6/
+redirect_from:
+  - /archives/2010/10/participando-e-palestrando-na-python-brasil-6.html/
 categories:
   - software
 ---

@@ -3,7 +3,9 @@ locale: pt-BR
 title: Videos bizarros
 layout: post
 comments: true
-permalink: /archives/2005/04/videos-bizarros.html/
+permalink: /archives/2005/04/videos-bizarros/
+redirect_from:
+  - /archives/2005/04/videos-bizarros.html/
 categories:
   - mondo-bizarro
 ---

@@ -3,7 +3,9 @@ locale: pt-BR
 title: Aula sobre Mashups Web na UNESP (SECCOMP 2010)
 layout: post
 comments: true
-permalink: /archives/2010/10/aula-sobre-mashups-web-na-unesp-seccomp-2010.html/
+permalink: /archives/2010/10/aula-sobre-mashups-web-na-unesp-seccomp-2010/
+redirect_from:
+  - /archives/2010/10/aula-sobre-mashups-web-na-unesp-seccomp-2010.html/
 categories:
   - software
 ---

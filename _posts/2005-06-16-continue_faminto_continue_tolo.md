@@ -5,7 +5,9 @@ excerpt: |
     O Wired News informa que Steve Jobs fez um discurso para formandos da Universidade de Stanford, e, de fato, a íntegra do discurso já foi postada na Internet. Ao contrário de outros discursos do gênero, eu achei este tão bacana...
 layout: post
 comments: true
-permalink: /archives/2005/06/continue_faminto_continue_tolo.html/
+permalink: /archives/2005/06/continue_faminto_continue_tolo/
+redirect_from:
+  - /archives/2005/06/continue_faminto_continue_tolo.html/
 categories:
 ---
 O Wired News informa que [Steve Jobs fez um discurso para formandos da Universidade de Stanford][1], e, de fato, a [íntegra do discurso][2] já foi postada na Internet.

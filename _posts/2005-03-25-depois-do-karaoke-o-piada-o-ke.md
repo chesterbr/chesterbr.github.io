@@ -3,7 +3,9 @@ locale: pt-BR
 title: Depois do karaokê, o piada-o-kê
 layout: post
 comments: true
-permalink: /archives/2005/03/depois-do-karaoke-o-piada-o-ke.html/
+permalink: /archives/2005/03/depois-do-karaoke-o-piada-o-ke/
+redirect_from:
+  - /archives/2005/03/depois-do-karaoke-o-piada-o-ke.html/
 categories:
 ---
 <img src="/img/blig/seinfield.gif"  align="left" alt="Seinfeld e elenco">O Joke-e-oke ainda não está disponível comercialmente, mas esse [artigo](http://www.wired.com/news/digiwood/0,1412,66964,00.html) do Wired News fala bastante sobre o brinquedo. Trata-se de uma espécie de teleprompter de piadas, permitindo que qualquer um suba no palco e entretenha a platéia no estilo do seu comediante favorito.

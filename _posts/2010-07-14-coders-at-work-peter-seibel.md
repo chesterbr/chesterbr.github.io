@@ -3,7 +3,9 @@ locale: pt-BR
 title: Coders At Work (Peter Seibel)
 layout: post
 comments: true
-permalink: /archives/2010/07/coders-at-work-peter-seibel.html/
+permalink: /archives/2010/07/coders-at-work-peter-seibel/
+redirect_from:
+  - /archives/2010/07/coders-at-work-peter-seibel.html/
 categories:
   - books
   - software

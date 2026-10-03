@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Saudades de Akira? Experimente Gunm – Alita Battle Angel'
 layout: post
 comments: true
-permalink: /archives/2002/08/saudades-de-akira-experimente-gunm-alita-battle-angel.html/
+permalink: /archives/2002/08/saudades-de-akira-experimente-gunm-alita-battle-angel/
+redirect_from:
+  - /archives/2002/08/saudades-de-akira-experimente-gunm-alita-battle-angel.html/
 categories:
   - comics
 ---

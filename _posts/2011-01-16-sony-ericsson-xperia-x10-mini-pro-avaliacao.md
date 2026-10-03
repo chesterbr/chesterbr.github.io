@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Sony Ericsson Xperia X10 Mini Pro – Avaliação'
 layout: post
 comments: true
-permalink: /archives/2011/01/sony-ericsson-xperia-x10-mini-pro-avaliacao.html/
+permalink: /archives/2011/01/sony-ericsson-xperia-x10-mini-pro-avaliacao/
+redirect_from:
+  - /archives/2011/01/sony-ericsson-xperia-x10-mini-pro-avaliacao.html/
 categories:
 ---
 [<img class="alignright size-full wp-image-5789" title="Sony Ericsson Xperia X10 Mini Pro" src="/wp-content/uploads/2011/01/x10minipro.jpg" alt="" width="219" height="211" />][1]Passei dois anos com um iPhone, e uma das coisas que me incomodava era digitar nele. Fato: o melhor teclado virtual do universo é pior que o teclado físico mais vagabundo. Eu escrevo muito (basta [me seguir no Twitter][2] para conferir) e quem produz conteúdo "na estrada" precisa de teclas de verdade. É o motivo pelo qual eu não trocaria meu netbook por um tablet – e que me fez desencanar de um iPhone 4 quando o 2G se foi.

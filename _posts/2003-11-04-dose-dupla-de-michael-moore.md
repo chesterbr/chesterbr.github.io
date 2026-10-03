@@ -3,7 +3,9 @@ locale: pt-BR
 title: Dose dupla de Michael Moore
 layout: post
 comments: true
-permalink: /archives/2003/11/dose-dupla-de-michael-moore.html/
+permalink: /archives/2003/11/dose-dupla-de-michael-moore/
+redirect_from:
+  - /archives/2003/11/dose-dupla-de-michael-moore.html/
 categories:
   - books
 ---

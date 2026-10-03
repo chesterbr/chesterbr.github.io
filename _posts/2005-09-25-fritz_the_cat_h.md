@@ -5,7 +5,9 @@ excerpt: |
     Assisti à (antiga) versão animada do (mais antigo ainda) personagem Fritz The Cat, de Robert Crumb. O filme não é dele, e Crumb não perde uma oportunidade de falar mal do mesmo - até a morte de Fritz teria sido...
 layout: post
 comments: true
-permalink: /archives/2005/09/fritz_the_cat_h.html/
+permalink: /archives/2005/09/fritz_the_cat_h/
+redirect_from:
+  - /archives/2005/09/fritz_the_cat_h.html/
 categories:
   - comics
 ---

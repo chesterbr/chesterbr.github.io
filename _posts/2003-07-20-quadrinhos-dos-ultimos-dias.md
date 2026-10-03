@@ -3,7 +3,9 @@ locale: pt-BR
 title: Quadrinhos dos últimos dias
 layout: post
 comments: true
-permalink: /archives/2003/07/quadrinhos-dos-ultimos-dias.html/
+permalink: /archives/2003/07/quadrinhos-dos-ultimos-dias/
+redirect_from:
+  - /archives/2003/07/quadrinhos-dos-ultimos-dias.html/
 categories:
   - comics
 ---

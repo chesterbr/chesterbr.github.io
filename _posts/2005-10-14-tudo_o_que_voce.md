@@ -5,7 +5,9 @@ excerpt: |
     O College Sex Advice é uma coleção massiva de pequenos fatos sobre sexo. O tom é bem-humorado, mas, no geral, os fatos apresentados são precisos. O que me divertiu mais foi o lado "cientista" do site, que se apresenta em...
 layout: post
 comments: true
-permalink: /archives/2005/10/tudo_o_que_voce.html/
+permalink: /archives/2005/10/tudo_o_que_voce/
+redirect_from:
+  - /archives/2005/10/tudo_o_que_voce.html/
 categories:
 ---
 <img title="csa.png" src="/archives/img/csa.png" width="200" height="35" align="left" />O <a href="http://www.collegesexadvice.com/">College Sex Advice</a> é uma coleção massiva de pequenos fatos sobre sexo. O tom é bem-humorado, mas, no geral, os fatos apresentados são precisos.

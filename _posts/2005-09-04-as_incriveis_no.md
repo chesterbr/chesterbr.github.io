@@ -5,7 +5,9 @@ excerpt: |
     Claro que é muito cômodo zombar dos absurdos do passado quando se tem a perspectiva de hoje. Aliás, como bem retrata o Arnaldo Branco: no geral, é fácil falar. No entanto, isso não tira a diversão do Engadget 1985, na...
 layout: post
 comments: true
-permalink: /archives/2005/09/as_incriveis_no.html/
+permalink: /archives/2005/09/as_incriveis_no/
+redirect_from:
+  - /archives/2005/09/as_incriveis_no.html/
 categories:
 ---
 <img title="engadget85.jpg" src="/archives/img/engadget85.jpg" width="170" height="132" border="1" align="left" />Claro que é muito cômodo zombar dos absurdos do passado quando se tem a perspectiva de hoje. Aliás, como bem retrata o [Arnaldo Branco][1]: no geral, é fácil falar.

@@ -3,8 +3,9 @@ locale: pt-BR
 title: 'Comemorando 10.000 visitas com o “pornô” de 1975'
 layout: post
 comments: true
-permalink: /archives/2003/05/comemorando-10-000-visitas-com-o-porno-de-1975.html/
+permalink: /archives/2003/05/comemorando-10-000-visitas-com-o-porno-de-1975/
 redirect_from:
+  - /archives/2003/05/comemorando-10-000-visitas-com-o-porno-de-1975.html/
   - /gep/
   - /gep.html/
 categories:

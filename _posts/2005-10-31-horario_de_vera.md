@@ -5,7 +5,9 @@ excerpt: |
     Sempre tive a impressão de que o horário de verão era uma "sacada" recente, coisa de vinte ou trinta anos atrás, embora não soubesse justificar tal sensação. Mal sabia eu que a idéia havia sido sugerida pela primeira vez em...
 layout: post
 comments: true
-permalink: /archives/2005/10/horario_de_vera.html/
+permalink: /archives/2005/10/horario_de_vera/
+redirect_from:
+  - /archives/2005/10/horario_de_vera.html/
 categories:
 ---
 <img border="2" alt="Um detalhe de uma interpretação de A Persistência da Memória, um dos quadros mais famosos de Salvador Dalí. Não sei ao certo a origem." src="/archives/img/relogio.jpg" width="240" height="192" align="right" />Sempre tive a impressão de que o horário de verão era uma "sacada" recente, coisa de vinte ou trinta anos atrás, embora não soubesse justificar tal sensação. Mal sabia eu que a idéia havia sido [sugerida pela primeira vez][1] em 1784 – por ninguém menos que Benjamin Franklin.

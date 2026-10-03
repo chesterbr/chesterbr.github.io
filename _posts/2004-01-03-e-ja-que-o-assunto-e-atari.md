@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'E já que o assunto é Atari…'
 layout: post
 comments: true
-permalink: /archives/2004/01/e-ja-que-o-assunto-e-atari.html/
+permalink: /archives/2004/01/e-ja-que-o-assunto-e-atari/
+redirect_from:
+  - /archives/2004/01/e-ja-que-o-assunto-e-atari.html/
 categories:
   - mondo-bizarro
 ---

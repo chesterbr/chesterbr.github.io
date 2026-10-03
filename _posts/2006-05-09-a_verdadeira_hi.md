@@ -5,7 +5,9 @@ excerpt: |
     Quem nunca ouviu falar da "loira fantasma", tambem conhecida como a "loira do banheiro"? Lenda urbana recorrente nas escolas de primeiro e segundo grau (ao menos nos anos 80 e no pouco dos 90 que nelas passei), teve sua origem...
 layout: post
 comments: true
-permalink: /archives/2006/05/a_verdadeira_hi.html/
+permalink: /archives/2006/05/a_verdadeira_hi/
+redirect_from:
+  - /archives/2006/05/a_verdadeira_hi.html/
 categories:
   - mondo-bizarro
 ---

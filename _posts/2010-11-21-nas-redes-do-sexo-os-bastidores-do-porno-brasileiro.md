@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Nas Redes do Sexo – Os bastidores do pornô brasileiro'
 layout: post
 comments: true
-permalink: /archives/2010/11/nas-redes-do-sexo-os-bastidores-do-porno-brasileiro.html/
+permalink: /archives/2010/11/nas-redes-do-sexo-os-bastidores-do-porno-brasileiro/
+redirect_from:
+  - /archives/2010/11/nas-redes-do-sexo-os-bastidores-do-porno-brasileiro.html/
 categories:
   - books
 ---

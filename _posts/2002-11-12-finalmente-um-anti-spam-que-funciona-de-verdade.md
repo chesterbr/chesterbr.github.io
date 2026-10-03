@@ -3,7 +3,9 @@ locale: pt-BR
 title: Finalmente um anti-spam que funciona de verdade
 layout: post
 comments: true
-permalink: /archives/2002/11/finalmente-um-anti-spam-que-funciona-de-verdade.html/
+permalink: /archives/2002/11/finalmente-um-anti-spam-que-funciona-de-verdade/
+redirect_from:
+  - /archives/2002/11/finalmente-um-anti-spam-que-funciona-de-verdade.html/
 categories:
 ---
 <img src="/img/blig/spam_monty_python.gif" align="left">O [Cloudmark SpamNet](http://web.archive.org/web/20080516015138/http://www.cloudmark.com/products/spamnet/) é um plug-in gratuito para o Outlook 2000/XP que se propõe a combater os e-mails não desejados (também conhecidos como "spam") de uma maneira bastante original e eficiente. De forma análoga a um antivírus, ele gera uma "assinatura" para cada mensagem que você recebe, e compara com uma lista de assinaturas que ele sabe que são de spams. Quando identifica um, manda para uma pasta "Spam".

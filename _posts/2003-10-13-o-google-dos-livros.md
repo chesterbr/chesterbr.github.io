@@ -3,7 +3,9 @@ locale: pt-BR
 title: O Google dos livros
 layout: post
 comments: true
-permalink: /archives/2003/10/o-google-dos-livros.html/
+permalink: /archives/2003/10/o-google-dos-livros/
+redirect_from:
+  - /archives/2003/10/o-google-dos-livros.html/
 categories:
 ---
 Já fui leitor ávido da Revista [Wired](http://www.wiredmagazine.com/), mas hoje eu tenho um pé atrás. Convenhamos, falar sobre "era digital" ou "nova economia" é meio que dar a previsão do tempo de ontem (e ainda por cima, errando de vez em quando).

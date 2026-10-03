@@ -3,7 +3,9 @@ locale: pt-BR
 title: Retrospectiva Sílvio Santos 2001
 layout: post
 comments: true
-permalink: /archives/2002/01/retrospectiva-silvio-santos-2001.html/
+permalink: /archives/2002/01/retrospectiva-silvio-santos-2001/
+redirect_from:
+  - /archives/2002/01/retrospectiva-silvio-santos-2001.html/
 categories:
 ---
 (meio longo, mas é pra compensar os dias de ausência)

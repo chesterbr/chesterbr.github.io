@@ -5,7 +5,9 @@ excerpt: |
     Assunto sério, pra variar: o S5 é uma maneira de criar apresentações no estilo Powerpoint, só que é baseado em uma mistura bem bolada de tecnologias de browser (XHTML, CSS e JavaScript). Isso permite que uma única página contenha tanto...
 layout: post
 comments: true
-permalink: /archives/2005/12/descomplicando.html/
+permalink: /archives/2005/12/descomplicando/
+redirect_from:
+  - /archives/2005/12/descomplicando.html/
 categories:
 ---
 <img title="s5.jpg" src="/archives/img/s5.jpg" width="256" height="187" align="right" border="1" />Assunto sério, pra variar: o [S5][1] é uma maneira de criar apresentações no estilo Powerpoint, só que é baseado em uma mistura bem bolada de tecnologias de browser (XHTML, CSS e JavaScript).

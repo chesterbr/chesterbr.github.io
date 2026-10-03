@@ -3,7 +3,9 @@ locale: pt-BR
 title: Janela de Johari Interativa
 layout: post
 comments: true
-permalink: /archives/2009/08/janela-de-johari-interativa.html/
+permalink: /archives/2009/08/janela-de-johari-interativa/
+redirect_from:
+  - /archives/2009/08/janela-de-johari-interativa.html/
 categories:
 ---
 <img class="size-full wp-image-2685 alignright right" style="border: 1px solid black;" title="A Janela de Johari. Os adjetivos são dispostos nos quadrados conforme o avaliado ou seus pares vão escolhendo" src="/wp-content/uploads/2009/08/johari.png" alt="A Janela de Johari. Os adjetivos são dispostos nos quadrados conforme o avaliado ou seus pares vão escolhendo" width="319" height="267" />

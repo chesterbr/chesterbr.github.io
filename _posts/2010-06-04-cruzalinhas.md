@@ -3,7 +3,9 @@ locale: pt-BR
 title: cruzalinhas
 layout: post
 comments: true
-permalink: /archives/2010/06/cruzalinhas.html/
+permalink: /archives/2010/06/cruzalinhas/
+redirect_from:
+  - /archives/2010/06/cruzalinhas.html/
 categories:
   - software
 ---

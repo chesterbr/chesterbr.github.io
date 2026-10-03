@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'JavaScript: The Good Parts (O Melhor do JavaScript)'
 layout: post
 comments: true
-permalink: /archives/2010/09/javascript-the-good-parts-o-melhor-do-javascript.html/
+permalink: /archives/2010/09/javascript-the-good-parts-o-melhor-do-javascript/
+redirect_from:
+  - /archives/2010/09/javascript-the-good-parts-o-melhor-do-javascript.html/
 categories:
   - books
   - software

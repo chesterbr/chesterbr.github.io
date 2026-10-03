@@ -3,7 +3,9 @@ locale: pt-BR
 title: Voltando à putaquepariu.com
 layout: post
 comments: true
-permalink: /archives/2004/10/voltando-a-putaquepariu-com.html/
+permalink: /archives/2004/10/voltando-a-putaquepariu-com/
+redirect_from:
+  - /archives/2004/10/voltando-a-putaquepariu-com.html/
 categories:
 ---
 <img src="/img/blig/pqp.gif"  align="left">O [Mocogongo No Bugaco](http://mocogongonobugaco.blogspot.com/) (inspirado blog do jornalista gaúcho Daniel Bittencourt) trouxe esta pérola: graças ao Internet Archive, é possível navegar no finado putaquepariu.com – basta seguir [este](http://web.archive.org/web/19990504185231/http://putaquepariu.com/index.html) link, ou qualquer uma das datas mais antigas [neste](http://web.archive.org/web/*/putaquepariu.com) aqui.

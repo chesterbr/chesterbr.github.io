@@ -5,7 +5,9 @@ excerpt: |
     05/10 (Quinta) - Um pedaço da Califórnia e Camps Bay Desta vez foi a vez do Michael Yolland nos levar para conhecer a noite sul-africana. E para derrubar de vez os estereótipos, abrimos com uma rápida passada na Apple Centre...
 layout: post
 comments: true
-permalink: /archives/2007/10/chester_na_afri_3.html/
+permalink: /archives/2007/10/chester_na_afri_3/
+redirect_from:
+  - /archives/2007/10/chester_na_afri_3.html/
 categories:
   - travel
 ---

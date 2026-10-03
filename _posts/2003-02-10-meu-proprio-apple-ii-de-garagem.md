@@ -3,8 +3,9 @@ locale: pt-BR
 title: Meu próprio Apple II de garagem
 layout: post
 comments: true
-permalink: /archives/2003/02/meu-proprio-apple-ii-de-garagem.html/
+permalink: /archives/2003/02/meu-proprio-apple-ii-de-garagem/
 redirect_from:
+  - /archives/2003/02/meu-proprio-apple-ii-de-garagem.html/
   - /iigs/
   - /iigs.html/
 categories:

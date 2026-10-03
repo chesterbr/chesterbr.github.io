@@ -5,7 +5,9 @@ excerpt: |
     Não sou muito dado a cenas de fanboy, mas não resisti a ir conhecer pessoalmente o Fabio Yabu (dos já mencionados Combo Rangers) quando ele foi lançar o seu segundo livro da série Princesas do Mar (que é voltada para...
 layout: post
 comments: true
-permalink: /archives/2006/06/conhecendo_o_au.html/
+permalink: /archives/2006/06/conhecendo_o_au/
+redirect_from:
+  - /archives/2006/06/conhecendo_o_au.html/
 categories:
   - comics
 ---
@@ -13,8 +15,8 @@ categories:
 
 Como era de se esperar, o Yabu é um cara gente boa pra burro, tolerando bravamente a minha constrangedora adulação. De brinde, um dos artistas que participou da fase impressa, o Sidney Lima, estava lá. Resultado: dois autógrafos pelo preço de um, e ainda soube que uma [série do Zorro][5] desenhada pelo Sidney está sendo publicada por aqui (já tem um tempo, mas acho que dá pra encontrar).
 
- [1]: /archives/2003/05/sigam-me-os-bonzinhos.html/
- [2]: /archives/2004/04/combo-rangers-sem-revista.html/
+ [1]: /archives/2003/05/sigam-me-os-bonzinhos/
+ [2]: /archives/2004/04/combo-rangers-sem-revista/
  [3]: http://yabu.com.br/blog/?p=231
  [4]: http://www.flickr.com/photos/91032493@N00/tags/lancamentolivroyabu/
  [5]: http://www.omelete.com.br/quadrinhos/news/base_para_news.asp?artigo=12491

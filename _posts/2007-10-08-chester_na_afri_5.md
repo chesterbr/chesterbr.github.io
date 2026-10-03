@@ -5,7 +5,9 @@ excerpt: |
     07/10 (Sábado) - Safari e fotos Chegou o tão esperado dia: fomos ao safari. Mais especifciamente, um foto-safari - a diferença básica é que você vai num jipe, e, ao invés de matar os bichos, tira foto deles. E por...
 layout: post
 comments: true
-permalink: /archives/2007/10/chester_na_afri_5.html/
+permalink: /archives/2007/10/chester_na_afri_5/
+redirect_from:
+  - /archives/2007/10/chester_na_afri_5.html/
 categories:
   - travel
 ---

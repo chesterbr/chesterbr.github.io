@@ -3,7 +3,9 @@ locale: pt-BR
 title: Os disneys por trás de Disney
 layout: post
 comments: true
-permalink: /archives/2002/02/os-disneys-por-tras-de-disney.html/
+permalink: /archives/2002/02/os-disneys-por-tras-de-disney/
+redirect_from:
+  - /archives/2002/02/os-disneys-por-tras-de-disney.html/
 categories:
 ---
 Ao visitar o [site do Spacca][1] (um dos meus desenhistas/escritores favoritos entre os "contemporâneos" nacionais), deparei-me com [este texto](http://www.spaccatutto.com.br/mestres/mickey.htm), que abre com alguns comentários interessantes sobre Walt Disney, fazendo uma rápida desconstrução do "mito do usurpador" (a pecha de egocêntrico atribuída a Disney, baseada no fato de que as histórias só levavam a assinatura dele).

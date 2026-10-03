@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Revista Crocodilo – trash que satisfaz'
 layout: post
 comments: true
-permalink: /archives/2003/06/revista-crocodilo-trash-que-satisfaz.html/
+permalink: /archives/2003/06/revista-crocodilo-trash-que-satisfaz/
+redirect_from:
+  - /archives/2003/06/revista-crocodilo-trash-que-satisfaz.html/
 categories:
   - comics
   - mondo-bizarro

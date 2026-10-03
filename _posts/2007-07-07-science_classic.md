@@ -5,7 +5,9 @@ excerpt: |
     Science Classics é uma interessante coleção de quadrinhos de Larry Gonick (que alguns devem conhecer do Introdução Ilustrada à Computação, editado no Brasil em 1984). Nesta série ele aborda assuntos científicos relativamente espinhosos como criptografia, relatividade e teoria dos jogos,...
 layout: post
 comments: true
-permalink: /archives/2007/07/science_classic.html/
+permalink: /archives/2007/07/science_classic/
+redirect_from:
+  - /archives/2007/07/science_classic.html/
 categories:
   - comics
 ---

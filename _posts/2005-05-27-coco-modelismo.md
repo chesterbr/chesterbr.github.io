@@ -5,7 +5,9 @@ excerpt: |
     Dessa vez o Edu se superou, me apresentando ao site do Turd Twister. O aparelho é - pasmem - uma espécie de modelador de cocô. Isso mesmo: você escolhe um formato (no mesmo estilo daqueles chaveiros laser baratinhos), pluga ele...
 layout: post
 comments: true
-permalink: /archives/2005/05/coco-modelismo.html/
+permalink: /archives/2005/05/coco-modelismo/
+redirect_from:
+  - /archives/2005/05/coco-modelismo.html/
 categories:
 ---
 <img border="1" style="border-color:#ffffff" alt="Diagrama do Turd Twister" src="/archives/img/turd.gif" width="382" height="200" align="right" />Dessa vez o [Edu][1] se superou, me apresentando ao site do [Turd Twister][2]. O aparelho é – pasmem – uma espécie de modelador de cocô. Isso mesmo: você escolhe um formato (no mesmo estilo daqueles [chaveiros laser][3] baratinhos), pluga ele na chocolateria e atende o chamado da natureza de forma criativa.

@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'Dr. Slump: chega de saiyajins'
 layout: post
 comments: true
-permalink: /archives/2002/06/dr-slump-chega-de-saiyajins.html/
+permalink: /archives/2002/06/dr-slump-chega-de-saiyajins/
+redirect_from:
+  - /archives/2002/06/dr-slump-chega-de-saiyajins.html/
 categories:
   - comics
 ---

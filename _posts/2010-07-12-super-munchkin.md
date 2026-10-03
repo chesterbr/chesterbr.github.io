@@ -3,7 +3,9 @@ locale: pt-BR
 title: Super Munchkin
 layout: post
 comments: true
-permalink: /archives/2010/07/super-munchkin.html/
+permalink: /archives/2010/07/super-munchkin/
+redirect_from:
+  - /archives/2010/07/super-munchkin.html/
 categories:
 ---
 Eu até curto um jogo de cartas/tabuleiro mais elaborado, mas tenho alergia àqueles onde você queima horas aprendendo para só aí começar a jogar decentemente e se divertir. Felizmente o [@btco][1] me apresentou o [Munchkin][2] – jogo de cartas que, segundo o próprio fabricante, "captura a essência da experiência da aventura-em-masmorra, sem aquela parafernália de RPG" – o que seria uma afirmação à toa, se o fabricante em questão não fosse a própria [Steve Jackson Games][3]¹ – pioneira do gênero RPG nos EUA.

@@ -5,7 +5,9 @@ excerpt: |
     Parece que preto-e-branco é o novo preto: Striptease é mais um webcomic que dispensa o colorido, mas sem abrir mão da qualidade. No início, o quadrinho se resume a Max, um ilustrador de histórias em quadrinhos. Este meta-argumento rapidamente evolui...
 layout: post
 comments: true
-permalink: /archives/2007/08/striptease.html/
+permalink: /archives/2007/08/striptease/
+redirect_from:
+  - /archives/2007/08/striptease.html/
 categories:
   - comics
 ---

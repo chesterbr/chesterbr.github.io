@@ -3,7 +3,9 @@ locale: en
 title: Scrum roles in Pulp Fiction
 layout: post
 comments: true
-permalink: /archives/2011/07/scrum-roles-in-pulp-fiction.html/
+permalink: /archives/2011/07/scrum-roles-in-pulp-fiction/
+redirect_from:
+  - /archives/2011/07/scrum-roles-in-pulp-fiction.html/
 categories:
 ---
 ### Product Owner

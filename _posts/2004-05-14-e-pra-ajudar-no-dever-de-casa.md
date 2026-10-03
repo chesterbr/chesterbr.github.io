@@ -3,7 +3,9 @@ locale: pt-BR
 title: 'É pra ajudar no dever de casa…'
 layout: post
 comments: true
-permalink: /archives/2004/05/e-pra-ajudar-no-dever-de-casa.html/
+permalink: /archives/2004/05/e-pra-ajudar-no-dever-de-casa/
+redirect_from:
+  - /archives/2004/05/e-pra-ajudar-no-dever-de-casa.html/
 categories:
 ---
 <img src="/img/blig/heyhey16k.jpg" border="1" alt="Sir Clive Sinclair (acho) dando as caras no clip de Hey Hey 16K" align="left">À medida que a Geração Nintendo vai atravessando a casa dos 20 anos, sua produção cultural começa a aparecer. A revista Wired de fevereiro [documentou](http://www.wired.com/wired/archive/12.02/miniboss.html) uma excursão com o Minibosses, banda que se dedica a fazer remakes de músicas dos jogos do Nintendinho. Esse tipo de "banda de console" tem se popularizado – existem até as nacionais, como o [Megadriver](http://www.megadriver.com.br/) (cujo site tem todos os MP3).
