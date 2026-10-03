@@ -11,7 +11,6 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from", "~> 0.16"
   gem "jekyll-paginate-v2", "~> 3.0"
   gem "jekyll-sitemap", "~> 1.4"
-  gem "jekyll-gist", "~> 1.5"
   gem "jekyll-optional-front-matter", "~> 0.3"
   gem "jekyll-default-layout", "~> 0.1.5"
   gem "jekyll-titles-from-headings", "~> 0.5.3"

@@ -64,7 +64,7 @@ With this in place, all that was left to do was to migrate the comments from Dis
 
 Disqus allows you to [export](http://disqus.com/admin/discussions/export/) the comments to an XML file (documented [here](https://help.disqus.com/en/articles/1717164-comments-export)), but in order to import them anywhere else, a conversion is needed. I found a few recipes ([1](https://blog.arkey.fr/2022/10/16/moving-from-disqus-to-giscus/), [2](https://asp.net-hacker.rocks/2018/11/19/github-comments.html), [3](https://gist.github.com/evert/3332e6cc73848aefe36fd9d0a30ac390), [4](https://blog.riemann.cc/2021/12/27/jekyll-import-disqus-comments-for-staticman/)) online, but none of those worked for me, so I threw together [some JavaScript code](https://gist.github.com/chesterbr/6368adb7530f6d582046a5d93a4d4a49) that does the job:
 
-{% gist 6368adb7530f6d582046a5d93a4d4a49 %}
+<script src="https://gist.github.com/chesterbr/6368adb7530f6d582046a5d93a4d4a49.js"></script>
 
 You can just run it, making the needed adjustments for your `staticman.yml` configuration (e.g., if you changed the filename structure or added other fields that you want to import or generate) and put the generated `comments` directory under your `_data` directory in your blog's repository, like I did [here](https://github.com/chesterbr/chesterbr.github.io/pull/69/files).
 
