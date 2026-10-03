@@ -29,7 +29,7 @@ awesome <del>french fries</del>chips and a superior public transport system - we
 had a [hop on hop off][101] ticket, but London's massive
 <del>subway</del>tube and bus network is a better choice to move around.
 
-<center><a class="dead-link" title="this link died" href="http://www.flickr.com/photos/chesterbr/10664661523/" title="DSCN0727 by chesterbr, on Flickr"><img src="//farm6.staticflickr.com/5473/10664661523_47591ac313.jpg" width="500" height="375" alt="DSCN0727"></a><span class="dead-link-mark">†</span></center>
+<center><a href="/img/2013/11/dscn0727.jpg"><img src="/img/2013/11/dscn0727.jpg" width="1920" height="1440" alt="DSCN0727" loading="lazy"></a></center>
 
 You can purchase the [Oyster card][102] in automated
 terminals at any station for £5 using your own credit card, and add
@@ -39,7 +39,7 @@ but off-peak trips within a system usually go for less than £2, and it [stops c
 forget to tap in and out - in particular on [DLR][120] trains, which don't
 have blockades.
 
-<a href="http://www.flickr.com/photos/chesterbr/10666192645/" title="DSCN1038 by chesterbr, on Flickr"><img src="//farm6.staticflickr.com/5505/10666192645_181d5660dc_n.jpg" width="240" height="320" alt="DSCN1038" style="float:left; margin-right:12px"></a>At [Baker Street][109]'s <a href="http://web.archive.org/web/20240813174041/http://www.canteen.co.uk/">Canteen</a> we had some English food staples:
+<a href="/img/2013/11/dscn1038.jpg"><img src="/img/2013/11/dscn1038.jpg" width="240" height="320" alt="DSCN1038" style="float:left; margin-right:12px" loading="lazy"></a>At [Baker Street][109]'s <a href="http://web.archive.org/web/20240813174041/http://www.canteen.co.uk/">Canteen</a> we had some English food staples:
 fish-and-chips for lunch, and tea with biscuits for dessert. Also visited the
 first [Hard Rock Cafe][104] (beware weblings: no Wi-Fi on the lower level)
 and had a delicious Piri Piri chicken at [Nando's][107] - surely not an
@@ -98,7 +98,7 @@ get really close to the most famous artworks, such as the <a class="dead-link" t
 and the <a class="dead-link" title="this link died" href="http://www.flickr.com/photos/chesterbr/10661602284/in/set-72157637296961664">Venus De Milo</a><span class="dead-link-mark">†</span> (or, if you prefer, *La Gioconda* and *Aphrodite
 of Milos*).
 
-<a class="dead-link" title="this link died" href="http://www.flickr.com/photos/chesterbr/10661602284/" title="Louvre by chesterbr, on Flickr"><img src="//farm4.staticflickr.com/3789/10661602284_2de6be0bac_n.jpg" width="240" height="320" alt="Louvre" style="float:left; margin-right:12px"></a><span class="dead-link-mark">†</span>Of course, the museum goes beyond those "blockbusters", but visiting all
+<a href="/img/2013/11/louvre.jpg"><img src="/img/2013/11/louvre.jpg" width="240" height="320" alt="Louvre" style="float:left; margin-right:12px" loading="lazy"></a>Of course, the museum goes beyond those "blockbusters", but visiting all
 galleries roughly compares to walking a [quarter marathon][207], so pick a few areas
 of interest and focus on them. Taking pictures is
 highly encouraged, so charge your camera batteries!
@@ -126,7 +126,7 @@ It is a hit-or-miss: you may go out and see nothing at all. On behalf of that,
 most tours will offer a second booking free of charge if the lights don't
 appear, but you may want to book more than one trip anyway, since the notion of "appearing" is at their discretion.
 
-<center> <a class="dead-link" title="this link died" href="http://www.flickr.com/photos/chesterbr/10673352123/" title="DSCN1304 by chesterbr, on Flickr"><img src="//farm4.staticflickr.com/3807/10673352123_3bcaaaee79.jpg" width="500" height="375" alt="DSCN1304"></a><span class="dead-link-mark">†</span> </center>
+<center> <a href="/img/2013/11/dscn1304.jpg"><img src="/img/2013/11/dscn1304.jpg" width="1920" height="1440" alt="DSCN1304" loading="lazy"></a> </center>
 
 I recommend Icelandic Mountain Guides' [Golden Circle and Magical Nights][301]: in
 a single day you see [beautiful mountains, waterfalls and geysers][302]; spend
@@ -157,7 +157,7 @@ A few things you should be aware:
 
 Anyway, those are just minor nuisances - I **strongly** recommend a couple of hours at Blue Lagoon. It is so relaxing that I felt my body weight for quite a minute after leaving it, like an astronaut returning to earth gravity!
 
-<center> <a class="dead-link" title="this link died" href="http://www.flickr.com/photos/chesterbr/10672671975/" title="DSCN1282 by chesterbr, on Flickr"><img src="//farm4.staticflickr.com/3806/10672671975_24d45a3383.jpg" width="500" height="375" alt="DSCN1282"></a><span class="dead-link-mark">†</span> </center>
+<center> <a href="/img/2013/11/dscn1282.jpg"><img src="/img/2013/11/dscn1282.jpg" width="1920" height="1440" alt="DSCN1282" loading="lazy"></a> </center>
 
 The last day presented a tough choice: I could either visit the
 [Icelandic Phallological Museum][310], or have lunch at [Lebowsky Bar][311].
@@ -174,7 +174,7 @@ with an amazing [Ultra Light Down][317] jacket, some thermals and even turtlenec
 T-shirts (which I used to hate, until I tried their
 [ultra-comfortable][318] stuff). Anyway, if you don't fear the cold, this is a trip you won't regret!
 
-<center> <a class="dead-link" title="this link died" href="http://www.flickr.com/photos/chesterbr/10674210753/" title="DSCN1344 by chesterbr, on Flickr"><img src="//farm3.staticflickr.com/2871/10674210753_d85cf424ee.jpg" width="500" height="375" alt="DSCN1344"></a><span class="dead-link-mark">†</span> </center>
+<center> <a href="/img/2013/11/dscn1344.jpg"><img src="/img/2013/11/dscn1344.jpg" width="1920" height="1440" alt="DSCN1344" loading="lazy"></a> </center>
 
 [300]: http://www.northernlightscentre.ca/northernlights.html
 [301]: http://www.mountainguides.is/day-tours/northern-lights-tours/golden-circle-and-magical-nights/

@@ -17,7 +17,7 @@ Voltando à fila: ela continua dentro do CCBB, mas  pelo menos você pode ver a
 
 Algumas instalações são, na minha opinião, dispensáveis. Ex.: o periscópio e a tentativa de reconstruir uma sala de um quadro, com direito a gato empalhado. Mas a maioria é bacana, e mesmo que você não queira pegar a fila para ver a exposição, vale interagir com a Sala de Escher. Reproduzida do [museu original][6], ela permite que duas pessoas se posicionem em cantos opostos, para que um terceiro possa observar/fotografar a ilusão resultante do desenho da mesma. Como não tínhamos o terceiro, eu tirei duas fotos da Bani, e ela tratou de juntar:
 
-[<img class="aligncenter" src="http://farm6.static.flickr.com/5023/5851263136_349e3458f4.jpg" alt="O Mundo Mágico de Escher" width="500" height="375" />][7]
+[<img src="/img/2011/06/o-mundo-magico-de-escher.jpg" alt="O Mundo Mágico de Escher" width="1024" height="768" loading="lazy" />][7]
 
 O filme tem apenas oito minutos, mas é bacaninha: ele "desmonta" algumas das construções populares, mostrando como o ângulo particular que Escher usa para desenhá-las é crucial para gerar a ilusão de ótica desejada. Os óculos 3D funcionaram bem para mim (exceto durante os créditos), tornando o filme uma ótima maneira de encerrar a exposição – lembrando que ela só vai até 17 de Julho,  e eu recomendo uma visita. De preferência durante a semana, quando o Mundo Tenebroso da Sé não está tão largado – o que é uma pena, mas eu não esperava nada diferente de uma gestão do <del>PFL</del> DEM mesmo...
 
