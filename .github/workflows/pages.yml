@@ -52,8 +52,25 @@ jobs:
       # --force-language builds ONE index for the whole bilingual site so a
       # search from any page returns matches across pt-BR and English posts,
       # rather than being restricted to the current page's language.
+      #
+      # Legacy posts keep a redirect stub at their old literal ".html"
+      # permalink; Pagefind's crawler mistakes that stub directory for a file
+      # and logs "Is a directory" for it, which is harmless and filtered from
+      # the log below. The indexed-page count is what actually guards against
+      # a real post silently going missing from search: it must be at least
+      # the number of posts in _posts, or the build fails instead of quietly
+      # shipping a search index with content missing.
       - name: Index with Pagefind
-        run: npx -y pagefind@1.5.2 --site _site --force-language pt
+        run: |
+          POST_COUNT=$(find _posts -maxdepth 1 -name '*.md' | wc -l | tr -d ' ')
+          PAGEFIND_LOG=$(mktemp)
+          npx -y pagefind@1.5.2 --site _site --force-language pt > "$PAGEFIND_LOG" 2>&1 || true
+          grep -v "Is a directory (os error 21)" "$PAGEFIND_LOG" || true
+          INDEXED=$(grep -oE "Indexed [0-9]+ pages" "$PAGEFIND_LOG" | tail -1 | grep -oE "[0-9]+" || true)
+          if [ -z "$INDEXED" ] || [ "$INDEXED" -lt "$POST_COUNT" ]; then
+            echo "::error::Pagefind indexed only ${INDEXED:-0} pages, expected at least $POST_COUNT - some posts are missing from search."
+            exit 1
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

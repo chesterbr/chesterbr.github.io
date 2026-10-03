@@ -20,8 +20,20 @@ bundle
 # local search behaves like production (one cross-language index).
 bundle exec jekyll build
 if command -v npx >/dev/null 2>&1; then
-  npx -y pagefind@1.5.2 --site _site --force-language pt \
-    || echo "WARNING: Pagefind index build failed - local search will be empty."
+  POST_COUNT=$(find _posts -maxdepth 1 -name '*.md' | wc -l | tr -d ' ')
+  PAGEFIND_LOG=$(mktemp)
+  npx -y pagefind@1.5.2 --site _site --force-language pt > "$PAGEFIND_LOG" 2>&1 || true
+  # Legacy posts keep a redirect stub at their old literal ".html" permalink
+  # (see the permalink-migration commit); Pagefind's crawler mistakes that
+  # directory for a file and logs this once per stub. Harmless - filtered here
+  # so it doesn't bury a real problem. The indexed-count check below is what
+  # actually guards against posts silently going missing from search again.
+  grep -v "Is a directory (os error 21)" "$PAGEFIND_LOG" || true
+  INDEXED=$(grep -oE "Indexed [0-9]+ pages" "$PAGEFIND_LOG" | tail -1 | grep -oE "[0-9]+" || true)
+  if [ -z "$INDEXED" ] || [ "$INDEXED" -lt "$POST_COUNT" ]; then
+    echo "WARNING: Pagefind indexed only ${INDEXED:-0} pages, expected at least $POST_COUNT - some posts may be missing from search!"
+  fi
+  rm -f "$PAGEFIND_LOG"
 else
   echo "WARNING: npx/Node not found - skipping Pagefind index; local search will be empty."
 fi
