@@ -9,7 +9,7 @@ bb-custom-tags:
 categories:
   - travel
 ---
-Está cada vez mais difícil convencer as pessoas de que eu não escolho meus trabalhos baseado no surrealismo das viagens decorrentes. Dessa vez foi um projeto em uma empresa canadense que me levou a passar uma semana em Doha, a capital do [Qatar][1]. Quem quiser pode ir direto para as [fotos][2] – ou então senta que lá vem história:
+Está cada vez mais difícil convencer as pessoas de que eu não escolho meus trabalhos baseado no surrealismo das viagens decorrentes. Dessa vez foi um projeto em uma empresa canadense que me levou a passar uma semana em Doha, a capital do [Qatar][1]. Quem quiser pode ir direto para as <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157623526482518">fotos</a><span class="dead-link-mark">†</span> – ou então senta que lá vem história:
 
 <p style="text-align: center">
   <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/4395389176/in/set-72157623526482518/"><img class="aligncenter" style="border: 1px solid black" src="/wp-content/uploads/2010/03/qatar.jpg" alt="Mesquita em frente ao prédio moderno" width="300" height="225" /></a><span class="dead-link-mark">†</span>
@@ -30,7 +30,6 @@ Não deu pra fazer muito turismo: o pessoal lá começa a trabalhar cedo, por vo
 Não sei se faria como viagem turística – são 13 a 15 horas de vôo entre São Paulo e Dubai, e 1h de conexão que não é exatamente ponte aérea (esperei 4h na ida e 9h na volta), mas pra quem tem coragem e grana é um jeito fantástico de conhecer o mundo árabe.
 
  [1]: http://pt.wikipedia.org/wiki/Qatar
- [2]: http://www.flickr.com/photos/chesterbr/sets/72157623526482518/
  [3]: http://pt.wikipedia.org/wiki/Emirados_%C3%81rabes_Unidos
  [4]: http://english.aljazeera.net/
  [5]: http://towardfreedom.com/home/content/view/1599/1/

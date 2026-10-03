@@ -24,7 +24,7 @@ Isso me chamou a atenção porque mesmo o meu blog – que raramente aborda assu
 
 A anterior durou apenas duas semanas, passadas em hotel e trabalhando bastante – e ainda assim foi [detalhadamente blogada][6] em 11 posts. Já na atual eu estou literalmente morando num apartamento, durante um mês inteiro, com mais tempo em mãos – e ainda assim sequer foi mencionada.
 
-O motivo? Simples: quem quer acompanhar a viagem pode fazê-lo de forma muito mais ágil e interativa através do [meu Twitter][2], no [set do Flickr][7] e até mesmo no [Orkut][8] velho de guerra (outro site que "roubou" toneladas de frivolidade anteriormente destinada a blogs e páginas pessoais). Ou seja: até o momento em que a viagem deu vazão a algo mais interessante do que a minha vidinha emo-nerd, eu nem mencionei ela aqui – não porque não pudesse, mas porque não precisei.
+O motivo? Simples: quem quer acompanhar a viagem pode fazê-lo de forma muito mais ágil e interativa através do [meu Twitter][2], no <a class="dead-link" title="este link morreu" href="http://flickr.com/photos/chesterbr/sets/72157613735444763">set do Flickr</a><span class="dead-link-mark">†</span> e até mesmo no [Orkut][8] velho de guerra (outro site que "roubou" toneladas de frivolidade anteriormente destinada a blogs e páginas pessoais). Ou seja: até o momento em que a viagem deu vazão a algo mais interessante do que a minha vidinha emo-nerd, eu nem mencionei ela aqui – não porque não pudesse, mas porque não precisei.
 
 E não é difícil encontrar essa inversão em outros blogs – fica para o leitor a demonstração(*): visite alguns dos blogs que você conhece há anos, e verifique que os blogueiros que aderiram ao Twitter invariavelmente publicam com menos frequência e mais qualidade – ou, ao menos, com menor frivolidade. Pelo mesmo caminho é possível afirmar que a explosão dos blogs no início da década tirou muito do aspecto pessoal de sites de notícias, portais e assemelhados – os redatores destas instituições passaram a usar seus blogs (oficiais ou não) – como escape para a informalidade e o contato direto, da mesma maneira que os blogueiros usam o Twitter hoje.
 
@@ -41,7 +41,6 @@ Longa vida às mídias [frívolas][9]!
  [4]: http://cersibon.blogspot.com/
  [5]: http://ajuda.sapo.pt/comunicacao/blogs/geral/O_que_um_Blog_.html
  [6]: /archives/2007/10/chester_na_afri.html
- [7]: http://flickr.com/photos/chesterbr/sets/72157613735444763/
  [8]: http://www.orkut.com/Main#Profile.aspx?uid=10333529560578933636
  [9]: http://pt.wiktionary.org/wiki/fr%C3%ADvolo
  [10]: http://abstrusegoose.com/12

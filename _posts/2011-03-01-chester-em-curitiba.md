@@ -10,7 +10,7 @@ categories:
 Mais uma vez apelei para o velho truque de transformar o transtorno de voltar de uma viagem a trabalho numa sexta-feira em um passeio de final de semana de baixo custo. Os curitibanos se orgulham de morar em uma cidade que alia qualidade de vida a comodidades urbanas, e resolvi passar o sábado conferindo, aproveitando as dicas da [Bani][1], que **sempre** tem um mapinha turístico no fundo do armário.
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/chesterbr/sets/72157626170985864/"><img class="aligncenter size-full wp-image-5889" style="border: 1px solid black;" title="Jardim Botânico em Curitiba" src="/wp-content/uploads/2011/03/curitiba.jpg" alt="Jardim Botânico em Curitiba" width="597" height="249" /></a>
+  <img class="aligncenter size-full wp-image-5889" style="border: 1px solid black;" title="Jardim Botânico em Curitiba" src="/wp-content/uploads/2011/03/curitiba.jpg" alt="Jardim Botânico em Curitiba" width="597" height="249" />
 </p>
 
 <!--more-->
@@ -27,7 +27,7 @@ Fechei o turismo com a [Torre Panorâmica][13] – uma torre de telefonia adapta
 
 O chato é que o ônibus que teoricamente passa a cada meia hora atrasou um bocado na segunda e na quarta parada, inviabilizando a visita ao [Museu Ferroviário][15] e me fazendo perder o jantar e o vôo – ainda bem que tinha outro logo em seguida. Uma pena, já que este jantar teria sido muito facilitado pelas dicas do [@anderson_santos][16] (via [@van_vegan][17]) – em particular a lista de [lugares vegetarianos em Curitiba][18] feita pela [@mayraccastro][19]. Com ela estarei mais preparado na próxima, e agradeço a todos pela solidariedade via Twitter – indispensável para um vegetariano em terra de churrascarias.
 
-Eu repetiria o passeio facilmente – são muitos pontos, e realmente só dá pra ver uma meia dúzia ao longo de um dia. Numa próxima eu incluiria o bairro [Santa Felicidade][20] (que tive a oportunidade de conhecer através do gentil convite de um colega de lá), os outros bosques e museus. É bastante coisa pra ver e [fotografar][21], garantindo um final de semana bacana, sozinho ou acompanhado.
+Eu repetiria o passeio facilmente – são muitos pontos, e realmente só dá pra ver uma meia dúzia ao longo de um dia. Numa próxima eu incluiria o bairro [Santa Felicidade][20] (que tive a oportunidade de conhecer através do gentil convite de um colega de lá), os outros bosques e museus. É bastante coisa pra ver e <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157626170985864">fotografar</a><span class="dead-link-mark">†</span>, garantindo um final de semana bacana, sozinho ou acompanhado.
 
  [1]: http://baniverso.com/
  [2]: http://www.apontador.com.br/local/pr/curitiba/hoteis_e_pousadas/13000654R/confiance_batel.html
@@ -46,4 +46,3 @@ Eu repetiria o passeio facilmente – são muitos pontos, e realmente só dá pr
  [18]: http://www.casamay.com.br/guia-vegetariano-de-curitiba-comida-pessoas-e-entidades/
  [19]: http://twitter.com/mayraccastro
  [20]: http://pt.wikipedia.org/wiki/Santa_Felicidade
- [21]: http://www.flickr.com/photos/chesterbr/sets/72157626170985864/

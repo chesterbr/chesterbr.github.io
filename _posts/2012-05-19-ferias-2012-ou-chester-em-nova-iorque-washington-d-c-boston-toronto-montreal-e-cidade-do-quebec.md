@@ -34,7 +34,7 @@ Em Montreal fomos à [Star Wars: Identities][18], uma exposição imperdível pa
 Os visitantes recebem uma <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/7133998795/in/set-72157629580722736">pulseira</a><span class="dead-link-mark">†</span> que pode ser usada em diversos pontos da exposição para responder a perguntas (tocando nas paredes e terminais apropriados). Isso permite ao sistema deles criar a história e o visual do seu personagem, cujo link você recebe por e-mail (veja o [Chester wookie][20] ou a [Bani nautolaniana][21]).
 
 <p style="text-align: center; font-size: 19.5px; line-height: 28.5px;">
-  <a href="http://www.flickr.com/photos/chesterbr/sets/72157629580722736/"><img class="aligncenter  wp-image-6890" style="border: 1px solid black;" title="Chester e Vader (clique para outras fotos)" src="/wp-content/uploads/2012/05/chester_vader.png" alt="Chester e Vader (clique para outras fotos)" width="367" height="200" /></a>
+  <img class="aligncenter  wp-image-6890" style="border: 1px solid black;" title="Chester e Vader (clique para outras fotos)" src="/wp-content/uploads/2012/05/chester_vader.png" alt="Chester e Vader (clique para outras fotos)" width="367" height="200" />
 </p>
 
 A brincadeira é acompanhada de dúzias de apresentações multimídia, <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/7134040317/in/set-72157629580722736">sketches</a><span class="dead-link-mark">†</span>, roupas e maquetes do filme, tudo com narração bilíngue acionada quando o visitante se aproxima de algum setor. Sensacional, se vier pro Brasil eu vou ver de novo!
@@ -85,13 +85,13 @@ Acho que não deu pra falar nem metade do que a gente fez – foram três semana
 
 [<img class="alignleft  wp-image-6939" style="padding: 0px; border: 1px solid black; margin-right: 32px;" title="Bani tirando fotos" src="/wp-content/uploads/2012/05/bani-tirando-foto1.jpg" alt="Bani tirando fotos" width="126" height="168" />][64]
 
-*   [New York][65]
-*   [Washington (+The Art of Video Games Expo)][66]
-*   [Boston (+Boston Comic-Con)][67]
-*   [Toronto][68]
-*   [Quebec City][69]
-*   [Montreal][69]
-*   [Star Wars Expo][70]
+*   <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157629486063006">New York</a><span class="dead-link-mark">†</span>
+*   <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157629850532947">Washington (+The Art of Video Games Expo)</a><span class="dead-link-mark">†</span>
+*   <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157629863959827">Boston (+Boston Comic-Con)</a><span class="dead-link-mark">†</span>
+*   <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157629565656524">Toronto</a><span class="dead-link-mark">†</span>
+*   <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157629937401247">Quebec City</a><span class="dead-link-mark">†</span>
+*   <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157629937401247">Montreal</a><span class="dead-link-mark">†</span>
+*   <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157629580722736">Star Wars Expo</a><span class="dead-link-mark">†</span>
 
  [1]: http://baniverso.com
  [2]: http://www.emetrics.org/toronto/
@@ -144,9 +144,3 @@ Acho que não deu pra falar nem metade do que a gente fez – foram três semana
  [62]: http://en.wikipedia.org/wiki/Schwartz%27s
  [63]: http://www.youtube.com/watch?v=M2lfZg-apSA
  [64]: http://www.flickr.com/photos/chesterbr/7092441475/in/set-72157629486063006
- [65]: http://www.flickr.com/photos/chesterbr/sets/72157629486063006/
- [66]: http://www.flickr.com/photos/chesterbr/sets/72157629850532947/
- [67]: http://www.flickr.com/photos/chesterbr/sets/72157629863959827/
- [68]: http://www.flickr.com/photos/chesterbr/sets/72157629565656524/
- [69]: http://www.flickr.com/photos/chesterbr/sets/72157629937401247/
- [70]: http://www.flickr.com/photos/chesterbr/sets/72157629580722736/

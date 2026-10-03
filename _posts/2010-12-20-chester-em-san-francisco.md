@@ -31,7 +31,7 @@ A aula foi no final do dia – muito conveniente, pois nos permitiu passar o dia
 
 #### Saldo Final
 
-Foram quatro dias **muito** corridos, mas que seguramente valeram a pena ([veja todas as fotos][38]). Ficar uma semana ou duas não seria uma má idéia. E apesar de Nova Iorque ainda me seduzir um tantinho mais, eu moraria em San Francisco sem pestanejar.
+Foram quatro dias **muito** corridos, mas que seguramente valeram a pena (<a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157625461891837/with/5256300487">veja todas as fotos</a><span class="dead-link-mark">†</span>). Ficar uma semana ou duas não seria uma má idéia. E apesar de Nova Iorque ainda me seduzir um tantinho mais, eu moraria em San Francisco sem pestanejar.
 
  [2]: http://www.joelonsoftware.com/items/2007/10/05.html
  [3]: http://www.youtube.com/watch?v=VU9-uY_32uA
@@ -61,4 +61,3 @@ Foram quatro dias **muito** corridos, mas que seguramente valeram a pena ([veja 
  [30]: http://baniverso.com
  [34]: http://en.wikipedia.org/wiki/ASCII_%28company%29
  [36]: http://www.stanfordalumni.org/news/magazine/2010/julaug/red/guides.html
- [38]: http://www.flickr.com/photos/chesterbr/sets/72157625461891837/with/5256300487/

@@ -25,7 +25,7 @@ There is space for organizational improvement: the lack of a second microphone m
 
 Anyway, if you believe science and family go together, I highly recommend facing the drizzle and checking out the second (and last) day. Tickets can be [purchased online][14] or at the event, and a couple of hours should be enough to see all the tables and engage in one or two activities. Talks are very short (20 min), so it's worth checking the [talk schedule][15] as well. And, of course, make a lot of stuff afterwards!
 
-*[(click here for more photos)][20]*
+*<a class="dead-link" title="this link died" href="http://www.flickr.com/photos/chesterbr/sets/72157635748816086">(click here for more photos)</a><span class="dead-link-mark">†</span>*
 
 [1]: http://www.2600.com/
 [2]: http://www.wired.com/magazine/
@@ -41,4 +41,3 @@ Anyway, if you believe science and family go together, I highly recommend facing
 [13]: http://chocolateprinter.wordpress.com/
 [14]: http://makerfairetoronto.eventbrite.com/#
 [15]: http://makerfairetoronto.com/attend/schedule/
-[20]: http://www.flickr.com/photos/chesterbr/sets/72157635748816086/

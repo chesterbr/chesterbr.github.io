@@ -20,7 +20,7 @@ cities I always wanted to visit!
 
 <!--more-->
 
-### London, UK <small>([pictures][flickr-lon])</small>
+### London, UK <small>(<a class="dead-link" title="this link died" href="http://www.flickr.com/photos/chesterbr/sets/72157637289702226">pictures</a><span class="dead-link-mark">†</span>)</small>
 
 London is, as expected, a pleasant place for someone that loves Toronto as
 much as I do. Sure, [imperial units][99] get in the way, and Britain could have adopted the Euro (fun fact: [Yelp][100]'s
@@ -83,7 +83,7 @@ I've also played DDR at the [London Trocadero][115]!
 [120]: http://en.wikipedia.org/wiki/Docklands_Light_Railway
 [130]: http://www.visitlondon.com/traveller-information/getting-around-london/oyster
 
-### Paris, France <small>([pictures][flickr-par])</small>
+### Paris, France <small>(<a class="dead-link" title="this link died" href="http://www.flickr.com/photos/chesterbr/sets/72157637296961664">pictures</a><span class="dead-link-mark">†</span>)</small>
 
 With just two days, I had to make the best of my time in the city.
 Fortunately, a local friend offered me shelter and walked me through the
@@ -115,7 +115,7 @@ earlier and have a copy of your departure flight ticket). There is a food car, b
 [208]: http://www.eurostar.com/uk-en/eurostar-deals/eurostar-train-deals/trains-to-paris
 [209]: http://www.louvre.fr/en
 
-### Reykjavík, Iceland <small>([pictures][flickr-ice])</small>
+### Reykjavík, Iceland <small>(<a class="dead-link" title="this link died" href="http://www.flickr.com/photos/chesterbr/sets/72157637337072094">pictures</a><span class="dead-link-mark">†</span>)</small>
 
 The main thing to see here is, of course, the [Northern Lights][300] (aka
 *aurora borealis*). Those are only visible at night and away from the city
@@ -196,6 +196,3 @@ T-shirts (which I used to hate, until I tried their
 [319]: http://www.telegraph.co.uk/travel/10226410/Northern-Lights-best-for-a-decade-in-December.html
 [320]: http://www.bluelagoon.com/support/good-to-know/the-water-will-affect-your-hair/9/
 
-[flickr-lon]: http://www.flickr.com/photos/chesterbr/sets/72157637289702226/
-[flickr-par]: http://www.flickr.com/photos/chesterbr/sets/72157637296961664/
-[flickr-ice]: http://www.flickr.com/photos/chesterbr/sets/72157637337072094/

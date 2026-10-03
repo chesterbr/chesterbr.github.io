@@ -11,7 +11,7 @@ categories:
 
 ### A Hack is Born
 
-You never know what you'll find at [Active Surplus][8] - a must-go Mecca for electronics enthusiasts in Toronto ([pics][9]). Last week, I stumbled upon a box full of PC gamepads - at $2.50 each!
+You never know what you'll find at [Active Surplus][8] - a must-go Mecca for electronics enthusiasts in Toronto (<a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/sets/72157633891163244">pics</a><span class="dead-link-mark">†</span>). Last week, I stumbled upon a box full of PC gamepads - at $2.50 each!
 
 They used an old connector (see below) that would require an USB adapter, but I had a better idea: connecting them to a [Raspberry Pi][17]. Bought one (discounted to $2) and hacking ensued.
 
@@ -193,7 +193,6 @@ Anyway, it was a great warm-up for my next big project: using the [PiScreen][19]
 [6]: http://en.wikipedia.org/wiki/Resistor#Units
 [7]: http://www.interfacebus.com/IC_Output_Input_Pullup_Resistor_Values.html
 [8]: http://www.activesurplus.com/en/
-[9]: https://www.flickr.com/photos/chesterbr/sets/72157633891163244/
 [10]: http://www.homehardware.ca
 [11]: http://en.wikipedia.org/wiki/Multiplexer
 [12]: http://www.alldatasheet.com/datasheet-pdf/pdf/27888/TI/SN74HC151.html

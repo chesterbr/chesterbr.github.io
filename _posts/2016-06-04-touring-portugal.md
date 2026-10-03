@@ -49,7 +49,7 @@ Speaking of food: as expats, we did indulge in the occasional [Brazilian delicac
 
 ![ice cream ](/img/2016/06/icecream.jpg){: .center }
 
-Want to know more? Check my [pictures][22] or ask below!
+Want to know more? Check my <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/albums/72157668512616920">pictures</a><span class="dead-link-mark">†</span> or ask below!
 
 [1]: https://simple.wikipedia.org/wiki/Romance_languages
 [2]: https://www.azoresairlines.pt/en/home
@@ -72,7 +72,6 @@ Want to know more? Check my [pictures][22] or ask below!
 [18]: http://www.almalisboa.pt/
 [20]: http://www.amorino.com/us/shop/lisbon-augusta.68.html
 [21]: http://pastelariabriosa.pt/
-[22]: https://www.flickr.com/photos/chesterbr/albums/72157668512616920
 [100]: https://www.tripadvisor.ca/Attractions-g189158-Activities-Lisbon_Lisbon_District_Central_Portugal.html
 [101]: http://pasteisdebelem.pt/en/
 [102]: http://www.viator.com/tours/Lisbon/Berlenga-Grande-Island-Small-Group-Day-Trip-from-Lisbon/d538-6999SMLATLANTIC

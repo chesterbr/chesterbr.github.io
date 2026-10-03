@@ -29,7 +29,7 @@ Ele também foi útil para viabilizar o [sorteio2600][13], um programinha que so
 
 Como os projetistas de jogos já sabiam disso (dificilmente usariam emuladores naquela época), eles não usavam o playfield todo quando habilitavam o score mode. Mas o meu código já tinha sido pensado para sumir com metade dele (e usar toda a outra metade), então eu "roubei", usando um dos *missiles* para cobrir a parte do playfield que não deveria aparecer. Isso está [documentado][15] no código, e fica como mais um exemplo dos truques que eram necessários para fazer o hardware limitado do Atari 2600 atender às necessidades de cada jogo.
 
-Se interessar, veja mais [fotos do Harmony][16] em ação.
+Se interessar, veja mais <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157628015276696/with/6296433993">fotos do Harmony</a><span class="dead-link-mark">†</span> em ação.
 
 *(esse post pede um agradecimento especial ao Alexandre Oliveira, que me cedeu vários cartuchos de Atari para testar o console "novo", evitando que eu procurasse problemas onde eles não existiam)*
 
@@ -46,4 +46,3 @@ Se interessar, veja mais [fotos do Harmony][16] em ação.
  [13]: http://github.com/chesterbr/sorteio2600
  [14]: http://devinvale.com.br/
  [15]: https://github.com/chesterbr/sorteio2600/blob/ffe34001c266c716b750e3863b782df7c5657722/sorteio2600.asm#L85
- [16]: http://www.flickr.com/photos/chesterbr/sets/72157628015276696/with/6296433993/

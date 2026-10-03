@@ -11,18 +11,18 @@ categories:
 
 ![](/img/2015/09/map.png){: .right }
 
-Despite living in Canada for three years now, I didn't travel much outside the Great Toronto Area. My job at [VarageSale][1] and [Vanessa][2]'s at <a class="dead-link" title="this link died" href="https://jobs.lever.co/shopify?lever-via=eOVOUtKqCt">Shopify</a><span class="dead-link-mark">†</span> granted us a [fair][4] [share][5] [of trips][6] to their respective Montreal and Ottawa offices, but that still limits one's mental map to [Central Canada][7].
+Despite living in Canada for three years now, I didn't travel much outside the Great Toronto Area. My job at [VarageSale][1] and [Vanessa][2]'s at <a class="dead-link" title="this link died" href="https://jobs.lever.co/shopify?lever-via=eOVOUtKqCt">Shopify</a><span class="dead-link-mark">†</span> granted us a <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/albums/72157646447566786">fair</a><span class="dead-link-mark">†</span> <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/albums/72157632322432856">share</a><span class="dead-link-mark">†</span> <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/albums/72157632672354625">of trips</a><span class="dead-link-mark">†</span> to their respective Montreal and Ottawa offices, but that still limits one's mental map to [Central Canada][7].
 
 As part of my current sabbatical, I decided to learn more about my new country, so I joined Vanessa on a 6-day plane trip to the east, then got plane tickets to Saskatoon and from Vancouver with nine days between them, forcing myself to figure out a bus/train path connecting the dots.
 
 Here are the cities I visited (all links are photo albums), followed by a wrap-up on each one:
 
-- [Halifax, NS][8]
-- [St. John's, NL][9]
-- [Saskatoon, SK][10]
-- [Edmonton, AL][11]
-- [Banff, AL][12]
-- [Vancouver, BC][13]
+- <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/albums/72157658338047121">Halifax, NS</a><span class="dead-link-mark">†</span>
+- <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/albums/72157658435016932">St. John's, NL</a><span class="dead-link-mark">†</span>
+- <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/albums/72157658761389972">Saskatoon, SK</a><span class="dead-link-mark">†</span>
+- <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/sets/72157658827718622">Edmonton, AL</a><span class="dead-link-mark">†</span>
+- <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/sets/72157658531216390">Banff, AL</a><span class="dead-link-mark">†</span>
+- <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/sets/72157656689273644">Vancouver, BC</a><span class="dead-link-mark">†</span>
 
 <!--more-->
 
@@ -98,16 +98,7 @@ Brunch with my pal [Thea][72] at the sophisticated [Medina Cafe][59] and a pleas
 
 [1]: https://www.varagesale.com
 [2]: http://baniverso.com/
-[4]: https://www.flickr.com/photos/chesterbr/albums/72157646447566786
-[5]: https://www.flickr.com/photos/chesterbr/albums/72157632322432856
-[6]: https://www.flickr.com/photos/chesterbr/albums/72157632672354625
 [7]: https://en.wikipedia.org/wiki/Central_Canada
-[8]: https://www.flickr.com/photos/chesterbr/albums/72157658338047121
-[9]: https://www.flickr.com/photos/chesterbr/albums/72157658435016932
-[10]: https://www.flickr.com/photos/chesterbr/albums/72157658761389972
-[11]: https://www.flickr.com/photos/chesterbr/sets/72157658827718622
-[12]: https://www.flickr.com/photos/chesterbr/sets/72157658531216390
-[13]: https://www.flickr.com/photos/chesterbr/sets/72157656689273644
 [14]: https://en.wikipedia.org/wiki/Saint_John,_New_Brunswick
 [15]: https://www.youtube.com/watch?v=1wc-AQJ2MYo
 [16]: https://instagram.com/p/7qMj0lAMml/?taken-by=chester_br

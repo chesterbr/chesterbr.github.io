@@ -7,7 +7,7 @@ permalink: /archives/2010/04/chester-em-ny.html/
 categories:
   - travel
 ---
-No fim do ano passado fiz uma viagem curta para o Canadá a trabalho – e por conta das escalas de vôo, decidi passar o final-de-semana em Nova Iorque. Sei que já faz um tempinho, e também admito que é uma viagem "normal" (comparando com as que já bloguei) – mas é um lugar que eu queria conhecer há tempos. Seguem, portanto, as [fotos][1] e as minhas impressões:
+No fim do ano passado fiz uma viagem curta para o Canadá a trabalho – e por conta das escalas de vôo, decidi passar o final-de-semana em Nova Iorque. Sei que já faz um tempinho, e também admito que é uma viagem "normal" (comparando com as que já bloguei) – mas é um lugar que eu queria conhecer há tempos. Seguem, portanto, as <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157622996362348">fotos</a><span class="dead-link-mark">†</span> e as minhas impressões:
 
 <p style="text-align: center;">
 	<iframe width="425" height="349" src="http://www.youtube.com/embed/7SdxJjJl6Ro" frameborder="0" allowfullscreen></iframe>
@@ -41,7 +41,6 @@ Fechei o domingo com outra coisa bem nova-iorquina (e, de uns tempos pra cá, pa
 
 Faltou fazer várias coisas, tanto do pacote-turista quanto para vivenciar o dia-a-dia lá. Mas deu pra confirmar que, para uma criatura metropolitana como eu, o lugar é o topo do mundo. Volto assim que puder!
 
- [1]: http://www.flickr.com/photos/chesterbr/sets/72157622996362348/
  [2]: http://en.wikipedia.org/wiki/Manhattan
  [3]: http://en.wikipedia.org/wiki/Queens
  [4]: http://www.mta.info/nyct/maps/submap.htm

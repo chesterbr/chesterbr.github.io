@@ -7,7 +7,7 @@ permalink: /archives/2010/12/chester-na-disney.html/
 categories:
   - travel
 ---
-[<img class="alignright size-medium wp-image-5749" style="border: 1px solid black; padding: 0px;" title="Chester na Disney" src="/wp-content/uploads/2010/12/chester_disney-282x300.jpg" alt="Chester na Disney" width="282" height="300" />][1]A [viagem à Califórnia][2] foi seguida por um passeio à Disney de Orlando – ou, oficialmente, ao [Walt Disney World Resort][3]. O meu maior interesse era conhecer os parques temáticos – e entender o fascínio que gente como [Cory Doctorow][4] tem pelo assunto ([Down And Out in the Magic Kingdom][5] e [Makers][6] são dois ótimos livros dele que flertam com o tema).
+<a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157625466196623/with/5258743472"><img class="alignright size-medium wp-image-5749" style="border: 1px solid black; padding: 0px;" title="Chester na Disney" src="/wp-content/uploads/2010/12/chester_disney-282x300.jpg" alt="Chester na Disney" width="282" height="300" /></a><span class="dead-link-mark">†</span>A [viagem à Califórnia][2] foi seguida por um passeio à Disney de Orlando – ou, oficialmente, ao [Walt Disney World Resort][3]. O meu maior interesse era conhecer os parques temáticos – e entender o fascínio que gente como [Cory Doctorow][4] tem pelo assunto ([Down And Out in the Magic Kingdom][5] e [Makers][6] são dois ótimos livros dele que flertam com o tema).
 
 <!--more-->
 
@@ -19,7 +19,7 @@ Outro lance é ficar esperto com o [FastPass][18] . Não precisa radicalizar com
 
 Reservar restaurantes também é uma excelente idéia (e você pode fazer isso online aqui no Brasil mesmo). As reservas nos garantiram uma ótima experiência no [Wolfgang Puck][20] e no [Nine Dragons][21], mas tivemos que comer cedo e contar com a sorte para não pegar fila no [Pecos Bill Tall Tale Inn][22], no [Rainforest Café](http://web.archive.org/web/20241202034148/https://disneyworld.disney.go.com/dining/rainforest-cafe-downtown-disney/) e no [Sci-Fi Dine-In Theater][24] – esse último reproduz a experiência do cinema drive-in passando versões curtas dos filmes e desenhos dessa época. Mas foram todos ótimos, sempre com opções vegetarianas de respeito – só comi o peixe no Wolfgang Puck porque parecia (e era) bom.
 
-As [fotos][25] estão online, como de costume, e com isso só me resta falar dos *rides*. Alguns chamam eles de "brinquedos", mas eu prefiro traduzir como "atrações" ou mesmo o literal "passeios" – já que alguns são mais interessantes pela ambientação do que por qualquer aspecto lúdico. Ao invés de falar de cada um deles, resolvi usar o método do [Apontador][26] e dar de 1 a 5 estrelas a cada um dos que eu fui:
+As <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157625466196623">fotos</a><span class="dead-link-mark">†</span> estão online, como de costume, e com isso só me resta falar dos *rides*. Alguns chamam eles de "brinquedos", mas eu prefiro traduzir como "atrações" ou mesmo o literal "passeios" – já que alguns são mais interessantes pela ambientação do que por qualquer aspecto lúdico. Ao invés de falar de cada um deles, resolvi usar o método do [Apontador][26] e dar de 1 a 5 estrelas a cada um dos que eu fui:
 
 <div style="margin-left: 110px;">
   <table>
@@ -335,7 +335,6 @@ As [fotos][25] estão online, como de costume, e com isso só me resta falar dos
 
 Justiça seja feita: o Soarin quase mereceu um 6 (eu fui duas vezes e iria mais), e o Test Track não merecia nem existir: muita fila para uma atração chata, sem propósito e des-educativa (passa a idéia de que tecnologia é a solução para evitar acidentes de automóvel). Os fogos no final do dia no Magic Kingdom são imperdíveis e resumem bem a experiência. Ah, e só pra constar: os boatos sobre a [Sininho que desce "voando" do castelo][27] ser interpretada por um homem são <a class="dead-link" title="este link morreu" href="http://message.snopes.com/showthread.php?t=41253">inconclusivos</a><span class="dead-link-mark">†</span>. :-P
 
- [1]: http://www.flickr.com/photos/chesterbr/sets/72157625466196623/with/5258743472/
  [2]: /archives/2010/12/chester-em-san-francisco.html
  [3]: http://disneyworld.disney.go.com/
  [4]: http://blog.xkcd.com/2007/03/28/cory-doctorow-part-ii/
@@ -358,6 +357,5 @@ Justiça seja feita: o Soarin quase mereceu um 6 (eu fui duas vezes e iria mais)
  [21]: http://disneyworld.disney.go.com/dining/nine-dragons-restaurant/?closeDialog=mdvDialog
  [22]: http://www.urbanspoon.com/r/26/1456764/restaurant/Orlando/Disney-Lake-Buena/Pecos-Bill-Tall-Tale-Inn-and-Cafe-Lake-Buena-Vista
  [24]: http://disneyworld.disney.go.com/dining/sci-fi-dine-in-theater/?closeDialog=mdvDialog
- [25]: http://www.flickr.com/photos/chesterbr/sets/72157625466196623/
  [26]: http://www.apontador.com.br
  [27]: http://www.youtube.com/watch?v=UzQB6-733oI&feature=related#t=0m22

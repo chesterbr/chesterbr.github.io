@@ -374,7 +374,6 @@ Cards and pre-purchased tickets are your best choice, but some buses accept cash
 
 That's it (although I may add a few tips as I remember them). Thanks Glorfind3l for Gundam clarifications.
 
-Feel free to check the [pictures of the trip][1200] on Flickr.
+Feel free to check the <a class="dead-link" title="this link died" href="https://www.flickr.com/photos/chesterbr/sets/72157648770186344">pictures of the trip</a><span class="dead-link-mark">†</span> on Flickr.
 
-[1200]: https://www.flickr.com/photos/chesterbr/sets/72157648770186344/
 

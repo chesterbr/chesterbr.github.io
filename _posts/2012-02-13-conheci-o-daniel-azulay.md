@@ -18,7 +18,7 @@ A [Bani][10] topou a empreitada e lá fomos nós até o [SESC Santo Amaro](http:
 
 Por sorte, haviam lugares disponíveis no fundo. Pudemos assistir e constatar que ele é tão simpático ao vivo em 2012 quanto na TV trinta anos antes. Ao mesmo tempo, apreciávamos vários trabalhos de ilustração em diversos estilos, cada um com uma história e uma técnica para ensinar. O melhor de tudo é como ele consegue mostrar que a capacidade de desenhar está em todos nós, e que os bloqueios e o medo de experimentar estão muito mais ligados à perda do ímpeto infantil do que a qualquer risco real. É muito difícil não se deixar tocar pelo discurso sincero, ainda mais proferido por alguém que, mais do que falar, transpira essa idéia.
 
-No final eu tomei coragem para ir lá e agradecer a ele pela inspiração – tanto a que ele me trouxe nos anos 80, quanto a que eu acabava de receber. E não era o único: outras pessoas na casa dos trinta e tantos estavam lá com a mesma emoção, numa mistura gostosa de volta à infância e inspiração para a vida adulta. E, claro, levei o livro, que o próprio Daniel Azulay qualificou empolgado como "raridade". E mesmo depois de um workshop longo, ele gentilmente se prontificar a autografar, além de tirar [fotos][15] com todo mundo que pediu!
+No final eu tomei coragem para ir lá e agradecer a ele pela inspiração – tanto a que ele me trouxe nos anos 80, quanto a que eu acabava de receber. E não era o único: outras pessoas na casa dos trinta e tantos estavam lá com a mesma emoção, numa mistura gostosa de volta à infância e inspiração para a vida adulta. E, claro, levei o livro, que o próprio Daniel Azulay qualificou empolgado como "raridade". E mesmo depois de um workshop longo, ele gentilmente se prontificar a autografar, além de tirar <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157629295427653">fotos</a><span class="dead-link-mark">†</span> com todo mundo que pediu!
 
 [<img src="/wp-content/uploads/2012/02/chester_azulay.jpg" alt="Eu e o Daniel Azulay! \o/" title="Eu e o Daniel Azulay! \o/" width="500" height="375" class="aligncenter size-full wp-image-6797" />][16]
 
@@ -38,7 +38,6 @@ Enfim, o que mais eu poderia dizer? Os organizadores do SESC ficaram contentes c
  [10]: http://baniverso.com/
  [12]: http://www.vademetro.com.br/largo-treze
  [14]: http://www.flickr.com/photos/chesterbr/6867104357/in/set-72157629295427653
- [15]: http://www.flickr.com/photos/chesterbr/sets/72157629295427653/
  [16]: http://www.flickr.com/photos/chesterbr/6867108371/in/set-72157629295427653/
  [17]: http://pt.wikipedia.org/wiki/Ludismo
  [18]: http://www.youtube.com/watch?v=YwTKJlsWELU

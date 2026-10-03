@@ -9,7 +9,7 @@ categories:
 ---
 Novamente o trabalho me levou a visitar um país exótico, e dessa vez foi a República Tcheca. Nunca estive na Europa antes, então aproveitei a oportunidade para mochilar um pouco por ali e pela Alemanha. Ao todo visitei três cidades (Praga, Dresden e Berlim), com uma breve passagem por uma quarta (Potsdam).
 
-O Leo – que fez parte da viagem comigo e ainda está na estrada – mantém um [blog de viagem][1] que inclui os lugares que visitamos juntos (Praga, Berlim e Potdsam). Eu me limitei ao tradicional [álbum de fotos no Flickr][2] e a comentar um pouco sobre cada cidade neste e nos próximos posts, começando por [Dresden][3].
+O Leo – que fez parte da viagem comigo e ainda está na estrada – mantém um [blog de viagem][1] que inclui os lugares que visitamos juntos (Praga, Berlim e Potdsam). Eu me limitei ao tradicional <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157622106190874">álbum de fotos no Flickr</a><span class="dead-link-mark">†</span> e a comentar um pouco sobre cada cidade neste e nos próximos posts, começando por [Dresden][3].
 
 <a href="/img/2009/08/dscn0134.jpg"><img src="/img/2009/08/dscn0134.jpg" width="240" height="180" alt="DSCN0134" class="right  alignright" style="border: 1px solid black;" loading="lazy"></a>
 
@@ -30,7 +30,6 @@ Se estiver com fôlego, recomendo subir até o topo da [Igreja de Nossa Senhora 
 Enfim, o lance é se jogar pelas ruas sem planejar muito, e visitar os pontos interessantes que aparecerem. A <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/3844318024/in/set-72157622106190874/">Münzgasse</a><span class="dead-link-mark">†</span> era a minha rua favorita: tem opções bem variadas de comida, com mesas na calçada onde você pode acompanhar o movimento – fora que eu fiquei viciado no sorvete <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/3844321564/in/set-72157622106190874/">dessa</a><span class="dead-link-mark">†</span> barraquinha no final da rua. Recomendo muito passar um dia nessa cidade – foi um dos momentos mais agradáveis da viagem.
 
  [1]: http://leoeurotrip.blogspot.com/
- [2]: http://www.flickr.com/photos/chesterbr/sets/72157622106190874/
  [3]: http://pt.wikipedia.org/wiki/Dresden
  [4]: http://www.flickr.com/photos/chesterbr/3844356042/ "DSCN0134 by chesterbr, on Flickr"
  [5]: http://www.dw-world.de/dw/article/0,,1501467,00.html
