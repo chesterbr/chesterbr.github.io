@@ -11,7 +11,7 @@ The only reason I shave is because I'm not much fond of facial hair either. And 
 
 Now you know why anyhthing with the slightest potential of making shaving suck a bit less grabs my attention - not that <a class="dead-link" title="this link died" href="http://ca.dollarshaveclub.com/ref/index/r/5yqdo/nqlc7b/s/tx/cx/1/">Dollar Shave Club</a><span class="dead-link-mark">†</span>'s unorthodox presentation needs any help in that regard. If you don't know what I'm talking about (or just want to laugh again), here is their [presentation video][2]:
 
-<center><iframe width="560" height="315" src="//www.youtube.com/embed/ZUG9qYTJMsI" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZUG9qYTJMsI" frameborder="0" allowfullscreen></iframe></center>
 
 For "$1" a month, they will send you enough blades to allow a weekly replacement. Of course, that does not include shipping (adds $2/mo), and refers to the very basic model, the "Humble Twin". Also, that is the price in the US - in Canada it gets 50c more expensive, and you pay in Canadian dollars.
 

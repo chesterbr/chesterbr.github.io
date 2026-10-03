@@ -10,7 +10,7 @@ categories:
 
 Even though you can plug a Raspberry Pi to any modern TV/monitor, its diminutive size *screams* for a smaller screen, ideally a touch-sensitive one. PiScreen was one of the first (relatively) inexpensive screens like that. Excited by the video below, I backed [its KickStarter][1] in April, received it in October and just found the time to build it.
 
-<p style="text-align:center"><iframe width="560" height="315" src="//www.youtube.com/embed/sM0-iksBXDc" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/sM0-iksBXDc" frameborder="0" allowfullscreen></iframe></p>
 
 I had some fun, and I will still do some interesting stuff with it. Some projects are more suited for it than others, so you may want to check my experience and decide whether it suits your needs.
 

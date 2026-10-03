@@ -8,7 +8,7 @@ categories:
 ---
 [Cordy 2][1] is an extremely beautiful platform game that I'm playing on the iPad (there is an [Android version][2] as well). The game is fast/challenging at the right measure (at least for my taste) and does its best to offer decent controls on a touch screen.
 
-<p style="text-align:center"><iframe width="560" height="315" frameborder="0" allowfullscreen="" src="http://www.youtube.com/embed/Viy1LWEKfnU"></iframe></p>
+<p style="text-align:center"><iframe width="560" height="315" frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/jERsB0b3Dh4"></iframe></p>
 
 Levels are managed in the Angry Birds style (you earn 1-3 stars according to your performance on each level), but "cost" mechanics ensures you put some effort in a few of them to move forward. Tutorials are very short and mostly skippable, and game dialogs are kept to a minimum. Overall, you just play the game and have fun (a hard-to-find concept in recent games, I guess.)
 

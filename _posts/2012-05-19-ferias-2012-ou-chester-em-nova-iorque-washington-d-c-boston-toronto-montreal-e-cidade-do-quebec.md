@@ -50,7 +50,7 @@ A Broadway pede musicais, e dessa vez vimos dois: [Spider Man: Turn Off The Dark
 Em Nova Iorque fizemos o [passeio de barco][28] que faz a volta em Manhattan (na verdade um semi-círculo: a volta completa demorava 3h e acrescentava pouco). Dá uma ótima visão da [Estátua da Liberdade][29] e dos outros marcos da ilha (incluindo as obras avançadas da [Freedom Tower][30]). Um lance divertido foi pegar os profissionais da [Fao Schwartz][31] dançando no piano:
 
 <p style="text-align: center;">
-  <iframe src="http://www.youtube.com/embed/EH9N6G9canA" frameborder="0" width="400" height="300"></iframe>
+  <iframe src="https://www.youtube.com/embed/EH9N6G9canA" frameborder="0" width="400" height="300"></iframe>
 </p>
 
 Boston é uma cidade grande, mas agradável (eu moraria lá sem pestanejar), cuja história atrai muitos turistas americanos. O passeio legal é o [Freedom Trail][32], um caminho sinalizado no meio da cidade, através do qual você visita a pé diversos marcos históricos. Também fomos ao campus do MIT, e ficou claro porque tantas [coisas legais][33] saem de lá. A Bani até fez amigos no [clube de origami][34], e acabou trocando o dia na Comic-Con por uma [palestra sobre "Origami e Matemática, mas principalmente Origami"][35]. #nerd

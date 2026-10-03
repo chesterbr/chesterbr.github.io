@@ -59,7 +59,7 @@ ferris wheel was also a a great thing to do - the lines are gigantic, but the
 wheel "consumes" them quickly.
 
 <div style="max-width:230px; float:right;margin-left:12px"><iframe width="210"
-height="315" src="//www.youtube.com/embed/GsB1P5EgLy0" frameborder="0"
+height="315" src="https://www.youtube.com/embed/GsB1P5EgLy0" frameborder="0"
 allowfullscreen></iframe></div> I wrapped the trip with [Spamalot][114]. It is
 far from being the best musical (or Python-related thing) I've ever watched,
 but it was fun (and appropriate to see in England). And as a special bonus,
@@ -133,7 +133,7 @@ a single day you see [beautiful mountains, waterfalls and geysers][302]; spend
 a couple of hours on a geothermal spa; have a great dinner at [Lindin][303] (the
 owner is a pleasure to talk to) and chase the lights. It is really a chase: the guides from different excursions call each other and pass tips around, ensuring we can quickly move to the best spots at a given moment.
 
-<div style="max-width:230px; float:right;margin-left:12px"><iframe width="210" height="315" src="//www.youtube.com/embed/AMT5uEFEsI8" frameborder="0" allowfullscreen></iframe></div>If you want to take pictures, make sure your camera has a configurable exposure time - anything less than 10s won't register it. My
+<div style="max-width:230px; float:right;margin-left:12px"><iframe width="210" height="315" src="https://www.youtube.com/embed/AMT5uEFEsI8" frameborder="0" allowfullscreen></iframe></div>If you want to take pictures, make sure your camera has a configurable exposure time - anything less than 10s won't register it. My
 otherwise trusty [Nikon point-and-shoot][304] didn't do the trick, but at least it
 made me concentrate on seeing the thing, and there is no shortage of
 [northern light photos][305] online. As a consolation prize, I [filmed][306]

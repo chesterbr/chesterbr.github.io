@@ -9,10 +9,6 @@ categories:
 ---
 No fim do ano passado fiz uma viagem curta para o Canadá a trabalho – e por conta das escalas de vôo, decidi passar o final-de-semana em Nova Iorque. Sei que já faz um tempinho, e também admito que é uma viagem "normal" (comparando com as que já bloguei) – mas é um lugar que eu queria conhecer há tempos. Seguem, portanto, as <a class="dead-link" title="este link morreu" href="http://www.flickr.com/photos/chesterbr/sets/72157622996362348">fotos</a><span class="dead-link-mark">†</span> e as minhas impressões:
 
-<p style="text-align: center;">
-	<iframe width="425" height="349" src="http://www.youtube.com/embed/7SdxJjJl6Ro" frameborder="0" allowfullscreen></iframe>
-</p>
-
 <!--more-->
 
 O lugar bacana pra visitar lá é [Manhattan][2], mas os hotéis são caros e ficam longe do aeroporto, o que me levou a ficar no [Queens][3]. Parece longe, mas o [metrô][4] dos caras faz jus à fama: o trem expresso (que eu pegava a três quadras do hotel) me levava às cercanias do Central Park em coisa de meia hora.

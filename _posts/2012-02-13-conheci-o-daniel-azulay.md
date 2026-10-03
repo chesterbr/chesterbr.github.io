@@ -22,9 +22,7 @@ No final eu tomei coragem para ir lá e agradecer a ele pela inspiração – ta
 
 [<img src="/wp-content/uploads/2012/02/chester_azulay.jpg" alt="Eu e o Daniel Azulay! \o/" title="Eu e o Daniel Azulay! \o/" width="500" height="375" class="aligncenter size-full wp-image-6797" />][16]
 
-Enfim, o que mais eu poderia dizer? Os organizadores do SESC ficaram contentes com o resultado, bem como os participantes – particularmente as crianças. Isso parece mostrar que não é preciso ter aquele saudosismo [ludita][17] besta, que alimenta delírios populares acerca da superioridade de um pião sobre o Playstation (idéia que nenhuma criança saudável confirma, exceto quando percebe o efeito positivo da mesma sobre os pais). O importante, no final, é colocar a cabeça pra funcionar, independente da tecnologia usada. E nisso Daniel Azulay é mestre, seja com o pincel ([mágico][18] ou não), seja com o mouse/tablet.
-
-<p style="text-align:center"><iframe width="480" height="360" src="http://www.youtube.com/watch?v=YwTKJlsWELU" frameborder="0" allowfullscreen></iframe></p>
+Enfim, o que mais eu poderia dizer? Os organizadores do SESC ficaram contentes com o resultado, bem como os participantes – particularmente as crianças. Isso parece mostrar que não é preciso ter aquele saudosismo [ludita][17] besta, que alimenta delírios populares acerca da superioridade de um pião sobre o Playstation (idéia que nenhuma criança saudável confirma, exceto quando percebe o efeito positivo da mesma sobre os pais). O importante, no final, é colocar a cabeça pra funcionar, independente da tecnologia usada. E nisso Daniel Azulay é mestre, seja com o pincel (<a class="dead-link" title="este link morreu" href="http://www.youtube.com/watch?v=YwTKJlsWELU">mágico</a><span class="dead-link-mark">†</span> ou não), seja com o mouse/tablet.
 
  [1]: http://www.youtube.com/watch?v=npYav_3doXM
  [2]: http://pt.wikipedia.org/wiki/Daniel_Azulay
@@ -40,4 +38,3 @@ Enfim, o que mais eu poderia dizer? Os organizadores do SESC ficaram contentes c
  [14]: http://www.flickr.com/photos/chesterbr/6867104357/in/set-72157629295427653
  [16]: http://www.flickr.com/photos/chesterbr/6867108371/in/set-72157629295427653/
  [17]: http://pt.wikipedia.org/wiki/Ludismo
- [18]: http://www.youtube.com/watch?v=YwTKJlsWELU
