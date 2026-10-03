@@ -11,7 +11,7 @@ Novamente o trabalho me levou a visitar um país exótico, e dessa vez foi a Rep
 
 O Leo – que fez parte da viagem comigo e ainda está na estrada – mantém um [blog de viagem][1] que inclui os lugares que visitamos juntos (Praga, Berlim e Potdsam). Eu me limitei ao tradicional [álbum de fotos no Flickr][2] e a comentar um pouco sobre cada cidade neste e nos próximos posts, começando por [Dresden][3].
 
-[<img class="right  alignright" style="border: 1px solid black;" title="Vista do Rio Elba (e parte da cidade velha) do alto da Frauenkirche" src="http://farm3.static.flickr.com/2596/3844356042_50e91fcb6e_m.jpg" alt="DSCN0134" width="240" height="180" />][4]
+<a href="/img/2009/08/dscn0134.jpg"><img src="/img/2009/08/dscn0134.jpg" width="240" height="180" alt="DSCN0134" class="right  alignright" style="border: 1px solid black;" loading="lazy"></a>
 
 <!--more-->
 
@@ -21,7 +21,7 @@ O [A&O][7] (hostel onde eu fiquei) tem três coisas bem bacanas: banheiro/chuvei
 
 Não que você precise andar a pé por lá: o [*tram*][8] (bondinho) e as linhas de ônibus funcionam muito bem, e você pode comprar os tickets dentro do próprio veículo, basta ter moedas (Euro) à mão. O pessoal do hostel foi bem prestativo e me arrumou um mapinha bacana – com ele eu pude andar à vontade.
 
-[<img class="left alignleft" style="margin-right: 12px;" title="Em todo lugar você encontra gente com roupas de época - e tocando todos os instrumentos imagináveis. Me senti mal por só arranhar um violãozinho, viu." src="http://farm4.static.flickr.com/3514/3844317122_95ac6771d4_m.jpg" alt="DSCN0082" width="180" height="240" />][9]
+<a href="/img/2009/08/dscn0082.jpg"><img src="/img/2009/08/dscn0082.jpg" width="180" height="240" alt="DSCN0082" class="left alignleft" style="margin-right: 12px;" loading="lazy"></a>
 
 O bacana é ficar circulando no centro histórico – que consiste na área ao sul do Rio Elba. Quando cansar você cruza a ponte mais próxima e alcança o outro lado – cuja arquitetura mantém os traços clássicos do lado sul, mas conta com modernidades como drogaria e supermercado.
 
