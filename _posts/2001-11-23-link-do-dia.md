@@ -10,4 +10,4 @@ categories:
 ---
 [pong][1] – "not just a game" (animação)
 
- [1]: http://www.antra.dk/humor_pong.swf
+ [1]: http://web.archive.org/web/20030403034022/http://www.antra.dk:80/humor_pong.swf
