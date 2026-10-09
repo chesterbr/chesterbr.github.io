@@ -7,6 +7,7 @@ permalink: /archives/2002/11/no-fim-das-contas-quem-e-que-fala-errado/
 redirect_from:
   - /archives/2002/11/no-fim-das-contas-quem-e-que-fala-errado.html/
 categories:
+  - politics
 ---
 Pelo jeito não restou outra alternativa aos "medrosos" (ao menos para aqueles que não chafurdam [aqui](http://www2.uol.com.br/veja/idade/exclusivo/231002/capa.html) e [ali](http://www2.uol.com.br/veja/idade/exclusivo/061102/capa.html) na contra-mão da história) senão destilarem seu preconceito reacionário circulando correntes idiotas.
 

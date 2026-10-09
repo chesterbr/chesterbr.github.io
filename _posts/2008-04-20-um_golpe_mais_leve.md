@@ -9,6 +9,7 @@ permalink: /archives/2008/04/um_golpe_mais_leve/
 redirect_from:
   - /archives/2008/04/um_golpe_mais_leve.html/
 categories:
+  - politics
 ---
 <img title="cartas do jogo Golpe" src="/archives/img/golpe.jpg" width="140" height="141"  align="right" />Mesmo depois de dois anos do lançamento ainda tem bastante [gente][1] interessada no [Golpe, o Super Trunfo dos políticos brasileiros][2]. Só entre o [Internet Archive][3] (hospedeiro oficial), o [SuperDownloads][4] e o [Baixaki][5] foram mais de 25 mil downloads – e isso apesar de ser um PDF de mais de 20MB.
 

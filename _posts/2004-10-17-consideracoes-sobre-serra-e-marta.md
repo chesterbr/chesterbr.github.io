@@ -7,6 +7,7 @@ permalink: /archives/2004/10/consideracoes-sobre-serra-e-marta/
 redirect_from:
   - /archives/2004/10/consideracoes-sobre-serra-e-marta.html/
 categories:
+  - politics
 ---
 Embora não costume reproduzir textos de terceiros aqui (ainda mais sem conhecer o autor), reproduzi abaixo um e-mail curioso que recebi, já que não gosto de encaminhar correntes.
 

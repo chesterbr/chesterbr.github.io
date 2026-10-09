@@ -36,6 +36,11 @@
   label:
     en: Mondo Bizarro
     pt: Mondo Bizarro
+- slug: politics
+  url: /blog/categories/politics/
+  label:
+    en: Politics
+    pt: Política
 - slug: retrocomputing
   url: /blog/categories/retrocomputing/
   label:
