@@ -11,7 +11,7 @@ categories:
   - politics
 ---
 
-![Desenho a lápis de duas pessoas conversando numa mesa de boteco, com cadeiras de plástico, uma garrafa, um copo e um prato de petiscos](/img/2026/10/conversa-boteco.jpg){: .right width="300" height="220" }
+![Desenho a lápis, gerado por IA, de duas pessoas conversando numa mesa de boteco, com cadeiras de plástico, uma garrafa, um copo e um prato de petiscos](/img/2026/10/conversa-boteco.jpg){: .right width="300" height="220" }
 
 É fácil cair na tentação de achar que quem vota na direita faz isso por ignorância ou maldade. Claro, tem gente assim em qualquer grupo, mas a maioria das pessoas quer a mesma coisa: viver melhor, sentir segurança, ter oportunidades e ver justiça. A diferença é que cada um tem uma visão diferente de como chegar lá.
 
