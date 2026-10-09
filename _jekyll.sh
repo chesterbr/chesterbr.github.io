@@ -18,7 +18,7 @@ bundle
 
 # Build the site, then index it. Pagefind version + flags match pages.yml so
 # local search behaves like production (one cross-language index).
-bundle exec jekyll build
+bundle exec jekyll build --drafts
 if command -v npx >/dev/null 2>&1; then
   POST_COUNT=$(find _posts -maxdepth 1 -name '*.md' | wc -l | tr -d ' ')
   PAGEFIND_LOG=$(mktemp)
@@ -39,11 +39,11 @@ else
 fi
 
 echo "=============================================="
-echo " Serving on http://localhost:4000  (admin at /admin)"
+echo " Serving on http://localhost:4000  (admin at /admin; _drafts/ included)"
 echo " Search is a startup snapshot - re-run this script to refresh it after editing posts."
 echo "=============================================="
 
 # --skip-initial-build: keep the _site we just built + indexed instead of
 # cleaning it. --incremental: fast rebuilds on edits (index is preserved by
 # keep_files above).
-bundle exec jekyll serve --incremental --skip-initial-build
+bundle exec jekyll serve --drafts --incremental --skip-initial-build
