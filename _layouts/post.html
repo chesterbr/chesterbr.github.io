@@ -4,7 +4,7 @@ single: true
 ---
 
 <div>
-  <article class="hentry" role="article" data-pagefind-body>
+  <article class="hentry" role="article"{% unless page.robots contains 'noindex' %} data-pagefind-body{% endunless %}>
     {% include article.html %}
     <footer data-pagefind-ignore>
       <p class="meta">
@@ -19,7 +19,7 @@ single: true
       </p>
     </footer>
   </article>
-  {% include comments.html %}
+  {% unless page.comments == false %}{% include comments.html %}{% endunless %}
 </div>
 
 <script>
