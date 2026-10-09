@@ -7,6 +7,7 @@ permalink: /archives/2002/06/partidos-vulgares-uma-noite-e-nada-mais/
 redirect_from:
   - /archives/2002/06/partidos-vulgares-uma-noite-e-nada-mais.html/
 categories:
+  - politics
 ---
 A corrida eleitoral já está transformando até as causas feministas em piada. Este [artigo](http://ultimosegundo.ig.com.br/home/cadernoi/artigo/0,2945,805757,00.html) do Caderno I dá uma ótimo panorama do que me parece uma reedição do "black is beautiful", sob a forma "woman is cool".
 

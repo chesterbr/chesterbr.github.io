@@ -7,6 +7,7 @@ permalink: /archives/2010/01/google-x-governo-chines/
 redirect_from:
   - /archives/2010/01/google-x-governo-chines.html/
 categories:
+  - politics
 ---
 <p style="text-align:center">
   <a href="http://pt.wikipedia.org/wiki/Protesto_na_Pra%C3%A7a_da_Paz_Celestial_em_1989"><img alt="Protesto na Praça da Paz Celestial, típica cena censurada pelo Google.cn" class="size-full wp-image-3548 center" src="/wp-content/uploads/2010/01/tiananmen.jpg" width="300" height="220" /></a>

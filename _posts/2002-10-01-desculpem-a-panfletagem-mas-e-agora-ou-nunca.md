@@ -7,6 +7,7 @@ permalink: /archives/2002/10/desculpem-a-panfletagem-mas-e-agora-ou-nunca/
 redirect_from:
   - /archives/2002/10/desculpem-a-panfletagem-mas-e-agora-ou-nunca.html/
 categories:
+  - politics
 ---
 Eu normalmente adoto uma postura reservada quanto às minhas preferências político-partidárias, em grande parte por achar que existem melhores canais e melhores debatedores neste campo. Acontece que o momento é decisivo, e por mais modesto que seja este espaço, aqui eu declaro que meu voto é **<font color=red>Lula</font>** e **<font color=red>Genoíno</font>**. E, não contente com isto, vou militar neste sentido: se você \*não\* vai votar em Lula, peço que pare e pense um pouco.
 

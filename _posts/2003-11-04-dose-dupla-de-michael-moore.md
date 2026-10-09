@@ -8,6 +8,7 @@ redirect_from:
   - /archives/2003/11/dose-dupla-de-michael-moore.html/
 categories:
   - books
+  - politics
 ---
 Foi quase coincidência, mas no mesmo dia em que eu terminei de ler [Stupid White Men – Uma Nacão de Idiotas](http://www.livrariasaraiva.com.br/produto/produto.dll/detalhe?pro_id=128859), eu aproveitei para pegar a última apresentação nos cinemas de São Paulo do documentário [Tiros em Columbine](http://epipoca.cidadeinternet.com.br/filmes_zoom.cfm?id=4233), escrito e dirigido pelo mesmo autor do livro.
 

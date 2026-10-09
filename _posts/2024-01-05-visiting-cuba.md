@@ -7,6 +7,7 @@ description: "This year's vacation in Cuba was both a break from the Canadian wi
 comments: true
 categories:
   - travel
+  - politics
 ---
 
 ![Me at the airport, with a suitcase. Above a billboard with Fidel Castro and a quote in Spanish ("The grateful go with you"), from a Raul Torres song, with some tourist-y photos](/img/2024/01/chester-mala-fidel.jpeg){: .right }
