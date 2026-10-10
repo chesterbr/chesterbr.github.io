@@ -13,3 +13,5 @@ As a result of those migrations, there are lots of loose files and redirect shen
 - [Jekyll Blogging instructions](https://jekyllrb.com/docs/step-by-step/08-blogging/), because I always forget that stuff.
 
 - [Jekyll Admin](https://jekyll.github.io/jekyll-admin/) is on `http://localhost:4000/admin`
+
+- Short links for sharing (e.g. from an image, where nothing is clickable) live under `/b/<short-name>/`, added as an extra `redirect_from` entry in the post's front matter. Keep the prefix so they never clash with real paths.

@@ -7,6 +7,7 @@ og_image: /img/2026/10/conversa-boteco-og.jpg
 comments: true
 redirect_from:
   - /rascunhos/uma-conversa-com-quem-nao-vai-votar-no-lula/
+  - /b/conversa/
 categories:
   - politics
 ---
