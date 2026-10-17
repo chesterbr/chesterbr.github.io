@@ -29,8 +29,8 @@ Raspberry Pi setup is typically done by [downloading Raspbian](https://www.raspb
 
 With that as a starting point, I created two Ansible playbooks:
 
-- The <a class="dead-link" title="this link died" href="https://github.com/chesterbr/chester-ansible-configs/blob/master/rpi_provisioning.yml">provisioning playbook</a><span class="dead-link-mark">†</span> uses the default "pi" user to configure the hostname and create a new, better-secured user. It grabs the public SSH keys from my GitHub account, ensuring only the person with matching private keys (myself) can access it.
-- The <a class="dead-link" title="this link died" href="https://github.com/chesterbr/chester-ansible-configs/blob/master/rpi.yml">main playbook</a><span class="dead-link-mark">†</span> uses the new user to further harden the security, then configure all the things I need on my Pi (infrared, RF, Z-Wave utilities, Home Assistant, [Let's Encrypt](https://letsencrypt.org/) certificates, [DuckDNS](https://www.duckdns.org/) updates, etc.).
+- The <a href="https://github.com/chesterbr/chester-ansible-configs/blob/36c13da4df04f51c54cab9d2d7b0e228300f8843/rpi_provisioning.yml">provisioning playbook</a> uses the default "pi" user to configure the hostname and create a new, better-secured user. It grabs the public SSH keys from my GitHub account, ensuring only the person with matching private keys (myself) can access it.
+- The <a href="https://github.com/chesterbr/chester-ansible-configs/blob/36c13da4df04f51c54cab9d2d7b0e228300f8843/rpi.yml">main playbook</a> uses the new user to further harden the security, then configure all the things I need on my Pi (infrared, RF, Z-Wave utilities, Home Assistant, [Let's Encrypt](https://letsencrypt.org/) certificates, [DuckDNS](https://www.duckdns.org/) updates, etc.).
 
 The main playbook can be ran as many times as needed - it will only configure things that aren't already set up (Ansible peeps call that an "idempotent playbook", I've heard).
 
