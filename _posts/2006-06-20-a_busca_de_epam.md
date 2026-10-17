@@ -54,7 +54,7 @@ Algumas versões de Windows (notadamente o NT e o 2000) eventualmente se enrosca
 
 Para "entrar no clima", sugiro dar um Ctrl+Enter (mudando para o modo "tela cheia", se o seu Windows e driver de vídeo suportarem). O ideal era arrumar um monitor monocromático de fósforo verde, mas esse eu sei que é mais difícil.
 
-Mac (Intel) e PCs com Linux rodam ele bem com o DOSBox ou VirtualBox rodam ele bem: baixe o [epaminondas.img][9] e "insira" ele no drive virtual, de acordo com as instruções de cada programa.
+Mac (Intel) e PCs com Linux rodam ele bem com o DOSBox ou VirtualBox: baixe o [epaminondas.img][9] e "insira" ele no drive virtual, de acordo com as instruções de cada programa.
 
 ### Dicas
 
