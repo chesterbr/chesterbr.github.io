@@ -6,3 +6,4 @@ vendor/bundle
 .DS_Store
 Untitled.code-workspace
 tmp
+.playwright-mcp
