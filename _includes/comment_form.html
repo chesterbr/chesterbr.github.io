@@ -42,7 +42,9 @@
     </label>
   </div>
 
+  {% if jekyll.environment == "production" %}
   <div class="cf-turnstile" data-sitekey="{{ site.turnstile_sitekey }}"></div>
+  {% endif %}
 
   <button class="button" id="comment-form-submit" data-i18n="commentSubmit">Submit</button>
 
@@ -58,8 +60,10 @@
   </div>
 </article>
 
+{% if jekyll.environment == "production" %}
 <!-- Cloudflare Turnstile (spam wall) -->
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+{% endif %}
 
 <script>
   // A plain textarea (no rich editor): native IME handling avoids the Android
