@@ -18,7 +18,7 @@ GEM
       fiber-annotation
       fiber-local (~> 1.1)
       json
-    crass (1.0.7)
+    crass (1.0.8)
     csv (3.3.6)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
