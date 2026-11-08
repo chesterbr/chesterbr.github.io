@@ -416,6 +416,11 @@ p.meta .separator { padding: 0 0.4em; }
 .entry-content .basic-alignment.left, .entry-content img.left { float: left; margin: 0.2em 1.5em 0.8em 0; }
 .entry-content .basic-alignment.right, .entry-content img.right { float: right; margin: 0.2em 0 0.8em 1.5em; }
 .entry-content .basic-alignment.center, .entry-content img.center { display: block; margin: 0 auto 1.5em; }
+/* Line art on a white background: invert it in dark mode so the white
+   becomes black and "screen" lets the page background show through. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .entry-content img.invert-dark { filter: invert(1); mix-blend-mode: screen; }
+}
 
 /* MovableType-era images use the deprecated align attribute instead of a
    class, so they floated with no gap (text glued to the image). The margin
@@ -434,6 +439,7 @@ p.meta .separator { padding: 0 0.4em; }
 img.alignleft { margin: 0.2em 1.2em 0.8em 0; }
 img.alignright { margin: 0.2em 0 0.8em 1.2em; }
 .wp-caption {
+  max-width: 100%;
   background: var(--code-bg);
   border: 1px solid var(--border);
   border-radius: 6px;
